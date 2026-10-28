@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>UP OR DOWN — Global Scale & History Streak Game</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;700;800;900&family=Pretendard:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Top HUD Bar -->
+  <header class="hud-bar">
+    <div class="hud-left"></div>
+
+    <div class="hud-center">
+      <div class="score-badge streak-badge" id="streakBadge">
+        <span class="score-label" id="lblCurrentStreak">STREAK</span>
+        <span class="score-val" id="currentStreakVal">0</span>
+      </div>
+      <div class="score-badge best-badge">
+        <span class="score-label" id="lblBestStreak">BEST</span>
+        <span class="score-val" id="bestStreakVal">0</span>
+      </div>
+    </div>
+
+    <div class="hud-right">
+      <div class="lang-switcher" role="group" aria-label="Language Selector">
+        <button class="lang-btn" data-lang="en">EN</button>
+        <button class="lang-btn active" data-lang="ko">KO</button>
+        <button class="lang-btn" data-lang="ja">JA</button>
+        <button class="lang-btn" data-lang="zh">ZH</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Split Game Arena -->
+  <main class="arena" id="gameArena">
+    <!-- Left / Top Card (Known Benchmark) -->
+    <section class="card card-left" id="leftCard">
+      <div class="card-bg-photo" id="leftBgPhoto"></div>
+      <div class="card-bg-glow" id="leftGlow"></div>
+      <div class="card-content">
+        <div class="item-visual" id="leftVisual">
+          <img class="item-photo" id="leftPhoto" alt="" referrerpolicy="no-referrer" />
+          <div class="item-emoji" id="leftEmoji">🎴</div>
+        </div>
+        <h2 class="item-title" id="leftTitle">닌텐도(Nintendo) 창립</h2>
+        <div class="value-box">
+          <div class="item-value revealed" id="leftValue">1889년</div>
+        </div>
+        <div class="fact-card" id="leftFactCard">
+          <div class="fact-row">
+            <span class="fact-badge" id="leftLblOrigin">정보·유래</span>
+            <p class="fact-text" id="leftNote"></p>
+          </div>
+          <div class="fact-row">
+            <span class="fact-badge basis" id="leftLblBasis">산정 근거</span>
+            <p class="fact-text sub" id="leftBasis"></p>
+          </div>
+          <div class="fact-footer">
+            <span class="source-tag" id="leftSourceName">📚 Wikipedia & Wikidata</span>
+            <a class="source-link" id="leftSourceLink" href="#" target="_blank" rel="noopener noreferrer">원문 출처 보기 ↗</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Center VS Badge -->
+    <div class="vs-divider">
+      <div class="vs-circle" id="vsCircle">
+        <span id="vsText">VS</span>
+      </div>
+    </div>
+
+    <!-- Right / Bottom Card (Challenger to Guess) -->
+    <section class="card card-right" id="rightCard">
+      <div class="card-bg-photo" id="rightBgPhoto"></div>
+      <div class="card-bg-glow" id="rightGlow"></div>
+      <div class="card-content">
+        <div class="item-visual" id="rightVisual">
+          <img class="item-photo" id="rightPhoto" alt="" referrerpolicy="no-referrer" />
+          <div class="item-emoji" id="rightEmoji">🗼</div>
+        </div>
+        <h2 class="item-title" id="rightTitle">파리 에펠탑 완공</h2>
+
+        <!-- Interactive Action Area (Before Reveal) -->
+        <div class="guess-actions" id="guessActions">
+          <button class="guess-btn btn-higher" id="btnHigher">
+            <span class="btn-arrow">▲</span>
+            <span class="btn-main-text" id="higherBtnText">더 최근 (UP)</span>
+            <span class="btn-sub-text" id="higherSubText">연도 숫자가 더 큼</span>
+          </button>
+          <button class="guess-btn btn-lower" id="btnLower">
+            <span class="btn-arrow">▼</span>
+            <span class="btn-main-text" id="lowerBtnText">더 옛날 (DOWN)</span>
+            <span class="btn-sub-text" id="lowerSubText">연도 숫자가 더 작음</span>
+          </button>
+        </div>
+
+        <!-- Revealed Value Area (During/After Reveal) -->
+        <div class="value-box hidden" id="rightValueBox">
+          <div class="item-value" id="rightValue">?</div>
+          <div class="verdict-row">
+            <div class="verdict-pill" id="verdictPill">정답입니다!</div>
+          </div>
+        </div>
+
+        <div class="fact-card hidden" id="rightFactCard">
+          <div class="fact-row">
+            <span class="fact-badge" id="rightLblOrigin">정보·유래</span>
+            <p class="fact-text" id="rightNote"></p>
+          </div>
+          <div class="fact-row">
+            <span class="fact-badge basis" id="rightLblBasis">산정 근거</span>
+            <p class="fact-text sub" id="rightBasis"></p>
+          </div>
+          <div class="fact-footer">
+            <span class="source-tag" id="rightSourceName">📚 Wikipedia & Wikidata</span>
+            <a class="source-link" id="rightSourceLink" href="#" target="_blank" rel="noopener noreferrer">원문 출처 보기 ↗</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Subtle Bottom Keyboard Hint -->
+  <footer class="bottom-hint" id="keyboardHint">
+    팁: 키보드 ↑ / ↓ 방향키로도 빠르게 고를 수 있어요
+  </footer>
+
+  <!-- Game Over Modal -->
+  <div class="modal-backdrop hidden" id="gameOverModal">
+    <div class="modal-panel gameover-panel">
+      <div class="gameover-badge" id="gameOverTitle">연승 종료!</div>
+      <div class="rank-box">
+        <div class="rank-title" id="rankTitle">상식 헌터 🎯</div>
+        <div class="rank-desc" id="rankDesc">만물의 스케일을 꿰뚫고 계시네요!</div>
+      </div>
+
+      <div class="score-summary">
+        <div class="summary-col">
+          <span class="summary-label" id="lblYourScore">최종 연승</span>
+          <span class="summary-num highlight" id="finalStreakNum">0</span>
+        </div>
+        <div class="summary-divider"></div>
+        <div class="summary-col">
+          <span class="summary-label" id="lblBestScoreModal">최고 연승</span>
+          <span class="summary-num" id="bestStreakNumModal">0</span>
+        </div>
+      </div>
+
+      <div class="emoji-history" id="emojiHistoryBar"></div>
+
+      <div class="defeated-card" id="defeatedBox">
+        <div class="defeated-label" id="lblDefeatedBy">나를 무너뜨린 문제</div>
+        <div class="defeated-comparison" id="defeatedComparison"></div>
+      </div>
+
+      <div class="gameover-actions">
+        <button class="action-btn primary-btn" id="playAgainBtn">
+          <span>🔄</span> <span id="lblPlayAgain">다시 도전하기</span>
+        </button>
+        <button class="action-btn share-btn" id="shareResultBtn">
+          <span>📋</span> <span id="lblShareResult">결과 복사해서 공유하기</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
