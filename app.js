@@ -8,6 +8,14 @@
   const DECK_KEY = "timeline";
   const GLOW_COLOR = "#f59e0b";
 
+  function trackEvent(eventName, params) {
+    if (typeof window.gtag === "function") {
+      try {
+        window.gtag("event", eventName, Object.assign({ game_mode: DECK_KEY, lang: state.lang }, params || {}));
+      } catch (_) {}
+    }
+  }
+
   // --------------------------------------------------------------------------
   // GAME STATE
   // --------------------------------------------------------------------------
@@ -333,6 +341,7 @@
 
     updateStaticLabels();
     renderArena(false);
+    trackEvent("game_start", { best_streak: getBestStreak() });
   }
 
   function updateStaticLabels() {
@@ -501,6 +510,14 @@
         state.streak += 1;
         state.historyEmojis.push("🟩");
         setBestStreak(state.streak);
+        trackEvent("guess_answer", {
+          is_correct: true,
+          streak: state.streak,
+          direction: direction,
+          left_item: state.leftItem.id,
+          right_item: state.rightItem.id,
+          year_diff: Math.abs(rightVal - leftVal)
+        });
 
         els.currentStreakVal.textContent = state.streak;
         els.bestStreakVal.textContent = getBestStreak();
@@ -515,6 +532,14 @@
         }, 1500);
       } else {
         state.historyEmojis.push("💥");
+        trackEvent("guess_answer", {
+          is_correct: false,
+          streak: state.streak,
+          direction: direction,
+          left_item: state.leftItem.id,
+          right_item: state.rightItem.id,
+          year_diff: Math.abs(rightVal - leftVal)
+        });
         els.vsCircle.classList.add("wrong");
         els.vsText.textContent = "✕";
         els.verdictPill.classList.add("lose");
@@ -595,6 +620,12 @@
     `;
 
     els.gameOverModal.classList.remove("hidden");
+    trackEvent("game_over", {
+      final_streak: state.streak,
+      best_streak: getBestStreak(),
+      defeated_left: state.leftItem.id,
+      defeated_right: state.rightItem.id
+    });
   }
 
   function copyShareText() {
@@ -613,6 +644,7 @@
     ].join("\n");
 
     navigator.clipboard.writeText(text).then(() => {
+      trackEvent("share_result", { final_streak: state.streak, best_streak: getBestStreak() });
       const orig = els.lblShareResult.textContent;
       els.lblShareResult.textContent = dict.copied;
       setTimeout(() => {
@@ -633,6 +665,7 @@
       if (window.GAME_I18N[newLang]) {
         state.lang = newLang;
         localStorage.setItem("updown_lang", newLang);
+        trackEvent("language_change", { selected_lang: newLang });
         if (state.leftItem) preloadWikiExtract(state.leftItem, newLang);
         if (state.rightItem) preloadWikiExtract(state.rightItem, newLang);
         updateStaticLabels();
