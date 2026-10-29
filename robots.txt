@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jub27.github.io/time-up-or-down/sitemap.xml

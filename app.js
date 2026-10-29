@@ -22,6 +22,7 @@
   const state = {
     lang: detectInitialLang(),
     streak: 0,
+    targetStreak: detectChallengeTarget(),
     isRevealing: false,
     waitingForNext: false,
     usedIds: new Set(),
@@ -34,6 +35,11 @@
   // LANGUAGE & FORMATTING HELPERS
   // --------------------------------------------------------------------------
   function detectInitialLang() {
+    try {
+      const params = new URLSearchParams(window.location.search);
+      const qLang = params.get("lang");
+      if (qLang && window.GAME_I18N && window.GAME_I18N[qLang]) return qLang;
+    } catch (_) {}
     const saved = localStorage.getItem("updown_lang");
     if (saved && window.GAME_I18N[saved]) return saved;
     const nav = (navigator.language || "ko").toLowerCase();
@@ -41,6 +47,16 @@
     if (nav.startsWith("ja")) return "ja";
     if (nav.startsWith("zh")) return "zh";
     return "en";
+  }
+
+  function detectChallengeTarget() {
+    try {
+      const params = new URLSearchParams(window.location.search);
+      const tVal = parseInt(params.get("target") || "0", 10);
+      return Number.isFinite(tVal) && tVal > 0 ? tVal : 0;
+    } catch (_) {
+      return 0;
+    }
   }
 
   function t() {
@@ -69,6 +85,10 @@
   // DOM ELEMENTS
   // --------------------------------------------------------------------------
   const els = {
+    challengeBanner: document.getElementById("challengeBanner"),
+    challengeBannerText: document.getElementById("challengeBannerText"),
+    quickShareBtn: document.getElementById("quickShareBtn"),
+    lblQuickShare: document.getElementById("lblQuickShare"),
     lblCurrentStreak: document.getElementById("lblCurrentStreak"),
     lblBestStreak: document.getElementById("lblBestStreak"),
     currentStreakVal: document.getElementById("currentStreakVal"),
@@ -357,6 +377,12 @@
     els.currentStreakVal.textContent = state.streak;
     els.bestStreakVal.textContent = getBestStreak();
 
+    if (els.lblQuickShare) {
+      const shareLabels = { ko: "친구 초대", en: "Share", ja: "シェア", zh: "分享" };
+      els.lblQuickShare.textContent = shareLabels[state.lang] || "Share";
+    }
+    updateChallengeBanner();
+
     els.keyboardHint.textContent = dict.keyboardHint;
 
     els.gameOverTitle.textContent = dict.gameOverTitle;
@@ -369,6 +395,32 @@
     if (state.leftItem && state.rightItem) {
       refreshCardTexts();
     }
+  }
+
+  function updateChallengeBanner() {
+    if (!els.challengeBanner || !els.challengeBannerText) return;
+    if (!state.targetStreak || state.targetStreak <= 0) {
+      els.challengeBanner.classList.add("hidden");
+      return;
+    }
+    els.challengeBanner.classList.remove("hidden");
+    const beaten = state.streak > state.targetStreak;
+    els.challengeBanner.classList.toggle("beaten", beaten);
+    const msgs = {
+      ko: beaten
+        ? `🎉 친구의 ${state.targetStreak}연승 기록 돌파!`
+        : `🔥 친구의 ${state.targetStreak}연승 기록에 도전 중!`,
+      en: beaten
+        ? `🎉 Beat friend's ${state.targetStreak}-streak!`
+        : `🔥 Challenging friend's ${state.targetStreak} streak!`,
+      ja: beaten
+        ? `🎉 友達の${state.targetStreak}連勝記録を突破！`
+        : `🔥 友達の${state.targetStreak}連勝記録に挑戦中！`,
+      zh: beaten
+        ? `🎉 已打破好友的 ${state.targetStreak} 连胜纪录！`
+        : `🔥 正在挑战好友的 ${state.targetStreak} 连胜纪录！`
+    };
+    els.challengeBannerText.textContent = msgs[state.lang] || msgs.en;
   }
 
   function getItemOriginText(item, lang) {
@@ -521,6 +573,7 @@
 
         els.currentStreakVal.textContent = state.streak;
         els.bestStreakVal.textContent = getBestStreak();
+        updateChallengeBanner();
 
         els.vsCircle.classList.add("correct");
         els.vsText.textContent = "✓";
@@ -628,6 +681,15 @@
     });
   }
 
+  function buildShareUrl(scoreToBeat) {
+    const base = "https://jub27.github.io/time-up-or-down/";
+    const params = new URLSearchParams();
+    if (scoreToBeat && scoreToBeat > 0) params.set("target", String(scoreToBeat));
+    if (state.lang && state.lang !== "ko") params.set("lang", state.lang);
+    const qs = params.toString();
+    return qs ? `${base}?${qs}` : base;
+  }
+
   function copyShareText() {
     const dict = t();
     const rank = getRankForStreak(state.streak);
@@ -635,12 +697,21 @@
     const emojis = state.historyEmojis.join("");
     const leftName = state.leftItem.name[state.lang] || state.leftItem.name.en;
     const rightName = state.rightItem.name[state.lang] || state.rightItem.name.en;
+    const shareUrl = buildShareUrl(state.streak || getBestStreak());
+
+    const ctaByLang = {
+      ko: `👉 내 기록(${state.streak}연승) 깨러 오기: ${shareUrl}`,
+      en: `👉 Can you beat my ${state.streak}-streak? Play free: ${shareUrl}`,
+      ja: `👉 私の記録（${state.streak}連勝）に挑戦: ${shareUrl}`,
+      zh: `👉 来挑战我的 ${state.streak} 连胜纪录: ${shareUrl}`
+    };
 
     const text = [
       `⏳ ${dict.appTitle} [${modeName}]`,
       `🔥 ${dict.currentStreak}: ${state.streak} | 🏆 ${rank.title}`,
       emojis,
-      `💥 ${state.leftItem.emoji} ${leftName} vs ${state.rightItem.emoji} ${rightName}`
+      `💥 ${state.leftItem.emoji} ${leftName} vs ${state.rightItem.emoji} ${rightName}`,
+      ctaByLang[state.lang] || ctaByLang.en
     ].join("\n");
 
     navigator.clipboard.writeText(text).then(() => {
@@ -650,7 +721,50 @@
       setTimeout(() => {
         els.lblShareResult.textContent = orig;
       }, 2000);
-    });
+    }).catch(() => {});
+
+    if (navigator.share) {
+      navigator.share({
+        title: dict.appTitle,
+        text: text,
+        url: shareUrl
+      }).catch(() => {});
+    }
+  }
+
+  function handleQuickShare() {
+    const dict = t();
+    const best = Math.max(state.streak, getBestStreak());
+    const shareUrl = buildShareUrl(best);
+    const leftName = state.leftItem ? (state.leftItem.name[state.lang] || state.leftItem.name.en) : "";
+    const rightName = state.rightItem ? (state.rightItem.name[state.lang] || state.rightItem.name.en) : "";
+
+    const msgByLang = {
+      ko: `⏳ ${dict.appTitle}\n"${leftName} vs ${rightName}" 어느 쪽이 더 최근에 나왔을까?\n👉 지금 바로 도전하기: ${shareUrl}`,
+      en: `⏳ ${dict.appTitle}\n"${leftName} vs ${rightName}" — which came later?\n👉 Play now: ${shareUrl}`,
+      ja: `⏳ ${dict.appTitle}\n「${leftName} vs ${rightName}」より新しいのはどっち？\n👉 今すぐ挑戦: ${shareUrl}`,
+      zh: `⏳ ${dict.appTitle}\n“${leftName} vs ${rightName}”哪一个出现得更晚？\n👉 立即挑战: ${shareUrl}`
+    };
+    const text = msgByLang[state.lang] || msgByLang.en;
+
+    navigator.clipboard.writeText(text).then(() => {
+      trackEvent("quick_share", { best_streak: best });
+      if (els.lblQuickShare) {
+        const prev = els.lblQuickShare.textContent;
+        els.lblQuickShare.textContent = state.lang === "ko" ? "링크 복사됨!" : "Copied!";
+        setTimeout(() => {
+          els.lblQuickShare.textContent = prev;
+        }, 1800);
+      }
+    }).catch(() => {});
+
+    if (navigator.share) {
+      navigator.share({
+        title: dict.appTitle,
+        text: text,
+        url: shareUrl
+      }).catch(() => {});
+    }
   }
 
   // --------------------------------------------------------------------------
@@ -678,6 +792,9 @@
   });
 
   els.shareResultBtn.addEventListener("click", copyShareText);
+  if (els.quickShareBtn) {
+    els.quickShareBtn.addEventListener("click", handleQuickShare);
+  }
 
   window.addEventListener("keydown", (e) => {
     if (!els.gameOverModal.classList.contains("hidden")) {

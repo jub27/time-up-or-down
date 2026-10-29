@@ -1,0 +1,18 @@
+{
+  "name": "타임 업 앤 다운 (TIME UP OR DOWN) — 만물 탄생·역사 연도 퀴즈",
+  "short_name": "타임 업앤다운",
+  "description": "발명품, 브랜드, 역사적 사건, 명작 500개 중 어느 쪽이 더 최근(나중)에 나왔을까? 무료 웹 상식 연승 게임",
+  "start_url": "/time-up-or-down/",
+  "scope": "/time-up-or-down/",
+  "display": "standalone",
+  "background_color": "#0b0f1d",
+  "theme_color": "#0b0f1d",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
