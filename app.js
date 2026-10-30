@@ -180,7 +180,7 @@
   };
 
   // --------------------------------------------------------------------------
-  // DECK & ITEM SELECTION LOGIC (Smart Rolling Preloader for 500-item Deck)
+  // DECK & ITEM SELECTION LOGIC (Smart Rolling Preloader for the full deck)
   // --------------------------------------------------------------------------
   const preloadedUrls = new Set();
   const upcomingQueue = [];
@@ -200,22 +200,22 @@
     item._wikiUrl = item._wikiUrl || {};
     if (item._wikiExtract[lang]) return;
 
-    const searchTitle = item.source.wikiTitle[lang] || item.source.wikiTitle.en;
+    // Only the item's own article in this language (mapped via Wikidata); without one, the built-in note stays
+    const searchTitle = item.source.wikiTitle[lang];
     if (!searchTitle) return;
 
     try {
-      const apiUrl = `https://${lang}.wikipedia.org/w/api.php?origin=*&action=query&prop=extracts|info&inprop=url&exintro=1&explaintext=1&exsentences=2&redirects=1&format=json&titles=${encodeURIComponent(searchTitle)}`;
+      // zh articles mix Traditional/Simplified script; the zh UI is Simplified
+      const variant = lang === "zh" ? "&variant=zh-cn" : "";
+      const apiUrl = `https://${lang}.wikipedia.org/w/api.php?origin=*&action=query&prop=extracts|info|pageprops&inprop=url&ppprop=disambiguation&exintro=1&explaintext=1&exsentences=2&redirects=1&format=json${variant}&titles=${encodeURIComponent(searchTitle)}`;
       const res = await fetch(apiUrl);
       if (!res.ok) return;
       const data = await res.json();
       const pages = (data.query && data.query.pages) || {};
       const firstPage = Object.values(pages)[0];
-      if (firstPage && firstPage.extract && firstPage.extract.trim().length > 15) {
-        const cleanExtract = firstPage.extract.replace(/\s+/g, " ").trim();
-        const baseNote = (item.note && (item.note[lang] || item.note.en)) || "";
-        item._wikiExtract[lang] = cleanExtract.includes(baseNote.slice(0, 15))
-          ? cleanExtract
-          : `${baseNote} — ${cleanExtract}`;
+      const isDisambiguation = Boolean(firstPage && firstPage.pageprops && "disambiguation" in firstPage.pageprops);
+      if (firstPage && !isDisambiguation && firstPage.extract && firstPage.extract.trim().length > 15) {
+        item._wikiExtract[lang] = firstPage.extract.replace(/\s+/g, " ").trim();
         if (firstPage.fullurl) {
           item._wikiUrl[lang] = firstPage.fullurl;
         }
@@ -881,6 +881,7 @@
         trackEvent("language_change", { selected_lang: newLang });
         if (state.leftItem) preloadWikiExtract(state.leftItem, newLang);
         if (state.rightItem) preloadWikiExtract(state.rightItem, newLang);
+        upcomingQueue.forEach((item) => preloadWikiExtract(item, newLang));
         updateStaticLabels();
       }
     });

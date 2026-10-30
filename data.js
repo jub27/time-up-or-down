@@ -1,5 +1,5 @@
 // ============================================================================
-// TIMELINE UP OR DOWN: GLOBAL EDITION - 500 WORLD-FAMOUS ITEMS (EN/KO/JA/ZH)
+// TIMELINE UP OR DOWN: GLOBAL EDITION - 439 WORLD-FAMOUS ITEMS (EN/KO/JA/ZH)
 // ============================================================================
 window.GAME_I18N = {
   "en": {
@@ -279,19 +279,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1096年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q34433",
         "wikiTitle": {
           "en": "University of Oxford",
-          "ko": "University of Oxford",
-          "ja": "University of Oxford",
-          "zh": "University of Oxford"
+          "ko": "옥스퍼드 대학교",
+          "ja": "オックスフォード大学",
+          "zh": "牛津大学"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/University_of_Oxford",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%98%A5%EC%8A%A4%ED%8D%BC%EB%93%9C%20%EB%8C%80%ED%95%99%EA%B5%90%20%EA%B5%90%EC%9C%A1%20%EC%8B%9C%EC%9E%91",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6%E3%81%AE%E8%AC%9B%E7%BE%A9%E9%96%8B%E5%A7%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%89%9B%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%A7%8B%E6%8E%88%E8%AF%BE"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%98%A5%EC%8A%A4%ED%8D%BC%EB%93%9C_%EB%8C%80%ED%95%99%EA%B5%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%89%9B%E6%B4%A5%E5%A4%A7%E5%AD%A6"
         }
       }
     },
@@ -320,19 +320,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1209年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q35794",
         "wikiTitle": {
           "en": "University of Cambridge",
-          "ko": "University of Cambridge",
-          "ja": "University of Cambridge",
-          "zh": "University of Cambridge"
+          "ko": "케임브리지 대학교",
+          "ja": "ケンブリッジ大学",
+          "zh": "剑桥大学"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/University_of_Cambridge",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BC%80%EC%9E%84%EB%B8%8C%EB%A6%AC%EC%A7%80%20%EB%8C%80%ED%95%99%EA%B5%90%20%EC%84%A4%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B1%E3%83%B3%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E5%A4%A7%E5%AD%A6%E3%81%AE%E5%89%B5%E8%A8%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%89%91%E6%A1%A5%E5%A4%A7%E5%AD%A6%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%BC%80%EC%9E%84%EB%B8%8C%EB%A6%AC%EC%A7%80_%EB%8C%80%ED%95%99%EA%B5%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E5%A4%A7%E5%AD%A6",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%89%91%E6%A1%A5%E5%A4%A7%E5%AD%A6"
         }
       }
     },
@@ -361,19 +361,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1215年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q12519",
         "wikiTitle": {
           "en": "Magna Carta",
-          "ko": "Magna Carta",
-          "ja": "Magna Carta",
-          "zh": "Magna Carta"
+          "ko": "마그나 카르타",
+          "ja": "マグナ・カルタ",
+          "zh": "大憲章"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Magna_Carta",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%98%81%EA%B5%AD%20%EB%8C%80%ED%97%8C%EC%9E%A5(%EB%A7%88%EA%B7%B8%EB%82%98%20%EC%B9%B4%EB%A5%B4%ED%83%80)%20%EC%84%9C%EB%AA%85",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%82%B0%E3%83%8A%E3%83%BB%E3%82%AB%E3%83%AB%E3%82%BF%EF%BC%88%E5%A4%A7%E6%86%B2%E7%AB%A0%EF%BC%89%E3%81%AE%E5%88%B6%E5%AE%9A",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8B%B1%E5%9B%BD%E3%80%8A%E5%A4%A7%E5%AE%AA%E7%AB%A0%E3%80%8B%E7%AD%BE%E7%BD%B2"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EA%B7%B8%EB%82%98_%EC%B9%B4%EB%A5%B4%ED%83%80",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B0%E3%83%8A%E3%83%BB%E3%82%AB%E3%83%AB%E3%82%BF",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%86%B2%E7%AB%A0"
         }
       }
     },
@@ -402,19 +402,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1428年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q2608489",
         "wikiTitle": {
           "en": "Aztec Empire",
-          "ko": "Aztec Empire",
-          "ja": "Aztec Empire",
-          "zh": "Aztec Empire"
+          "ko": "아즈텍 제국",
+          "ja": "アステカ",
+          "zh": "阿兹特克帝国"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Aztec_Empire",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EC%A6%88%ED%85%8D%20%EC%A0%9C%EA%B5%AD%20%EA%B1%B4%EA%B5%AD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%82%B9%E3%83%86%E3%82%AB%E5%B8%9D%E5%9B%BD%E3%81%AE%E6%88%90%E7%AB%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%98%BF%E5%85%B9%E7%89%B9%E5%85%8B%E5%B8%9D%E5%9B%BD%E5%BB%BA%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%A6%88%ED%85%8D_%EC%A0%9C%EA%B5%AD",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%86%E3%82%AB",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%85%B9%E7%89%B9%E5%85%8B%E5%B8%9D%E5%9B%BD"
         }
       }
     },
@@ -443,19 +443,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（1450年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q676203",
         "wikiTitle": {
           "en": "Machu Picchu",
-          "ko": "Machu Picchu",
-          "ja": "Machu Picchu",
-          "zh": "Machu Picchu"
+          "ko": "마추 픽추",
+          "ja": "マチュ・ピチュ",
+          "zh": "马丘比丘"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Machu_Picchu",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9E%89%EC%B9%B4%20%EC%A0%9C%EA%B5%AD%20%EA%B3%B5%EC%A4%91%EB%8F%84%EC%8B%9C%20%EB%A7%88%EC%B6%94%ED%94%BD%EC%B6%94%20%EA%B1%B4%EC%84%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A4%E3%83%B3%E3%82%AB%E5%B8%9D%E5%9B%BD%20%E3%83%9E%E3%83%81%E3%83%A5%E3%83%BB%E3%83%94%E3%83%81%E3%83%A5%E3%81%AE%E5%BB%BA%E8%A8%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8D%B0%E5%8A%A0%E5%B8%9D%E5%9B%BD%E9%A9%AC%E4%B8%98%E6%AF%94%E4%B8%98%E5%BB%BA%E6%88%90"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%B6%94_%ED%94%BD%EC%B6%94",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%81%E3%83%A5%E3%83%BB%E3%83%94%E3%83%81%E3%83%A5",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%B8%98%E6%AF%94%E4%B8%98"
         }
       }
     },
@@ -484,19 +484,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1455年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q158075",
         "wikiTitle": {
           "en": "Gutenberg Bible",
-          "ko": "Gutenberg Bible",
-          "ja": "Gutenberg Bible",
-          "zh": "Gutenberg Bible"
+          "ko": "구텐베르크 성경",
+          "ja": "グーテンベルク聖書",
+          "zh": "古腾堡圣经"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Gutenberg_Bible",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EA%B5%AC%ED%85%90%EB%B2%A0%EB%A5%B4%ED%81%AC%20%EA%B8%88%EC%86%8D%ED%99%9C%EC%9E%90%20%EC%84%B1%EA%B2%BD%20%EC%9D%B8%EC%87%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B0%E3%83%BC%E3%83%86%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF%E8%81%96%E6%9B%B8%E3%81%AE%E5%8D%B0%E5%88%B7",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8F%A4%E8%85%BE%E5%A0%A1%E6%B4%BB%E5%AD%97%E5%8D%B0%E5%88%B7%E5%9C%A3%E7%BB%8F%E9%97%AE%E4%B8%96"
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B5%AC%ED%85%90%EB%B2%A0%EB%A5%B4%ED%81%AC_%EC%84%B1%EA%B2%BD",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%BC%E3%83%86%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF%E8%81%96%E6%9B%B8",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8F%A4%E8%85%BE%E5%A0%A1%E5%9C%A3%E7%BB%8F"
         }
       }
     },
@@ -525,19 +525,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1492年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q18578423",
         "wikiTitle": {
           "en": "Voyages of Christopher Columbus",
-          "ko": "Voyages of Christopher Columbus",
-          "ja": "Voyages of Christopher Columbus",
-          "zh": "Voyages of Christopher Columbus"
+          "ko": "콜럼버스의 항해",
+          "ja": null,
+          "zh": null
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BD%9C%EB%9F%BC%EB%B2%84%EC%8A%A4%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%20%EB%8C%80%EB%A5%99%20%EB%8F%84%EC%B0%A9",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%96%E3%82%B9%E3%81%AE%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%A4%A7%E9%99%B8%E5%88%B0%E9%81%94",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%93%A5%E4%BC%A6%E5%B8%83%E8%88%AA%E8%A1%8C%E6%8A%B5%E8%BE%BE%E7%BE%8E%E6%B4%B2"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%BD%9C%EB%9F%BC%EB%B2%84%EC%8A%A4%EC%9D%98_%ED%95%AD%ED%95%B4",
+          "ja": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+          "zh": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus"
         }
       }
     },
@@ -566,19 +566,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1503年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q12418",
         "wikiTitle": {
           "en": "Mona Lisa",
-          "ko": "Mona Lisa",
-          "ja": "Mona Lisa",
-          "zh": "Mona Lisa"
+          "ko": "모나리자",
+          "ja": "モナ・リザ",
+          "zh": "蒙娜丽莎"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Mona_Lisa",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A0%88%EC%98%A4%EB%82%98%EB%A5%B4%EB%8F%84%20%EB%8B%A4%EB%B9%88%EC%B9%98%20%E3%80%88%EB%AA%A8%EB%82%98%EB%A6%AC%EC%9E%90%E3%80%89%20%EC%A0%9C%EC%9E%91%20%EC%8B%9C%EC%9E%91",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%80%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%81%E3%80%8E%E3%83%A2%E3%83%8A%E3%83%BB%E3%83%AA%E3%82%B6%E3%80%8F%E5%88%B6%E4%BD%9C%E9%96%8B%E5%A7%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%BE%BE%C2%B7%E8%8A%AC%E5%A5%87%E5%BC%80%E5%A7%8B%E7%BB%98%E5%88%B6%E3%80%8A%E8%92%99%E5%A8%9C%E4%B8%BD%E8%8E%8E%E3%80%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%82%98%EB%A6%AC%EC%9E%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8A%E3%83%BB%E3%83%AA%E3%82%B6",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%92%99%E5%A8%9C%E4%B8%BD%E8%8E%8E"
         }
       }
     },
@@ -607,19 +607,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1504年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q179900",
         "wikiTitle": {
           "en": "David (Michelangelo)",
-          "ko": "David (Michelangelo)",
-          "ja": "David (Michelangelo)",
-          "zh": "David (Michelangelo)"
+          "ko": "다비드 (미켈란젤로)",
+          "ja": "ダビデ像 (ミケランジェロ)",
+          "zh": "大衛像"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/David_(Michelangelo)",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%20%E3%80%88%EB%8B%A4%EB%B9%84%EB%93%9C%EC%83%81%E3%80%89%20%EC%99%84%EC%84%B1",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9F%E3%82%B1%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AD%E3%80%8E%E3%83%80%E3%83%93%E3%83%87%E5%83%8F%E3%80%8F%E5%AE%8C%E6%88%90",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%B1%B3%E5%BC%80%E6%9C%97%E5%9F%BA%E7%BD%97%E5%AE%8C%E6%88%90%E3%80%8A%E5%A4%A7%E5%8D%AB%E5%83%8F%E3%80%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EB%B9%84%EB%93%9C_(%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%93%E3%83%87%E5%83%8F_(%E3%83%9F%E3%82%B1%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AD)",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%A1%9B%E5%83%8F"
         }
       }
     },
@@ -648,19 +648,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1597年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q83186",
         "wikiTitle": {
           "en": "Romeo and Juliet",
-          "ko": "Romeo and Juliet",
-          "ja": "Romeo and Juliet",
-          "zh": "Romeo and Juliet"
+          "ko": "로미오와 줄리엣",
+          "ja": "ロミオとジュリエット",
+          "zh": "罗密欧与朱丽叶"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Romeo_and_Juliet",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%85%B0%EC%9D%B5%EC%8A%A4%ED%94%BC%EC%96%B4%20%E3%80%88%EB%A1%9C%EB%AF%B8%EC%98%A4%EC%99%80%20%EC%A4%84%EB%A6%AC%EC%97%A3%E3%80%89%20%EC%B4%88%ED%8C%90%20%EC%B6%9C%EA%B0%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2%E3%80%8E%E3%83%AD%E3%83%9F%E3%82%AA%E3%81%A8%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A8%E3%83%83%E3%83%88%E3%80%8F%E5%87%BA%E7%89%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A%E3%80%8A%E7%BD%97%E5%AF%86%E6%AC%A7%E4%B8%8E%E6%9C%B1%E4%B8%BD%E5%8F%B6%E3%80%8B%E5%87%BA%E7%89%88"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%AF%B8%EC%98%A4%EC%99%80_%EC%A4%84%EB%A6%AC%EC%97%A3",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9F%E3%82%AA%E3%81%A8%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A8%E3%83%83%E3%83%88",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BD%97%E5%AF%86%E6%AC%A7%E4%B8%8E%E6%9C%B1%E4%B8%BD%E5%8F%B6"
         }
       }
     },
@@ -689,19 +689,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1609年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q307",
         "wikiTitle": {
           "en": "Galileo Galilei",
-          "ko": "Galileo Galilei",
-          "ja": "Galileo Galilei",
-          "zh": "Galileo Galilei"
+          "ko": "갈릴레오 갈릴레이",
+          "ja": "ガリレオ・ガリレイ",
+          "zh": "伽利略·伽利莱"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Galileo_Galilei",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EA%B0%88%EB%A6%B4%EB%A0%88%EC%98%A4%20%EA%B0%88%EB%A6%B4%EB%A0%88%EC%9D%B4%20%EC%B2%9C%EC%B2%B4%20%EB%A7%9D%EC%9B%90%EA%B2%BD%20%EC%A0%9C%EC%9E%91%20%EB%B0%8F%20%EA%B4%80%EC%B8%A1",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AC%E3%83%AA%E3%83%AC%E3%82%AA%E3%83%BB%E3%82%AC%E3%83%AA%E3%83%AC%E3%82%A4%E3%81%AB%E3%82%88%E3%82%8B%E5%A4%A9%E4%BD%93%E6%9C%9B%E9%81%A0%E9%8F%A1%E8%A6%B3%E6%B8%AC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BC%BD%E5%88%A9%E7%95%A5%E5%88%B6%E9%80%A0%E5%A4%A9%E6%96%87%E6%9C%9B%E8%BF%9C%E9%95%9C"
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B0%88%EB%A6%B4%EB%A0%88%EC%98%A4_%EA%B0%88%EB%A6%B4%EB%A0%88%EC%9D%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AA%E3%83%AC%E3%82%AA%E3%83%BB%E3%82%AC%E3%83%AA%E3%83%AC%E3%82%A4",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BC%BD%E5%88%A9%E7%95%A5%C2%B7%E4%BC%BD%E5%88%A9%E8%8E%B1"
         }
       }
     },
@@ -730,19 +730,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1636年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q13371",
         "wikiTitle": {
           "en": "Harvard University",
-          "ko": "Harvard University",
-          "ja": "Harvard University",
-          "zh": "Harvard University"
+          "ko": "하버드 대학교",
+          "ja": "ハーバード大学",
+          "zh": "哈佛大学"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Harvard_University",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%AF%B8%EA%B5%AD%20%ED%95%98%EB%B2%84%EB%93%9C%20%EB%8C%80%ED%95%99%EA%B5%90%20%EC%84%A4%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6%E3%81%AE%E5%89%B5%E8%A8%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BE%8E%E5%9B%BD%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%B2%84%EB%93%9C_%EB%8C%80%ED%95%99%EA%B5%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6"
         }
       }
     },
@@ -771,19 +771,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（1643年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q9141",
         "wikiTitle": {
           "en": "Taj Mahal",
-          "ko": "Taj Mahal",
-          "ja": "Taj Mahal",
-          "zh": "Taj Mahal"
+          "ko": "타지마할",
+          "ja": "タージ・マハル",
+          "zh": "泰姬陵"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Taj_Mahal",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B8%EB%8F%84%20%ED%83%80%EC%A7%80%EB%A7%88%ED%95%A0%20%EC%A4%91%EC%95%99%20%EC%98%81%EB%AC%98%20%EC%99%84%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A4%E3%83%B3%E3%83%89%20%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%BB%E3%83%9E%E3%83%8F%E3%83%AB%E3%81%AE%E5%AE%8C%E6%88%90",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8D%B0%E5%BA%A6%E6%B3%B0%E5%A7%AC%E9%99%B5%E4%B8%BB%E4%BD%93%E7%AB%A3%E5%B7%A5"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%83%80%EC%A7%80%EB%A7%88%ED%95%A0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%BB%E3%83%9E%E3%83%8F%E3%83%AB",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%A7%AC%E9%99%B5"
         }
       }
     },
@@ -812,19 +812,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1687年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q205921",
         "wikiTitle": {
           "en": "Philosophiæ Naturalis Principia Mathematica",
-          "ko": "Philosophiæ Naturalis Principia Mathematica",
-          "ja": "Philosophiæ Naturalis Principia Mathematica",
-          "zh": "Philosophiæ Naturalis Principia Mathematica"
+          "ko": "자연철학의 수학적 원리",
+          "ja": "自然哲学の数学的諸原理",
+          "zh": "自然哲学的数学原理"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EC%9D%B4%EC%9E%91%20%EB%89%B4%ED%84%B4%20%EB%A7%8C%EC%9C%A0%EC%9D%B8%EB%A0%A5%EC%9D%98%20%EB%B2%95%EC%B9%99%20%E3%80%88%ED%94%84%EB%A6%B0%ED%82%A4%ED%94%BC%EC%95%84%E3%80%89%20%EC%B6%9C%EA%B0%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%B3%E3%80%8E%E3%83%97%E3%83%AA%E3%83%B3%E3%82%AD%E3%83%94%E3%82%A2%EF%BC%88%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B%EF%BC%89%E3%80%8F%E5%87%BA%E7%89%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%89%9B%E9%A1%BF%E5%8F%91%E8%A1%A8%E3%80%8A%E8%87%AA%E7%84%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86%E3%80%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%97%B0%EC%B2%A0%ED%95%99%EC%9D%98_%EC%88%98%ED%95%99%EC%A0%81_%EC%9B%90%EB%A6%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E5%93%B2%E5%AD%A6%E3%81%AE%E6%95%B0%E5%AD%A6%E7%9A%84%E8%AB%B8%E5%8E%9F%E7%90%86",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E5%93%B2%E5%AD%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86"
         }
       }
     },
@@ -853,19 +853,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1700年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q5994",
         "wikiTitle": {
           "en": "Piano",
-          "ko": "Piano",
-          "ja": "Piano",
-          "zh": "Piano"
+          "ko": "피아노",
+          "ja": "ピアノ",
+          "zh": "钢琴"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Piano",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%94%BC%EC%95%84%EB%85%B8(Piano)%20%EC%B5%9C%EC%B4%88%20%EB%B0%9C%EB%AA%85",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%94%E3%82%A2%E3%83%8E%E3%81%AE%E7%99%BA%E6%98%8E%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%EF%BC%89",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%92%A2%E7%90%B4%E9%A6%96%E6%AC%A1%E8%A2%AB%E5%8F%91%E6%98%8E"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%94%BC%EC%95%84%EB%85%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%A2%E3%83%8E",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%92%A2%E7%90%B4"
         }
       }
     },
@@ -894,19 +894,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1776年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q3099902",
         "wikiTitle": {
           "en": "Watt steam engine",
-          "ko": "Watt steam engine",
-          "ja": "Watt steam engine",
-          "zh": "Watt steam engine"
+          "ko": "와트 증기기관",
+          "ja": null,
+          "zh": "瓦特蒸汽機"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Watt_steam_engine",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%9C%EC%9E%84%EC%8A%A4%20%EC%99%80%ED%8A%B8%20%EA%B0%9C%EB%9F%89%20%EC%A6%9D%EA%B8%B0%EA%B8%B0%EA%B4%80%20%EC%83%81%EC%9A%A9%ED%99%94",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%AF%E3%83%83%E3%83%88%E3%81%AE%E8%92%B8%E6%B0%97%E6%A9%9F%E9%96%A2%E5%AE%9F%E7%94%A8%E5%8C%96",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%93%A6%E7%89%B9%E6%94%B9%E8%89%AF%E8%92%B8%E6%B1%BD%E6%9C%BA%E6%8A%95%E5%85%A5%E5%95%86%E7%94%A8"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%99%80%ED%8A%B8_%EC%A6%9D%EA%B8%B0%EA%B8%B0%EA%B4%80",
+          "ja": "https://en.wikipedia.org/wiki/Watt_steam_engine",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%93%A6%E7%89%B9%E8%92%B8%E6%B1%BD%E6%A9%9F"
         }
       }
     },
@@ -935,19 +935,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1776年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q127912",
         "wikiTitle": {
           "en": "United States Declaration of Independence",
-          "ko": "United States Declaration of Independence",
-          "ja": "United States Declaration of Independence",
-          "zh": "United States Declaration of Independence"
+          "ko": "미국 독립선언",
+          "ja": "アメリカ独立宣言",
+          "zh": "美國獨立宣言"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%AF%B8%EA%B5%AD%20%EB%8F%85%EB%A6%BD%EC%84%A0%EC%96%B8%EC%84%9C%20%EB%B0%9C%ED%91%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E7%8B%AC%E7%AB%8B%E5%AE%A3%E8%A8%80",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BE%8E%E5%9B%BD%E3%80%8A%E7%8B%AC%E7%AB%8B%E5%AE%A3%E8%A8%80%E3%80%8B%E5%8F%91%E8%A1%A8"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD_%EB%8F%85%EB%A6%BD%EC%84%A0%EC%96%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E7%8B%AC%E7%AB%8B%E5%AE%A3%E8%A8%80",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E7%8D%A8%E7%AB%8B%E5%AE%A3%E8%A8%80"
         }
       }
     },
@@ -976,19 +976,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1789年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q6534",
         "wikiTitle": {
           "en": "French Revolution",
-          "ko": "French Revolution",
-          "ja": "French Revolution",
-          "zh": "French Revolution"
+          "ko": "프랑스 혁명",
+          "ja": "フランス革命",
+          "zh": "法国大革命"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/French_Revolution",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%94%84%EB%9E%91%EC%8A%A4%20%EB%8C%80%ED%98%81%EB%AA%85%20%EB%B0%9C%EB%B0%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%9D%A9%E5%91%BD%E3%81%AE%E5%8B%83%E7%99%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B3%95%E5%9B%BD%E5%A4%A7%E9%9D%A9%E5%91%BD%E7%88%86%E5%8F%91"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%94%84%EB%9E%91%EC%8A%A4_%ED%98%81%EB%AA%85",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%9D%A9%E5%91%BD",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD%E5%A4%A7%E9%9D%A9%E5%91%BD"
         }
       }
     },
@@ -1017,19 +1017,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1796年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q1037810",
         "wikiTitle": {
           "en": "Smallpox vaccine",
-          "ko": "Smallpox vaccine",
-          "ja": "Smallpox vaccine",
-          "zh": "Smallpox vaccine"
+          "ko": "천연두 백신",
+          "ja": "種痘",
+          "zh": "天花疫苗"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Smallpox_vaccine",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%97%90%EB%93%9C%EC%9B%8C%EB%93%9C%20%EC%A0%9C%EB%84%88%20%EC%9D%B8%EB%A5%98%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EB%B0%B1%EC%8B%A0(%EC%A2%85%EB%91%90%EB%B2%95)%20%EA%B0%9C%EB%B0%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%8A%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%EF%BC%88%E7%A8%AE%E7%97%98%EF%BC%89%E9%96%8B%E7%99%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E8%A9%B9%E7%BA%B3%E5%8F%91%E6%98%8E%E4%BA%BA%E7%B1%BB%E9%A6%96%E6%94%AF%E7%96%AB%E8%8B%97"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%B2%9C%EC%97%B0%EB%91%90_%EB%B0%B1%EC%8B%A0",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%A8%AE%E7%97%98",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A4%A9%E8%8A%B1%E7%96%AB%E8%8B%97"
         }
       }
     },
@@ -1058,19 +1058,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1800年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q663273",
         "wikiTitle": {
           "en": "Voltaic pile",
-          "ko": "Voltaic pile",
-          "ja": "Voltaic pile",
-          "zh": "Voltaic pile"
+          "ko": "볼타 전지",
+          "ja": "ボルタ電池",
+          "zh": "伏打电堆"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Voltaic_pile",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%8C%EB%A0%88%EC%82%B0%EB%93%9C%EB%A1%9C%20%EB%B3%BC%ED%83%80%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EC%A0%84%EC%A7%80(%EB%B3%BC%ED%83%80%20%EC%A0%84%EC%A7%80)%20%EB%B0%9C%EB%AA%85",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9C%E3%83%AB%E3%82%BF%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E9%9B%BB%E6%B1%A0%EF%BC%88%E3%83%9C%E3%83%AB%E3%82%BF%E9%9B%BB%E6%B1%A0%EF%BC%89%E7%99%BA%E6%98%8E",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BC%8F%E6%89%93%E5%8F%91%E6%98%8E%E4%BA%BA%E7%B1%BB%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%94%B5%E6%B1%A0"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B3%BC%ED%83%80_%EC%A0%84%EC%A7%80",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%82%BF%E9%9B%BB%E6%B1%A0",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BC%8F%E6%89%93%E7%94%B5%E5%A0%86"
         }
       }
     },
@@ -1099,19 +1099,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1808年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q188709",
         "wikiTitle": {
           "en": "Symphony No. 5 (Beethoven)",
-          "ko": "Symphony No. 5 (Beethoven)",
-          "ja": "Symphony No. 5 (Beethoven)",
-          "zh": "Symphony No. 5 (Beethoven)"
+          "ko": "교향곡 5번 (베토벤)",
+          "ja": "交響曲第5番 (ベートーヴェン)",
+          "zh": "第5號交響曲 (貝多芬)"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Symphony_No._5_(Beethoven)",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B2%A0%ED%86%A0%EB%B2%A4%20%EA%B5%90%ED%96%A5%EA%B3%A1%205%EB%B2%88%20%E3%80%88%EC%9A%B4%EB%AA%85%E3%80%89%20%EC%B4%88%EC%97%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%99%E3%83%BC%E3%83%88%E3%83%BC%E3%83%B4%E3%82%A7%E3%83%B3%E3%80%8E%E4%BA%A4%E9%9F%BF%E6%9B%B2%E7%AC%AC5%E7%95%AA%EF%BC%88%E9%81%8B%E5%91%BD%EF%BC%89%E3%80%8F%E5%88%9D%E6%BC%94",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B4%9D%E5%A4%9A%E8%8A%AC%E3%80%8A%E7%AC%AC%E4%BA%94%E4%BA%A4%E5%93%8D%E6%9B%B2%EF%BC%88%E5%91%BD%E8%BF%90%EF%BC%89%E3%80%8B%E9%A6%96%E6%BC%94"
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B5%90%ED%96%A5%EA%B3%A1_5%EB%B2%88_(%EB%B2%A0%ED%86%A0%EB%B2%A4)",
+          "ja": "https://ja.wikipedia.org/wiki/%E4%BA%A4%E9%9F%BF%E6%9B%B2%E7%AC%AC5%E7%95%AA_(%E3%83%99%E3%83%BC%E3%83%88%E3%83%BC%E3%83%B4%E3%82%A7%E3%83%B3)",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%AC%AC5%E8%99%9F%E4%BA%A4%E9%9F%BF%E6%9B%B2_(%E8%B2%9D%E5%A4%9A%E8%8A%AC)"
         }
       }
     },
@@ -1140,19 +1140,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1817年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q1255515",
         "wikiTitle": {
           "en": "Dandy horse",
-          "ko": "Dandy horse",
-          "ja": "Dandy horse",
-          "zh": "Dandy horse"
+          "ko": null,
+          "ja": "ドライジーネ",
+          "zh": null
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Dandy_horse",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%B5%9C%EC%B4%88%EC%9D%98%20%EB%91%90%20%EB%B0%94%ED%80%B4%20%EC%9E%90%EC%A0%84%EA%B1%B0(%EB%93%9C%EB%A0%88%EC%A7%84)%20%EB%B0%9C%EB%AA%85",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E4%BA%8C%E8%BC%AA%E8%87%AA%E8%BB%A2%E8%BB%8A%EF%BC%88%E3%83%89%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%BC%E3%83%8D%EF%BC%89%E7%99%BA%E6%98%8E",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E4%B8%8A%E7%AC%AC%E4%B8%80%E8%BE%86%E4%B8%A4%E8%BD%AE%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%8F%91%E6%98%8E"
+          "ko": "https://en.wikipedia.org/wiki/Dandy_horse",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%BC%E3%83%8D",
+          "zh": "https://en.wikipedia.org/wiki/Dandy_horse"
         }
       }
     },
@@ -1181,19 +1181,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1826年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q616159",
         "wikiTitle": {
           "en": "View from the Window at Le Gras",
-          "ko": "View from the Window at Le Gras",
-          "ja": "View from the Window at Le Gras",
-          "zh": "View from the Window at Le Gras"
+          "ko": "그라의 창문에서 바라본 조망",
+          "ja": "ル・グラの窓からの眺め",
+          "zh": "在勒格拉的窗外景色"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/View_from_the_Window_at_Le_Gras",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B8%EB%A5%98%20%EC%97%AD%EC%82%AC%EC%83%81%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%82%AC%EC%A7%84%20%EC%B4%AC%EC%98%81",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E6%9C%80%E5%8F%A4%E3%81%AE%E3%82%AB%E3%83%A1%E3%83%A9%E5%86%99%E7%9C%9F%E3%81%AE%E6%92%AE%E5%BD%B1",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E5%BC%A0%E6%B0%B8%E4%B9%85%E7%85%A7%E7%89%87%E6%8B%8D%E6%91%84"
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%9D%BC%EC%9D%98_%EC%B0%BD%EB%AC%B8%EC%97%90%EC%84%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_%EC%A1%B0%EB%A7%9D",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%A9%E3%81%AE%E7%AA%93%E3%81%8B%E3%82%89%E3%81%AE%E7%9C%BA%E3%82%81",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%9C%A8%E5%8B%92%E6%A0%BC%E6%8B%89%E7%9A%84%E7%AA%97%E5%A4%96%E6%99%AF%E8%89%B2"
         }
       }
     },
@@ -1222,19 +1222,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1837年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q1066858",
         "wikiTitle": {
           "en": "Tiffany & Co.",
-          "ko": "Tiffany & Co.",
-          "ja": "Tiffany & Co.",
-          "zh": "Tiffany & Co."
+          "ko": "티파니 (기업)",
+          "ja": "ティファニー",
+          "zh": "蒂芙尼公司"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Tiffany_%26_Co.",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B3%B4%EC%84%9D%20%EB%B8%8C%EB%9E%9C%EB%93%9C%20%ED%8B%B0%ED%8C%8C%EB%8B%88(Tiffany%20%26%20Co.)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC%EF%BC%88Tiffany%20%26%20Co.%EF%BC%89%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%92%82%E8%8A%99%E5%B0%BC(Tiffany)%E5%9C%A8%E7%BA%BD%E7%BA%A6%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8B%B0%ED%8C%8C%EB%8B%88_(%EA%B8%B0%EC%97%85)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%92%82%E8%8A%99%E5%B0%BC%E5%85%AC%E5%8F%B8"
         }
       }
     },
@@ -1263,19 +1263,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1837年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q843887",
         "wikiTitle": {
           "en": "Hermès",
-          "ko": "Hermès",
-          "ja": "Hermès",
-          "zh": "Hermès"
+          "ko": "에르메스",
+          "ja": "エルメス",
+          "zh": "愛馬仕"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Herm%C3%A8s",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%94%84%EB%9E%91%EC%8A%A4%20%EB%AA%85%ED%92%88%20%EC%97%90%EB%A5%B4%EB%A9%94%EC%8A%A4(Herm%C3%A8s)%20%EB%A7%88%EA%B5%AC%EC%9A%A9%ED%92%88%EC%A0%90%EC%9C%BC%EB%A1%9C%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A8%E3%83%AB%E3%83%A1%E3%82%B9%EF%BC%88Herm%C3%A8s%EF%BC%89%E3%81%8C%E9%A6%AC%E5%85%B7%E5%B7%A5%E6%88%BF%E3%81%A8%E3%81%97%E3%81%A6%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%88%B1%E9%A9%AC%E4%BB%95(Herm%C3%A8s)%E5%9C%A8%E5%B7%B4%E9%BB%8E%E4%BD%9C%E4%B8%BA%E9%A9%AC%E5%85%B7%E5%BA%97%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%90%EB%A5%B4%EB%A9%94%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%A1%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%84%9B%E9%A6%AC%E4%BB%95"
         }
       }
     },
@@ -1304,19 +1304,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1840年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q107701",
         "wikiTitle": {
           "en": "Penny Black",
-          "ko": "Penny Black",
-          "ja": "Penny Black",
-          "zh": "Penny Black"
+          "ko": "페니 블랙",
+          "ja": "ペニー・ブラック",
+          "zh": "黑便士"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Penny_Black",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%84%B8%EA%B3%84%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EC%9A%B0%ED%91%9C%20'%ED%8E%98%EB%8B%88%20%EB%B8%94%EB%9E%99'%20%EB%B0%9C%ED%96%89",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E9%83%B5%E4%BE%BF%E5%88%87%E6%89%8B%E3%80%8E%E3%83%9A%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%80%8F%E7%99%BA%E8%A1%8C",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E6%9E%9A%E9%82%AE%E7%A5%A8%E2%80%9C%E9%BB%91%E4%BE%BF%E5%A3%AB%E2%80%9D%E5%8F%91%E8%A1%8C"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8E%98%EB%8B%88_%EB%B8%94%EB%9E%99",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%BB%91%E4%BE%BF%E5%A3%AB"
         }
       }
     },
@@ -1345,19 +1345,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1843年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q132744",
         "wikiTitle": {
-          "en": "Electric telegraph",
-          "ko": "Electric telegraph",
-          "ja": "Electric telegraph",
-          "zh": "Electric telegraph"
+          "en": "Fax",
+          "ko": "팩시밀리",
+          "ja": "ファクシミリ",
+          "zh": "傳真"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Electric_telegraph",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%B5%9C%EC%B4%88%EC%9D%98%20%ED%8C%A9%EC%8A%A4(Fax)%20%EC%9B%90%EB%A6%AC%20%EC%9D%B8%EC%87%84%EC%A0%84%EC%8B%A0%EA%B8%B0%20%ED%8A%B9%ED%97%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E3%83%95%E3%82%A1%E3%83%83%E3%82%AF%E3%82%B9%E5%8E%9F%E7%90%86%E3%81%AE%E7%89%B9%E8%A8%B1%E5%8F%96%E5%BE%97",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%B8%80%E5%8F%B0%E4%BC%A0%E7%9C%9F%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%93%E5%88%A9%E8%8E%B7%E6%89%B9"
+          "en": "https://en.wikipedia.org/wiki/Fax",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8C%A9%EC%8B%9C%EB%B0%80%EB%A6%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%AF%E3%82%B7%E3%83%9F%E3%83%AA",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%82%B3%E7%9C%9F"
         }
       }
     },
@@ -1386,19 +1386,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1847年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q538587",
         "wikiTitle": {
-          "en": "Cartier (jeweler)",
-          "ko": "Cartier (jeweler)",
-          "ja": "Cartier (jeweler)",
-          "zh": "Cartier (jeweler)"
+          "en": "Cartier (brand)",
+          "ko": "까르띠에",
+          "ja": "カルティエ",
+          "zh": "卡地亞"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Cartier_(jeweler)",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B3%B4%EC%84%9D%C2%B7%EC%8B%9C%EA%B3%84%20%EB%AA%85%ED%92%88%20%EA%B9%8C%EB%A5%B4%EB%9D%A0%EC%97%90(Cartier)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A8%EF%BC%88Cartier%EF%BC%89%E3%83%91%E3%83%AA%E3%81%A7%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8D%A1%E5%9C%B0%E4%BA%9A(Cartier)%E5%9C%A8%E5%B7%B4%E9%BB%8E%E5%88%9B%E7%AB%8B"
+          "en": "https://en.wikipedia.org/wiki/Cartier_(brand)",
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B9%8C%EB%A5%B4%EB%9D%A0%EC%97%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A8",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%9C%B0%E4%BA%9E"
         }
       }
     },
@@ -1427,19 +1427,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1853年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q127962",
         "wikiTitle": {
           "en": "Levi Strauss & Co.",
-          "ko": "Levi Strauss & Co.",
-          "ja": "Levi Strauss & Co.",
-          "zh": "Levi Strauss & Co."
+          "ko": "리바이스",
+          "ja": "リーバイス",
+          "zh": "Levi's"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Levi_Strauss_%26_Co.",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A6%AC%EB%B0%94%EC%9D%B4%EC%8A%A4(Levi's)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AA%E3%83%BC%E3%83%90%E3%82%A4%E3%82%B9%EF%BC%88Levi's%EF%BC%89%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%9D%8E%E7%BB%B4%E6%96%AF(Levi's)%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%B0%94%EC%9D%B4%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%83%90%E3%82%A4%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/Levi's"
         }
       }
     },
@@ -1468,19 +1468,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1854年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q191485",
         "wikiTitle": {
           "en": "Louis Vuitton",
-          "ko": "Louis Vuitton",
-          "ja": "Louis Vuitton",
-          "zh": "Louis Vuitton"
+          "ko": "루이비통",
+          "ja": "ルイ・ヴィトン",
+          "zh": "路易威登"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Louis_Vuitton",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A3%A8%EC%9D%B4%EB%B9%84%ED%86%B5(Louis%20Vuitton)%20%EC%97%AC%ED%96%89%EA%B0%80%EB%B0%A9%20%EA%B0%80%EA%B2%8C%EB%A1%9C%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AB%E3%82%A4%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%88%E3%83%B3%E3%81%8C%E6%97%85%E8%A1%8C%E9%9E%84%E5%B0%82%E9%96%80%E5%BA%97%E3%81%A8%E3%81%97%E3%81%A6%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B7%AF%E6%98%93%E5%A8%81%E7%99%BB(Louis%20Vuitton)%E5%9C%A8%E5%B7%B4%E9%BB%8E%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A3%A8%EC%9D%B4%EB%B9%84%ED%86%B5",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A4%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%88%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%B7%AF%E6%98%93%E5%A8%81%E7%99%BB"
         }
       }
     },
@@ -1509,19 +1509,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（1859年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q41225",
         "wikiTitle": {
           "en": "Big Ben",
-          "ko": "Big Ben",
-          "ja": "Big Ben",
-          "zh": "Big Ben"
+          "ko": "빅 벤",
+          "ja": "ビッグ・ベン",
+          "zh": "大本钟"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Big_Ben",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%9F%B0%EB%8D%98%20%EB%B9%85%EB%B2%A4(Big%20Ben)%20%EC%8B%9C%EA%B3%84%ED%83%91%20%EC%99%84%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%E3%80%8E%E3%83%93%E3%83%83%E3%82%B0%E3%83%BB%E3%83%99%E3%83%B3%E3%80%8F%E6%99%82%E8%A8%88%E5%A1%94%E3%81%AE%E5%AE%8C%E6%88%90",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BC%A6%E6%95%A6%E5%A4%A7%E6%9C%AC%E9%92%9F%E7%AB%A3%E5%B7%A5%E5%90%AF%E7%94%A8"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B9%85_%EB%B2%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%82%B0%E3%83%BB%E3%83%99%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%9C%AC%E9%92%9F"
         }
       }
     },
@@ -1550,19 +1550,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1859年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q20124",
         "wikiTitle": {
           "en": "On the Origin of Species",
-          "ko": "On the Origin of Species",
-          "ja": "On the Origin of Species",
-          "zh": "On the Origin of Species"
+          "ko": "종의 기원",
+          "ja": "種の起源",
+          "zh": "物种起源"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%B0%B0%EC%8A%A4%20%EB%8B%A4%EC%9C%88%20%EC%A7%84%ED%99%94%EB%A1%A0%20%E3%80%88%EC%A2%85%EC%9D%98%20%EA%B8%B0%EC%9B%90%E3%80%89%20%EC%B6%9C%EA%B0%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%80%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3%E3%80%8E%E7%A8%AE%E3%81%AE%E8%B5%B7%E6%BA%90%E3%80%8F%E5%87%BA%E7%89%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%BE%BE%E5%B0%94%E6%96%87%E5%8F%91%E8%A1%A8%E3%80%8A%E7%89%A9%E7%A7%8D%E8%B5%B7%E6%BA%90%E3%80%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A2%85%EC%9D%98_%EA%B8%B0%EC%9B%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%A8%AE%E3%81%AE%E8%B5%B7%E6%BA%90",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%89%A9%E7%A7%8D%E8%B5%B7%E6%BA%90"
         }
       }
     },
@@ -1591,19 +1591,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1867年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q80728",
         "wikiTitle": {
           "en": "Dynamite",
-          "ko": "Dynamite",
-          "ja": "Dynamite",
-          "zh": "Dynamite"
+          "ko": "다이너마이트",
+          "ja": "ダイナマイト",
+          "zh": "矽藻土炸藥"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Dynamite",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%8C%ED%94%84%EB%A0%88%EB%93%9C%20%EB%85%B8%EB%B2%A8%20%EB%8B%A4%EC%9D%B4%EB%84%88%EB%A7%88%EC%9D%B4%ED%8A%B8%20%ED%8A%B9%ED%97%88%20%EB%93%B1%EB%A1%9D",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%AB%E3%83%95%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E3%81%8C%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9E%E3%82%A4%E3%83%88%E3%81%AE%E7%89%B9%E8%A8%B1%E5%8F%96%E5%BE%97",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%AF%BA%E8%B4%9D%E5%B0%94%E8%8E%B7%E6%89%B9%E7%82%B8%E8%8D%AF(Dynamite)%E4%B8%93%E5%88%A9"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%9D%B4%EB%84%88%EB%A7%88%EC%9D%B4%ED%8A%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9E%E3%82%A4%E3%83%88",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%9F%BD%E8%97%BB%E5%9C%9F%E7%82%B8%E8%97%A5"
         }
       }
     },
@@ -1632,19 +1632,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1869年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q10693",
         "wikiTitle": {
           "en": "Periodic table",
-          "ko": "Periodic table",
-          "ja": "Periodic table",
-          "zh": "Periodic table"
+          "ko": "주기율표",
+          "ja": "周期表",
+          "zh": "元素周期表"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Periodic_table",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A9%98%EB%8D%B8%EB%A0%88%EC%98%88%ED%94%84%20%ED%99%94%ED%95%99%20%EC%9B%90%EC%86%8C%20%EC%A3%BC%EA%B8%B0%EC%9C%A8%ED%91%9C%20%EB%B0%9C%ED%91%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A1%E3%83%B3%E3%83%87%E3%83%AC%E3%83%BC%E3%82%A8%E3%83%95%E3%81%8C%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8%E3%82%92%E7%99%BA%E8%A1%A8",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%97%A8%E6%8D%B7%E5%88%97%E5%A4%AB%E5%8F%91%E8%A1%A8%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EA%B8%B0%EC%9C%A8%ED%91%9C",
+          "ja": "https://ja.wikipedia.org/wiki/%E5%91%A8%E6%9C%9F%E8%A1%A8",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8"
         }
       }
     },
@@ -1673,19 +1673,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（1869年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q899",
         "wikiTitle": {
           "en": "Suez Canal",
-          "ko": "Suez Canal",
-          "ja": "Suez Canal",
-          "zh": "Suez Canal"
+          "ko": "수에즈 운하",
+          "ja": "スエズ運河",
+          "zh": "苏伊士运河"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Suez_Canal",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B4%EC%A7%91%ED%8A%B8%20%EC%88%98%EC%97%90%EC%A6%88%20%EC%9A%B4%ED%95%98%20%EA%B0%9C%ED%86%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B9%E3%82%A8%E3%82%BA%E9%81%8B%E6%B2%B3%E3%81%AE%E9%96%8B%E9%80%9A",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B3%E6%AD%A3%E5%BC%8F%E9%80%9A%E8%88%AA"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%97%90%EC%A6%88_%EC%9A%B4%ED%95%98",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A8%E3%82%BA%E9%81%8B%E6%B2%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E4%BC%8A%E5%A3%AB%E8%BF%90%E6%B2%B3"
         }
       }
     },
@@ -1714,19 +1714,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1876年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q34286",
         "wikiTitle": {
           "en": "Alexander Graham Bell",
-          "ko": "Alexander Graham Bell",
-          "ja": "Alexander Graham Bell",
-          "zh": "Alexander Graham Bell"
+          "ko": "알렉산더 그레이엄 벨",
+          "ja": "アレクサンダー・グラハム・ベル",
+          "zh": "亚历山大·格雷厄姆·贝尔"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%8C%EB%A0%89%EC%82%B0%EB%8D%94%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%97%84%20%EB%B2%A8%20%EC%A0%84%ED%99%94%EA%B8%B0%20%EB%B0%9C%EB%AA%85",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B0%E3%83%A9%E3%83%8F%E3%83%A0%E3%83%BB%E3%83%99%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8B%E9%9B%BB%E8%A9%B1%E6%A9%9F%E3%81%AE%E7%99%BA%E6%98%8E",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B4%9D%E5%B0%94%E5%8F%91%E6%98%8E%E7%94%B5%E8%AF%9D%E5%B9%B6%E8%8E%B7%E4%B8%93%E5%88%A9"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%8C%EB%A0%89%EC%82%B0%EB%8D%94_%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%97%84_%EB%B2%A8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%8F%E3%83%A0%E3%83%BB%E3%83%99%E3%83%AB",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86%C2%B7%E8%B4%9D%E5%B0%94"
         }
       }
     },
@@ -1755,19 +1755,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1879年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q47616",
         "wikiTitle": {
           "en": "Incandescent light bulb",
-          "ko": "Incandescent light bulb",
-          "ja": "Incandescent light bulb",
-          "zh": "Incandescent light bulb"
+          "ko": "백열등",
+          "ja": "白熱電球",
+          "zh": "白熾燈"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Incandescent_light_bulb",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%86%A0%EB%A8%B8%EC%8A%A4%20%EC%97%90%EB%94%94%EC%8A%A8%20%EC%8B%A4%EC%9A%A9%20%EB%B0%B1%EC%97%B4%EC%A0%84%EA%B5%AC%20%EB%B0%9C%EB%AA%85",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A8%E3%82%B8%E3%82%BD%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E7%99%BD%E7%86%B1%E9%9B%BB%E7%90%83%E3%81%AE%E5%AE%9F%E7%94%A8%E5%8C%96",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%88%B1%E8%BF%AA%E7%94%9F%E7%A0%94%E5%88%B6%E6%88%90%E5%8A%9F%E5%AE%9E%E7%94%A8%E7%99%BD%E7%82%BD%E7%81%AF%E6%B3%A1"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%97%B4%EB%93%B1",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%99%BD%E7%86%B1%E9%9B%BB%E7%90%83",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%99%BD%E7%86%BE%E7%87%88"
         }
       }
     },
@@ -1796,19 +1796,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1886年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q326248",
         "wikiTitle": {
           "en": "Benz Patent-Motorwagen",
-          "ko": "Benz Patent-Motorwagen",
-          "ja": "Benz Patent-Motorwagen",
-          "zh": "Benz Patent-Motorwagen"
+          "ko": "벤츠 페이턴트 모터바겐",
+          "ja": "ベンツ・パテント・モトールヴァーゲン",
+          "zh": "賓士專利機動車"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Benz_Patent-Motorwagen",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%B9%B4%EB%A5%BC%20%EB%B2%A4%EC%B8%A0%20%EC%84%B8%EA%B3%84%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EA%B0%80%EC%86%94%EB%A6%B0%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%ED%8A%B9%ED%97%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%99%E3%83%B3%E3%83%84%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E3%82%AC%E3%82%BD%E3%83%AA%E3%83%B3%E8%87%AA%E5%8B%95%E8%BB%8A",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8D%A1%E5%B0%94%C2%B7%E6%9C%AC%E8%8C%A8%E5%8F%91%E6%98%8E%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E8%BE%86%E6%B1%BD%E6%B2%B9%E6%B1%BD%E8%BD%A6"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B2%A4%EC%B8%A0_%ED%8E%98%EC%9D%B4%ED%84%B4%ED%8A%B8_%EB%AA%A8%ED%84%B0%EB%B0%94%EA%B2%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%83%84%E3%83%BB%E3%83%91%E3%83%86%E3%83%B3%E3%83%88%E3%83%BB%E3%83%A2%E3%83%88%E3%83%BC%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B2%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%B3%93%E5%A3%AB%E5%B0%88%E5%88%A9%E6%A9%9F%E5%8B%95%E8%BB%8A"
         }
       }
     },
@@ -1837,19 +1837,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（1886年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q9202",
         "wikiTitle": {
           "en": "Statue of Liberty",
-          "ko": "Statue of Liberty",
-          "ja": "Statue of Liberty",
-          "zh": "Statue of Liberty"
+          "ko": "자유의 여신상",
+          "ja": "自由の女神像 (ニューヨーク)",
+          "zh": "自由女神像"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%89%B4%EC%9A%95%20%EC%9E%90%EC%9C%A0%EC%9D%98%20%EC%97%AC%EC%8B%A0%EC%83%81%20%EC%99%84%EA%B3%B5%20%EB%B0%8F%20%EC%A0%9C%EB%A7%89%EC%8B%9D",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%80%8E%E8%87%AA%E7%94%B1%E3%81%AE%E5%A5%B3%E7%A5%9E%E5%83%8F%E3%80%8F%E9%99%A4%E5%B9%95%E5%BC%8F",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BA%BD%E7%BA%A6%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8F%E8%90%BD%E6%88%90%E6%8F%AD%E5%B9%95"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9C%A0%EC%9D%98_%EC%97%AC%EC%8B%A0%EC%83%81",
+          "ja": "https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E3%81%AE%E5%A5%B3%E7%A5%9E%E5%83%8F_(%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF)",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8F"
         }
       }
     },
@@ -1878,19 +1878,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1886年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q2813",
         "wikiTitle": {
           "en": "Coca-Cola",
-          "ko": "Coca-Cola",
-          "ja": "Coca-Cola",
-          "zh": "Coca-Cola"
+          "ko": "코카콜라",
+          "ja": "コカ・コーラ",
+          "zh": "可口可乐"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Coca-Cola",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BD%94%EC%B9%B4%EC%BD%9C%EB%9D%BC(Coca-Cola)%20%EC%B5%9C%EC%B4%88%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9%E3%81%AE%E8%AA%95%E7%94%9F",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E5%9C%A8%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7%E9%A6%96%E6%AC%A1%E5%8F%91%E5%94%AE"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%BD%94%EC%B9%B4%EC%BD%9C%EB%9D%BC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90"
         }
       }
     },
@@ -1919,19 +1919,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1887年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q223131",
         "wikiTitle": {
-          "en": "Sherlock Holmes",
-          "ko": "Sherlock Holmes",
-          "ja": "Sherlock Holmes",
-          "zh": "Sherlock Holmes"
+          "en": "A Study in Scarlet",
+          "ko": "주홍색 연구",
+          "ja": "緋色の研究",
+          "zh": "血字的研究"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Sherlock_Holmes",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%AA%85%ED%83%90%EC%A0%95%20%E3%80%88%EC%85%9C%EB%A1%9D%20%ED%99%88%EC%A6%88%E3%80%89%20%EC%86%8C%EC%84%A4%20%EC%B2%AB%20%EB%93%B1%EC%9E%A5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%90%8D%E6%8E%A2%E5%81%B5%E3%80%8E%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA%E3%80%8F%E5%88%9D%E7%99%BB%E5%A0%B4",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%90%8D%E4%BE%A6%E6%8E%A2%E3%80%8A%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF%E3%80%8B%E5%B0%8F%E8%AF%B4%E9%A6%96%E6%AC%A1%E7%99%BB%E5%9C%BA"
+          "en": "https://en.wikipedia.org/wiki/A_Study_in_Scarlet",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A3%BC%ED%99%8D%EC%83%89_%EC%97%B0%EA%B5%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%B7%8B%E8%89%B2%E3%81%AE%E7%A0%94%E7%A9%B6",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%A1%80%E5%AD%97%E7%9A%84%E7%A0%94%E7%A9%B6"
         }
       }
     },
@@ -1960,19 +1960,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1888年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q5973845",
         "wikiTitle": {
           "en": "National Geographic",
-          "ko": "National Geographic",
-          "ja": "National Geographic",
-          "zh": "National Geographic"
+          "ko": "내셔널 지오그래픽 (잡지)",
+          "ja": "ナショナル ジオグラフィック (雑誌)",
+          "zh": "国家地理 (杂志)"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/National_Geographic",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%E3%80%88%EB%82%B4%EC%85%94%EB%84%90%20%EC%A7%80%EC%98%A4%EA%B7%B8%EB%9E%98%ED%94%BD%E3%80%89%20%EC%9E%A1%EC%A7%80%20%EC%B0%BD%EA%B0%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%80%8E%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%20%E3%82%B8%E3%82%AA%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%80%8F%E5%89%B5%E5%88%8A",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E3%80%8A%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E3%80%8B%E6%9D%82%E5%BF%97%E5%88%9B%E5%88%8A"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%82%B4%EC%85%94%EB%84%90_%EC%A7%80%EC%98%A4%EA%B7%B8%EB%9E%98%ED%94%BD_(%EC%9E%A1%EC%A7%80)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB_%E3%82%B8%E3%82%AA%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF_(%E9%9B%91%E8%AA%8C)",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86_(%E6%9D%82%E5%BF%97)"
         }
       }
     },
@@ -2001,19 +2001,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1889年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q8093",
         "wikiTitle": {
           "en": "Nintendo",
-          "ko": "Nintendo",
-          "ja": "Nintendo",
-          "zh": "Nintendo"
+          "ko": "닌텐도",
+          "ja": "任天堂",
+          "zh": "任天堂"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Nintendo",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8B%8C%ED%85%90%EB%8F%84(Nintendo)%20%EA%B5%90%ED%86%A0%20%ED%99%94%ED%88%AC%20%EA%B0%80%EA%B2%8C%EB%A1%9C%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82%E3%81%8C%E4%BA%AC%E9%83%BD%E3%81%A7%E8%8A%B1%E6%9C%AD%E5%95%86%E5%BA%97%E3%81%A8%E3%81%97%E3%81%A6%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82%E5%9C%A8%E4%BA%AC%E9%83%BD%E4%BD%9C%E4%B8%BA%E8%8A%B1%E6%9C%AD%E7%BA%B8%E7%89%8C%E5%BA%97%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8B%8C%ED%85%90%EB%8F%84",
+          "ja": "https://ja.wikipedia.org/wiki/%E4%BB%BB%E5%A4%A9%E5%A0%82",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BB%BB%E5%A4%A9%E5%A0%82"
         }
       }
     },
@@ -2042,19 +2042,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（1889年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q243",
         "wikiTitle": {
           "en": "Eiffel Tower",
-          "ko": "Eiffel Tower",
-          "ja": "Eiffel Tower",
-          "zh": "Eiffel Tower"
+          "ko": "에펠탑",
+          "ja": "エッフェル塔",
+          "zh": "艾菲爾鐵塔"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Eiffel_Tower",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8C%8C%EB%A6%AC%20%EC%97%90%ED%8E%A0%ED%83%91%20%EC%99%84%EA%B3%B5%20%EB%B0%8F%20%EA%B0%9C%EC%9E%A5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%91%E3%83%AA%E3%80%8E%E3%82%A8%E3%83%83%E3%83%95%E3%82%A7%E3%83%AB%E5%A1%94%E3%80%8F%E3%81%AE%E5%AE%8C%E6%88%90",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%B7%B4%E9%BB%8E%E5%9F%83%E8%8F%B2%E5%B0%94%E9%93%81%E5%A1%94%E8%90%BD%E6%88%90%E5%BC%80%E6%94%BE"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%90%ED%8E%A0%ED%83%91",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%83%E3%83%95%E3%82%A7%E3%83%AB%E5%A1%94",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%89%BE%E8%8F%B2%E7%88%BE%E9%90%B5%E5%A1%94"
         }
       }
     },
@@ -2083,19 +2083,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1889年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q45585",
         "wikiTitle": {
           "en": "The Starry Night",
-          "ko": "The Starry Night",
-          "ja": "The Starry Night",
-          "zh": "The Starry Night"
+          "ko": "별이 빛나는 밤",
+          "ja": "星月夜",
+          "zh": "星夜"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/The_Starry_Night",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B9%88%EC%84%BC%ED%8A%B8%20%EB%B0%98%20%EA%B3%A0%ED%9D%90%20%EB%AA%85%ED%99%94%20%E3%80%88%EB%B3%84%EC%9D%B4%20%EB%B9%9B%EB%82%98%EB%8A%94%20%EB%B0%A4%E3%80%89%20%EC%99%84%EC%84%B1",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B4%E3%83%83%E3%83%9B%E3%80%8E%E6%98%9F%E6%9C%88%E5%A4%9C%E3%80%8F%E3%81%AE%E5%AE%8C%E6%88%90",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%A2%B5%E9%AB%98%E5%88%9B%E4%BD%9C%E5%90%8D%E7%94%BB%E3%80%8A%E6%98%9F%E6%9C%88%E5%A4%9C%E3%80%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B3%84%EC%9D%B4_%EB%B9%9B%EB%82%98%EB%8A%94_%EB%B0%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E6%98%9F%E6%9C%88%E5%A4%9C",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%98%9F%E5%A4%9C"
         }
       }
     },
@@ -2124,19 +2124,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1891年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q5372",
         "wikiTitle": {
           "en": "Basketball",
-          "ko": "Basketball",
-          "ja": "Basketball",
-          "zh": "Basketball"
+          "ko": "농구",
+          "ja": "バスケットボール",
+          "zh": "篮球"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Basketball",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%ED%8F%AC%EC%B8%A0%20%EC%A2%85%EB%AA%A9%20'%EB%86%8D%EA%B5%AC(Basketball)'%20%EC%B5%9C%EC%B4%88%20%EC%B0%BD%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB%E3%81%AE%E8%80%83%E6%A1%88%EF%BC%88%E3%83%8D%E3%82%A4%E3%82%B9%E3%83%9F%E3%82%B9%EF%BC%89",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A5%88%E5%8F%B2%E5%AF%86%E6%96%AF%E5%8F%91%E6%98%8E%E7%AF%AE%E7%90%83%E8%BF%90%E5%8A%A8"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%86%8D%EA%B5%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%AF%AE%E7%90%83"
         }
       }
     },
@@ -2165,19 +2165,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1893年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q471379",
         "wikiTitle": {
           "en": "The Scream",
-          "ko": "The Scream",
-          "ja": "The Scream",
-          "zh": "The Scream"
+          "ko": "절규",
+          "ja": "叫び (エドヴァルド・ムンク)",
+          "zh": "吶喊 (繪畫)"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/The_Scream",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%97%90%EB%93%9C%EB%B0%94%EB%A5%B4%20%EB%AD%89%ED%81%AC%20%E3%80%88%EC%A0%88%EA%B7%9C%E3%80%89%20%EC%99%84%EC%84%B1",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A8%E3%83%89vard%E3%83%BB%E3%83%A0%E3%83%B3%E3%82%AF%E3%80%8E%E5%8F%AB%E3%81%B3%E3%80%8F%E5%88%B6%E4%BD%9C",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E8%92%99%E5%85%8B%E5%88%9B%E4%BD%9C%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A0%88%EA%B7%9C",
+          "ja": "https://ja.wikipedia.org/wiki/%E5%8F%AB%E3%81%B3_(%E3%82%A8%E3%83%89%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%89%E3%83%BB%E3%83%A0%E3%83%B3%E3%82%AF)",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%90%B6%E5%96%8A_(%E7%B9%AA%E7%95%AB)"
         }
       }
     },
@@ -2206,19 +2206,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1895年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q55965",
         "wikiTitle": {
-          "en": "Auguste and Louis Lumière",
-          "ko": "Auguste and Louis Lumière",
-          "ja": "Auguste and Louis Lumière",
-          "zh": "Auguste and Louis Lumière"
+          "en": "Lumière brothers",
+          "ko": "뤼미에르 형제",
+          "ja": "リュミエール兄弟",
+          "zh": "盧米埃兄弟"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A4%BC%EB%AF%B8%EC%97%90%EB%A5%B4%20%ED%98%95%EC%A0%9C%20%EC%84%B8%EA%B3%84%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EC%9C%A0%EB%A3%8C%20%EC%98%81%ED%99%94%20%EC%83%81%EC%98%81",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AA%E3%83%A5%E3%83%9F%E3%82%A8%E3%83%BC%E3%83%AB%E5%85%84%E5%BC%9F%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E6%98%A0%E7%94%BB%E4%B8%8A%E6%98%A0",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8D%A2%E7%B1%B3%E5%9F%83%E5%B0%94%E5%85%84%E5%BC%9F%E4%B8%BE%E5%8A%9E%E4%B8%96%E7%95%8C%E9%A6%96%E6%AC%A1%E7%94%B5%E5%BD%B1%E6%94%BE%E6%98%A0"
+          "en": "https://en.wikipedia.org/wiki/Lumi%C3%A8re_brothers",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A4%BC%EB%AF%B8%EC%97%90%EB%A5%B4_%ED%98%95%EC%A0%9C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%83%9F%E3%82%A8%E3%83%BC%E3%83%AB%E5%85%84%E5%BC%9F",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%9B%A7%E7%B1%B3%E5%9F%83%E5%85%84%E5%BC%9F"
         }
       }
     },
@@ -2247,19 +2247,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1895年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q34777",
         "wikiTitle": {
           "en": "X-ray",
-          "ko": "X-ray",
-          "ja": "X-ray",
-          "zh": "X-ray"
+          "ko": "엑스선",
+          "ja": "X線",
+          "zh": "X射线"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/X-ray",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B9%8C%ED%97%AC%EB%A6%84%20%EB%A2%B4%ED%8A%B8%EA%B2%90%20X%EC%84%A0(%EC%97%91%EC%8A%A4%EB%A0%88%EC%9D%B4)%20%EB%B0%9C%EA%B2%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AC%E3%83%B3%E3%83%88%E3%82%B2%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8BX%E7%B7%9A%E3%81%AE%E7%99%BA%E8%A6%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BC%A6%E7%90%B4%E5%8F%91%E7%8E%B0X%E5%B0%84%E7%BA%BF%EF%BC%88X%E5%85%89%EF%BC%89"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%91%EC%8A%A4%EC%84%A0",
+          "ja": "https://ja.wikipedia.org/wiki/X%E7%B7%9A",
+          "zh": "https://zh.wikipedia.org/wiki/X%E5%B0%84%E7%BA%BF"
         }
       }
     },
@@ -2288,19 +2288,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1896年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q8080",
         "wikiTitle": {
           "en": "1896 Summer Olympics",
-          "ko": "1896 Summer Olympics",
-          "ja": "1896 Summer Olympics",
-          "zh": "1896 Summer Olympics"
+          "ko": "1896년 하계 올림픽",
+          "ja": "1896年アテネオリンピック",
+          "zh": "1896年夏季奥林匹克运动会"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/1896_Summer_Olympics",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%9C1%ED%9A%8C%20%EC%95%84%ED%85%8C%EB%84%A4%20%EA%B7%BC%EB%8C%80%20%EC%98%AC%EB%A6%BC%ED%94%BD%20%EA%B0%9C%EC%B5%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC1%E5%9B%9E%E3%82%A2%E3%83%86%E3%83%8D%E8%BF%91%E4%BB%A3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E9%96%8B%E5%82%AC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%B8%80%E5%B1%8A%E9%9B%85%E5%85%B8%E7%8E%B0%E4%BB%A3%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B8%BE%E5%8A%9E"
+          "ko": "https://ko.wikipedia.org/wiki/1896%EB%85%84_%ED%95%98%EA%B3%84_%EC%98%AC%EB%A6%BC%ED%94%BD",
+          "ja": "https://ja.wikipedia.org/wiki/1896%E5%B9%B4%E3%82%A2%E3%83%86%E3%83%8D%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF",
+          "zh": "https://zh.wikipedia.org/wiki/1896%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E8%BF%90%E5%8A%A8%E4%BC%9A"
         }
       }
     },
@@ -2329,19 +2329,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1899年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q18216",
         "wikiTitle": {
           "en": "Aspirin",
-          "ko": "Aspirin",
-          "ja": "Aspirin",
-          "zh": "Aspirin"
+          "ko": "아스피린",
+          "ja": "アセチルサリチル酸",
+          "zh": "乙酰水杨酸"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Aspirin",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%94%EC%9D%B4%EC%97%98%20%ED%95%B4%EC%97%B4%EC%A7%84%ED%86%B5%EC%A0%9C%20'%EC%95%84%EC%8A%A4%ED%94%BC%EB%A6%B0(Aspirin)'%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%90%E3%82%A4%E3%82%A8%E3%83%AB%E7%A4%BE%E3%81%8C%E8%A7%A3%E7%86%B1%E9%8E%AE%E7%97%9B%E5%89%A4%E3%80%8E%E3%82%A2%E3%82%B9%E3%83%94%E3%83%AA%E3%83%B3%E3%80%8F%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%8B%9C%E8%80%B3%E6%B3%A8%E5%86%8C%E5%B9%B6%E6%8E%A8%E5%87%BA%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97(Aspirin)"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%8A%A4%ED%94%BC%EB%A6%B0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BB%E3%83%81%E3%83%AB%E3%82%B5%E3%83%AA%E3%83%81%E3%83%AB%E9%85%B8",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%B9%99%E9%85%B0%E6%B0%B4%E6%9D%A8%E9%85%B8"
         }
       }
     },
@@ -2370,19 +2370,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1899年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q7156",
         "wikiTitle": {
           "en": "FC Barcelona",
-          "ko": "FC Barcelona",
-          "ja": "FC Barcelona",
-          "zh": "FC Barcelona"
+          "ko": "FC 바르셀로나",
+          "ja": "FCバルセロナ",
+          "zh": "巴塞罗那足球俱乐部"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/FC_Barcelona",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%ED%8E%98%EC%9D%B8%20%EC%B6%95%EA%B5%AC%20%ED%81%B4%EB%9F%BD%20FC%20%EB%B0%94%EB%A5%B4%EC%85%80%EB%A1%9C%EB%82%98%20%EC%B0%BD%EB%8B%A8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%E3%80%8EFC%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A%E3%80%8F%E5%89%B5%E8%A8%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8%E6%88%90%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/FC_%EB%B0%94%EB%A5%B4%EC%85%80%EB%A1%9C%EB%82%98",
+          "ja": "https://ja.wikipedia.org/wiki/FC%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8"
         }
       }
     },
@@ -2411,19 +2411,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1900年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q214844",
         "wikiTitle": {
-          "en": "Michelin",
-          "ko": "Michelin",
-          "ja": "Michelin",
-          "zh": "Michelin"
+          "en": "Michelin Guide",
+          "ko": "미쉐린 가이드",
+          "ja": "ミシュランガイド",
+          "zh": "米其林指南"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Michelin",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%9B%EC%A7%91%20%EC%95%88%EB%82%B4%EC%84%9C%20%E3%80%88%EB%AF%B8%EC%89%90%EB%A6%B0%20%EA%B0%80%EC%9D%B4%EB%93%9C%E3%80%89%20%EC%B4%88%ED%8C%90%20%EB%B0%9C%ED%96%89",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%80%8E%E3%83%9F%E3%82%B7%E3%83%A5%E3%83%A9%E3%83%B3%E3%82%AC%E3%82%A4%E3%83%89%E3%80%8F%E5%88%9D%E7%89%88%E7%99%BA%E8%A1%8C",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E3%80%8A%E7%B1%B3%E5%85%B6%E6%9E%97%E6%8C%87%E5%8D%97%E3%80%8B%E9%A6%96%E7%89%88%E5%8F%91%E8%A1%8C"
+          "en": "https://en.wikipedia.org/wiki/Michelin_Guide",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%89%90%EB%A6%B0_%EA%B0%80%EC%9D%B4%EB%93%9C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B7%E3%83%A5%E3%83%A9%E3%83%B3%E3%82%AC%E3%82%A4%E3%83%89",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%85%B6%E6%9E%97%E6%8C%87%E5%8D%97"
         }
       }
     },
@@ -2452,19 +2452,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1901年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q7191",
         "wikiTitle": {
           "en": "Nobel Prize",
-          "ko": "Nobel Prize",
-          "ja": "Nobel Prize",
-          "zh": "Nobel Prize"
+          "ko": "노벨상",
+          "ja": "ノーベル賞",
+          "zh": "诺贝尔奖"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Nobel_Prize",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%9C1%ED%9A%8C%20%EB%85%B8%EB%B2%A8%EC%83%81%20%EC%8B%9C%EC%83%81%EC%8B%9D%20%EA%B0%9C%EC%B5%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC1%E5%9B%9E%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E%E6%8E%88%E8%B3%9E%E5%BC%8F",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%A6%96%E5%B1%8A%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%E4%B8%BE%E8%A1%8C"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%85%B8%EB%B2%A8%EC%83%81",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96"
         }
       }
     },
@@ -2493,19 +2493,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1902年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q8682",
         "wikiTitle": {
-          "en": "Santiago Bernabéu Stadium",
-          "ko": "Santiago Bernabéu Stadium",
-          "ja": "Santiago Bernabéu Stadium",
-          "zh": "Santiago Bernabéu Stadium"
+          "en": "Real Madrid CF",
+          "ko": "레알 마드리드 CF",
+          "ja": "レアル・マドリード",
+          "zh": "皇家马德里足球俱乐部"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Santiago_Bernab%C3%A9u_Stadium",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A0%88%EC%95%8C%20%EB%A7%88%EB%93%9C%EB%A6%AC%EB%93%9C%20CF%20%EC%B6%95%EA%B5%AC%EB%8B%A8%20%EC%B0%BD%EB%8B%A8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AC%E3%82%A2%E3%83%AB%E3%83%BB%E3%83%9E%E3%83%89%E3%83%AA%E3%83%BC%E3%83%89%E5%89%B5%E8%A8%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%9A%87%E5%AE%B6%E9%A9%AC%E5%BE%B7%E9%87%8C%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8%E6%88%90%E7%AB%8B"
+          "en": "https://en.wikipedia.org/wiki/Real_Madrid_CF",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A0%88%EC%95%8C_%EB%A7%88%EB%93%9C%EB%A6%AC%EB%93%9C_CF",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A2%E3%83%AB%E3%83%BB%E3%83%9E%E3%83%89%E3%83%AA%E3%83%BC%E3%83%89",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%9A%87%E5%AE%B6%E9%A9%AC%E5%BE%B7%E9%87%8C%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8"
         }
       }
     },
@@ -2534,19 +2534,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1903年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q44294",
         "wikiTitle": {
           "en": "Ford Motor Company",
-          "ko": "Ford Motor Company",
-          "ja": "Ford Motor Company",
-          "zh": "Ford Motor Company"
+          "ko": "포드 모터 컴퍼니",
+          "ja": "フォード・モーター",
+          "zh": "福特汽车"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Ford_Motor_Company",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%97%A8%EB%A6%AC%20%ED%8F%AC%EB%93%9C%20'%ED%8F%AC%EB%93%9C%20%EC%9E%90%EB%8F%99%EC%B0%A8'%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%98%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%81%8C%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BA%A8%E5%88%A9%C2%B7%E7%A6%8F%E7%89%B9%E5%88%9B%E7%AB%8B%E7%A6%8F%E7%89%B9%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EB%93%9C_%EB%AA%A8%ED%84%B0_%EC%BB%B4%ED%8D%BC%EB%8B%88",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%A6%8F%E7%89%B9%E6%B1%BD%E8%BD%A6"
         }
       }
     },
@@ -2575,19 +2575,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1903年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q192814",
         "wikiTitle": {
           "en": "Harley-Davidson",
-          "ko": "Harley-Davidson",
-          "ja": "Harley-Davidson",
-          "zh": "Harley-Davidson"
+          "ko": "할리데이비슨",
+          "ja": "ハーレーダビッドソン",
+          "zh": "哈雷摩托車"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Harley-Davidson",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%95%A0%EB%A6%AC%EB%8D%B0%EC%9D%B4%EB%B9%84%EC%8A%A8(Harley-Davidson)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%BC%E3%83%80%E3%83%93%E3%83%83%E3%83%89%E3%82%BD%E3%83%B3%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%93%88%E9%9B%B7%E6%88%B4%E7%BB%B4%E6%A3%AE%E6%91%A9%E6%89%98%E8%BD%A6%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%95%A0%EB%A6%AC%EB%8D%B0%EC%9D%B4%EB%B9%84%EC%8A%A8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%BC%E3%83%80%E3%83%93%E3%83%83%E3%83%89%E3%82%BD%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%93%88%E9%9B%B7%E6%91%A9%E6%89%98%E8%BB%8A"
         }
       }
     },
@@ -2616,19 +2616,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1903年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q688605",
         "wikiTitle": {
           "en": "Wright Flyer",
-          "ko": "Wright Flyer",
-          "ja": "Wright Flyer",
-          "zh": "Wright Flyer"
+          "ko": "라이트 플라이어",
+          "ja": "ライトフライヤー号",
+          "zh": "莱特飞行器"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Wright_Flyer",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%9D%BC%EC%9D%B4%ED%8A%B8%20%ED%98%95%EC%A0%9C%20%EC%9D%B8%EB%A5%98%20%EC%B5%9C%EC%B4%88%20%EB%8F%99%EB%A0%A5%20%EB%B9%84%ED%96%89%EA%B8%B0%20%EB%B9%84%ED%96%89%20%EC%84%B1%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A9%E3%82%A4%E3%83%88%E5%85%84%E5%BC%9F%E3%81%AB%E3%82%88%E3%82%8B%E4%BA%BA%E9%A1%9E%E5%88%9D%E3%81%AE%E5%8B%95%E5%8A%9B%E9%A3%9B%E8%A1%8C",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8E%B1%E7%89%B9%E5%85%84%E5%BC%9F%E5%AE%9E%E7%8E%B0%E4%BA%BA%E7%B1%BB%E9%A6%96%E6%AC%A1%E5%8A%A8%E5%8A%9B%E9%A3%9E%E6%9C%BA%E9%A3%9E%E8%A1%8C"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9D%B4%ED%8A%B8_%ED%94%8C%EB%9D%BC%EC%9D%B4%EC%96%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%95%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E5%8F%B7",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E9%A3%9E%E8%A1%8C%E5%99%A8"
         }
       }
     },
@@ -2657,19 +2657,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1905年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q62288",
         "wikiTitle": {
           "en": "Rolex",
-          "ko": "Rolex",
-          "ja": "Rolex",
-          "zh": "Rolex"
+          "ko": "롤렉스",
+          "ja": "ロレックス",
+          "zh": "劳力士"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Rolex",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%AA%85%ED%92%88%20%EC%8B%9C%EA%B3%84%20%EB%B8%8C%EB%9E%9C%EB%93%9C%20%EB%A1%A4%EB%A0%89%EC%8A%A4(Rolex)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E6%99%82%E8%A8%88%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%80%8E%E3%83%AD%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%88Rolex%EF%BC%89%E3%80%8F%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8A%B3%E5%8A%9B%E5%A3%AB(Rolex)%E9%92%9F%E8%A1%A8%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A1%A4%EB%A0%89%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8A%B3%E5%8A%9B%E5%A3%AB"
         }
       }
     },
@@ -2698,19 +2698,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1905年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q11455",
         "wikiTitle": {
           "en": "Special relativity",
-          "ko": "Special relativity",
-          "ja": "Special relativity",
-          "zh": "Special relativity"
+          "ko": "특수 상대성이론",
+          "ja": "特殊相対性理論",
+          "zh": "狭义相对论"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Special_relativity",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%8C%EB%B2%A0%EB%A5%B4%ED%8A%B8%20%EC%95%84%EC%9D%B8%EC%8A%88%ED%83%80%EC%9D%B8%20%ED%8A%B9%EC%88%98%EC%83%81%EB%8C%80%EC%84%B1%EC%9D%B4%EB%A1%A0%20%EB%B0%8F%20E%3Dmc%C2%B2%20%EB%B0%9C%ED%91%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%81%8C%E7%89%B9%E6%AE%8A%E7%9B%B8%E5%AF%BE%E6%80%A7%E7%90%86%E8%AB%96%E3%82%92%E7%99%BA%E8%A1%A8",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E5%8F%91%E8%A1%A8%E7%8B%AD%E4%B9%89%E7%9B%B8%E5%AF%B9%E8%AE%BA"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8A%B9%EC%88%98_%EC%83%81%EB%8C%80%EC%84%B1%EC%9D%B4%EB%A1%A0",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%89%B9%E6%AE%8A%E7%9B%B8%E5%AF%BE%E6%80%A7%E7%90%86%E8%AB%96",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%8B%AD%E4%B9%89%E7%9B%B8%E5%AF%B9%E8%AE%BA"
         }
       }
     },
@@ -2739,19 +2739,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1910年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q218115",
         "wikiTitle": {
           "en": "Chanel",
-          "ko": "Chanel",
-          "ja": "Chanel",
-          "zh": "Chanel"
+          "ko": "샤넬",
+          "ja": "シャネル",
+          "zh": "香奈儿"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Chanel",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BD%94%EC%BD%94%20%EC%83%A4%EB%84%AC%20%ED%8C%8C%EB%A6%AC%20%EC%B2%AB%20%EB%A7%A4%EC%9E%A5%EC%9C%BC%EB%A1%9C%20%EC%83%A4%EB%84%AC(Chanel)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B3%E3%82%B3%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%AB%E3%81%8C%E3%83%91%E3%83%AA%E3%81%A7%E3%80%8E%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%AB%E3%80%8F%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8F%AF%E5%8F%AF%C2%B7%E9%A6%99%E5%A5%88%E5%84%BF%E5%9C%A8%E5%B7%B4%E9%BB%8E%E5%88%9B%E7%AB%8B%20Chanel"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%83%A4%EB%84%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%AB",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%A6%99%E5%A5%88%E5%84%BF"
         }
       }
     },
@@ -2780,19 +2780,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1911年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q926",
         "wikiTitle": {
           "en": "Roald Amundsen",
-          "ko": "Roald Amundsen",
-          "ja": "Roald Amundsen",
-          "zh": "Roald Amundsen"
+          "ko": "로알 아문센",
+          "ja": "ロアール・アムンセン",
+          "zh": "罗阿尔·阿蒙森"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Roald_Amundsen",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EB%AC%B8%EC%84%BC%20%EC%9D%B8%EB%A5%98%20%EC%B5%9C%EC%B4%88%20%EB%82%A8%EA%B7%B9%EC%A0%90%20%EB%8F%84%EB%8B%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%A0%E3%83%B3%E3%82%BB%E3%83%B3%E3%81%8C%E4%BA%BA%E9%A1%9E%E5%88%9D%E3%81%AE%E5%8D%97%E6%A5%B5%E7%82%B9%E5%88%B0%E9%81%94",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%98%BF%E8%92%99%E6%A3%AE%E9%A6%96%E6%AC%A1%E6%8A%B5%E8%BE%BE%E5%8D%97%E6%9E%81%E7%82%B9"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%95%8C_%EC%95%84%EB%AC%B8%EC%84%BC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%A2%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%A0%E3%83%B3%E3%82%BB%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BD%97%E9%98%BF%E5%B0%94%C2%B7%E9%98%BF%E8%92%99%E6%A3%AE"
         }
       }
     },
@@ -2821,19 +2821,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1912年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q25173",
         "wikiTitle": {
-          "en": "RMS Titanic",
-          "ko": "RMS Titanic",
-          "ja": "RMS Titanic",
-          "zh": "RMS Titanic"
+          "en": "Titanic",
+          "ko": "RMS 타이타닉",
+          "ja": "タイタニック (客船)",
+          "zh": "泰坦尼克号"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/RMS_Titanic",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%ED%98%B8%20%EC%B2%AB%20%ED%95%AD%ED%95%B4%20%EC%A4%91%20%EC%B9%A8%EB%AA%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E5%8F%B7%E3%81%8C%E5%87%A6%E5%A5%B3%E8%88%AA%E6%B5%B7%E4%B8%AD%E3%81%AB%E6%B2%88%E6%B2%A1",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%A4%84%E5%A5%B3%E8%88%AA%E6%B2%89%E6%B2%A1"
+          "en": "https://en.wikipedia.org/wiki/Titanic",
+          "ko": "https://ko.wikipedia.org/wiki/RMS_%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF_(%E5%AE%A2%E8%88%B9)",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7"
         }
       }
     },
@@ -2862,19 +2862,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1912年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q138585",
         "wikiTitle": {
           "en": "Oreo",
-          "ko": "Oreo",
-          "ja": "Oreo",
-          "zh": "Oreo"
+          "ko": "오레오",
+          "ja": "オレオ",
+          "zh": "奧利奧"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Oreo",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%98%A4%EB%A0%88%EC%98%A4(Oreo)%20%EC%BF%A0%ED%82%A4%20%EC%B5%9C%EC%B4%88%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AA%E3%83%AC%E3%82%AA%EF%BC%88Oreo%EF%BC%89%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E7%99%BA%E5%A3%B2%E9%96%8B%E5%A7%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A5%A5%E5%88%A9%E5%A5%A5(Oreo)%E9%A5%BC%E5%B9%B2%E9%A6%96%E6%AC%A1%E4%B8%8A%E5%B8%82"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%A0%88%EC%98%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AC%E3%82%AA",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A5%A7%E5%88%A9%E5%A5%A7"
         }
       }
     },
@@ -2903,19 +2903,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1913年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q193136",
         "wikiTitle": {
           "en": "Prada",
-          "ko": "Prada",
-          "ja": "Prada",
-          "zh": "Prada"
+          "ko": "프라다",
+          "ja": "プラダ",
+          "zh": "普拉達"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Prada",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%20%EB%AA%85%ED%92%88%20%ED%94%84%EB%9D%BC%EB%8B%A4(Prada)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%97%E3%83%A9%E3%83%80%EF%BC%88Prada%EF%BC%89%E3%81%8C%E3%83%9F%E3%83%A9%E3%83%8E%E3%81%A7%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%99%AE%E6%8B%89%E8%BE%BE(Prada)%E5%9C%A8%E7%B1%B3%E5%85%B0%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%94%84%EB%9D%BC%EB%8B%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%80",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%99%AE%E6%8B%89%E9%81%94"
         }
       }
     },
@@ -2944,19 +2944,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1914年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q361",
         "wikiTitle": {
           "en": "World War I",
-          "ko": "World War I",
-          "ja": "World War I",
-          "zh": "World War I"
+          "ko": "제1차 세계 대전",
+          "ja": "第一次世界大戦",
+          "zh": "第一次世界大战"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/World_War_I",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%9C1%EC%B0%A8%20%EC%84%B8%EA%B3%84%EB%8C%80%EC%A0%84%20%EB%B0%9C%EB%B0%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6%E3%81%AE%E5%8B%83%E7%99%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98%E7%88%86%E5%8F%91"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A0%9C1%EC%B0%A8_%EC%84%B8%EA%B3%84_%EB%8C%80%EC%A0%84",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98"
         }
       }
     },
@@ -2985,19 +2985,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（1914年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q7350",
         "wikiTitle": {
           "en": "Panama Canal",
-          "ko": "Panama Canal",
-          "ja": "Panama Canal",
-          "zh": "Panama Canal"
+          "ko": "파나마 운하",
+          "ja": "パナマ運河",
+          "zh": "巴拿马运河"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Panama_Canal",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%83%9C%ED%8F%89%EC%96%91%EA%B3%BC%20%EB%8C%80%EC%84%9C%EC%96%91%EC%9D%84%20%EC%9E%87%EB%8A%94%20%ED%8C%8C%EB%82%98%EB%A7%88%20%EC%9A%B4%ED%95%98%20%EA%B0%9C%ED%86%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%91%E3%83%8A%E3%83%9E%E9%81%8B%E6%B2%B3%E3%81%AE%E9%96%8B%E9%80%9A",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%B7%B4%E6%8B%BF%E9%A9%AC%E8%BF%90%E6%B2%B3%E6%AD%A3%E5%BC%8F%E9%80%9A%E8%88%AA"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%82%98%EB%A7%88_%EC%9A%B4%ED%95%98",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%9E%E9%81%8B%E6%B2%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E8%BF%90%E6%B2%B3"
         }
       }
     },
@@ -3026,19 +3026,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1916年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q26678",
         "wikiTitle": {
           "en": "BMW",
           "ko": "BMW",
           "ja": "BMW",
           "zh": "BMW"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/BMW",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8F%85%EC%9D%BC%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B8%B0%EC%97%85%20BMW%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=BMW%E3%81%8C%E3%83%9F%E3%83%A5%E3%83%B3%E3%83%98%E3%83%B3%E3%81%A7%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%AE%9D%E9%A9%AC(BMW)%E5%9C%A8%E6%85%95%E5%B0%BC%E9%BB%91%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/BMW",
+          "ja": "https://ja.wikipedia.org/wiki/BMW",
+          "zh": "https://zh.wikipedia.org/wiki/BMW"
         }
       }
     },
@@ -3067,19 +3067,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1921年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q178516",
         "wikiTitle": {
           "en": "Gucci",
-          "ko": "Gucci",
-          "ja": "Gucci",
-          "zh": "Gucci"
+          "ko": "구찌",
+          "ja": "グッチ",
+          "zh": "古馳"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Gucci",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%20%EB%AA%85%ED%92%88%20%EA%B5%AC%EC%B0%8C(Gucci)%20%ED%94%BC%EB%A0%8C%EC%B2%B4%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B0%E3%83%83%E3%83%81%EF%BC%88Gucci%EF%BC%89%E3%81%8C%E3%83%95%E3%82%A3%E3%83%AC%E3%83%B3%E3%83%84%E3%82%A7%E3%81%A7%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8F%A4%E9%A9%B0(Gucci)%E5%9C%A8%E4%BD%9B%E7%BD%97%E4%BC%A6%E8%90%A8%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%B0%8C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%83%E3%83%81",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8F%A4%E9%A6%B3"
         }
       }
     },
@@ -3108,19 +3108,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1921年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q820507",
         "wikiTitle": {
           "en": "Chanel No. 5",
-          "ko": "Chanel No. 5",
-          "ja": "Chanel No. 5",
-          "zh": "Chanel No. 5"
+          "ko": "샤넬 넘버5",
+          "ja": "シャネルNo.5",
+          "zh": "香奈尔五号"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Chanel_No._5",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%84%EC%84%A4%EC%9D%98%20%ED%96%A5%EC%88%98%20'%EC%83%A4%EB%84%AC%20N%C2%B05'%20%EC%B5%9C%EC%B4%88%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%BC%9D%E8%AA%AC%E3%81%AE%E9%A6%99%E6%B0%B4%E3%80%8E%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%AB%20N%C2%B05%E3%80%8F%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%A6%99%E5%A5%88%E5%84%BF%E4%BA%94%E5%8F%B7%E9%A6%99%E6%B0%B4(Chanel%20No.5)%E9%97%AE%E4%B8%96"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%83%A4%EB%84%AC_%EB%84%98%EB%B2%845",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%ABNo.5",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%A6%99%E5%A5%88%E5%B0%94%E4%BA%94%E5%8F%B7"
         }
       }
     },
@@ -3149,19 +3149,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1922年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q1837704",
         "wikiTitle": {
           "en": "Dissolution of the Ottoman Empire",
-          "ko": "Dissolution of the Ottoman Empire",
-          "ja": "Dissolution of the Ottoman Empire",
-          "zh": "Dissolution of the Ottoman Empire"
+          "ko": "오스만 제국의 해체",
+          "ja": null,
+          "zh": "奧斯曼帝國的解體"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Dissolution_of_the_Ottoman_Empire",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=600%EB%85%84%20%EC%97%AD%EC%82%AC%EC%9D%98%20%EC%98%A4%EC%8A%A4%EB%A7%8C%20%EC%A0%9C%EA%B5%AD%20%EB%A9%B8%EB%A7%9D",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=600%E5%B9%B4%E7%B6%9A%E3%81%84%E3%81%9F%E3%82%AA%E3%82%B9%E3%83%9E%E3%83%B3%E5%B8%9D%E5%9B%BD%E3%81%AE%E6%BB%85%E4%BA%A1",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%BB%B6%E7%BB%AD600%E5%B9%B4%E7%9A%84%E5%A5%A5%E6%96%AF%E6%9B%BC%E5%B8%9D%E5%9B%BD%E8%A7%A3%E4%BD%93"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%8A%A4%EB%A7%8C_%EC%A0%9C%EA%B5%AD%EC%9D%98_%ED%95%B4%EC%B2%B4",
+          "ja": "https://en.wikipedia.org/wiki/Dissolution_of_the_Ottoman_Empire",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A5%A7%E6%96%AF%E6%9B%BC%E5%B8%9D%E5%9C%8B%E7%9A%84%E8%A7%A3%E9%AB%94"
         }
       }
     },
@@ -3190,19 +3190,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1922年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q12154",
         "wikiTitle": {
           "en": "Tutankhamun",
-          "ko": "Tutankhamun",
-          "ja": "Tutankhamun",
-          "zh": "Tutankhamun"
+          "ko": "투탕카멘",
+          "ja": "ツタンカーメン",
+          "zh": "图坦卡蒙"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Tutankhamun",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B4%EC%A7%91%ED%8A%B8%20%ED%8C%8C%EB%9D%BC%EC%98%A4%20%ED%88%AC%ED%83%95%EC%B9%B4%EB%A9%98%EC%9D%98%20%EC%99%95%EB%A6%89%20%EB%B0%9C%EA%B5%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%84%E3%82%BF%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%A1%E3%83%B3%E7%8E%8B%E3%81%AE%E5%A2%93%E3%81%AE%E7%99%BA%E8%A6%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%9B%BE%E5%9D%A6%E5%8D%A1%E8%92%99%E6%B3%95%E8%80%81%E9%99%B5%E5%A2%93%E8%A2%AB%E5%8F%91%E7%8E%B0"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%88%AC%ED%83%95%EC%B9%B4%EB%A9%98",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%BF%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%A1%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%9B%BE%E5%9D%A6%E5%8D%A1%E8%92%99"
         }
       }
     },
@@ -3231,19 +3231,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1923年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q7414",
         "wikiTitle": {
           "en": "The Walt Disney Company",
-          "ko": "The Walt Disney Company",
-          "ja": "The Walt Disney Company",
-          "zh": "The Walt Disney Company"
+          "ko": "월트 디즈니 컴퍼니",
+          "ja": "ウォルト・ディズニー・カンパニー",
+          "zh": "华特迪士尼公司"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9B%94%ED%8A%B8%20%EB%94%94%EC%A6%88%EB%8B%88%20%EC%BB%B4%ED%8D%BC%EB%8B%88%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%88%E3%83%BB%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8D%8E%E7%89%B9%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%85%AC%E5%8F%B8%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9B%94%ED%8A%B8_%EB%94%94%EC%A6%88%EB%8B%88_%EC%BB%B4%ED%8D%BC%EB%8B%88",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%88%E3%83%BB%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8D%8E%E7%89%B9%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%85%AC%E5%8F%B8"
         }
       }
     },
@@ -3272,19 +3272,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（1923年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q180376",
         "wikiTitle": {
           "en": "Hollywood Sign",
-          "ko": "Hollywood Sign",
-          "ja": "Hollywood Sign",
-          "zh": "Hollywood Sign"
+          "ko": "할리우드 사인",
+          "ja": "ハリウッドサイン",
+          "zh": "好萊塢標誌"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Hollywood_Sign",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=LA%20%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C(HOLLYWOOD)%20%EB%8C%80%ED%98%95%20%EA%B0%84%ED%8C%90%20%EC%B5%9C%EC%B4%88%20%EC%84%A4%EC%B9%98",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89%E3%82%B5%E3%82%A4%E3%83%B3%EF%BC%88HOLLYWOOD%EF%BC%89%E3%81%AE%E8%A8%AD%E7%BD%AE",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%BD%E8%8E%B1%E5%9D%9E(HOLLYWOOD)%E6%A0%87%E5%BF%97%E7%AB%96%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C_%EC%82%AC%EC%9D%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89%E3%82%B5%E3%82%A4%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A5%BD%E8%90%8A%E5%A1%A2%E6%A8%99%E8%AA%8C"
         }
       }
     },
@@ -3313,19 +3313,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1928年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q816038",
         "wikiTitle": {
           "en": "Steamboat Willie",
-          "ko": "Steamboat Willie",
-          "ja": "Steamboat Willie",
-          "zh": "Steamboat Willie"
+          "ko": "증기선 윌리",
+          "ja": "蒸気船ウィリー",
+          "zh": "汽船威利号"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Steamboat_Willie",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%AF%B8%ED%82%A4%20%EB%A7%88%EC%9A%B0%EC%8A%A4%20%E3%80%88%EC%A6%9D%EA%B8%B0%EC%84%A0%20%EC%9C%8C%EB%A6%AC%E3%80%89%EB%A1%9C%20%EC%B2%AB%20%EB%93%B1%EC%9E%A5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9F%E3%83%83%E3%82%AD%E3%83%BC%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%80%8E%E8%92%B8%E6%B0%97%E8%88%B9%E3%82%A6%E3%82%A3%E3%83%AA%E3%83%BC%E3%80%8F%E3%81%A7%E5%88%9D%E7%99%BB%E5%A0%B4",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%B1%B3%E8%80%81%E9%BC%A0%E5%9C%A8%E3%80%8A%E5%A8%81%E5%88%A9%E5%8F%B7%E6%B1%BD%E8%88%B9%E3%80%8B%E4%B8%AD%E9%A6%96%E6%AC%A1%E7%99%BB%E5%9C%BA"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A6%9D%EA%B8%B0%EC%84%A0_%EC%9C%8C%EB%A6%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E8%92%B8%E6%B0%97%E8%88%B9%E3%82%A6%E3%82%A3%E3%83%AA%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B1%BD%E8%88%B9%E5%A8%81%E5%88%A9%E5%8F%B7"
         }
       }
     },
@@ -3354,19 +3354,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1928年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q12190",
         "wikiTitle": {
           "en": "Penicillin",
-          "ko": "Penicillin",
-          "ja": "Penicillin",
-          "zh": "Penicillin"
+          "ko": "페니실린",
+          "ja": "ペニシリン",
+          "zh": "青霉素"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Penicillin",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%8C%EB%A0%89%EC%82%B0%EB%8D%94%20%ED%94%8C%EB%A0%88%EB%B0%8D%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%ED%95%AD%EC%83%9D%EC%A0%9C%20'%ED%8E%98%EB%8B%88%EC%8B%A4%EB%A6%B0'%20%EB%B0%9C%EA%B2%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%95%E3%83%AC%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AB%E3%82%88%E3%82%8B%E6%8A%97%E7%94%9F%E7%89%A9%E8%B3%AA%E3%80%8E%E3%83%9A%E3%83%8B%E3%82%B7%E3%83%AA%E3%83%B3%E3%80%8F%E3%81%AE%E7%99%BA%E8%A6%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%BC%97%E8%8E%B1%E6%98%8E%E5%8F%91%E7%8E%B0%E4%BA%BA%E7%B1%BB%E9%A6%96%E4%B8%AA%E6%8A%97%E7%94%9F%E7%B4%A0%E9%9D%92%E9%9C%89%E7%B4%A0"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8E%98%EB%8B%88%EC%8B%A4%EB%A6%B0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%8B%E3%82%B7%E3%83%AA%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%9D%92%E9%9C%89%E7%B4%A0"
         }
       }
     },
@@ -3395,19 +3395,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1928年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q27645375",
         "wikiTitle": {
           "en": "Sliced bread",
-          "ko": "Sliced bread",
-          "ja": "Sliced bread",
-          "zh": "Sliced bread"
+          "ko": null,
+          "ja": null,
+          "zh": "吐司"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Sliced_bread",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EA%B8%B0%EA%B3%84%EB%A1%9C%20%EB%AF%B8%EB%A6%AC%20%EC%8D%B0%EC%96%B4%20%ED%8C%8C%EB%8A%94%20%EC%8B%9D%EB%B9%B5(%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4%20%EB%B8%8C%EB%A0%88%EB%93%9C)%20%EC%B5%9C%EC%B4%88%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%B8%82%E8%B2%A9%E3%81%AE%E6%A9%9F%E6%A2%B0%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B9%E9%A3%9F%E3%83%91%E3%83%B3%E3%81%8C%E5%88%9D%E7%99%BB%E5%A0%B4",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%9C%BA%E5%99%A8%E9%A2%84%E5%85%88%E5%88%87%E7%89%87%E7%9A%84%E9%9D%A2%E5%8C%85%E9%A6%96%E6%AC%A1%E4%B8%8A%E5%B8%82"
+          "ko": "https://en.wikipedia.org/wiki/Sliced_bread",
+          "ja": "https://en.wikipedia.org/wiki/Sliced_bread",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%90%90%E5%8F%B8"
         }
       }
     },
@@ -3436,19 +3436,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1929年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q109886",
         "wikiTitle": {
           "en": "1st Academy Awards",
-          "ko": "1st Academy Awards",
-          "ja": "1st Academy Awards",
-          "zh": "1st Academy Awards"
+          "ko": "제1회 아카데미상",
+          "ja": "第1回アカデミー賞",
+          "zh": "第1届奥斯卡金像奖"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/1st_Academy_Awards",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%9C1%ED%9A%8C%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%EC%8B%9C%EC%83%81%EC%8B%9D(%EC%98%A4%EC%8A%A4%EC%B9%B4)%20%EA%B0%9C%EC%B5%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC1%E5%9B%9E%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%E8%B3%9E%E6%8E%88%E8%B3%9E%E5%BC%8F",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%B8%80%E5%B1%8A%E5%A5%A5%E6%96%AF%E5%8D%A1%E9%87%91%E5%83%8F%E5%A5%96%E4%B8%BE%E8%A1%8C"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A0%9C1%ED%9A%8C_%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%83%81",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%AC%AC1%E5%9B%9E%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%E8%B3%9E",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%AC%AC1%E5%B1%8A%E5%A5%A5%E6%96%AF%E5%8D%A1%E9%87%91%E5%83%8F%E5%A5%96"
         }
       }
     },
@@ -3477,19 +3477,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1930年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q48432",
         "wikiTitle": {
           "en": "1930 FIFA World Cup",
-          "ko": "1930 FIFA World Cup",
-          "ja": "1930 FIFA World Cup",
-          "zh": "1930 FIFA World Cup"
+          "ko": "1930년 FIFA 월드컵",
+          "ja": "1930 FIFAワールドカップ",
+          "zh": "1930年國際足協世界盃"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%9C1%ED%9A%8C%20%EC%9A%B0%EB%A3%A8%EA%B3%BC%EC%9D%B4%20FIFA%20%EC%9B%94%EB%93%9C%EC%BB%B5%20%EA%B0%9C%EC%B5%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC1%E5%9B%9EFIFA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97%EF%BC%88%E3%82%A6%E3%83%AB%E3%82%B0%E3%82%A2%E3%82%A4%E5%A4%A7%E4%BC%9A%EF%BC%89%E9%96%8B%E5%82%AC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%B8%80%E5%B1%8A%E4%B9%8C%E6%8B%89%E5%9C%AD%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BE%E5%8A%9E"
+          "ko": "https://ko.wikipedia.org/wiki/1930%EB%85%84_FIFA_%EC%9B%94%EB%93%9C%EC%BB%B5",
+          "ja": "https://ja.wikipedia.org/wiki/1930_FIFA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97",
+          "zh": "https://zh.wikipedia.org/wiki/1930%E5%B9%B4%E5%9C%8B%E9%9A%9B%E8%B6%B3%E5%8D%94%E4%B8%96%E7%95%8C%E7%9B%83"
         }
       }
     },
@@ -3518,19 +3518,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1930年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q339",
         "wikiTitle": {
           "en": "Pluto",
-          "ko": "Pluto",
-          "ja": "Pluto",
-          "zh": "Pluto"
+          "ko": "명왕성",
+          "ja": "冥王星",
+          "zh": "冥王星"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Pluto",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%83%9C%EC%96%91%EA%B3%84%20%EC%99%B8%EA%B3%BD%20%EC%B2%9C%EC%B2%B4%20'%EB%AA%85%EC%99%95%EC%84%B1(Pluto)'%20%EB%B0%9C%EA%B2%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%86%A5%E7%8E%8B%E6%98%9F%EF%BC%88Pluto%EF%BC%89%E3%81%AE%E7%99%BA%E8%A6%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A4%A9%E6%96%87%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%86%A5%E7%8E%8B%E6%98%9F"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%AA%85%EC%99%95%EC%84%B1",
+          "ja": "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E6%98%9F",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E6%98%9F"
         }
       }
     },
@@ -3559,19 +3559,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（1931年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q9188",
         "wikiTitle": {
           "en": "Empire State Building",
-          "ko": "Empire State Building",
-          "ja": "Empire State Building",
-          "zh": "Empire State Building"
+          "ko": "엠파이어 스테이트 빌딩",
+          "ja": "エンパイア・ステート・ビルディング",
+          "zh": "帝国大厦"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Empire_State_Building",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%89%B4%EC%9A%95%20%EC%97%A0%ED%8C%8C%EC%9D%B4%EC%96%B4%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%20%EB%B9%8C%EB%94%A9%20%EC%99%84%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%80%8E%E3%82%A8%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%83%88%E3%83%BB%E3%83%93%E3%83%AB%E3%80%8F%E5%AE%8C%E6%88%90",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BA%BD%E7%BA%A6%E5%B8%9D%E5%9B%BD%E5%A4%A7%E5%8E%A6%E8%90%BD%E6%88%90%E5%BC%80%E6%94%BE"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%A0%ED%8C%8C%EC%9D%B4%EC%96%B4_%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8_%EB%B9%8C%EB%94%A9",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%83%88%E3%83%BB%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%B8%9D%E5%9B%BD%E5%A4%A7%E5%8E%A6"
         }
       }
     },
@@ -3600,19 +3600,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（1931年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q79961",
         "wikiTitle": {
           "en": "Christ the Redeemer (statue)",
-          "ko": "Christ the Redeemer (statue)",
-          "ja": "Christ the Redeemer (statue)",
-          "zh": "Christ the Redeemer (statue)"
+          "ko": "구세주 그리스도상",
+          "ja": "コルコバードのキリスト像",
+          "zh": "救世基督像"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B8%8C%EB%9D%BC%EC%A7%88%20%EB%A6%AC%EC%9A%B0%20%EC%98%88%EC%88%98%EC%83%81%20%EC%99%84%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E3%83%BB%E3%83%AA%E3%82%AA%E3%81%AE%E3%80%8E%E3%82%B3%E3%83%AB%E3%82%B3%E3%83%90%E3%83%BC%E3%83%89%E3%81%AE%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E5%83%8F%E3%80%8F%E5%AE%8C%E6%88%90",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%B7%B4%E8%A5%BF%E9%87%8C%E7%BA%A6%E7%83%AD%E5%86%85%E5%8D%A2%E5%9F%BA%E7%9D%A3%E5%83%8F%E8%90%BD%E6%88%90"
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%84%B8%EC%A3%BC_%EA%B7%B8%EB%A6%AC%EC%8A%A4%EB%8F%84%EC%83%81",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AB%E3%82%B3%E3%83%90%E3%83%BC%E3%83%89%E3%81%AE%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E5%83%8F",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%95%91%E4%B8%96%E5%9F%BA%E7%9D%A3%E5%83%8F"
         }
       }
     },
@@ -3641,19 +3641,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1932年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q170484",
         "wikiTitle": {
           "en": "Lego",
-          "ko": "Lego",
-          "ja": "Lego",
-          "zh": "Lego"
+          "ko": "레고",
+          "ja": "レゴ",
+          "zh": "樂高"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Lego",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8D%B4%EB%A7%88%ED%81%AC%20%EC%99%84%EA%B5%AC%20%EA%B8%B0%EC%97%85%20%EB%A0%88%EA%B3%A0(LEGO)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF%E3%81%A7%E3%83%AC%E3%82%B4%EF%BC%88LEGO%EF%BC%89%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B9%90%E9%AB%98(LEGO)%E5%9C%A8%E4%B8%B9%E9%BA%A6%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A0%88%EA%B3%A0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B4",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%A8%82%E9%AB%98"
         }
       }
     },
@@ -3682,19 +3682,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（1937年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q44440",
         "wikiTitle": {
           "en": "Golden Gate Bridge",
-          "ko": "Golden Gate Bridge",
-          "ja": "Golden Gate Bridge",
-          "zh": "Golden Gate Bridge"
+          "ko": "골든게이트교",
+          "ja": "ゴールデン・ゲート・ブリッジ",
+          "zh": "金门大桥"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%83%8C%ED%94%84%EB%9E%80%EC%8B%9C%EC%8A%A4%EC%BD%94%20%EA%B8%88%EB%AC%B8%EA%B5%90(%EA%B3%A8%EB%93%A0%EA%B2%8C%EC%9D%B4%ED%8A%B8%20%EB%B8%8C%EB%A6%AC%EC%A7%80)%20%EA%B0%9C%ED%86%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3%E3%80%8E%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%88%E3%83%BB%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%80%8F%E9%96%8B%E9%80%9A",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%97%A7%E9%87%91%E5%B1%B1%E9%87%91%E9%97%A8%E5%A4%A7%E6%A1%A5%E9%80%9A%E8%BD%A6"
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B3%A8%EB%93%A0%EA%B2%8C%EC%9D%B4%ED%8A%B8%EA%B5%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%88%E3%83%BB%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%87%91%E9%97%A8%E5%A4%A7%E6%A1%A5"
         }
       }
     },
@@ -3723,19 +3723,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1937年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q606132",
         "wikiTitle": {
           "en": "Spam (food)",
-          "ko": "Spam (food)",
-          "ja": "Spam (food)",
-          "zh": "Spam (food)"
+          "ko": "스팸",
+          "ja": "スパム",
+          "zh": "Spam (品牌)"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Spam_(food)",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%86%B5%EC%A1%B0%EB%A6%BC%20%ED%96%84%20'%EC%8A%A4%ED%8C%B8(SPAM)'%20%EC%B5%9C%EC%B4%88%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%BC%B6%E8%A9%B0%E3%83%8F%E3%83%A0%E3%80%8E%E3%82%B9%E3%83%91%E3%83%A0%EF%BC%88SPAM%EF%BC%89%E3%80%8F%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E6%A3%92%E5%8D%88%E9%A4%90%E8%82%89(SPAM)%E9%A6%96%E6%AC%A1%E6%8E%A8%E5%87%BA"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8C%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%83%A0",
+          "zh": "https://zh.wikipedia.org/wiki/Spam_(%E5%93%81%E7%89%8C)"
         }
       }
     },
@@ -3764,19 +3764,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1937年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q53268",
         "wikiTitle": {
           "en": "Toyota",
-          "ko": "Toyota",
-          "ja": "Toyota",
-          "zh": "Toyota"
+          "ko": "토요타 자동차",
+          "ja": "トヨタ自動車",
+          "zh": "丰田汽车"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Toyota",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%BC%EB%B3%B8%20%ED%86%A0%EC%9A%94%ED%83%80(Toyota)%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%88%E3%83%A8%E3%82%BF%E8%87%AA%E5%8B%95%E8%BB%8A%E3%81%AE%E8%A8%AD%E7%AB%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%B0%E7%94%B0%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%86%A0%EC%9A%94%ED%83%80_%EC%9E%90%EB%8F%99%EC%B0%A8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E8%87%AA%E5%8B%95%E8%BB%8A",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%B8%B0%E7%94%B0%E6%B1%BD%E8%BD%A6"
         }
       }
     },
@@ -3805,19 +3805,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1937年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q246",
         "wikiTitle": {
           "en": "Volkswagen",
-          "ko": "Volkswagen",
-          "ja": "Volkswagen",
-          "zh": "Volkswagen"
+          "ko": "폭스바겐",
+          "ja": "フォルクスワーゲン",
+          "zh": "大众汽车"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Volkswagen",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8F%85%EC%9D%BC%20%ED%8F%AD%EC%8A%A4%EB%B0%94%EA%B2%90(Volkswagen)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%95%E3%82%A9%E3%83%AB%E3%82%AF%E3%82%B9%E3%83%AF%E3%83%BC%E3%82%B2%E3%83%B3%E3%81%AE%E8%A8%AD%E7%AB%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%BE%B7%E5%9B%BD%E5%A4%A7%E4%BC%97%E6%B1%BD%E8%BD%A6%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8F%AD%EC%8A%A4%EB%B0%94%EA%B2%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%AB%E3%82%AF%E3%82%B9%E3%83%AF%E3%83%BC%E3%82%B2%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BC%97%E6%B1%BD%E8%BD%A6"
         }
       }
     },
@@ -3846,19 +3846,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1938年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q20716",
         "wikiTitle": {
           "en": "Samsung",
-          "ko": "Samsung",
-          "ja": "Samsung",
-          "zh": "Samsung"
+          "ko": "삼성그룹",
+          "ja": "サムスングループ",
+          "zh": "三星集团"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Samsung",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%82%BC%EC%84%B1(Samsung)%20%EB%8C%80%EA%B5%AC%20%EC%82%BC%EC%84%B1%EC%83%81%ED%9A%8C%EB%A1%9C%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3%EF%BC%88%E4%B8%89%E6%98%9F%E5%95%86%E4%BC%9A%EF%BC%89%E3%81%AE%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%89%E6%98%9F(Samsung)%E4%BD%9C%E4%B8%BA%E4%B8%89%E6%98%9F%E5%95%86%E4%BC%9A%E5%9C%A8%E5%A4%A7%E9%82%B1%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%84%B1%EA%B7%B8%EB%A3%B9",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%9F%E9%9B%86%E5%9B%A2"
         }
       }
     },
@@ -3887,19 +3887,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1938年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q79015",
         "wikiTitle": {
-          "en": "Jerry Siegel",
-          "ko": "Jerry Siegel",
-          "ja": "Jerry Siegel",
-          "zh": "Jerry Siegel"
+          "en": "Superman",
+          "ko": "슈퍼맨",
+          "ja": "スーパーマン (架空の人物)",
+          "zh": "超人"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Jerry_Siegel",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BD%94%EB%AF%B9%EC%8A%A4%20%ED%9E%88%EC%96%B4%EB%A1%9C%20%E3%80%88%EC%8A%88%ED%8D%BC%EB%A7%A8%E3%80%89%20%EC%B2%AB%20%EB%93%B1%EC%9E%A5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%80%8E%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%B3%E3%80%8F%E3%81%8C%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%81%AB%E5%88%9D%E7%99%BB%E5%A0%B4",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%E3%80%8A%E8%B6%85%E4%BA%BA%E3%80%8B%E5%9C%A8%E6%BC%AB%E7%94%BB%E4%B8%AD%E9%A6%96%E6%AC%A1%E7%99%BB%E5%9C%BA"
+          "en": "https://en.wikipedia.org/wiki/Superman",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%88%ED%8D%BC%EB%A7%A8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%B3_(%E6%9E%B6%E7%A9%BA%E3%81%AE%E4%BA%BA%E7%89%A9)",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%B6%85%E4%BA%BA"
         }
       }
     },
@@ -3928,19 +3928,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1939年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q2695156",
         "wikiTitle": {
-          "en": "Bob Kane",
-          "ko": "Bob Kane",
-          "ja": "Bob Kane",
-          "zh": "Bob Kane"
+          "en": "Batman",
+          "ko": "배트맨",
+          "ja": "バットマン (架空の人物)",
+          "zh": "蝙蝠俠"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Bob_Kane",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%9E%88%EC%96%B4%EB%A1%9C%20%E3%80%88%EB%B0%B0%ED%8A%B8%EB%A7%A8%E3%80%89%20%EC%BD%94%EB%AF%B9%EC%8A%A4%20%EC%B2%AB%20%EB%93%B1%EC%9E%A5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%80%8E%E3%83%90%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3%E3%80%8F%E3%81%8C%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%81%AB%E5%88%9D%E7%99%BB%E5%A0%B4",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E3%80%8A%E8%9D%99%E8%9D%A0%E4%BE%A0%E3%80%8B%E5%9C%A8%E6%BC%AB%E7%94%BB%E4%B8%AD%E9%A6%96%E6%AC%A1%E7%99%BB%E5%9C%BA"
+          "en": "https://en.wikipedia.org/wiki/Batman",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B0%B0%ED%8A%B8%EB%A7%A8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3_(%E6%9E%B6%E7%A9%BA%E3%81%AE%E4%BA%BA%E7%89%A9)",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%9D%99%E8%9D%A0%E4%BF%A0"
         }
       }
     },
@@ -3969,19 +3969,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1939年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q362",
         "wikiTitle": {
           "en": "World War II",
-          "ko": "World War II",
-          "ja": "World War II",
-          "zh": "World War II"
+          "ko": "제2차 세계 대전",
+          "ja": "第二次世界大戦",
+          "zh": "第二次世界大战"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/World_War_II",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%9C2%EC%B0%A8%20%EC%84%B8%EA%B3%84%EB%8C%80%EC%A0%84%20%EB%B0%9C%EB%B0%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6%E3%81%AE%E5%8B%83%E7%99%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98%E7%88%86%E5%8F%91"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A0%9C2%EC%B0%A8_%EC%84%B8%EA%B3%84_%EB%8C%80%EC%A0%84",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98"
         }
       }
     },
@@ -4010,19 +4010,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1940年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q38076",
         "wikiTitle": {
           "en": "McDonald's",
-          "ko": "McDonald's",
-          "ja": "McDonald's",
-          "zh": "McDonald's"
+          "ko": "맥도날드",
+          "ja": "マクドナルド",
+          "zh": "麦当劳"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/McDonald's",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C(McDonald's)%201%ED%98%B8%EC%A0%90%20%EC%98%A4%ED%94%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%891%E5%8F%B7%E5%BA%97%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%B8%80%E5%AE%B6%E9%BA%A6%E5%BD%93%E5%8A%B3%E9%A4%90%E5%8E%85%E5%BC%80%E4%B8%9A"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%BA%A6%E5%BD%93%E5%8A%B3"
         }
       }
     },
@@ -4051,19 +4051,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1943年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q54078",
         "wikiTitle": {
           "en": "IKEA",
-          "ko": "IKEA",
-          "ja": "IKEA",
-          "zh": "IKEA"
+          "ko": "이케아",
+          "ja": "イケア",
+          "zh": "宜家家居"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/IKEA",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%EC%9B%A8%EB%8D%B4%20%EA%B0%80%EA%B5%AC%20%EA%B8%B0%EC%97%85%20%EC%9D%B4%EC%BC%80%EC%95%84(IKEA)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%81%A7%E3%82%A4%E3%82%B1%E3%82%A2%EF%BC%88IKEA%EF%BC%89%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%AE%9C%E5%AE%B6(IKEA)%E5%9C%A8%E7%91%9E%E5%85%B8%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%BC%80%EC%95%84",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B1%E3%82%A2",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%AE%9C%E5%AE%B6%E5%AE%B6%E5%B1%85"
         }
       }
     },
@@ -4092,19 +4092,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1945年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q1065",
         "wikiTitle": {
           "en": "United Nations",
-          "ko": "United Nations",
-          "ja": "United Nations",
-          "zh": "United Nations"
+          "ko": "유엔",
+          "ja": "国際連合",
+          "zh": "联合国"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/United_Nations",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EA%B5%AD%EC%A0%9C%EC%97%B0%ED%95%A9(UN)%20%EA%B3%B5%EC%8B%9D%20%EC%B0%BD%EC%84%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%EF%BC%88UN%EF%BC%89%E3%81%AE%E7%99%BA%E8%B6%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%81%94%E5%90%88%E5%9B%BD(UN)%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%97%94",
+          "ja": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%81%94%E5%90%88%E5%9B%BD"
         }
       }
     },
@@ -4133,19 +4133,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1945年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q127956",
         "wikiTitle": {
           "en": "Microwave oven",
-          "ko": "Microwave oven",
-          "ja": "Microwave oven",
-          "zh": "Microwave oven"
+          "ko": "전자레인지",
+          "ja": "電子レンジ",
+          "zh": "微波炉"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Microwave_oven",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80(%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%9B%A8%EC%9D%B4%EB%B8%8C%20%EC%98%A4%EB%B8%90)%20%EB%B0%9C%EB%AA%85",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E9%9B%BB%E5%AD%90%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%AE%E7%99%BA%E6%98%8E",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%BE%AE%E6%B3%A2%E7%82%89%E8%A2%AB%E5%8F%91%E6%98%8E"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80",
+          "ja": "https://ja.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E3%83%AC%E3%83%B3%E3%82%B8",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%BE%AE%E6%B3%A2%E7%82%89"
         }
       }
     },
@@ -4174,19 +4174,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1946年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q169399",
         "wikiTitle": {
           "en": "ENIAC",
-          "ko": "ENIAC",
+          "ko": "에니악",
           "ja": "ENIAC",
-          "zh": "ENIAC"
+          "zh": "電子數值積分計算機"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/ENIAC",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%B5%9C%EC%B4%88%EC%9D%98%20%EB%B2%94%EC%9A%A9%20%EC%A0%84%EC%9E%90%EC%8B%9D%20%EC%BB%B4%ED%93%A8%ED%84%B0%20'%EC%97%90%EB%8B%88%EC%95%85(ENIAC)'%20%EA%B3%B5%EA%B0%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E6%B1%8E%E7%94%A8%E9%9B%BB%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%80%8EENIAC%E3%80%8F%E5%85%AC%E9%96%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%B8%80%E5%8F%B0%E9%80%9A%E7%94%A8%E7%94%B5%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%20ENIAC%20%E9%97%AE%E4%B8%96"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%90%EB%8B%88%EC%95%85",
+          "ja": "https://ja.wikipedia.org/wiki/ENIAC",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E6%95%B8%E5%80%BC%E7%A9%8D%E5%88%86%E8%A8%88%E7%AE%97%E6%A9%9F"
         }
       }
     },
@@ -4215,19 +4215,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1946年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q41187",
         "wikiTitle": {
           "en": "Sony",
-          "ko": "Sony",
-          "ja": "Sony",
-          "zh": "Sony"
+          "ko": "소니그룹",
+          "ja": "ソニーグループ",
+          "zh": "索尼"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Sony",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%BC%EB%B3%B8%20%EC%86%8C%EB%8B%88(Sony)%20%EB%8F%84%EC%BF%84%ED%86%B5%EC%8B%A0%EA%B3%B5%EC%97%85%EC%9C%BC%EB%A1%9C%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%BD%E3%83%8B%E3%83%BC%EF%BC%88%E6%9D%B1%E4%BA%AC%E9%80%9A%E4%BF%A1%E5%B7%A5%E6%A5%AD%EF%BC%89%E3%81%AE%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%B4%A2%E5%B0%BC(Sony)%E5%9C%A8%E4%B8%9C%E4%BA%AC%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%8B%88%EA%B7%B8%EB%A3%B9",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%8B%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%B4%A2%E5%B0%BC"
         }
       }
     },
@@ -4256,19 +4256,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1947年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q27586",
         "wikiTitle": {
           "en": "Ferrari",
-          "ko": "Ferrari",
-          "ja": "Ferrari",
-          "zh": "Ferrari"
+          "ko": "페라리",
+          "ja": "フェラーリ",
+          "zh": "法拉利汽車"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Ferrari",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%20%EC%8A%88%ED%8D%BC%EC%B9%B4%20%EB%B8%8C%EB%9E%9C%EB%93%9C%20%ED%8E%98%EB%9D%BC%EB%A6%AC(Ferrari)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A8%E3%83%B3%E3%83%84%E3%82%A9%E3%83%BB%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%AA%E3%81%8C%E3%80%8E%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%AA%E3%80%8F%E3%82%92%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%81%A9%E4%BD%90%C2%B7%E6%B3%95%E6%8B%89%E5%88%A9%E5%88%9B%E7%AB%8B%20Ferrari"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8E%98%EB%9D%BC%EB%A6%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%AA",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B3%95%E6%8B%89%E5%88%A9%E6%B1%BD%E8%BB%8A"
         }
       }
     },
@@ -4297,19 +4297,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1947年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q5339",
         "wikiTitle": {
           "en": "Transistor",
-          "ko": "Transistor",
-          "ja": "Transistor",
-          "zh": "Transistor"
+          "ko": "트랜지스터",
+          "ja": "トランジスタ",
+          "zh": "晶体管"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Transistor",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%98%84%EB%8C%80%20%EB%B0%98%EB%8F%84%EC%B2%B4%EC%9D%98%20%EC%8B%9C%EC%B4%88%20'%ED%8A%B8%EB%9E%9C%EC%A7%80%EC%8A%A4%ED%84%B0'%20%EB%B0%9C%EB%AA%85",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%99%E3%83%AB%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AB%E3%82%88%E3%82%8B%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B9%E3%82%BF%E3%81%AE%E7%99%BA%E6%98%8E",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B4%9D%E5%B0%94%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%91%E6%98%8E%E6%99%B6%E4%BD%93%E7%AE%A1"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%9E%9C%EC%A7%80%EC%8A%A4%ED%84%B0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B9%E3%82%BF",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%99%B6%E4%BD%93%E7%AE%A1"
         }
       }
     },
@@ -4338,19 +4338,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1949年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q3895",
         "wikiTitle": {
           "en": "Adidas",
-          "ko": "Adidas",
-          "ja": "Adidas",
-          "zh": "Adidas"
+          "ko": "아디다스",
+          "ja": "アディダス",
+          "zh": "愛迪達"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Adidas",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%ED%8F%AC%EC%B8%A0%20%EB%B8%8C%EB%9E%9C%EB%93%9C%20%EC%95%84%EB%94%94%EB%8B%A4%EC%8A%A4(Adidas)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9%EF%BC%88Adidas%EF%BC%89%E3%81%AE%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF(Adidas)%E5%9C%A8%E5%BE%B7%E5%9B%BD%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%94%94%EB%8B%A4%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%84%9B%E8%BF%AA%E9%81%94"
         }
       }
     },
@@ -4379,19 +4379,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1950年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q877332",
         "wikiTitle": {
-          "en": "Credit card",
-          "ko": "Credit card",
-          "ja": "Credit card",
-          "zh": "Credit card"
+          "en": "Diners Club International",
+          "ko": "다이너스 클럽",
+          "ja": "ダイナースクラブ",
+          "zh": "大來國際"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Credit_card",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%84%B8%EA%B3%84%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%ED%98%84%EB%8C%80%EC%8B%9D%20%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C(%EB%8B%A4%EC%9D%B4%EB%84%88%EC%8A%A4%20%ED%81%B4%EB%9F%BD)%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%EF%BC%88%E3%83%80%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%89%E8%AA%95%E7%94%9F",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E4%B8%8A%E7%AC%AC%E4%B8%80%E5%BC%A0%E9%80%9A%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%E9%97%AE%E4%B8%96"
+          "en": "https://en.wikipedia.org/wiki/Diners_Club_International",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%9D%B4%EB%84%88%EC%8A%A4_%ED%81%B4%EB%9F%BD",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BE%86%E5%9C%8B%E9%9A%9B"
         }
       }
     },
@@ -4420,19 +4420,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1950年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q68926",
         "wikiTitle": {
           "en": "1950 Formula One season",
-          "ko": "1950 Formula One season",
-          "ja": "1950 Formula One season",
-          "zh": "1950 Formula One season"
+          "ko": "1950년 포뮬러 원 시즌",
+          "ja": "1950年のF1世界選手権",
+          "zh": "1950年一级方程式赛季"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/1950_Formula_One_season",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8F%AC%EB%AE%AC%EB%9F%AC%20%EC%9B%90(F1)%20%EC%9B%94%EB%93%9C%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD%20%EC%B2%AB%20%EC%8B%9C%EC%A6%8C%20%EA%B0%9C%EC%B5%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=F1%E4%B8%96%E7%95%8C%E9%81%B8%E6%89%8B%E6%A8%A9%E3%81%AE%E5%88%9D%E9%96%8B%E5%82%AC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%A6%96%E5%B1%8A%20F1%20%E4%B8%96%E7%95%8C%E9%94%A6%E6%A0%87%E8%B5%9B%E4%B8%BE%E5%8A%9E"
+          "ko": "https://ko.wikipedia.org/wiki/1950%EB%85%84_%ED%8F%AC%EB%AE%AC%EB%9F%AC_%EC%9B%90_%EC%8B%9C%EC%A6%8C",
+          "ja": "https://ja.wikipedia.org/wiki/1950%E5%B9%B4%E3%81%AEF1%E4%B8%96%E7%95%8C%E9%81%B8%E6%89%8B%E6%A8%A9",
+          "zh": "https://zh.wikipedia.org/wiki/1950%E5%B9%B4%E4%B8%80%E7%BA%A7%E6%96%B9%E7%A8%8B%E5%BC%8F%E8%B5%9B%E5%AD%A3"
         }
       }
     },
@@ -4461,19 +4461,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1953年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q60535862",
         "wikiTitle": {
-          "en": "Double helix",
-          "ko": "Double helix",
-          "ja": "Double helix",
-          "zh": "Double helix"
+          "en": "Nucleic acid double helix",
+          "ko": "핵산 이중 나선",
+          "ja": null,
+          "zh": "核酸双螺旋"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Double_helix",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%99%93%EC%8A%A8%EA%B3%BC%20%ED%81%AC%EB%A6%AD%20DNA%20%EC%9D%B4%EC%A4%91%EB%82%98%EC%84%A0%20%EA%B5%AC%EC%A1%B0%20%EA%B7%9C%EB%AA%85",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AF%E3%83%88%E3%82%BD%E3%83%B3%E3%81%A8%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%AB%E3%82%88%E3%82%8BDNA%E4%BA%8C%E9%87%8D%E3%82%89%E3%81%9B%E3%82%93%E6%A7%8B%E9%80%A0%E3%81%AE%E7%99%BA%E8%A6%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B2%83%E6%A3%AE%E5%92%8C%E5%85%8B%E9%87%8C%E5%85%8B%E5%8F%91%E7%8E%B0%20DNA%20%E5%8F%8C%E8%9E%BA%E6%97%8B%E7%BB%93%E6%9E%84"
+          "en": "https://en.wikipedia.org/wiki/Nucleic_acid_double_helix",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%95%B5%EC%82%B0_%EC%9D%B4%EC%A4%91_%EB%82%98%EC%84%A0",
+          "ja": "https://en.wikipedia.org/wiki/Nucleic_acid_double_helix",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%A0%B8%E9%85%B8%E5%8F%8C%E8%9E%BA%E6%97%8B"
         }
       }
     },
@@ -4502,19 +4502,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1953年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q4567715",
         "wikiTitle": {
-          "en": "Mount Everest",
-          "ko": "Mount Everest",
-          "ja": "Mount Everest",
-          "zh": "Mount Everest"
+          "en": "1953 British Mount Everest expedition",
+          "ko": "1953년 영국 에베레스트 원정대",
+          "ja": null,
+          "zh": "1953年英国珠穆朗玛峰远征"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Mount_Everest",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%97%90%EB%93%9C%EB%A8%BC%EB%93%9C%20%ED%9E%90%EB%9F%AC%EB%A6%AC%C2%B7%ED%85%90%EC%A7%95%20%EB%85%B8%EB%A5%B4%EA%B0%80%EC%9D%B4%20%EC%97%90%EB%B2%A0%EB%A0%88%EC%8A%A4%ED%8A%B8%20%EC%9D%B8%EB%A5%98%20%EC%B5%9C%EC%B4%88%20%EB%93%B1%EC%A0%95",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A8%E3%83%99%E3%83%AC%E3%82%B9%E3%83%88%E4%BA%BA%E9%A1%9E%E5%88%9D%E7%99%BB%E9%A0%82%EF%BC%88%E3%83%92%E3%83%A9%E3%83%AA%E3%83%BC%E3%81%A8%E3%83%86%E3%83%B3%E3%82%B8%E3%83%B3%EF%BC%89",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BA%BA%E7%B1%BB%E9%A6%96%E6%AC%A1%E6%88%90%E5%8A%9F%E7%99%BB%E9%A1%B6%E7%8F%A0%E7%A9%86%E6%9C%97%E7%8E%9B%E5%B3%B0"
+          "en": "https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition",
+          "ko": "https://ko.wikipedia.org/wiki/1953%EB%85%84_%EC%98%81%EA%B5%AD_%EC%97%90%EB%B2%A0%EB%A0%88%EC%8A%A4%ED%8A%B8_%EC%9B%90%EC%A0%95%EB%8C%80",
+          "ja": "https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition",
+          "zh": "https://zh.wikipedia.org/wiki/1953%E5%B9%B4%E8%8B%B1%E5%9B%BD%E7%8F%A0%E7%A9%86%E6%9C%97%E7%8E%9B%E5%B3%B0%E8%BF%9C%E5%BE%81"
         }
       }
     },
@@ -4543,19 +4543,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1955年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q41675",
         "wikiTitle": {
           "en": "Guinness World Records",
-          "ko": "Guinness World Records",
-          "ja": "Guinness World Records",
-          "zh": "Guinness World Records"
+          "ko": "기네스 세계 기록",
+          "ja": "ギネス世界記録",
+          "zh": "吉尼斯世界纪录"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Guinness_World_Records",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%E3%80%88%EA%B8%B0%EB%84%A4%EC%8A%A4%20%EC%84%B8%EA%B3%84%20%EA%B8%B0%EB%A1%9D(%EA%B8%B0%EB%84%A4%EC%8A%A4%EB%B6%81)%E3%80%89%20%EC%B4%88%ED%8C%90%20%EB%B0%9C%ED%96%89",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%80%8E%E3%82%AE%E3%83%8D%E3%82%B9%E4%B8%96%E7%95%8C%E8%A8%98%E9%8C%B2%E3%80%8F%E5%88%9D%E7%89%88%E3%81%AE%E7%99%BA%E8%A1%8C",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E3%80%8A%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E5%A4%A7%E5%85%A8%E3%80%8B%E9%A6%96%E7%89%88%E5%8F%91%E8%A1%8C"
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EB%84%A4%EC%8A%A4_%EC%84%B8%EA%B3%84_%EA%B8%B0%EB%A1%9D",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8D%E3%82%B9%E4%B8%96%E7%95%8C%E8%A8%98%E9%8C%B2",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95"
         }
       }
     },
@@ -4584,19 +4584,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（1955年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q181185",
         "wikiTitle": {
           "en": "Disneyland",
-          "ko": "Disneyland",
-          "ja": "Disneyland",
-          "zh": "Disneyland"
+          "ko": "디즈니랜드",
+          "ja": "ディズニーランド",
+          "zh": "加州迪士尼主題樂園"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Disneyland",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BA%98%EB%A6%AC%ED%8F%AC%EB%8B%88%EC%95%84%20%EB%94%94%EC%A6%88%EB%8B%88%EB%9E%9C%EB%93%9C%20%EC%B5%9C%EC%B4%88%20%EA%B0%9C%EC%9E%A5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E3%80%8E%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%80%8F%E9%96%8B%E5%9C%92",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8A%A0%E5%B7%9E%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E9%A6%96%E6%AC%A1%E5%BC%80%E5%9B%AD"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%94%94%EC%A6%88%EB%8B%88%EB%9E%9C%EB%93%9C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B7%9E%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92"
         }
       }
     },
@@ -4625,19 +4625,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1957年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q80811",
         "wikiTitle": {
           "en": "Sputnik 1",
-          "ko": "Sputnik 1",
-          "ja": "Sputnik 1",
-          "zh": "Sputnik 1"
+          "ko": "스푸트니크 1호",
+          "ja": "スプートニク1号",
+          "zh": "史普尼克1號"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Sputnik_1",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B8%EB%A5%98%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1%20'%EC%8A%A4%ED%91%B8%ED%8A%B8%EB%8B%88%ED%81%AC%201%ED%98%B8'%20%EB%B0%9C%EC%82%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%BA%BA%E9%A1%9E%E5%88%9D%E3%81%AE%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%E3%80%8E%E3%82%B9%E3%83%97%E3%83%BC%E3%83%88%E3%83%8B%E3%82%AF1%E5%8F%B7%E3%80%8F%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BA%BA%E7%B1%BB%E7%AC%AC%E4%B8%80%E9%A2%97%E4%BA%BA%E9%80%A0%E5%8D%AB%E6%98%9F%E2%80%9C%E6%96%AF%E6%99%AE%E7%89%B9%E5%B0%BC%E5%85%8B1%E5%8F%B7%E2%80%9D%E5%8F%91%E5%B0%84"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%91%B8%ED%8A%B8%EB%8B%88%ED%81%AC_1%ED%98%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%97%E3%83%BC%E3%83%88%E3%83%8B%E3%82%AF1%E5%8F%B7",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%99%AE%E5%B0%BC%E5%85%8B1%E8%99%9F"
         }
       }
     },
@@ -4666,19 +4666,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1958年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q23548",
         "wikiTitle": {
           "en": "NASA",
-          "ko": "NASA",
-          "ja": "NASA",
-          "zh": "NASA"
+          "ko": "미국 항공 우주국",
+          "ja": "アメリカ航空宇宙局",
+          "zh": "美国国家航空航天局"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/NASA",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%AF%B8%EA%B5%AD%20%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC%EA%B5%AD(NASA)%20%EC%84%A4%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%B1%80%EF%BC%88NASA%EF%BC%89%E3%81%AE%E8%A8%AD%E7%AB%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%B1%80(NASA)%E6%88%90%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD_%ED%95%AD%EA%B3%B5_%EC%9A%B0%EC%A3%BC%EA%B5%AD",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%B1%80",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%B1%80"
         }
       }
     },
@@ -4707,19 +4707,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1958年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q1051265",
         "wikiTitle": {
           "en": "Instant noodles",
-          "ko": "Instant noodles",
-          "ja": "Instant noodles",
-          "zh": "Instant noodles"
+          "ko": "라면",
+          "ja": "インスタントラーメン",
+          "zh": "即食麵"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Instant_noodles",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%88%EB%8F%84%20%EB%AA%A8%EB%AA%A8%ED%9B%84%EC%BF%A0%20%EC%84%B8%EA%B3%84%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EC%9D%B8%EC%8A%A4%ED%84%B4%ED%8A%B8%20%EB%9D%BC%EB%A9%B4%20%EB%B0%9C%EB%AA%85",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%AE%89%E8%97%A4%E7%99%BE%E7%A6%8F%E3%81%8C%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E3%82%92%E7%99%BA%E6%98%8E",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%AE%89%E8%97%A4%E7%99%BE%E7%A6%8F%E5%8F%91%E6%98%8E%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E5%8C%85%E6%96%B9%E4%BE%BF%E9%9D%A2"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%9D%BC%EB%A9%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8D%B3%E9%A3%9F%E9%BA%B5"
         }
       }
     },
@@ -4748,19 +4748,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1959年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q167447",
         "wikiTitle": {
           "en": "Barbie",
-          "ko": "Barbie",
-          "ja": "Barbie",
-          "zh": "Barbie"
+          "ko": "바비",
+          "ja": "バービー",
+          "zh": "芭比娃娃"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Barbie",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%94%EB%B9%84(Barbie)%20%EC%9D%B8%ED%98%95%20%EC%B5%9C%EC%B4%88%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%80%8E%E3%83%90%E3%83%BC%E3%83%93%E3%83%BC%EF%BC%88Barbie%EF%BC%89%E3%80%8F%E4%BA%BA%E5%BD%A2%E3%81%AE%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8A%AD%E6%AF%94%E5%A8%83%E5%A8%83(Barbie)%E9%A6%96%E6%AC%A1%E9%97%AE%E4%B8%96"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B0%94%EB%B9%84",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%93%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8A%AD%E6%AF%94%E5%A8%83%E5%A8%83"
         }
       }
     },
@@ -4789,19 +4789,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1960年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q1299",
         "wikiTitle": {
           "en": "The Beatles",
-          "ko": "The Beatles",
-          "ja": "The Beatles",
-          "zh": "The Beatles"
+          "ko": "비틀즈",
+          "ja": "ビートルズ",
+          "zh": "披頭四樂隊"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/The_Beatles",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%84%EC%84%A4%EC%9D%98%20%EB%A1%9D%20%EB%B0%B4%EB%93%9C%20%EB%B9%84%ED%8B%80%EC%A6%88(The%20Beatles)%20%EA%B2%B0%EC%84%B1",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AD%E3%83%83%E3%82%AF%E3%83%90%E3%83%B3%E3%83%89%E3%80%8E%E3%82%B6%E3%83%BB%E3%83%93%E3%83%BC%E3%83%88%E3%83%AB%E3%82%BA%E3%80%8F%E7%B5%90%E6%88%90",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BC%A0%E5%A5%87%E6%91%87%E6%BB%9A%E4%B9%90%E9%98%9F%E6%8A%AB%E5%A4%B4%E5%A3%AB(The%20Beatles)%E6%88%90%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B9%84%ED%8B%80%EC%A6%88",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%BC%E3%83%88%E3%83%AB%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%8A%AB%E9%A0%AD%E5%9B%9B%E6%A8%82%E9%9A%8A"
         }
       }
     },
@@ -4830,19 +4830,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1961年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q182524",
         "wikiTitle": {
-          "en": "Yuri Gagarin",
-          "ko": "Yuri Gagarin",
-          "ja": "Yuri Gagarin",
-          "zh": "Yuri Gagarin"
+          "en": "Vostok 1",
+          "ko": "보스토크 1호",
+          "ja": "ボストーク1号",
+          "zh": "東方一號"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9C%A0%EB%A6%AC%20%EA%B0%80%EA%B0%80%EB%A6%B0%20%EC%9D%B8%EB%A5%98%20%EC%B5%9C%EC%B4%88%20%EC%9A%B0%EC%A3%BC%20%EB%B9%84%ED%96%89%20%EC%84%B1%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AC%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E4%BA%BA%E9%A1%9E%E5%88%9D%E3%81%AE%E6%9C%89%E4%BA%BA%E5%AE%87%E5%AE%99%E9%A3%9B%E8%A1%8C",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8A%A0%E5%8A%A0%E6%9E%97%E6%88%90%E4%B8%BA%E8%BF%9B%E5%85%A5%E5%A4%AA%E7%A9%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BD%8D%E4%BA%BA%E7%B1%BB"
+          "en": "https://en.wikipedia.org/wiki/Vostok_1",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%8A%A4%ED%86%A0%ED%81%AC_1%ED%98%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AF1%E5%8F%B7",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9%E4%B8%80%E8%99%9F"
         }
       }
     },
@@ -4871,19 +4871,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1962年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q79037",
         "wikiTitle": {
-          "en": "Stan Lee",
-          "ko": "Stan Lee",
-          "ja": "Stan Lee",
-          "zh": "Stan Lee"
+          "en": "Spider-Man",
+          "ko": "스파이더맨",
+          "ja": "スパイダーマン",
+          "zh": "蜘蛛人"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Stan_Lee",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%88%EB%B8%94%20%ED%9E%88%EC%96%B4%EB%A1%9C%20%E3%80%88%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94%EB%A7%A8%E3%80%89%20%EC%BD%94%EB%AF%B9%EC%8A%A4%20%EC%B2%AB%20%EB%93%B1%EC%9E%A5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AB%E3%80%8E%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3%E3%80%8F%E5%88%9D%E7%99%BB%E5%A0%B4",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%BC%AB%E5%A8%81%E8%8B%B1%E9%9B%84%E3%80%8A%E8%9C%98%E8%9B%9B%E4%BE%A0%E3%80%8B%E9%A6%96%E6%AC%A1%E7%99%BB%E5%9C%BA"
+          "en": "https://en.wikipedia.org/wiki/Spider-Man",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94%EB%A7%A8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%9C%98%E8%9B%9B%E4%BA%BA"
         }
       }
     },
@@ -4912,19 +4912,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1963年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q35886",
         "wikiTitle": {
           "en": "Lamborghini",
-          "ko": "Lamborghini",
-          "ja": "Lamborghini",
-          "zh": "Lamborghini"
+          "ko": "람보르기니",
+          "ja": "ランボルギーニ",
+          "zh": "藍寶堅尼"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Lamborghini",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%20%EC%8A%88%ED%8D%BC%EC%B9%B4%20%EB%9E%8C%EB%B3%B4%EB%A5%B4%EA%B8%B0%EB%8B%88(Lamborghini)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A9%E3%83%B3%E3%83%9C%E3%83%AB%E3%82%AE%E3%83%BC%E3%83%8B%EF%BC%88Lamborghini%EF%BC%89%E3%81%AE%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC(Lamborghini)%E8%B6%85%E8%B7%91%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%9E%8C%EB%B3%B4%EB%A5%B4%EA%B8%B0%EB%8B%88",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%9C%E3%83%AB%E3%82%AE%E3%83%BC%E3%83%8B",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%97%8D%E5%AF%B6%E5%A0%85%E5%B0%BC"
         }
       }
     },
@@ -4953,19 +4953,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1964年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q483915",
         "wikiTitle": {
           "en": "Nike, Inc.",
-          "ko": "Nike, Inc.",
-          "ja": "Nike, Inc.",
-          "zh": "Nike, Inc."
+          "ko": "나이키",
+          "ja": "ナイキ",
+          "zh": "耐克"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Nike%2C_Inc.",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%82%98%EC%9D%B4%ED%82%A4(Nike%2C%20%EB%B8%94%EB%A3%A8%EB%A6%AC%EB%B3%B8%20%EC%8A%A4%ED%8F%AC%EC%B8%A0)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8A%E3%82%A4%E3%82%AD%EF%BC%88%E3%83%96%E3%83%AB%E3%83%BC%E3%83%AA%E3%83%9C%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%EF%BC%89%E3%81%AE%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%80%90%E5%85%8B(Nike)%E5%89%8D%E8%BA%AB%E8%93%9D%E5%B8%A6%E4%BD%93%E8%82%B2%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%9D%B4%ED%82%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%AD",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%80%90%E5%85%8B"
         }
       }
     },
@@ -4994,19 +4994,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1964年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q212193",
         "wikiTitle": {
           "en": "Nutella",
-          "ko": "Nutella",
-          "ja": "Nutella",
-          "zh": "Nutella"
+          "ko": "누텔라 (브랜드)",
+          "ja": "ヌテラ",
+          "zh": "能多益"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Nutella",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%85%EB%A7%88%EC%9D%98%20%EC%B4%88%EC%BD%94%EC%9E%BC%20'%EB%88%84%ED%85%94%EB%9D%BC(Nutella)'%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%98%E3%83%BC%E3%82%BC%E3%83%AB%E3%83%8A%E3%83%83%E3%83%84%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%80%8E%E3%83%8C%E3%83%86%E3%83%A9%E3%80%8F%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%83%BD%E5%A4%9A%E7%9B%8A(Nutella)%E6%A6%9B%E5%AD%90%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%85%B1%E9%97%AE%E4%B8%96"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%88%84%ED%85%94%EB%9D%BC_(%EB%B8%8C%EB%9E%9C%EB%93%9C)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8C%E3%83%86%E3%83%A9",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%83%BD%E5%A4%9A%E7%9B%8A"
         }
       }
     },
@@ -5035,19 +5035,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1964年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q660895",
         "wikiTitle": {
           "en": "Tokaido Shinkansen",
-          "ko": "Tokaido Shinkansen",
-          "ja": "Tokaido Shinkansen",
-          "zh": "Tokaido Shinkansen"
+          "ko": "도카이도 신칸센",
+          "ja": "東海道新幹線",
+          "zh": "東海道新幹線"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Tokaido_Shinkansen",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%84%B8%EA%B3%84%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EA%B3%A0%EC%86%8D%EC%B2%A0%EB%8F%84%20%EB%8F%84%EC%BF%84~%EC%98%A4%EC%82%AC%EC%B9%B4%20%EC%8B%A0%EC%B9%B8%EC%84%BC%20%EA%B0%9C%ED%86%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E9%AB%98%E9%80%9F%E9%89%84%E9%81%93%E3%80%8E%E6%9D%B1%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A%E3%80%8F%E9%96%8B%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E6%9D%A1%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF%E4%B8%9C%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B2%E7%BA%BF%E5%BC%80%E9%80%9A"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%B9%B4%EC%9D%B4%EB%8F%84_%EC%8B%A0%EC%B9%B8%EC%84%BC",
+          "ja": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A"
         }
       }
     },
@@ -5076,19 +5076,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1967年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q55931",
         "wikiTitle": {
           "en": "Hyundai Motor Company",
-          "ko": "Hyundai Motor Company",
-          "ja": "Hyundai Motor Company",
-          "zh": "Hyundai Motor Company"
+          "ko": "현대자동차",
+          "ja": "現代自動車",
+          "zh": "現代汽車"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Hyundai_Motor_Company",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8(Hyundai)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%8F%BE%E4%BB%A3%E8%87%AA%E5%8B%95%E8%BB%8A%EF%BC%88%E3%83%92%E3%83%A7%E3%83%B3%E3%83%87%EF%BC%89%E3%81%AE%E8%A8%AD%E7%AB%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%8E%B0%E4%BB%A3%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%8F%BE%E4%BB%A3%E8%87%AA%E5%8B%95%E8%BB%8A",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%8F%BE%E4%BB%A3%E6%B1%BD%E8%BB%8A"
         }
       }
     },
@@ -5117,19 +5117,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1967年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q506796",
         "wikiTitle": {
           "en": "Big Mac",
-          "ko": "Big Mac",
-          "ja": "Big Mac",
-          "zh": "Big Mac"
+          "ko": "빅맥",
+          "ja": "ビッグマック",
+          "zh": "大麥克漢堡"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Big_Mac",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C%20%EB%8C%80%ED%91%9C%20%EB%B2%84%EA%B1%B0%20'%EB%B9%85%EB%A7%A5(Big%20Mac)'%20%EC%B2%AB%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%80%8E%E3%83%93%E3%83%83%E3%82%B0%E3%83%9E%E3%83%83%E3%82%AF%E3%80%8F%E3%81%AE%E7%99%BB%E5%A0%B4",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%BA%A6%E5%BD%93%E5%8A%B3%E9%A6%96%E6%AC%A1%E6%8E%A8%E5%87%BA%E5%B7%A8%E6%97%A0%E9%9C%B8(Big%20Mac)"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B9%85%EB%A7%A5",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%82%B0%E3%83%9E%E3%83%83%E3%82%AF",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%BA%A5%E5%85%8B%E6%BC%A2%E5%A0%A1"
         }
       }
     },
@@ -5158,19 +5158,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1968年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q528187",
         "wikiTitle": {
-          "en": "Potato chip",
-          "ko": "Potato chip",
-          "ja": "Potato chip",
-          "zh": "Potato chip"
+          "en": "Pringles",
+          "ko": "프링글스",
+          "ja": "プリングルズ",
+          "zh": "品客"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Potato_chip",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9B%90%ED%86%B5%ED%98%95%20%EA%B0%90%EC%9E%90%EC%B9%A9%20'%ED%94%84%EB%A7%81%EA%B8%80%EC%8A%A4(Pringles)'%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%80%8E%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%BA%E3%80%8F%E3%83%9D%E3%83%86%E3%83%88%E3%83%81%E3%83%83%E3%83%97%E3%82%B9%E3%81%AE%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%93%81%E5%AE%A2(Pringles)%E6%A1%B6%E8%A3%85%E8%96%AF%E7%89%87%E9%97%AE%E4%B8%96"
+          "en": "https://en.wikipedia.org/wiki/Pringles",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%94%84%EB%A7%81%EA%B8%80%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%93%81%E5%AE%A2"
         }
       }
     },
@@ -5199,19 +5199,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1969年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q179",
         "wikiTitle": {
           "en": "Boeing 747",
-          "ko": "Boeing 747",
-          "ja": "Boeing 747",
-          "zh": "Boeing 747"
+          "ko": "보잉 747",
+          "ja": "ボーイング747",
+          "zh": "波音747"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Boeing_747",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search='%ED%95%98%EB%8A%98%EC%9D%98%20%EC%97%AC%EC%99%95'%20%EB%B3%B4%EC%9E%89%20747%20%EC%A0%90%EB%B3%B4%20%EC%97%AC%EA%B0%9D%EA%B8%B0%20%EC%B2%AB%20%EB%B9%84%ED%96%89",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%80%8E%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0747%E3%80%8F%E5%88%9D%E9%A3%9B%E8%A1%8C",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E2%80%9C%E5%A4%A9%E7%A9%BA%E5%A5%B3%E7%8E%8B%E2%80%9D%E6%B3%A2%E9%9F%B3747%E5%A4%A7%E5%9E%8B%E5%AE%A2%E6%9C%BA%E9%A6%96%E9%A3%9E"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9E%89_747",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0747",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B3%A2%E9%9F%B3747"
         }
       }
     },
@@ -5240,19 +5240,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1969年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q43653",
         "wikiTitle": {
           "en": "Apollo 11",
-          "ko": "Apollo 11",
-          "ja": "Apollo 11",
-          "zh": "Apollo 11"
+          "ko": "아폴로 11호",
+          "ja": "アポロ11号",
+          "zh": "阿波罗11号"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Apollo_11",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%ED%8F%B4%EB%A1%9C%2011%ED%98%B8%20%EB%8B%90%20%EC%95%94%EC%8A%A4%ED%8A%B8%EB%A1%B1%20%EC%9D%B8%EB%A5%98%20%EC%B5%9C%EC%B4%88%20%EB%8B%AC%20%EC%B0%A9%EB%A5%99",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%9D%E3%83%AD11%E5%8F%B7%E3%81%AB%E3%82%88%E3%82%8B%E4%BA%BA%E9%A1%9E%E5%88%9D%E3%81%AE%E6%9C%88%E9%9D%A2%E7%9D%80%E9%99%B8",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%98%BF%E6%B3%A2%E7%BD%9711%E5%8F%B7%E5%AE%9E%E7%8E%B0%E4%BA%BA%E7%B1%BB%E9%A6%96%E6%AC%A1%E7%99%BB%E6%9C%88"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%ED%8F%B4%EB%A1%9C_11%ED%98%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD11%E5%8F%B7",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E7%BD%9711%E5%8F%B7"
         }
       }
     },
@@ -5281,19 +5281,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1969年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q177524",
         "wikiTitle": {
           "en": "ARPANET",
-          "ko": "ARPANET",
+          "ko": "아파넷",
           "ja": "ARPANET",
           "zh": "ARPANET"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/ARPANET",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%98%84%EB%8C%80%20%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%98%20%EC%8B%9C%EC%B4%88%20'%EC%95%84%ED%8C%8C%EB%84%B7(ARPANET)'%20%EC%B2%AB%20%ED%86%B5%EC%8B%A0%20%EC%84%B1%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AE%E8%B5%B7%E6%BA%90%E3%80%8EARPANET%E3%80%8F%E5%88%9D%E3%81%AE%E9%80%9A%E4%BF%A1",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BA%92%E8%81%94%E7%BD%91%E5%89%8D%E8%BA%AB%20ARPANET%20%E5%8F%91%E9%80%81%E7%AC%AC%E4%B8%80%E6%9D%A1%E4%BF%A1%E6%81%AF"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%ED%8C%8C%EB%84%B7",
+          "ja": "https://ja.wikipedia.org/wiki/ARPANET",
+          "zh": "https://zh.wikipedia.org/wiki/ARPANET"
         }
       }
     },
@@ -5322,19 +5322,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1970年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q200814",
         "wikiTitle": {
           "en": "Suitcase",
-          "ko": "Suitcase",
-          "ja": "Suitcase",
-          "zh": "Suitcase"
+          "ko": "슈트케이스",
+          "ja": "スーツケース",
+          "zh": "行李箱"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Suitcase",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%94%ED%80%B4%20%EB%8B%AC%EB%A6%B0%20%EC%97%AC%ED%96%89%EC%9A%A9%20%EC%BA%90%EB%A6%AC%EC%96%B4%20%EA%B0%80%EB%B0%A9%20%EC%B5%9C%EC%B4%88%20%ED%8A%B9%ED%97%88%20(%EB%8B%AC%20%EC%B0%A9%EB%A5%99%EB%B3%B4%EB%8B%A4%20%EB%8A%A6%EC%9D%8C!)",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E4%BB%98%E3%81%8D%E3%82%B9%E3%83%BC%E3%83%84%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%AE%E7%99%BA%E6%98%8E%EF%BC%88%E6%9C%88%E9%9D%A2%E7%9D%80%E9%99%B8%E3%82%88%E3%82%8A%E5%BE%8C%EF%BC%81%EF%BC%89",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%B8%A6%E8%BD%AE%E5%AD%90%E7%9A%84%E6%97%85%E8%A1%8C%E7%AE%B1%E8%8E%B7%E6%89%B9%E4%B8%93%E5%88%A9%EF%BC%88%E6%AF%94%E4%BA%BA%E7%B1%BB%E7%99%BB%E6%9C%88%E8%BF%98%E6%99%9A%EF%BC%81%EF%BC%89"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%88%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%84%E3%82%B1%E3%83%BC%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%A1%8C%E6%9D%8E%E7%AE%B1"
         }
       }
     },
@@ -5363,19 +5363,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1971年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q37158",
         "wikiTitle": {
           "en": "Starbucks",
-          "ko": "Starbucks",
-          "ja": "Starbucks",
-          "zh": "Starbucks"
+          "ko": "스타벅스",
+          "ja": "スターバックス",
+          "zh": "星巴克"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Starbucks",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%AF%B8%EA%B5%AD%20%EC%8B%9C%EC%95%A0%ED%8B%80%EC%97%90%20%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4(Starbucks)%201%ED%98%B8%EC%A0%90%20%EC%98%A4%ED%94%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B7%E3%82%A2%E3%83%88%E3%83%AB%E3%81%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%82%B91%E5%8F%B7%E5%BA%97%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%98%9F%E5%B7%B4%E5%85%8B(Starbucks)%E8%A5%BF%E9%9B%85%E5%9B%BE%E7%AC%AC%E4%B8%80%E5%AE%B6%E9%97%A8%E5%BA%97%E5%BC%80%E4%B8%9A"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%98%9F%E5%B7%B4%E5%85%8B"
         }
       }
     },
@@ -5404,19 +5404,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1971年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q9158",
         "wikiTitle": {
           "en": "Email",
-          "ko": "Email",
-          "ja": "Email",
-          "zh": "Email"
+          "ko": "전자우편",
+          "ja": "電子メール",
+          "zh": "电子邮件"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Email",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A0%88%EC%9D%B4%20%ED%86%B0%EB%A6%B0%EC%8A%A8%20%60%40%60%20%EA%B8%B0%ED%98%B8%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%EC%A0%84%EC%86%A1",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E9%9B%BB%E5%AD%90%E3%83%A1%E3%83%BC%E3%83%AB%EF%BC%88%40%E3%83%9E%E3%83%BC%E3%82%AF%E4%BD%BF%E7%94%A8%EF%BC%89%E9%80%81%E4%BF%A1",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BA%BA%E7%B1%BB%E5%8F%91%E9%80%81%E7%AC%AC%E4%B8%80%E5%B0%81%E4%BD%BF%E7%94%A8%E2%80%9C%40%E2%80%9D%E7%AC%A6%E5%8F%B7%E7%9A%84%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9E%90%EC%9A%B0%ED%8E%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E3%83%A1%E3%83%BC%E3%83%AB",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6"
         }
       }
     },
@@ -5445,19 +5445,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1972年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q216293",
         "wikiTitle": {
           "en": "Pong",
-          "ko": "Pong",
-          "ja": "Pong",
-          "zh": "Pong"
+          "ko": "퐁 (비디오 게임)",
+          "ja": "ポン (ゲーム)",
+          "zh": "乓"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Pong",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%B5%9C%EC%B4%88%EC%9D%98%20%EC%83%81%EC%97%85%EC%A0%81%20%ED%9D%A5%ED%96%89%20%EC%95%84%EC%BC%80%EC%9D%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84%20%E3%80%88%ED%90%81(Pong)%E3%80%89%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%82%BF%E3%83%AA%E3%81%8C%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%80%8E%E3%83%9D%E3%83%B3%EF%BC%88Pong%EF%BC%89%E3%80%8F%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%9B%85%E8%BE%BE%E5%88%A9%E6%8E%A8%E5%87%BA%E8%A1%97%E6%9C%BA%E6%B8%B8%E6%88%8F%E3%80%8APong%E3%80%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%90%81_(%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%B3_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%B9%93"
         }
       }
     },
@@ -5486,19 +5486,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（1973年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q45178",
         "wikiTitle": {
           "en": "Sydney Opera House",
-          "ko": "Sydney Opera House",
-          "ja": "Sydney Opera House",
-          "zh": "Sydney Opera House"
+          "ko": "시드니 오페라 하우스",
+          "ja": "シドニー・オペラハウス",
+          "zh": "悉尼歌剧院"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%98%B8%EC%A3%BC%20%EC%8B%9C%EB%93%9C%EB%8B%88%20%EC%98%A4%ED%8E%98%EB%9D%BC%20%ED%95%98%EC%9A%B0%EC%8A%A4%20%EC%99%84%EA%B3%B5%20%EB%B0%8F%20%EA%B0%9C%EA%B4%80",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E3%80%8E%E3%82%B7%E3%83%89%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%9A%E3%83%A9%E3%83%8F%E3%82%A6%E3%82%B9%E3%80%8F%E9%96%8B%E9%A4%A8",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%82%89%E5%B0%BC%E6%AD%8C%E5%89%A7%E9%99%A2%E6%AD%A3%E5%BC%8F%E8%90%BD%E6%88%90%E5%90%AF%E7%94%A8"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%93%9C%EB%8B%88_%EC%98%A4%ED%8E%98%EB%9D%BC_%ED%95%98%EC%9A%B0%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%89%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%9A%E3%83%A9%E3%83%8F%E3%82%A6%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%82%89%E5%B0%BC%E6%AD%8C%E5%89%A7%E9%99%A2"
         }
       }
     },
@@ -5527,19 +5527,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1973年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q1264871",
         "wikiTitle": {
-          "en": "Motorola DynaTAC",
-          "ko": "Motorola DynaTAC",
+          "en": "DynaTAC",
+          "ko": "모토로라 다이나택",
           "ja": "Motorola DynaTAC",
-          "zh": "Motorola DynaTAC"
+          "zh": null
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Motorola_DynaTAC",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%AA%A8%ED%86%A0%EB%A1%9C%EB%9D%BC%20%EC%84%B8%EA%B3%84%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%ED%9C%B4%EB%8C%80%EC%9A%A9%20%EC%9D%B4%EB%8F%99%EC%A0%84%ED%99%94(%ED%9C%B4%EB%8C%80%ED%8F%B0)%20%ED%86%B5%ED%99%94%20%EC%84%B1%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%EF%BC%88%E3%83%A2%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%EF%BC%89%E3%81%AB%E3%82%88%E3%82%8B%E9%80%9A%E8%A9%B1%E5%AE%9F%E9%A8%93",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%91%A9%E6%89%98%E7%BD%97%E6%8B%89%E6%89%93%E9%80%9A%E4%BA%BA%E7%B1%BB%E7%AC%AC%E4%B8%80%E9%80%9A%E6%89%8B%E6%8C%81%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%AF%9D"
+          "en": "https://en.wikipedia.org/wiki/DynaTAC",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%AA%A8%ED%86%A0%EB%A1%9C%EB%9D%BC_%EB%8B%A4%EC%9D%B4%EB%82%98%ED%83%9D",
+          "ja": "https://ja.wikipedia.org/wiki/Motorola_DynaTAC",
+          "zh": "https://en.wikipedia.org/wiki/DynaTAC"
         }
       }
     },
@@ -5568,19 +5568,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1974年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q47043",
         "wikiTitle": {
           "en": "Rubik's Cube",
-          "ko": "Rubik's Cube",
-          "ja": "Rubik's Cube",
-          "zh": "Rubik's Cube"
+          "ko": "루빅스 큐브",
+          "ja": "ルービックキューブ",
+          "zh": "魔方"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Rubik's_Cube",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%97%9D%EA%B0%80%EB%A6%AC%20%EA%B1%B4%EC%B6%95%EA%B0%80%20%EB%A3%A8%EB%B9%84%ED%81%AC%20%EC%97%90%EB%A5%B4%EB%87%8C%20'%EB%A3%A8%EB%B9%85%EC%8A%A4%20%ED%81%90%EB%B8%8C'%20%EB%B0%9C%EB%AA%85",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A8%E3%83%AB%E3%83%8E%E3%83%BC%E3%83%BB%E3%83%AB%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF%E3%81%8C%E3%80%8E%E3%83%AB%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%E3%80%8F%E3%82%92%E7%99%BA%E6%98%8E",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8E%84%E5%B0%94%E8%AF%BA%C2%B7%E9%B2%81%E6%AF%94%E5%85%8B%E5%8F%91%E6%98%8E%E9%AD%94%E6%96%B9(Rubik's%20Cube)"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A3%A8%EB%B9%85%EC%8A%A4_%ED%81%90%EB%B8%8C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%AD%94%E6%96%B9"
         }
       }
     },
@@ -5609,19 +5609,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1975年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q2283",
         "wikiTitle": {
           "en": "Microsoft",
-          "ko": "Microsoft",
-          "ja": "Microsoft",
-          "zh": "Microsoft"
+          "ko": "마이크로소프트",
+          "ja": "マイクロソフト",
+          "zh": "微软"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Microsoft",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B9%8C%20%EA%B2%8C%EC%9D%B4%EC%B8%A0%EC%99%80%20%ED%8F%B4%20%EC%95%A8%EB%9F%B0%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8(Microsoft)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%93%E3%83%AB%E3%83%BB%E3%82%B2%E3%82%A4%E3%83%84%E3%82%89%E3%81%8C%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%EF%BC%88Microsoft%EF%BC%89%E3%82%92%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8%E4%B8%8E%E4%BF%9D%E7%BD%97%C2%B7%E8%89%BE%E4%BC%A6%E5%88%9B%E7%AB%8B%E5%BE%AE%E8%BD%AF(Microsoft)"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%BE%AE%E8%BD%AF"
         }
       }
     },
@@ -5650,19 +5650,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1976年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q312",
         "wikiTitle": {
           "en": "Apple Inc.",
-          "ko": "Apple Inc.",
-          "ja": "Apple Inc.",
-          "zh": "Apple Inc."
+          "ko": "애플",
+          "ja": "Apple",
+          "zh": "蘋果公司"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Apple_Inc.",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%ED%8B%B0%EB%B8%8C%20%EC%9E%A1%EC%8A%A4%EC%99%80%20%EC%9B%8C%EC%A6%88%EB%8B%88%EC%95%85%20%EC%95%A0%ED%94%8C(Apple)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA%E3%82%89%E3%81%8CApple%E3%82%92%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B9%94%E5%B8%83%E6%96%AF%E4%B8%8E%E6%B2%83%E5%85%B9%E5%B0%BC%E4%BA%9A%E5%85%8B%E5%9C%A8%E8%BD%A6%E5%BA%93%E5%88%9B%E7%AB%8B%E8%8B%B9%E6%9E%9C(Apple)"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%A0%ED%94%8C",
+          "ja": "https://ja.wikipedia.org/wiki/Apple",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E5%85%AC%E5%8F%B8"
         }
       }
     },
@@ -5691,19 +5691,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1977年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q17738",
         "wikiTitle": {
-          "en": "R2-D2",
-          "ko": "R2-D2",
-          "ja": "R2-D2",
-          "zh": "R2-D2"
+          "en": "Star Wars (film)",
+          "ko": "스타워즈 (영화)",
+          "ja": "スター・ウォーズ エピソード4/新たなる希望",
+          "zh": "星際大戰四部曲：曙光乍現"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/R2-D2",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%98%81%ED%99%94%20%E3%80%88%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88%E3%80%89%20%EC%8B%9C%EB%A6%AC%EC%A6%88%201%ED%8E%B8%20%EC%B5%9C%EC%B4%88%20%EA%B0%9C%EB%B4%89",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E6%98%A0%E7%94%BB%E3%80%8E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA%E3%80%8F%E7%AC%AC1%E4%BD%9C%E3%81%AE%E5%85%AC%E9%96%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%B8%80%E9%83%A8%E3%80%8A%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98%E3%80%8B%E7%94%B5%E5%BD%B1%E4%B8%8A%E6%98%A0"
+          "en": "https://en.wikipedia.org/wiki/Star_Wars_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA_%E3%82%A8%E3%83%94%E3%82%BD%E3%83%BC%E3%83%894/%E6%96%B0%E3%81%9F%E3%81%AA%E3%82%8B%E5%B8%8C%E6%9C%9B",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%98%9F%E9%9A%9B%E5%A4%A7%E6%88%B0%E5%9B%9B%E9%83%A8%E6%9B%B2%EF%BC%9A%E6%9B%99%E5%85%89%E4%B9%8D%E7%8F%BE"
         }
       }
     },
@@ -5732,19 +5732,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1977年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q48469",
         "wikiTitle": {
           "en": "Voyager 1",
-          "ko": "Voyager 1",
-          "ja": "Voyager 1",
-          "zh": "Voyager 1"
+          "ko": "보이저 1호",
+          "ja": "ボイジャー1号",
+          "zh": "旅行者1号"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Voyager_1",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%83%9C%EC%96%91%EA%B3%84%EB%A5%BC%20%EB%B2%97%EC%96%B4%EB%82%9C%20%EC%9A%B0%EC%A3%BC%20%ED%83%90%EC%82%AC%EC%84%A0%20'%EB%B3%B4%EC%9D%B4%EC%A0%80%201%ED%98%B8'%20%EB%B0%9C%EC%82%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=NASA%20%E5%AE%87%E5%AE%99%E6%8E%A2%E6%9F%BB%E6%A9%9F%E3%80%8E%E3%83%9C%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%BC1%E5%8F%B7%E3%80%8F%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=NASA%20%E5%8F%91%E5%B0%84%E2%80%9C%E6%97%85%E8%A1%8C%E8%80%851%E5%8F%B7%E2%80%9D%E6%B7%B1%E7%A9%BA%E6%8E%A2%E6%B5%8B%E5%99%A8"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9D%B4%EC%A0%80_1%ED%98%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%BC1%E5%8F%B7",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%97%85%E8%A1%8C%E8%80%851%E5%8F%B7"
         }
       }
     },
@@ -5773,19 +5773,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1979年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q622493",
         "wikiTitle": {
           "en": "Walkman",
-          "ko": "Walkman",
-          "ja": "Walkman",
+          "ko": "워크맨",
+          "ja": "ウォークマン",
           "zh": "Walkman"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Walkman",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%86%8C%EB%8B%88%20%ED%9C%B4%EB%8C%80%EC%9A%A9%20%EC%B9%B4%EC%84%B8%ED%8A%B8%20%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20'%EC%9B%8C%ED%81%AC%EB%A7%A8(Walkman)'%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%BD%E3%83%8B%E3%83%BC%E3%81%8C%E5%88%9D%E4%BB%A3%E3%80%8E%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%9E%E3%83%B3%E3%80%8F%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%B4%A2%E5%B0%BC%E6%8E%A8%E5%87%BA%E7%AC%AC%E4%B8%80%E4%BB%A3%20Walkman%20%E9%9A%8F%E8%BA%AB%E5%90%AC"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9B%8C%ED%81%AC%EB%A7%A8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%9E%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/Walkman"
         }
       }
     },
@@ -5814,19 +5814,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1980年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q173626",
         "wikiTitle": {
-          "en": "Arcade game",
-          "ko": "Arcade game",
-          "ja": "Arcade game",
-          "zh": "Arcade game"
+          "en": "Pac-Man",
+          "ko": "팩맨 (비디오 게임)",
+          "ja": "パックマン",
+          "zh": "吃豆人"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Arcade_game",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%84%EC%84%A4%EC%9D%98%20%EC%95%84%EC%BC%80%EC%9D%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84%20%E3%80%88%ED%8C%A9%EB%A7%A8(Pac-Man)%E3%80%89%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8A%E3%83%A0%E3%82%B3%E3%81%8C%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%80%8E%E3%83%91%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E3%80%8F%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8D%97%E6%A2%A6%E5%AE%AB%E6%8E%A8%E5%87%BA%E7%BB%8F%E5%85%B8%E6%B8%B8%E6%88%8F%E3%80%8A%E5%90%83%E8%B1%86%E4%BA%BA(Pac-Man)%E3%80%8B"
+          "en": "https://en.wikipedia.org/wiki/Pac-Man",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8C%A9%EB%A7%A8_(%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%90%83%E8%B1%86%E4%BA%BA"
         }
       }
     },
@@ -5855,19 +5855,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1980年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q181331",
         "wikiTitle": {
-          "en": "Post-it Note",
-          "ko": "Post-it Note",
-          "ja": "Post-it Note",
-          "zh": "Post-it Note"
+          "en": "Post-it note",
+          "ko": "포스트잇",
+          "ja": "付箋",
+          "zh": "便利貼"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Post-it_Note",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=3M%20%EC%A0%91%EC%B0%A9%EC%8B%9D%20%EB%A9%94%EB%AA%A8%EC%A7%80%20'%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%9E%87(Post-it)'%20%EC%A0%95%EC%8B%9D%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=3M%E3%81%8C%E7%B2%98%E7%9D%80%E4%BB%98%E7%AE%8B%E3%80%8E%E3%83%9D%E3%82%B9%E3%83%88%E3%83%BB%E3%82%A4%E3%83%83%E3%83%88%E3%80%8F%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=3M%20%E6%AD%A3%E5%BC%8F%E6%8E%A8%E5%87%BA%E4%BE%BF%E5%88%A9%E8%B4%B4(Post-it)"
+          "en": "https://en.wikipedia.org/wiki/Post-it_note",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%9E%87",
+          "ja": "https://ja.wikipedia.org/wiki/%E4%BB%98%E7%AE%8B",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BE%BF%E5%88%A9%E8%B2%BC"
         }
       }
     },
@@ -5896,19 +5896,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1981年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q202712",
         "wikiTitle": {
           "en": "IBM Personal Computer",
-          "ko": "IBM Personal Computer",
-          "ja": "IBM Personal Computer",
-          "zh": "IBM Personal Computer"
+          "ko": "IBM PC",
+          "ja": "IBM PC",
+          "zh": "IBM PC"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/IBM_Personal_Computer",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%98%84%EB%8C%80%20%EA%B0%9C%EC%9D%B8%EC%9A%A9%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%ED%91%9C%EC%A4%80%20'IBM%20PC'%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%AE%E6%A8%99%E6%BA%96%E6%A9%9F%E3%80%8EIBM%20PC%E3%80%8F%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=IBM%20%E6%8E%A8%E5%87%BA%E7%AC%AC%E4%B8%80%E4%BB%A3%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91(IBM%20PC)"
+          "ko": "https://ko.wikipedia.org/wiki/IBM_PC",
+          "ja": "https://ja.wikipedia.org/wiki/IBM_PC",
+          "zh": "https://zh.wikipedia.org/wiki/IBM_PC"
         }
       }
     },
@@ -5937,19 +5937,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1982年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q44320",
         "wikiTitle": {
-          "en": "Michael Jackson",
-          "ko": "Michael Jackson",
-          "ja": "Michael Jackson",
-          "zh": "Michael Jackson"
+          "en": "Thriller (album)",
+          "ko": "Thriller (마이클 잭슨의 음반)",
+          "ja": "スリラー (アルバム)",
+          "zh": "顫慄 (麥可·傑克森專輯)"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Michael_Jackson",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%88%EC%9D%B4%ED%81%B4%20%EC%9E%AD%EC%8A%A8%20%EC%97%AD%EC%82%AC%EC%83%81%20%EC%B5%9C%EB%8B%A4%20%ED%8C%90%EB%A7%A4%20%EC%9D%8C%EB%B0%98%20%E3%80%88Thriller%E3%80%89%20%EB%B0%9C%EB%A7%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3%E3%80%8E%E3%82%B9%E3%83%AA%E3%83%A9%E3%83%BC%EF%BC%88%E5%8F%B2%E4%B8%8A%E6%9C%80%E3%82%82%E5%A3%B2%E3%82%8C%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%EF%BC%89%E3%80%8F%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%9D%B0%E5%85%8B%E9%80%8A%E5%8F%91%E8%A1%8C%E5%8F%B2%E4%B8%8A%E9%94%80%E9%87%8F%E6%9C%80%E9%AB%98%E4%B8%93%E8%BE%91%E3%80%8AThriller%E3%80%8B"
+          "en": "https://en.wikipedia.org/wiki/Thriller_(album)",
+          "ko": "https://ko.wikipedia.org/wiki/Thriller_(%EB%A7%88%EC%9D%B4%ED%81%B4_%EC%9E%AD%EC%8A%A8%EC%9D%98_%EC%9D%8C%EB%B0%98)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AA%E3%83%A9%E3%83%BC_(%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%A1%AB%E6%85%84_(%E9%BA%A5%E5%8F%AF%C2%B7%E5%82%91%E5%85%8B%E6%A3%AE%E5%B0%88%E8%BC%AF)"
         }
       }
     },
@@ -5978,19 +5978,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1982年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q34467",
         "wikiTitle": {
           "en": "Compact disc",
-          "ko": "Compact disc",
-          "ja": "Compact disc",
-          "zh": "Compact disc"
+          "ko": "콤팩트 디스크",
+          "ja": "コンパクトディスク",
+          "zh": "雷射唱片"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Compact_disc",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%86%8C%EB%8B%88%C2%B7%ED%95%84%EB%A6%BD%EC%8A%A4%20%EC%9D%8C%EC%95%85%EC%9A%A9%20%EC%BB%B4%ED%8C%A9%ED%8A%B8%20%EB%94%94%EC%8A%A4%ED%81%AC(CD)%20%EC%B5%9C%EC%B4%88%20%EC%83%81%EC%9A%A9%ED%99%94",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E9%9F%B3%E6%A5%BD%E7%94%A8%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%EF%BC%88CD%EF%BC%89%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%B8%80%E5%BC%A0%E5%95%86%E7%94%A8%E6%BF%80%E5%85%89%E5%94%B1%E7%89%87(CD)%E9%97%AE%E4%B8%96"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%BD%A4%ED%8C%A9%ED%8A%B8_%EB%94%94%EC%8A%A4%ED%81%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%9B%B7%E5%B0%84%E5%94%B1%E7%89%87"
         }
       }
     },
@@ -6019,19 +6019,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1983年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q172742",
         "wikiTitle": {
           "en": "Nintendo Entertainment System",
-          "ko": "Nintendo Entertainment System",
-          "ja": "Nintendo Entertainment System",
-          "zh": "Nintendo Entertainment System"
+          "ko": "패밀리컴퓨터",
+          "ja": "ファミリーコンピュータ",
+          "zh": "红白机"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8B%8C%ED%85%90%EB%8F%84%20%EA%B0%80%EC%A0%95%EC%9A%A9%20%EA%B2%8C%EC%9E%84%EA%B8%B0%20'%ED%8C%A8%EB%AF%B8%EC%BB%B4(NES)'%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82%E3%80%8E%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%EF%BC%88%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%EF%BC%89%E3%80%8F%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%99%BD%E6%9C%BA(Famicom%2FNES)"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8C%A8%EB%B0%80%EB%A6%AC%EC%BB%B4%ED%93%A8%ED%84%B0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E7%99%BD%E6%9C%BA"
         }
       }
     },
@@ -6060,19 +6060,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1984年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q1137478",
         "wikiTitle": {
           "en": "Macintosh 128K",
-          "ko": "Macintosh 128K",
+          "ko": "매킨토시 128K",
           "ja": "Macintosh 128K",
           "zh": "Macintosh 128K"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Macintosh_128K",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%A0%ED%94%8C%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EB%A7%A4%ED%82%A8%ED%86%A0%EC%8B%9C(Macintosh)%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Apple%E3%81%8C%E5%88%9D%E4%BB%A3%E3%80%8EMacintosh%EF%BC%88%E3%83%9E%E3%83%83%E3%82%AD%E3%83%B3%E3%83%88%E3%83%83%E3%82%B7%E3%83%A5%EF%BC%89%E3%80%8F%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA%E7%AC%AC%E4%B8%80%E4%BB%A3%E9%BA%A6%E9%87%91%E5%A1%94(Macintosh)%E7%94%B5%E8%84%91"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A7%A4%ED%82%A8%ED%86%A0%EC%8B%9C_128K",
+          "ja": "https://ja.wikipedia.org/wiki/Macintosh_128K",
+          "zh": "https://zh.wikipedia.org/wiki/Macintosh_128K"
         }
       }
     },
@@ -6101,19 +6101,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1984年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q71910",
         "wikiTitle": {
           "en": "Tetris",
-          "ko": "Tetris",
-          "ja": "Tetris",
-          "zh": "Tetris"
+          "ko": "테트리스",
+          "ja": "テトリス",
+          "zh": "俄羅斯方塊"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Tetris",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EA%B5%AC%EC%86%8C%EB%A0%A8%20%EA%B3%BC%ED%95%99%EC%9E%90%20%ED%8C%8C%EC%A7%80%ED%8A%B8%EB%85%B8%ED%94%84%20%ED%8D%BC%EC%A6%90%20%EA%B2%8C%EC%9E%84%20%E3%80%88%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%E3%80%89%20%EA%B0%9C%EB%B0%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%BB%E3%82%A4%E3%83%BB%E3%83%91%E3%82%B8%E3%83%88%E3%83%8E%E3%83%95%E3%81%8C%E3%80%8E%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%80%8F%E3%82%92%E9%96%8B%E7%99%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%C2%B7%E5%B8%95%E5%9F%BA%E7%89%B9%E8%AF%BA%E5%A4%AB%E5%8F%91%E6%98%8E%E3%80%8A%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97%E3%80%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BF%84%E7%BE%85%E6%96%AF%E6%96%B9%E5%A1%8A"
         }
       }
     },
@@ -6142,19 +6142,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1984年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q2020",
         "wikiTitle": {
-          "en": "Akira Toriyama",
-          "ko": "Akira Toriyama",
-          "ja": "Akira Toriyama",
-          "zh": "Akira Toriyama"
+          "en": "Dragon Ball",
+          "ko": "드래곤볼",
+          "ja": "ドラゴンボール",
+          "zh": "七龙珠"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Akira_Toriyama",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%86%A0%EB%A6%AC%EC%95%BC%EB%A7%88%20%EC%95%84%ED%82%A4%EB%9D%BC%20%EB%A7%8C%ED%99%94%20%E3%80%88%EB%93%9C%EB%9E%98%EA%B3%A4%EB%B3%BC%E3%80%89%20%EC%97%B0%EC%9E%AC%20%EC%8B%9C%EC%9E%91",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E9%B3%A5%E5%B1%B1%E6%98%8E%E3%80%8E%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%80%8F%E9%80%A3%E8%BC%89%E9%96%8B%E5%A7%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%BC%80%E5%A7%8B%E8%BF%9E%E8%BD%BD%E6%BC%AB%E7%94%BB%E3%80%8A%E9%BE%99%E7%8F%A0%E3%80%8B"
+          "en": "https://en.wikipedia.org/wiki/Dragon_Ball",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%93%9C%EB%9E%98%EA%B3%A4%EB%B3%BC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%B8%83%E9%BE%99%E7%8F%A0"
         }
       }
     },
@@ -6183,19 +6183,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1985年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q11168",
         "wikiTitle": {
-          "en": "Shigeru Miyamoto",
-          "ko": "Shigeru Miyamoto",
-          "ja": "Shigeru Miyamoto",
-          "zh": "Shigeru Miyamoto"
+          "en": "Super Mario Bros.",
+          "ko": "슈퍼 마리오브라더스",
+          "ja": "スーパーマリオブラザーズ",
+          "zh": "超级马力欧兄弟"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Shigeru_Miyamoto",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8B%8C%ED%85%90%EB%8F%84%20%E3%80%88%EC%8A%88%ED%8D%BC%20%EB%A7%88%EB%A6%AC%EC%98%A4%20%EB%B8%8C%EB%9D%BC%EB%8D%94%EC%8A%A4%E3%80%89%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82%E3%80%8E%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA%E3%80%8F%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82%E5%8F%91%E5%94%AE%E3%80%8A%E8%B6%85%E7%BA%A7%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%85%84%E5%BC%9F%E3%80%8B"
+          "en": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%88%ED%8D%BC_%EB%A7%88%EB%A6%AC%EC%98%A4%EB%B8%8C%EB%9D%BC%EB%8D%94%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%B6%85%E7%BA%A7%E9%A9%AC%E5%8A%9B%E6%AC%A7%E5%85%84%E5%BC%9F"
         }
       }
     },
@@ -6224,19 +6224,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1985年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q58378",
         "wikiTitle": {
-          "en": "Bill Gates",
-          "ko": "Bill Gates",
-          "ja": "Bill Gates",
-          "zh": "Bill Gates"
+          "en": "Windows 1.0",
+          "ko": "윈도우 1.0",
+          "ja": "Microsoft Windows 1.0",
+          "zh": "Windows 1.0"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Bill_Gates",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20'%EC%9C%88%EB%8F%84%EC%9A%B0%201.0(Windows%201.0)'%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E3%81%8C%E5%88%9D%E4%BB%A3%E3%80%8EWindows%201.0%E3%80%8F%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%BE%AE%E8%BD%AF%E5%8F%91%E5%B8%83%E7%AC%AC%E4%B8%80%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20Windows%201.0"
+          "en": "https://en.wikipedia.org/wiki/Windows_1.0",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9C%88%EB%8F%84%EC%9A%B0_1.0",
+          "ja": "https://ja.wikipedia.org/wiki/Microsoft_Windows_1.0",
+          "zh": "https://zh.wikipedia.org/wiki/Windows_1.0"
         }
       }
     },
@@ -6265,19 +6265,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1985年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q182950",
         "wikiTitle": {
           "en": "Studio Ghibli",
-          "ko": "Studio Ghibli",
-          "ja": "Studio Ghibli",
-          "zh": "Studio Ghibli"
+          "ko": "스튜디오 지브리",
+          "ja": "スタジオジブリ",
+          "zh": "吉卜力工作室"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Studio_Ghibli",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%AF%B8%EC%95%BC%EC%9E%90%ED%82%A4%20%ED%95%98%EC%95%BC%EC%98%A4%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EC%A0%9C%EC%9E%91%EC%82%AC%20'%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EC%A7%80%EB%B8%8C%EB%A6%AC'%20%EC%84%A4%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%AE%AE%E5%B4%8E%E9%A7%BF%E3%82%89%E3%81%8C%E3%80%8E%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%82%B8%E3%83%96%E3%83%AA%E3%80%8F%E3%82%92%E8%A8%AD%E7%AB%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%AE%AB%E5%B4%8E%E9%AA%8F%E7%AD%89%E4%BA%BA%E5%88%9B%E7%AB%8B%E5%90%89%E5%8D%9C%E5%8A%9B%E5%B7%A5%E4%BD%9C%E5%AE%A4"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4_%EC%A7%80%EB%B8%8C%EB%A6%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%82%B8%E3%83%96%E3%83%AA",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%90%89%E5%8D%9C%E5%8A%9B%E5%B7%A5%E4%BD%9C%E5%AE%A4"
         }
       }
     },
@@ -6306,19 +6306,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1986年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q486",
         "wikiTitle": {
           "en": "Chernobyl disaster",
-          "ko": "Chernobyl disaster",
-          "ja": "Chernobyl disaster",
-          "zh": "Chernobyl disaster"
+          "ko": "체르노빌 원자력 발전소 사고",
+          "ja": "チェルノブイリ原子力発電所事故",
+          "zh": "切尔诺贝利核事故"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%B2%B4%EB%A5%B4%EB%85%B8%EB%B9%8C%20%EC%9B%90%EC%9E%90%EB%A0%A5%20%EB%B0%9C%EC%A0%84%EC%86%8C%20%ED%8F%AD%EB%B0%9C%20%EC%82%AC%EA%B3%A0%20%EB%B0%9C%EC%83%9D",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80%E4%BA%8B%E6%95%85",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E6%A0%B8%E7%94%B5%E7%AB%99%E4%BA%8B%E6%95%85%E5%8F%91%E7%94%9F"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%B2%B4%EB%A5%B4%EB%85%B8%EB%B9%8C_%EC%9B%90%EC%9E%90%EB%A0%A5_%EB%B0%9C%EC%A0%84%EC%86%8C_%EC%82%AC%EA%B3%A0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80%E4%BA%8B%E6%95%85",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E6%A0%B8%E4%BA%8B%E6%95%85"
         }
       }
     },
@@ -6347,19 +6347,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1989年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q186437",
         "wikiTitle": {
           "en": "Game Boy",
-          "ko": "Game Boy",
-          "ja": "Game Boy",
+          "ko": "게임보이",
+          "ja": "ゲームボーイ",
           "zh": "Game Boy"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Game_Boy",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8B%8C%ED%85%90%EB%8F%84%20%ED%9C%B4%EB%8C%80%EC%9A%A9%20%EA%B2%8C%EC%9E%84%EA%B8%B0%20'%EA%B2%8C%EC%9E%84%EB%B3%B4%EC%9D%B4(Game%20Boy)'%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82%E3%81%8C%E6%90%BA%E5%B8%AF%E5%9E%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%80%8E%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4%E3%80%8F%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%8E%A8%E5%87%BA%E5%88%9D%E4%BB%A3%20Game%20Boy%20%E6%8E%8C%E6%9C%BA"
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B2%8C%EC%9E%84%EB%B3%B4%EC%9D%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4",
+          "zh": "https://zh.wikipedia.org/wiki/Game_Boy"
         }
       }
     },
@@ -6388,19 +6388,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1989年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q69163529",
         "wikiTitle": {
           "en": "Fall of the Berlin Wall",
-          "ko": "Fall of the Berlin Wall",
-          "ja": "Fall of the Berlin Wall",
-          "zh": "Fall of the Berlin Wall"
+          "ko": "베를린 장벽 붕괴",
+          "ja": "ベルリンの壁崩壊",
+          "zh": "柏林墙倒塌"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%83%89%EC%A0%84%EC%9D%98%20%EC%83%81%EC%A7%95%20%EB%8F%85%EC%9D%BC%20'%EB%B2%A0%EB%A5%BC%EB%A6%B0%20%EC%9E%A5%EB%B2%BD'%20%EB%B6%95%EA%B4%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%81%AE%E5%A3%81%E5%B4%A9%E5%A3%8A",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%BE%B7%E5%9B%BD%E6%9F%8F%E6%9E%97%E5%A2%99%E5%80%92%E5%A1%8C"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B2%A0%EB%A5%BC%EB%A6%B0_%EC%9E%A5%EB%B2%BD_%EB%B6%95%EA%B4%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%81%AE%E5%A3%81%E5%B4%A9%E5%A3%8A",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%9E%97%E5%A2%99%E5%80%92%E5%A1%8C"
         }
       }
     },
@@ -6429,19 +6429,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1989年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q886",
         "wikiTitle": {
           "en": "The Simpsons",
-          "ko": "The Simpsons",
-          "ja": "The Simpsons",
-          "zh": "The Simpsons"
+          "ko": "심슨 가족",
+          "ja": "ザ・シンプソンズ",
+          "zh": "辛普森一家"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/The_Simpsons",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%B5%9C%EC%9E%A5%EC%88%98%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%E3%80%88%EC%8B%AC%EC%8A%A8%20%EA%B0%80%EC%A1%B1%E3%80%89%20%EC%B2%AB%20%EB%B0%A9%EC%98%81",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8E%E3%82%B6%E3%83%BB%E3%82%B7%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3%E3%82%BA%E3%80%8F%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8A%A8%E7%94%BB%E5%89%A7%E9%9B%86%E3%80%8A%E8%BE%9B%E6%99%AE%E6%A3%AE%E4%B8%80%E5%AE%B6%E3%80%8B%E9%A6%96%E6%92%AD"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8B%AC%EC%8A%A8_%EA%B0%80%EC%A1%B1",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%82%B7%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%BE%9B%E6%99%AE%E6%A3%AE%E4%B8%80%E5%AE%B6"
         }
       }
     },
@@ -6470,19 +6470,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1990年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q2513",
         "wikiTitle": {
           "en": "Hubble Space Telescope",
-          "ko": "Hubble Space Telescope",
-          "ja": "Hubble Space Telescope",
-          "zh": "Hubble Space Telescope"
+          "ko": "허블 우주망원경",
+          "ja": "ハッブル宇宙望遠鏡",
+          "zh": "哈勃空间望远镜"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=NASA%20%ED%97%88%EB%B8%94%20%EC%9A%B0%EC%A3%BC%EB%A7%9D%EC%9B%90%EA%B2%BD%20%EB%B0%9C%EC%82%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8F%E3%83%83%E3%83%96%E3%83%AB%E5%AE%87%E5%AE%99%E6%9C%9B%E9%81%A0%E9%8F%A1%E3%81%AE%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=NASA%20%E5%8F%91%E5%B0%84%E5%93%88%E5%8B%83%E5%A4%AA%E7%A9%BA%E6%9C%9B%E8%BF%9C%E9%95%9C"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%97%88%EB%B8%94_%EC%9A%B0%EC%A3%BC%EB%A7%9D%EC%9B%90%EA%B2%BD",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%83%96%E3%83%AB%E5%AE%87%E5%AE%99%E6%9C%9B%E9%81%A0%E9%8F%A1",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%93%88%E5%8B%83%E7%A9%BA%E9%97%B4%E6%9C%9B%E8%BF%9C%E9%95%9C"
         }
       }
     },
@@ -6511,19 +6511,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1991年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q466",
         "wikiTitle": {
           "en": "World Wide Web",
-          "ko": "World Wide Web",
+          "ko": "월드 와이드 웹",
           "ja": "World Wide Web",
-          "zh": "World Wide Web"
+          "zh": "万维网"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/World_Wide_Web",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8C%80%20%EB%B2%84%EB%84%88%EC%8A%A4%EB%A6%AC%20%EC%84%B8%EA%B3%84%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8(WWW)%20%EA%B3%B5%EA%B0%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%BA%EF%BC%9D%E3%83%AA%E3%83%BC%E3%81%8C%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%92%82%E5%A7%86%C2%B7%E4%BC%AF%E7%BA%B3%E6%96%AF-%E6%9D%8E%E4%B8%8A%E7%BA%BF%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99(WWW)"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9B%94%EB%93%9C_%EC%99%80%EC%9D%B4%EB%93%9C_%EC%9B%B9",
+          "ja": "https://ja.wikipedia.org/wiki/World_Wide_Web",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%B8%87%E7%BB%B4%E7%BD%91"
         }
       }
     },
@@ -6552,19 +6552,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1991年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q388",
         "wikiTitle": {
           "en": "Linux",
-          "ko": "Linux",
+          "ko": "리눅스",
           "ja": "Linux",
           "zh": "Linux"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Linux",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A6%AC%EB%88%84%EC%8A%A4%20%ED%86%A0%EB%A5%B4%EB%B0%9C%EC%8A%A4%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20'%EB%A6%AC%EB%88%85%EC%8A%A4(Linux)'%20%EA%B3%B5%EA%B0%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AA%E3%83%BC%E3%83%8A%E3%82%B9%E3%83%BB%E3%83%88%E3%83%BC%E3%83%90%E3%83%AB%E3%82%BA%E3%81%8C%E3%80%8ELinux%E3%80%8F%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB%E3%82%92%E5%85%AC%E9%96%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%9E%97%E7%BA%B3%E6%96%AF%C2%B7%E6%89%98%E7%93%A6%E5%85%B9%E5%8F%91%E5%B8%83%20Linux%20%E5%86%85%E6%A0%B8"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/Linux",
+          "zh": "https://zh.wikipedia.org/wiki/Linux"
         }
       }
     },
@@ -6593,19 +6593,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1991年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q5167679",
         "wikiTitle": {
           "en": "Dissolution of the Soviet Union",
-          "ko": "Dissolution of the Soviet Union",
-          "ja": "Dissolution of the Soviet Union",
-          "zh": "Dissolution of the Soviet Union"
+          "ko": "소련의 붕괴",
+          "ja": "ソビエト連邦の崩壊",
+          "zh": "苏联解体"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%86%8C%EB%B9%84%EC%97%90%ED%8A%B8%20%EC%97%B0%EB%B0%A9(%EC%86%8C%EB%A0%A8)%20%EA%B3%B5%EC%8B%9D%20%ED%95%B4%EC%B2%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%BD%E3%83%93%E3%82%A8%E3%83%88%E9%80%A3%E9%82%A6%EF%BC%88%E3%82%BD%E9%80%A3%EF%BC%89%E3%81%AE%E5%B4%A9%E5%A3%8A%E3%83%BB%E8%A7%A3%E4%BD%93",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8B%8F%E8%81%94%E6%AD%A3%E5%BC%8F%E8%A7%A3%E4%BD%93"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%A0%A8%EC%9D%98_%EB%B6%95%EA%B4%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%93%E3%82%A8%E3%83%88%E9%80%A3%E9%82%A6%E3%81%AE%E5%B4%A9%E5%A3%8A",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93"
         }
       }
     },
@@ -6634,19 +6634,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1992年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q9448",
         "wikiTitle": {
-          "en": "Wembley Stadium",
-          "ko": "Wembley Stadium",
-          "ja": "Wembley Stadium",
-          "zh": "Wembley Stadium"
+          "en": "Premier League",
+          "ko": "프리미어리그",
+          "ja": "プレミアリーグ",
+          "zh": "英格兰足球超级联赛"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Wembley_Stadium",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9E%89%EA%B8%80%EB%9E%9C%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%B6%95%EA%B5%AC%20%ED%94%84%EB%A6%AC%EB%AF%B8%EC%96%B4%EB%A6%AC%EA%B7%B8(EPL)%20%EC%B6%9C%EB%B2%94",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%B0%EF%BC%88EPL%EF%BC%89%E5%89%B5%E8%A8%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8B%B1%E6%A0%BC%E5%85%B0%E8%B6%B3%E7%90%83%E8%B6%85%E7%BA%A7%E8%81%94%E8%B5%9B(%E8%8B%B1%E8%B6%85)%E6%88%90%E7%AB%8B"
+          "en": "https://en.wikipedia.org/wiki/Premier_League",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%AC%EB%AF%B8%EC%96%B4%EB%A6%AC%EA%B7%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%B0",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%A0%BC%E5%85%B0%E8%B6%B3%E7%90%83%E8%B6%85%E7%BA%A7%E8%81%94%E8%B5%9B"
         }
       }
     },
@@ -6675,19 +6675,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1993年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q182477",
         "wikiTitle": {
           "en": "Nvidia",
-          "ko": "Nvidia",
-          "ja": "Nvidia",
-          "zh": "Nvidia"
+          "ko": "엔비디아",
+          "ja": "NVIDIA",
+          "zh": "英伟达"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Nvidia",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%A0%EC%8A%A8%20%ED%99%A9%20%EA%B7%B8%EB%9E%98%ED%94%BD%C2%B7AI%20%EB%B0%98%EB%8F%84%EC%B2%B4%20%EA%B8%B0%EC%97%85%20%EC%97%94%EB%B9%84%EB%94%94%EC%95%84(NVIDIA)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A2%E3%83%B3%E3%82%89%E3%81%8C%E3%80%8ENVIDIA%E3%80%8F%E3%82%92%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%AD%89%E4%BA%BA%E5%88%9B%E7%AB%8B%E8%8B%B1%E4%BC%9F%E8%BE%BE(NVIDIA)"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%94%EB%B9%84%EB%94%94%EC%95%84",
+          "ja": "https://ja.wikipedia.org/wiki/NVIDIA",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8B%B1%E4%BC%9F%E8%BE%BE"
         }
       }
     },
@@ -6716,19 +6716,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（1994年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q10257",
         "wikiTitle": {
           "en": "Channel Tunnel",
-          "ko": "Channel Tunnel",
-          "ja": "Channel Tunnel",
-          "zh": "Channel Tunnel"
+          "ko": "채널 터널",
+          "ja": "英仏海峡トンネル",
+          "zh": "英法海底隧道"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Channel_Tunnel",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%98%81%EA%B5%AD%EA%B3%BC%20%ED%94%84%EB%9E%91%EC%8A%A4%EB%A5%BC%20%EC%9E%87%EB%8A%94%20%ED%95%B4%EC%A0%80%20'%EC%9C%A0%EB%A1%9C%ED%84%B0%EB%84%90'%20%EA%B0%9C%ED%86%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E8%8B%B1%E4%BB%8F%E6%B5%B7%E5%B3%A1%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%EF%BC%88%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%EF%BC%89%E9%96%8B%E9%80%9A",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8B%B1%E6%B3%95%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93%E6%AD%A3%E5%BC%8F%E9%80%9A%E8%BD%A6"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%B1%84%EB%84%90_%ED%84%B0%EB%84%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E8%8B%B1%E4%BB%8F%E6%B5%B7%E5%B3%A1%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%B3%95%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93"
         }
       }
     },
@@ -6757,19 +6757,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1994年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q3884",
         "wikiTitle": {
           "en": "Amazon (company)",
-          "ko": "Amazon (company)",
-          "ja": "Amazon (company)",
-          "zh": "Amazon (company)"
+          "ko": "아마존 (기업)",
+          "ja": "Amazon.com",
+          "zh": "亞馬遜公司"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Amazon_(company)",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%9C%ED%94%84%20%EB%B2%A0%EC%9D%B4%EC%A1%B0%EC%8A%A4%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EC%84%9C%EC%A0%90%EC%9C%BC%EB%A1%9C%20%EC%95%84%EB%A7%88%EC%A1%B4(Amazon)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B8%E3%82%A7%E3%83%95%E3%83%BB%E3%83%99%E3%82%BE%E3%82%B9%E3%81%8C%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E6%9B%B8%E5%BA%97%E3%81%A8%E3%81%97%E3%81%A6Amazon%E3%82%92%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%9D%B0%E5%A4%AB%C2%B7%E8%B4%9D%E7%B4%A2%E6%96%AF%E5%9C%A8%E8%BD%A6%E5%BA%93%E5%88%9B%E7%AB%8B%E4%BA%9A%E9%A9%AC%E9%80%8A(Amazon)"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A7%88%EC%A1%B4_(%EA%B8%B0%EC%97%85)",
+          "ja": "https://ja.wikipedia.org/wiki/Amazon.com",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BA%9E%E9%A6%AC%E9%81%9C%E5%85%AC%E5%8F%B8"
         }
       }
     },
@@ -6798,19 +6798,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（1994年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q10677",
         "wikiTitle": {
           "en": "PlayStation (console)",
-          "ko": "PlayStation (console)",
-          "ja": "PlayStation (console)",
-          "zh": "PlayStation (console)"
+          "ko": "플레이스테이션 (콘솔)",
+          "ja": "PlayStation (ゲーム機)",
+          "zh": "PlayStation (遊戲機)"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/PlayStation_(console)",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%86%8C%EB%8B%88%20%EC%B4%88%EB%8C%80%20%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%98(PS1)%20%EC%BD%98%EC%86%94%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%BD%E3%83%8B%E3%83%BC%E3%81%8C%E5%88%9D%E4%BB%A3%E3%80%8EPlayStation%EF%BC%88%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%EF%BC%89%E3%80%8F%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%B4%A2%E5%B0%BC%E5%8F%91%E5%94%AE%E5%88%9D%E4%BB%A3%20PlayStation%20(PS1)%20%E6%B8%B8%E6%88%8F%E6%9C%BA"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%98_(%EC%BD%98%EC%86%94)",
+          "ja": "https://ja.wikipedia.org/wiki/PlayStation_(%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F)",
+          "zh": "https://zh.wikipedia.org/wiki/PlayStation_(%E9%81%8A%E6%88%B2%E6%A9%9F)"
         }
       }
     },
@@ -6839,19 +6839,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1995年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q171048",
         "wikiTitle": {
-          "en": "Pixar",
-          "ko": "Pixar",
-          "ja": "Pixar",
-          "zh": "Pixar"
+          "en": "Toy Story",
+          "ko": "토이 스토리",
+          "ja": "トイ・ストーリー",
+          "zh": "玩具总动员"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Pixar",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%84%B8%EA%B3%84%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%ED%92%80%203D%20%EC%9E%A5%ED%8E%B8%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%E3%80%88%ED%86%A0%EC%9D%B4%20%EC%8A%A4%ED%86%A0%EB%A6%AC%E3%80%89%20%EA%B0%9C%EB%B4%89",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E3%83%95%E3%83%ABCG%E9%95%B7%E7%B7%A8%E6%98%A0%E7%94%BB%E3%80%8E%E3%83%88%E3%82%A4%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%80%8F%E5%85%AC%E9%96%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E9%A6%96%E9%83%A8%E5%85%A83D%E5%8A%A8%E7%94%BB%E9%95%BF%E7%89%87%E3%80%8A%E7%8E%A9%E5%85%B7%E6%80%BB%E5%8A%A8%E5%91%98%E3%80%8B%E4%B8%8A%E6%98%A0"
+          "en": "https://en.wikipedia.org/wiki/Toy_Story",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%86%A0%EC%9D%B4_%EC%8A%A4%ED%86%A0%EB%A6%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A4%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%8E%A9%E5%85%B7%E6%80%BB%E5%8A%A8%E5%91%98"
         }
       }
     },
@@ -6880,19 +6880,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1996年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q171433",
         "wikiTitle": {
-          "en": "Sheep",
-          "ko": "Sheep",
-          "ja": "Sheep",
-          "zh": "Sheep"
+          "en": "Dolly (sheep)",
+          "ko": "돌리 (양)",
+          "ja": "ドリー (羊)",
+          "zh": "多利"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Sheep",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%84%B8%EA%B3%84%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EC%B2%B4%EC%84%B8%ED%8F%AC%20%EB%B3%B5%EC%A0%9C%20%ED%8F%AC%EC%9C%A0%EB%A5%98%20'%EB%B3%B5%EC%A0%9C%EC%96%91%20%EB%8F%8C%EB%A6%AC'%20%ED%83%84%EC%83%9D",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E4%BD%93%E7%B4%B0%E8%83%9E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E5%93%BA%E4%B9%B3%E9%A1%9E%E3%80%8E%E3%83%89%E3%83%AA%E3%83%BC%EF%BC%88%E7%BE%8A%EF%BC%89%E3%80%8F%E8%AA%95%E7%94%9F",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E9%A6%96%E4%BE%8B%E4%BD%93%E7%BB%86%E8%83%9E%E5%85%8B%E9%9A%86%E5%93%BA%E4%B9%B3%E5%8A%A8%E7%89%A9%E2%80%9C%E5%A4%9A%E8%8E%89%E7%BE%8A%E2%80%9D%E8%AF%9E%E7%94%9F"
+          "en": "https://en.wikipedia.org/wiki/Dolly_(sheep)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8F%8C%EB%A6%AC_(%EC%96%91)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%BC_(%E7%BE%8A)",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A4%9A%E5%88%A9"
         }
       }
     },
@@ -6921,19 +6921,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1997年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q43361",
         "wikiTitle": {
-          "en": "J. K. Rowling",
-          "ko": "J. K. Rowling",
-          "ja": "J. K. Rowling",
-          "zh": "J. K. Rowling"
+          "en": "Harry Potter and the Philosopher's Stone",
+          "ko": "해리 포터와 마법사의 돌",
+          "ja": "ハリー・ポッターと賢者の石",
+          "zh": "哈利·波特与魔法石"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/J._K._Rowling",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A1%B0%EC%95%A4%20%EB%A1%A4%EB%A7%81%20%EC%86%8C%EC%84%A4%20%E3%80%88%ED%95%B4%EB%A6%AC%20%ED%8F%AC%ED%84%B0%EC%99%80%20%EB%A7%88%EB%B2%95%EC%82%AC%EC%9D%98%20%EB%8F%8C%E3%80%89%201%EA%B6%8C%20%EC%B4%88%ED%8C%90%20%EC%B6%9C%EA%B0%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%B0%8F%E8%AA%AC%E3%80%8E%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E8%B3%A2%E8%80%85%E3%81%AE%E7%9F%B3%E3%80%8F%E7%AC%AC1%E5%B7%BB%E3%81%8C%E5%87%BA%E7%89%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=J.K.%E7%BD%97%E7%90%B3%E3%80%8A%E5%93%88%E5%88%A9%C2%B7%E6%B3%A2%E7%89%B9%E4%B8%8E%E9%AD%94%E6%B3%95%E7%9F%B3%E3%80%8B%E9%A6%96%E7%89%88%E5%87%BA%E7%89%88"
+          "en": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher's_Stone",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%A6%AC_%ED%8F%AC%ED%84%B0%EC%99%80_%EB%A7%88%EB%B2%95%EC%82%AC%EC%9D%98_%EB%8F%8C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E8%B3%A2%E8%80%85%E3%81%AE%E7%9F%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%93%88%E5%88%A9%C2%B7%E6%B3%A2%E7%89%B9%E4%B8%8E%E9%AD%94%E6%B3%95%E7%9F%B3"
         }
       }
     },
@@ -6962,19 +6962,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1997年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q907311",
         "wikiTitle": {
-          "en": "Streaming media",
-          "ko": "Streaming media",
-          "ja": "Streaming media",
-          "zh": "Streaming media"
+          "en": "Netflix",
+          "ko": "넷플릭스",
+          "ja": "Netflix",
+          "zh": "Netflix"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Streaming_media",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4(Netflix)%20%EC%9A%B0%ED%8E%B8%20DVD%20%EB%8C%80%EC%97%AC%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Netflix%E3%81%8CDVD%E9%83%B5%E9%80%81%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%A8%E3%81%97%E3%81%A6%E5%89%B5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A5%88%E9%A3%9E(Netflix)%E4%BB%A5%E9%82%AE%E5%AF%84DVD%E7%A7%9F%E8%B5%81%E6%9C%8D%E5%8A%A1%E5%88%9B%E7%AB%8B"
+          "en": "https://en.wikipedia.org/wiki/Netflix",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/Netflix",
+          "zh": "https://zh.wikipedia.org/wiki/Netflix"
         }
       }
     },
@@ -7003,19 +7003,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1997年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q28667972",
         "wikiTitle": {
-          "en": "Jolly Roger",
-          "ko": "Jolly Roger",
-          "ja": "Jolly Roger",
-          "zh": "Jolly Roger"
+          "en": "One Piece",
+          "ko": "원피스 (만화)",
+          "ja": "ONE PIECE",
+          "zh": "ONE PIECE"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Jolly_Roger",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%98%A4%EB%8B%A4%20%EC%97%90%EC%9D%B4%EC%9D%B4%EC%B9%98%EB%A1%9C%20%EB%A7%8C%ED%99%94%20%E3%80%88%EC%9B%90%ED%94%BC%EC%8A%A4(One%20Piece)%E3%80%89%20%EC%97%B0%EC%9E%AC%20%EC%8B%9C%EC%9E%91",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%B0%BE%E7%94%B0%E6%A0%84%E4%B8%80%E9%83%8E%E3%80%8EONE%20PIECE%EF%BC%88%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%EF%BC%89%E3%80%8F%E9%80%A3%E8%BC%89%E9%96%8B%E5%A7%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%B0%BE%E7%94%B0%E8%8D%A3%E4%B8%80%E9%83%8E%E5%BC%80%E5%A7%8B%E8%BF%9E%E8%BD%BD%E6%BC%AB%E7%94%BB%E3%80%8A%E6%B5%B7%E8%B4%BC%E7%8E%8B%E3%80%8B"
+          "en": "https://en.wikipedia.org/wiki/One_Piece",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9B%90%ED%94%BC%EC%8A%A4_(%EB%A7%8C%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/ONE_PIECE",
+          "zh": "https://zh.wikipedia.org/wiki/ONE_PIECE"
         }
       }
     },
@@ -7044,19 +7044,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1998年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q95",
         "wikiTitle": {
           "en": "Google",
-          "ko": "Google",
+          "ko": "구글",
           "ja": "Google",
           "zh": "Google"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Google",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%9E%98%EB%A6%AC%20%ED%8E%98%EC%9D%B4%EC%A7%80%EC%99%80%20%EC%84%B8%EB%A5%B4%EA%B2%8C%EC%9D%B4%20%EB%B8%8C%EB%A6%B0%20%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84%20%EA%B5%AC%EA%B8%80(Google)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A9%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9A%E3%82%A4%E3%82%B8%E3%82%89%E3%81%8C%E3%80%8EGoogle%E3%80%8F%E3%82%92%E8%A8%AD%E7%AB%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%8B%89%E9%87%8C%C2%B7%E4%BD%A9%E5%A5%87%E4%B8%8E%E8%B0%A2%E5%B0%94%E7%9B%96%C2%B7%E5%B8%83%E6%9E%97%E5%88%9B%E7%AB%8B%E8%B0%B7%E6%AD%8C(Google)"
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EA%B8%80",
+          "ja": "https://ja.wikipedia.org/wiki/Google",
+          "zh": "https://zh.wikipedia.org/wiki/Google"
         }
       }
     },
@@ -7085,19 +7085,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1998年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q25271",
         "wikiTitle": {
           "en": "International Space Station",
-          "ko": "International Space Station",
-          "ja": "International Space Station",
-          "zh": "International Space Station"
+          "ko": "국제우주정거장",
+          "ja": "国際宇宙ステーション",
+          "zh": "国际空间站"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/International_Space_Station",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EA%B5%AD%EC%A0%9C%EC%9A%B0%EC%A3%BC%EC%A0%95%EA%B1%B0%EC%9E%A5(ISS)%20%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EB%93%88%20%EC%9A%B0%EC%A3%BC%20%EB%B0%9C%EC%82%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%9B%BD%E9%9A%9B%E5%AE%87%E5%AE%99%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%88ISS%EF%BC%89%E6%9C%80%E5%88%9D%E3%81%AE%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%9B%BD%E9%99%85%E7%A9%BA%E9%97%B4%E7%AB%99(ISS)%E9%A6%96%E4%B8%AA%E8%88%B1%E6%AE%B5%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA"
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C%EC%9A%B0%EC%A3%BC%EC%A0%95%EA%B1%B0%EC%9E%A5",
+          "ja": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E5%AE%87%E5%AE%99%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E7%A9%BA%E9%97%B4%E7%AB%99"
         }
       }
     },
@@ -7126,19 +7126,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（1999年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q4916",
         "wikiTitle": {
           "en": "Euro",
-          "ko": "Euro",
-          "ja": "Euro",
-          "zh": "Euro"
+          "ko": "유로",
+          "ja": "ユーロ",
+          "zh": "欧元"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Euro",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9C%A0%EB%9F%BD%EC%97%B0%ED%95%A9%20%EB%8B%A8%EC%9D%BC%20%ED%86%B5%ED%99%94%20'%EC%9C%A0%EB%A1%9C%ED%99%94(Euro)'%20%EA%B3%B5%EC%8B%9D%20%EB%8F%84%EC%9E%85",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88%E3%81%AE%E5%8D%98%E4%B8%80%E9%80%9A%E8%B2%A8%E3%80%8E%E3%83%A6%E3%83%BC%E3%83%AD%EF%BC%88Euro%EF%BC%89%E3%80%8F%E5%B0%8E%E5%85%A5",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%AC%A7%E7%9B%9F%E6%AD%A3%E5%BC%8F%E5%90%AF%E7%94%A8%E5%8D%95%E4%B8%80%E8%B4%A7%E5%B8%81%E6%AC%A7%E5%85%83(Euro)"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%A1%9C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AD",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%AC%A7%E5%85%83"
         }
       }
     },
@@ -7167,19 +7167,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（2000年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q10680",
         "wikiTitle": {
           "en": "PlayStation 2",
-          "ko": "PlayStation 2",
+          "ko": "플레이스테이션 2",
           "ja": "PlayStation 2",
           "zh": "PlayStation 2"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/PlayStation_2",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%97%AD%EB%8C%80%20%EC%B5%9C%EB%8B%A4%20%ED%8C%90%EB%A7%A4%20%EC%BD%98%EC%86%94%20%EA%B2%8C%EC%9E%84%EA%B8%B0%20%EC%86%8C%EB%8B%88%20'%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%98%202(PS2)'%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%8F%B2%E4%B8%8A%E6%9C%80%E3%82%82%E5%A3%B2%E3%82%8C%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E3%80%8EPlayStation%202%EF%BC%88PS2%EF%BC%89%E3%80%8F%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8F%B2%E4%B8%8A%E9%94%80%E9%87%8F%E6%9C%80%E9%AB%98%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%9C%BA%E7%B4%A2%E5%B0%BC%20PS2%20%E5%8F%91%E5%94%AE"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%98_2",
+          "ja": "https://ja.wikipedia.org/wiki/PlayStation_2",
+          "zh": "https://zh.wikipedia.org/wiki/PlayStation_2"
         }
       }
     },
@@ -7208,19 +7208,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2001年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q52",
         "wikiTitle": {
           "en": "Wikipedia",
-          "ko": "Wikipedia",
-          "ja": "Wikipedia",
-          "zh": "Wikipedia"
+          "ko": "위키백과",
+          "ja": "ウィキペディア",
+          "zh": "维基百科"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Wikipedia",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%88%84%EA%B5%AC%EB%82%98%20%ED%8E%B8%EC%A7%91%ED%95%98%EB%8A%94%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%B0%B1%EA%B3%BC%EC%82%AC%EC%A0%84%20'%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC(Wikipedia)'%20%EC%8B%9C%EC%9E%91",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E7%99%BE%E7%A7%91%E4%BA%8B%E5%85%B8%E3%80%8E%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%EF%BC%88Wikipedia%EF%BC%89%E3%80%8F%E9%96%8B%E8%A8%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91(Wikipedia)%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91"
         }
       }
     },
@@ -7249,19 +7249,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（2001年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q9479",
         "wikiTitle": {
           "en": "IPod",
-          "ko": "IPod",
+          "ko": "아이팟",
           "ja": "IPod",
           "zh": "IPod"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/IPod",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%A0%ED%94%8C%20%ED%9C%B4%EB%8C%80%EC%9A%A9%20%EC%9D%8C%EC%95%85%20%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20'%EC%95%84%EC%9D%B4%ED%8C%9F(iPod)'%201%EC%84%B8%EB%8C%80%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Apple%E3%81%8C%E5%88%9D%E4%BB%A3%E3%80%8EiPod%E3%80%8F%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E7%AC%AC%E4%B8%80%E4%BB%A3%20iPod%20%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%ED%8C%9F",
+          "ja": "https://ja.wikipedia.org/wiki/IPod",
+          "zh": "https://zh.wikipedia.org/wiki/IPod"
         }
       }
     },
@@ -7290,19 +7290,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2002年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q193701",
         "wikiTitle": {
           "en": "SpaceX",
-          "ko": "SpaceX",
-          "ja": "SpaceX",
+          "ko": "스페이스X",
+          "ja": "スペースX",
           "zh": "SpaceX"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/SpaceX",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%BC%EB%A1%A0%20%EB%A8%B8%EC%8A%A4%ED%81%AC%20%EB%AF%BC%EA%B0%84%20%EC%9A%B0%EC%A3%BC%20%EA%B8%B0%EC%97%85%20%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4X(SpaceX)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF%E3%81%8C%E5%AE%87%E5%AE%99%E4%BC%81%E6%A5%AD%E3%80%8ESpaceX%E3%80%8F%E3%82%92%E8%A8%AD%E7%AB%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E5%88%9B%E7%AB%8B%E5%A4%AA%E7%A9%BA%E6%8E%A2%E7%B4%A2%E6%8A%80%E6%9C%AF%E5%85%AC%E5%8F%B8%20SpaceX"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4X",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X",
+          "zh": "https://zh.wikipedia.org/wiki/SpaceX"
         }
       }
     },
@@ -7331,19 +7331,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2002年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q926699",
         "wikiTitle": {
-          "en": "Clog",
-          "ko": "Clog",
-          "ja": "Clog",
-          "zh": "Clog"
+          "en": "Crocs",
+          "ko": "크록스",
+          "ja": "クロックス",
+          "zh": "卡駱馳"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Clog",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%81%AC%EB%A1%9D%EC%8A%A4(Crocs)%20%ED%81%B4%EB%9E%98%EC%8B%9D%20%ED%81%B4%EB%A1%9C%EA%B7%B8%20%EC%8B%A0%EB%B0%9C%20%EC%B5%9C%EC%B4%88%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%80%8E%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%88Crocs%EF%BC%89%E3%80%8F%E3%82%B5%E3%83%B3%E3%83%80%E3%83%AB%E3%81%8C%E5%88%9D%E7%99%BB%E5%A0%B4",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Crocs%20%E9%A6%96%E6%AC%A1%E6%8E%A8%E5%87%BA%E6%B3%A1%E6%B2%AB%E6%B4%9E%E6%B4%9E%E9%9E%8B"
+          "en": "https://en.wikipedia.org/wiki/Crocs",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A1%9D%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8D%A1%E9%A7%B1%E9%A6%B3"
         }
       }
     },
@@ -7372,19 +7372,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2003年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q478214",
         "wikiTitle": {
           "en": "Tesla, Inc.",
-          "ko": "Tesla, Inc.",
-          "ja": "Tesla, Inc.",
-          "zh": "Tesla, Inc."
+          "ko": "테슬라 (기업)",
+          "ja": "テスラ (会社)",
+          "zh": "特斯拉公司"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Tesla%2C_Inc.",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EA%B8%B0%EC%97%85%20%ED%85%8C%EC%8A%AC%EB%9D%BC(Tesla)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E9%9B%BB%E6%B0%97%E8%87%AA%E5%8B%95%E8%BB%8A%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%8E%E3%83%86%E3%82%B9%E3%83%A9%EF%BC%88Tesla%EF%BC%89%E3%80%8F%E8%A8%AD%E7%AB%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%89%B9%E6%96%AF%E6%8B%89(Tesla)%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%ED%85%8C%EC%8A%AC%EB%9D%BC_(%EA%B8%B0%EC%97%85)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%B9%E3%83%A9_(%E4%BC%9A%E7%A4%BE)",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%AC%E5%8F%B8"
         }
       }
     },
@@ -7413,19 +7413,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2003年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q337535",
         "wikiTitle": {
-          "en": "Gabe Newell",
-          "ko": "Gabe Newell",
-          "ja": "Gabe Newell",
-          "zh": "Gabe Newell"
+          "en": "Steam (service)",
+          "ko": "스팀 (서비스)",
+          "ja": "Steam",
+          "zh": "Steam"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Gabe_Newell",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%B8%EB%B8%8C(Valve)%20PC%20%EA%B2%8C%EC%9E%84%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20'%EC%8A%A4%ED%8C%80(Steam)'%20%EC%A0%95%EC%8B%9D%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=PC%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%80%8ESteam%E3%80%8F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Valve%20%E6%8E%A8%E5%87%BA%20Steam%20%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0"
+          "en": "https://en.wikipedia.org/wiki/Steam_(service)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8C%80_(%EC%84%9C%EB%B9%84%EC%8A%A4)",
+          "ja": "https://ja.wikipedia.org/wiki/Steam",
+          "zh": "https://zh.wikipedia.org/wiki/Steam"
         }
       }
     },
@@ -7454,19 +7454,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2004年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q355",
         "wikiTitle": {
-          "en": "Mark Zuckerberg",
-          "ko": "Mark Zuckerberg",
-          "ja": "Mark Zuckerberg",
-          "zh": "Mark Zuckerberg"
+          "en": "Facebook",
+          "ko": "페이스북",
+          "ja": "Facebook",
+          "zh": "Facebook"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%88%ED%81%AC%20%EC%A0%80%EC%BB%A4%EB%B2%84%EA%B7%B8%20%ED%95%98%EB%B2%84%EB%93%9C%20%EA%B8%B0%EC%88%99%EC%82%AC%EC%97%90%EC%84%9C%20%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81(Facebook)%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B6%E3%83%83%E3%82%AB%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B0%E3%81%8C%E3%80%8EFacebook%E3%80%8F%E3%82%92%E9%96%8B%E8%A8%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%9C%A8%E5%93%88%E4%BD%9B%E5%AE%BF%E8%88%8D%E4%B8%8A%E7%BA%BF%20Facebook"
+          "en": "https://en.wikipedia.org/wiki/Facebook",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81",
+          "ja": "https://ja.wikipedia.org/wiki/Facebook",
+          "zh": "https://zh.wikipedia.org/wiki/Facebook"
         }
       }
     },
@@ -7495,19 +7495,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2005年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q866",
         "wikiTitle": {
           "en": "YouTube",
-          "ko": "YouTube",
+          "ko": "유튜브",
           "ja": "YouTube",
           "zh": "YouTube"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/YouTube",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9C%A0%ED%8A%9C%EB%B8%8C(YouTube)%20%EC%84%A4%EB%A6%BD%20%EB%B0%8F%20%EC%97%AD%EC%82%AC%EC%83%81%20%EC%B2%AB%20%EC%98%81%EC%83%81%20%EC%97%85%EB%A1%9C%EB%93%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=YouTube%E9%96%8B%E8%A8%AD%EF%BC%86%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E5%8B%95%E7%94%BB%E3%80%8EMe%20at%20the%20zoo%E3%80%8F%E6%8A%95%E7%A8%BF",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=YouTube%20%E5%88%9B%E7%AB%8B%E5%B9%B6%E4%B8%8A%E4%BC%A0%E7%AC%AC%E4%B8%80%E6%94%AF%E8%A7%86%E9%A2%91"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%8A%9C%EB%B8%8C",
+          "ja": "https://ja.wikipedia.org/wiki/YouTube",
+          "zh": "https://zh.wikipedia.org/wiki/YouTube"
         }
       }
     },
@@ -7536,19 +7536,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2006年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q918",
         "wikiTitle": {
-          "en": "Twitter",
-          "ko": "Twitter",
-          "ja": "Twitter",
-          "zh": "Twitter"
+          "en": "X (social network)",
+          "ko": "X (소셜 네트워크)",
+          "ja": "X (ソーシャル・ネットワーキング・サービス)",
+          "zh": "X (社交網路服務)"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Twitter",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8A%B8%EC%9C%84%ED%84%B0(Twitter%2C%20%ED%98%84%20X)%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%8B%9C%EC%9E%91%20%EB%B0%8F%20%EC%B2%AB%20%ED%8A%B8%EC%9C%97%20%EC%A0%84%EC%86%A1",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%80%8ETwitter%EF%BC%88%E7%8F%BEX%EF%BC%89%E3%80%8F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%8E%A8%E7%89%B9(Twitter%2FX)%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%8F%91%E5%87%BA%E7%AC%AC%E4%B8%80%E6%9D%A1%E6%8E%A8%E6%96%87"
+          "en": "https://en.wikipedia.org/wiki/X_(social_network)",
+          "ko": "https://ko.wikipedia.org/wiki/X_(%EC%86%8C%EC%85%9C_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)",
+          "ja": "https://ja.wikipedia.org/wiki/X_(%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)",
+          "zh": "https://zh.wikipedia.org/wiki/X_(%E7%A4%BE%E4%BA%A4%E7%B6%B2%E8%B7%AF%E6%9C%8D%E5%8B%99)"
         }
       }
     },
@@ -7577,19 +7577,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（2007年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q621427",
         "wikiTitle": {
           "en": "IPhone (1st generation)",
-          "ko": "IPhone (1st generation)",
-          "ja": "IPhone (1st generation)",
-          "zh": "IPhone (1st generation)"
+          "ko": "아이폰 (1세대)",
+          "ja": "IPhone (初代)",
+          "zh": "IPhone (第一代)"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%ED%8B%B0%EB%B8%8C%20%EC%9E%A1%EC%8A%A4%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20'%EC%95%84%EC%9D%B4%ED%8F%B0%201%EC%84%B8%EB%8C%80'%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA%E3%81%8C%E5%88%9D%E4%BB%A3%E3%80%8EiPhone%E3%80%8F%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B9%94%E5%B8%83%E6%96%AF%E5%8F%91%E5%B8%83%E7%AC%AC%E4%B8%80%E4%BB%A3%20iPhone%20%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%ED%8F%B0_(1%EC%84%B8%EB%8C%80)",
+          "ja": "https://ja.wikipedia.org/wiki/IPhone_(%E5%88%9D%E4%BB%A3)",
+          "zh": "https://zh.wikipedia.org/wiki/IPhone_(%E7%AC%AC%E4%B8%80%E4%BB%A3)"
         }
       }
     },
@@ -7618,19 +7618,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2008年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q63327",
         "wikiTitle": {
           "en": "Airbnb",
-          "ko": "Airbnb",
+          "ko": "에어비앤비",
           "ja": "Airbnb",
-          "zh": "Airbnb"
+          "zh": "爱彼迎"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Airbnb",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%88%99%EB%B0%95%20%EA%B3%B5%EC%9C%A0%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EC%97%90%EC%96%B4%EB%B9%84%EC%95%A4%EB%B9%84(Airbnb)%20%EC%B0%BD%EB%A6%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E6%B0%91%E6%B3%8A%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%80%8EAirbnb%E3%80%8F%E8%A8%AD%E7%AB%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%88%B1%E5%BD%BC%E8%BF%8E(Airbnb)%E5%9C%A8%E6%97%A7%E9%87%91%E5%B1%B1%E5%88%9B%E7%AB%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4%EB%B9%84%EC%95%A4%EB%B9%84",
+          "ja": "https://ja.wikipedia.org/wiki/Airbnb",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BD%BC%E8%BF%8E"
         }
       }
     },
@@ -7659,19 +7659,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2008年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q192724",
         "wikiTitle": {
-          "en": "Robert Downey Jr.",
-          "ko": "Robert Downey Jr.",
-          "ja": "Robert Downey Jr.",
-          "zh": "Robert Downey Jr."
+          "en": "Iron Man (2008 film)",
+          "ko": "아이언맨 (영화)",
+          "ja": "アイアンマン (映画)",
+          "zh": "鐵甲奇俠 (電影)"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Robert_Downey_Jr.",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%88%EB%B8%94%20%EC%8B%9C%EB%84%A4%EB%A7%88%ED%8B%B1%20%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4(MCU)%EC%9D%98%20%EC%8B%9C%EC%9E%91%20%E3%80%88%EC%95%84%EC%9D%B4%EC%96%B8%EB%A7%A8%E3%80%89%201%ED%8E%B8%20%EA%B0%9C%EB%B4%89",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=MCU%E3%81%AE%E5%B9%95%E9%96%8B%E3%81%91%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E6%98%A0%E7%94%BB%E3%80%8E%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%9E%E3%83%B3%E3%80%8F%E5%85%AC%E9%96%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%BC%AB%E5%A8%81%E7%94%B5%E5%BD%B1%E5%AE%87%E5%AE%99%E5%BC%80%E5%B1%B1%E4%B9%8B%E4%BD%9C%E3%80%8A%E9%92%A2%E9%93%81%E4%BE%A0%E3%80%8B%E4%B8%8A%E6%98%A0"
+          "en": "https://en.wikipedia.org/wiki/Iron_Man_(2008_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%EC%96%B8%EB%A7%A8_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%9E%E3%83%B3_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%90%B5%E7%94%B2%E5%A5%87%E4%BF%A0_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -7700,19 +7700,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（2009年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q131723",
         "wikiTitle": {
           "en": "Bitcoin",
-          "ko": "Bitcoin",
-          "ja": "Bitcoin",
-          "zh": "Bitcoin"
+          "ko": "비트코인",
+          "ja": "ビットコイン",
+          "zh": "比特币"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Bitcoin",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%82%AC%ED%86%A0%EC%8B%9C%20%EB%82%98%EC%B9%B4%EB%AA%A8%ED%86%A0%20%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90%20'%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8(Bitcoin)'%20%EC%B2%AB%20%EB%B8%94%EB%A1%9D%20%EC%B1%84%EA%B5%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B5%E3%83%88%E3%82%B7%E3%83%BB%E3%83%8A%E3%82%AB%E3%83%A2%E3%83%88%E3%81%8C%E3%80%8E%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3%E3%80%8F%E3%82%92%E7%A8%BC%E5%83%8D%E9%96%8B%E5%A7%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%8C%96%E5%87%BA%E6%AF%94%E7%89%B9%E5%B8%81(Bitcoin)%E5%88%9B%E4%B8%96%E5%8C%BA%E5%9D%97"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%AF%94%E7%89%B9%E5%B8%81"
         }
       }
     },
@@ -7741,19 +7741,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2009年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q49740",
         "wikiTitle": {
-          "en": "Markus Persson",
-          "ko": "Markus Persson",
-          "ja": "Markus Persson",
-          "zh": "Markus Persson"
+          "en": "Minecraft",
+          "ko": "마인크래프트",
+          "ja": "Minecraft",
+          "zh": "我的世界"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Markus_Persson",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4%20%EA%B2%8C%EC%9E%84%20%E3%80%88%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%E3%80%89%20%EC%B5%9C%EC%B4%88%20%EA%B3%B5%EA%B0%9C%20%EB%B2%84%EC%A0%84%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%E3%80%8E%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%80%8F%E5%88%9D%E5%85%AC%E9%96%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B2%99%E7%9B%92%E6%B8%B8%E6%88%8F%E3%80%8A%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C(Minecraft)%E3%80%8B%E9%A6%96%E4%B8%AA%E5%85%AC%E5%BC%80%E7%89%88%E5%8F%91%E5%B8%83"
+          "en": "https://en.wikipedia.org/wiki/Minecraft",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8",
+          "ja": "https://ja.wikipedia.org/wiki/Minecraft",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C"
         }
       }
     },
@@ -7782,19 +7782,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2009年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q223341",
         "wikiTitle": {
           "en": "League of Legends",
-          "ko": "League of Legends",
+          "ko": "리그 오브 레전드",
           "ja": "League of Legends",
-          "zh": "League of Legends"
+          "zh": "英雄联盟"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/League_of_Legends",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%9D%BC%EC%9D%B4%EC%97%87%20%EA%B2%8C%EC%9E%84%EC%A6%88%20%E3%80%88%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C(LoL)%E3%80%89%20%EC%A0%95%EC%8B%9D%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%83%E3%83%88%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BA%E3%80%8E%E3%83%AA%E3%83%BC%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%AC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%89%EF%BC%88LoL%EF%BC%89%E3%80%8F%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%8B%B3%E5%A4%B4%E6%B8%B8%E6%88%8F%E6%AD%A3%E5%BC%8F%E6%8E%A8%E5%87%BA%E3%80%8A%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F(LoL)%E3%80%8B"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A6%AC%EA%B7%B8_%EC%98%A4%EB%B8%8C_%EB%A0%88%EC%A0%84%EB%93%9C",
+          "ja": "https://ja.wikipedia.org/wiki/League_of_Legends",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F"
         }
       }
     },
@@ -7823,19 +7823,19 @@ window.GAME_DECKS = {
         "zh": "依据建筑物官方竣工及正式对公众开放年份（2010年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q12495",
         "wikiTitle": {
           "en": "Burj Khalifa",
-          "ko": "Burj Khalifa",
-          "ja": "Burj Khalifa",
-          "zh": "Burj Khalifa"
+          "ko": "부르즈 할리파",
+          "ja": "ブルジュ・ハリファ",
+          "zh": "哈利法塔"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Burj_Khalifa",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%84%B8%EA%B3%84%20%EC%B5%9C%EA%B3%A0%EC%B8%B5%20%EB%B9%8C%EB%94%A9%20%EB%91%90%EB%B0%94%EC%9D%B4%20'%EB%B6%80%EB%A5%B4%EC%A6%88%20%ED%95%A0%EB%A6%AC%ED%8C%8C(828m)'%20%EA%B0%9C%EC%9E%A5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E4%B8%80%E9%AB%98%E3%81%84%E8%B6%85%E9%AB%98%E5%B1%A4%E3%83%93%E3%83%AB%E3%80%8E%E3%83%96%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%95%E3%82%A1%E3%80%8F%E9%96%8B%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A5%BC%E8%BF%AA%E6%8B%9C%E5%93%88%E5%88%A9%E6%B3%95%E5%A1%94%E8%90%BD%E6%88%90%E5%BC%80%E5%B9%95"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B6%80%EB%A5%B4%EC%A6%88_%ED%95%A0%EB%A6%AC%ED%8C%8C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%95%E3%82%A1",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%93%88%E5%88%A9%E6%B3%95%E5%A1%94"
         }
       }
     },
@@ -7864,19 +7864,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（2010年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q59802",
         "wikiTitle": {
           "en": "IPad (1st generation)",
-          "ko": "IPad (1st generation)",
-          "ja": "IPad (1st generation)",
-          "zh": "IPad (1st generation)"
+          "ko": "아이패드 (1세대)",
+          "ja": "IPad (第1世代)",
+          "zh": "IPad (第一代)"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/IPad_(1st_generation)",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%A0%ED%94%8C%20%ED%83%9C%EB%B8%94%EB%A6%BF%20%EC%BB%B4%ED%93%A8%ED%84%B0%20'%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C(iPad)%201%EC%84%B8%EB%8C%80'%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Apple%E3%81%8C%E5%88%9D%E4%BB%A3%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E3%80%8EiPad%E3%80%8F%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E7%AC%AC%E4%B8%80%E4%BB%A3%20iPad%20%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C_(1%EC%84%B8%EB%8C%80)",
+          "ja": "https://ja.wikipedia.org/wiki/IPad_(%E7%AC%AC1%E4%B8%96%E4%BB%A3)",
+          "zh": "https://zh.wikipedia.org/wiki/IPad_(%E7%AC%AC%E4%B8%80%E4%BB%A3)"
         }
       }
     },
@@ -7905,19 +7905,19 @@ window.GAME_DECKS = {
         "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2010年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q209330",
         "wikiTitle": {
           "en": "Instagram",
-          "ko": "Instagram",
+          "ko": "인스타그램",
           "ja": "Instagram",
           "zh": "Instagram"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Instagram",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%82%AC%EC%A7%84%20SNS%20%EC%95%B1%20'%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8(Instagram)'%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%86%99%E7%9C%9F%E5%85%B1%E6%9C%89%E3%82%A2%E3%83%97%E3%83%AA%E3%80%8EInstagram%E3%80%8F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%9B%BE%E7%89%87%E7%A4%BE%E4%BA%A4%E5%BA%94%E7%94%A8%20Instagram%20%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8",
+          "ja": "https://ja.wikipedia.org/wiki/Instagram",
+          "zh": "https://zh.wikipedia.org/wiki/Instagram"
         }
       }
     },
@@ -7946,19 +7946,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2013年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q246283",
         "wikiTitle": {
-          "en": "Walt Disney Animation Studios",
-          "ko": "Walt Disney Animation Studios",
-          "ja": "Walt Disney Animation Studios",
-          "zh": "Walt Disney Animation Studios"
+          "en": "Frozen (2013 film)",
+          "ko": "겨울왕국",
+          "ja": "アナと雪の女王",
+          "zh": "冰雪奇缘"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Walt_Disney_Animation_Studios",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%94%94%EC%A6%88%EB%8B%88%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%E3%80%88%EA%B2%A8%EC%9A%B8%EC%99%95%EA%B5%AD(Frozen)%E3%80%89%20%EA%B0%9C%EB%B4%89",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E6%98%A0%E7%94%BB%E3%80%8E%E3%82%A2%E3%83%8A%E3%81%A8%E9%9B%AA%E3%81%AE%E5%A5%B3%E7%8E%8B%E3%80%8F%E5%85%AC%E9%96%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E3%80%8A%E5%86%B0%E9%9B%AA%E5%A5%87%E7%BC%98%E3%80%8B%E4%B8%8A%E6%98%A0"
+          "en": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B2%A8%EC%9A%B8%EC%99%95%EA%B5%AD",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%81%A8%E9%9B%AA%E3%81%AE%E5%A5%B3%E7%8E%8B",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%86%B0%E9%9B%AA%E5%A5%87%E7%BC%98"
         }
       }
     },
@@ -7987,19 +7987,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2013年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q17452",
         "wikiTitle": {
-          "en": "Hollywood Hills",
-          "ko": "Hollywood Hills",
-          "ja": "Hollywood Hills",
-          "zh": "Hollywood Hills"
+          "en": "Grand Theft Auto V",
+          "ko": "그랜드 테프트 오토 V",
+          "ja": "グランド・セフト・オートV",
+          "zh": "俠盜獵車手V"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Hollywood_Hills",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%9D%BD%EC%8A%A4%ED%83%80%20%EA%B2%8C%EC%9E%84%EC%A6%88%20%E3%80%88GTA%205%E3%80%89%20%EC%A0%95%EC%8B%9D%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B9%E3%80%8E%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%BB%E3%83%95%E3%83%88%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%88V%EF%BC%88GTA5%EF%BC%89%E3%80%8F%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=R%E6%98%9F%E5%8F%91%E5%94%AE%E3%80%8A%E4%BE%A0%E7%9B%97%E7%8C%8E%E8%BD%A6%E6%89%8B5%20(GTA%205)%E3%80%8B"
+          "en": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%9E%9C%EB%93%9C_%ED%85%8C%ED%94%84%ED%8A%B8_%EC%98%A4%ED%86%A0_V",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%BB%E3%83%95%E3%83%88%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%88V",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BF%A0%E7%9B%9C%E7%8D%B5%E8%BB%8A%E6%89%8BV"
         }
       }
     },
@@ -8028,19 +8028,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（2015年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q18010946",
         "wikiTitle": {
           "en": "Apple Watch",
-          "ko": "Apple Watch",
+          "ko": "애플 워치",
           "ja": "Apple Watch",
           "zh": "Apple Watch"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Apple_Watch",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%A0%ED%94%8C%20%EC%B5%9C%EC%B4%88%EC%9D%98%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%9B%8C%EC%B9%98%20'%EC%95%A0%ED%94%8C%EC%9B%8C%EC%B9%98%201%EC%84%B8%EB%8C%80'%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Apple%E3%81%8C%E5%88%9D%E4%BB%A3%E3%80%8EApple%20Watch%E3%80%8F%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8B%B9%E6%9E%9C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%94%AE%E7%AC%AC%E4%B8%80%E4%BB%A3%20Apple%20Watch"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%A0%ED%94%8C_%EC%9B%8C%EC%B9%98",
+          "ja": "https://ja.wikipedia.org/wiki/Apple_Watch",
+          "zh": "https://zh.wikipedia.org/wiki/Apple_Watch"
         }
       }
     },
@@ -8069,19 +8069,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（2016年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q23016184",
         "wikiTitle": {
-          "en": "Go (game)",
-          "ko": "Go (game)",
-          "ja": "Go (game)",
-          "zh": "Go (game)"
+          "en": "AlphaGo versus Lee Sedol",
+          "ko": "알파고 대 이세돌",
+          "ja": "AlphaGo対李世ドル",
+          "zh": "AlphaGo李世乭五番棋"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Go_(game)",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EA%B5%AC%EA%B8%80%20%EB%94%A5%EB%A7%88%EC%9D%B8%EB%93%9C%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20'%EC%95%8C%ED%8C%8C%EA%B3%A0%20vs%20%EC%9D%B4%EC%84%B8%EB%8F%8C'%20%EC%84%B8%EA%B8%B0%EC%9D%98%20%EB%B0%94%EB%91%91%20%EB%8C%80%EA%B5%AD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=AI%E3%80%8EAlphaGo%EF%BC%88%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E7%A2%81%EF%BC%89%E3%80%8F%E3%81%A8%E3%82%A4%E3%83%BB%E3%82%BB%E3%83%89%E3%83%AB%E3%81%AE%E4%B8%96%E7%B4%80%E3%81%AE%E5%AF%BE%E5%B1%80",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B0%B7%E6%AD%8C%20AlphaGo%20%E4%B8%8E%E6%9D%8E%E4%B8%96%E7%9F%B3%E8%BF%9B%E8%A1%8C%E4%B8%96%E7%BA%AA%E5%9B%B4%E6%A3%8B%E5%AF%B9%E5%86%B3"
+          "en": "https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%8C%ED%8C%8C%EA%B3%A0_%EB%8C%80_%EC%9D%B4%EC%84%B8%EB%8F%8C",
+          "ja": "https://ja.wikipedia.org/wiki/AlphaGo%E5%AF%BE%E6%9D%8E%E4%B8%96%E3%83%89%E3%83%AB",
+          "zh": "https://zh.wikipedia.org/wiki/AlphaGo%E6%9D%8E%E4%B8%96%E4%B9%AD%E4%BA%94%E7%95%AA%E6%A3%8B"
         }
       }
     },
@@ -8110,19 +8110,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（2016年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q26936286",
         "wikiTitle": {
           "en": "AirPods",
-          "ko": "AirPods",
+          "ko": "에어팟",
           "ja": "AirPods",
           "zh": "AirPods"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/AirPods",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%A0%ED%94%8C%20%EB%AC%B4%EC%84%A0%20%EC%9D%B4%EC%96%B4%ED%8F%B0%20'%EC%97%90%EC%96%B4%ED%8C%9F(AirPods)%201%EC%84%B8%EB%8C%80'%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Apple%E3%81%8C%E5%88%9D%E4%BB%A3%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3%E3%80%8EAirPods%E3%80%8F%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA%E7%AC%AC%E4%B8%80%E4%BB%A3%20AirPods%20%E6%97%A0%E7%BA%BF%E8%80%B3%E6%9C%BA"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4%ED%8C%9F",
+          "ja": "https://ja.wikipedia.org/wiki/AirPods",
+          "zh": "https://zh.wikipedia.org/wiki/AirPods"
         }
       }
     },
@@ -8151,19 +8151,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（2017年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q19610114",
         "wikiTitle": {
           "en": "Nintendo Switch",
-          "ko": "Nintendo Switch",
+          "ko": "닌텐도 스위치",
           "ja": "Nintendo Switch",
-          "zh": "Nintendo Switch"
+          "zh": "任天堂Switch"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Nintendo_Switch",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%20%EA%B2%8C%EC%9E%84%EA%B8%B0%20'%EB%8B%8C%ED%85%90%EB%8F%84%20%EC%8A%A4%EC%9C%84%EC%B9%98'%20%EC%A0%95%EC%8B%9D%20%EC%B6%9C%EC%8B%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82%E3%81%8C%E3%80%8ENintendo%20Switch%E3%80%8F%E3%82%92%E7%99%BA%E5%A3%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%94%AE%20Switch%20%E6%B8%B8%E6%88%8F%E6%9C%BA"
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8B%8C%ED%85%90%EB%8F%84_%EC%8A%A4%EC%9C%84%EC%B9%98",
+          "ja": "https://ja.wikipedia.org/wiki/Nintendo_Switch",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BB%BB%E5%A4%A9%E5%A0%82Switch"
         }
       }
     },
@@ -8192,19 +8192,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2019年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q61448040",
         "wikiTitle": {
-          "en": "Bong Joon-ho",
-          "ko": "Bong Joon-ho",
-          "ja": "Bong Joon-ho",
-          "zh": "Bong Joon-ho"
+          "en": "Parasite (2019 film)",
+          "ko": "기생충 (영화)",
+          "ja": "パラサイト 半地下の家族",
+          "zh": "寄生上流"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Bong_Joon-ho",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B4%89%EC%A4%80%ED%98%B8%20%EA%B0%90%EB%8F%85%20%EC%98%81%ED%99%94%20%E3%80%88%EA%B8%B0%EC%83%9D%EC%B6%A9%E3%80%89%20%EA%B0%9C%EB%B4%89%20%EB%B0%8F%20%EC%B9%B8%20%ED%99%A9%EA%B8%88%EC%A2%85%EB%A0%A4%EC%83%81%20%EC%88%98%EC%83%81",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9D%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8E%E7%9B%A3%E7%9D%A3%E6%98%A0%E7%94%BB%E3%80%8E%E3%83%91%E3%83%A9%E3%82%B5%E3%82%A4%E3%83%88%20%E5%8D%8A%E5%9C%B0%E4%B8%8B%E3%81%AE%E5%AE%B6%E6%97%8F%E3%80%8F%E5%85%AC%E9%96%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A5%89%E4%BF%8A%E6%98%8A%E6%89%A7%E5%AF%BC%E7%94%B5%E5%BD%B1%E3%80%8A%E5%AF%84%E7%94%9F%E8%99%AB%E3%80%8B%E4%B8%8A%E6%98%A0"
+          "en": "https://en.wikipedia.org/wiki/Parasite_(2019_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%83%9D%EC%B6%A9_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B5%E3%82%A4%E3%83%88_%E5%8D%8A%E5%9C%B0%E4%B8%8B%E3%81%AE%E5%AE%B6%E6%97%8F",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%AF%84%E7%94%9F%E4%B8%8A%E6%B5%81"
         }
       }
     },
@@ -8233,19 +8233,19 @@ window.GAME_DECKS = {
         "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2021年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q106582931",
         "wikiTitle": {
           "en": "Squid Game",
-          "ko": "Squid Game",
-          "ja": "Squid Game",
-          "zh": "Squid Game"
+          "ko": "오징어 게임",
+          "ja": "イカゲーム",
+          "zh": "魷魚遊戲系列"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/Squid_Game",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4%20%EC%97%AD%EB%8C%80%20%EC%B5%9C%EA%B3%A0%20%ED%9D%A5%ED%96%89%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%E3%80%88%EC%98%A4%EC%A7%95%EC%96%B4%20%EA%B2%8C%EC%9E%84%E3%80%89%20%EA%B3%B5%EA%B0%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Netflix%E4%B8%96%E7%95%8C%E7%9A%84%E3%83%92%E3%83%83%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E3%80%8E%E3%82%A4%E3%82%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%80%8F%E9%85%8D%E4%BF%A1%E9%96%8B%E5%A7%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Netflix%20%E5%85%A8%E7%90%83%E7%8E%B0%E8%B1%A1%E7%BA%A7%E5%89%A7%E9%9B%86%E3%80%8A%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F%E3%80%8B%E4%B8%8A%E7%BA%BF"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%A7%95%EC%96%B4_%EA%B2%8C%EC%9E%84",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AB%E3%82%B2%E3%83%BC%E3%83%A0",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%AD%B7%E9%AD%9A%E9%81%8A%E6%88%B2%E7%B3%BB%E5%88%97"
         }
       }
     },
@@ -8274,19 +8274,19 @@ window.GAME_DECKS = {
         "zh": "依据世界历史年表及国际官方史料记载的事件发生年份（2021年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q186447",
         "wikiTitle": {
           "en": "James Webb Space Telescope",
-          "ko": "James Webb Space Telescope",
-          "ja": "James Webb Space Telescope",
-          "zh": "James Webb Space Telescope"
+          "ko": "제임스 웹 우주망원경",
+          "ja": "ジェイムズ・ウェッブ宇宙望遠鏡",
+          "zh": "詹姆斯·韦伯太空望远镜"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B8%EB%A5%98%20%EC%97%AD%EC%82%AC%EC%83%81%20%EA%B0%80%EC%9E%A5%20%EA%B0%95%EB%A0%A5%ED%95%9C%20'%EC%A0%9C%EC%9E%84%EC%8A%A4%20%EC%9B%B9%20%EC%9A%B0%EC%A3%BC%EB%A7%9D%EC%9B%90%EA%B2%BD'%20%EB%B0%9C%EC%82%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%80%8E%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%83%E3%83%96%E5%AE%87%E5%AE%99%E6%9C%9B%E9%81%A0%E9%8F%A1%E3%80%8F%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%E6%88%90%E5%8A%9F",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BA%BA%E7%B1%BB%E6%9C%80%E5%BC%BA%E5%A4%AA%E7%A9%BA%E6%9C%9B%E8%BF%9C%E9%95%9C%E2%80%9C%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%9F%A6%E4%BC%AF%E2%80%9D%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%9E%84%EC%8A%A4_%EC%9B%B9_%EC%9A%B0%EC%A3%BC%EB%A7%9D%EC%9B%90%EA%B2%BD",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%83%E3%83%96%E5%AE%87%E5%AE%99%E6%9C%9B%E9%81%A0%E9%8F%A1",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%9F%A6%E4%BC%AF%E5%A4%AA%E7%A9%BA%E6%9C%9B%E8%BF%9C%E9%95%9C"
         }
       }
     },
@@ -8315,388 +8315,19 @@ window.GAME_DECKS = {
         "zh": "依据官方专利注册、首次公开演示或正式商业发售年份（2022年）。"
       },
       "source": {
-        "qid": null,
+        "qid": "Q115564437",
         "wikiTitle": {
           "en": "ChatGPT",
-          "ko": "ChatGPT",
+          "ko": "챗GPT",
           "ja": "ChatGPT",
           "zh": "ChatGPT"
         },
-        "name": "Wikipedia Historical Archives",
+        "name": "Wikipedia & Wikidata",
         "url": {
           "en": "https://en.wikipedia.org/wiki/ChatGPT",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%98%A4%ED%94%88AI%20%EB%8C%80%ED%99%94%ED%98%95%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20'%EC%B1%97GPT(ChatGPT)'%20%EC%A0%84%20%EC%84%B8%EA%B3%84%20%EA%B3%B5%EA%B0%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=OpenAI%E3%81%8C%E5%AF%BE%E8%A9%B1%E5%9E%8BAI%E3%80%8EChatGPT%E3%80%8F%E3%82%92%E5%85%AC%E9%96%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=OpenAI%20%E5%90%91%E5%85%AC%E4%BC%97%E5%8F%91%E5%B8%83%E5%AF%B9%E8%AF%9D%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20ChatGPT"
-        }
-      }
-    },
-    {
-      "id": "tl_Q95",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Googleplex%20HQ%20%28cropped%29.jpg?width=640",
-      "value": 1998,
-      "unit": "year",
-      "name": {
-        "en": "Google Founded",
-        "ko": "구글 창립·설립",
-        "ja": "Google 創業・設立",
-        "zh": "谷歌 创立·成立"
-      },
-      "note": {
-        "en": "Google Founded in 1998, growing into a world-famous global brand / institution.",
-        "ko": "1998년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1998年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1998 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1998 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1998년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1998年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1998年）。"
-      },
-      "source": {
-        "qid": "Q95",
-        "wikiTitle": {
-          "en": "Google",
-          "ko": "구글",
-          "ja": "Google",
-          "zh": "谷歌"
-        },
-        "name": "Wikipedia & Wikidata (Q95)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Google",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EA%B5%AC%EA%B8%80",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Google",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B0%B7%E6%AD%8C"
-        }
-      }
-    },
-    {
-      "id": "tl_Q312",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple%20park%20cupertino%202019.jpg?width=640",
-      "value": 1976,
-      "unit": "year",
-      "name": {
-        "en": "Apple Inc. Founded",
-        "ko": "애플 창립·설립",
-        "ja": "Apple Inc. 創業・設立",
-        "zh": "蘋果公司 创立·成立"
-      },
-      "note": {
-        "en": "Apple Inc. Founded in 1976, growing into a world-famous global brand / institution.",
-        "ko": "1976년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1976年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1976 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1976 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1976년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1976年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1976年）。"
-      },
-      "source": {
-        "qid": "Q312",
-        "wikiTitle": {
-          "en": "Apple Inc.",
-          "ko": "애플",
-          "ja": "Apple Inc.",
-          "zh": "蘋果公司"
-        },
-        "name": "Wikipedia & Wikidata (Q312)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Apple%20Inc.",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%A0%ED%94%8C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Apple%20Inc.",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%98%8B%E6%9E%9C%E5%85%AC%E5%8F%B8"
-        }
-      }
-    },
-    {
-      "id": "tl_Q2283",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20Microsoft%20West%20Campus%20August%202009.jpg?width=640",
-      "value": 1975,
-      "unit": "year",
-      "name": {
-        "en": "Microsoft Founded",
-        "ko": "마이크로소프트 창립·설립",
-        "ja": "マイクロソフト 創業・設立",
-        "zh": "微軟 创立·成立"
-      },
-      "note": {
-        "en": "Microsoft Founded in 1975, growing into a world-famous global brand / institution.",
-        "ko": "1975년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1975年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1975 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1975 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1975년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1975年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1975年）。"
-      },
-      "source": {
-        "qid": "Q2283",
-        "wikiTitle": {
-          "en": "Microsoft",
-          "ko": "마이크로소프트",
-          "ja": "マイクロソフト",
-          "zh": "微軟"
-        },
-        "name": "Wikipedia & Wikidata (Q2283)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Microsoft",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%BE%AE%E8%BB%9F"
-        }
-      }
-    },
-    {
-      "id": "tl_Q53268",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Headquarter%20of%20Toyota%20Motor%20Corporation%203.JPG?width=640",
-      "value": 1937,
-      "unit": "year",
-      "name": {
-        "en": "Toyota Founded",
-        "ko": "토요타 자동차 창립·설립",
-        "ja": "トヨタ自動車 創業・設立",
-        "zh": "豐田汽車 创立·成立"
-      },
-      "note": {
-        "en": "Toyota Founded in 1937, growing into a world-famous global brand / institution.",
-        "ko": "1937년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1937年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1937 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1937 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1937년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1937年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1937年）。"
-      },
-      "source": {
-        "qid": "Q53268",
-        "wikiTitle": {
-          "en": "Toyota",
-          "ko": "토요타 자동차",
-          "ja": "トヨタ自動車",
-          "zh": "豐田汽車"
-        },
-        "name": "Wikipedia & Wikidata (Q53268)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Toyota",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%86%A0%EC%9A%94%ED%83%80%20%EC%9E%90%EB%8F%99%EC%B0%A8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%88%E3%83%A8%E3%82%BF%E8%87%AA%E5%8B%95%E8%BB%8A",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B1%90%E7%94%B0%E6%B1%BD%E8%BB%8A"
-        }
-      }
-    },
-    {
-      "id": "tl_Q907311",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Netflix%20headquarters.jpg?width=640",
-      "value": 1997,
-      "unit": "year",
-      "name": {
-        "en": "Netflix Founded",
-        "ko": "넷플릭스 창립·설립",
-        "ja": "Netflix 創業・設立",
-        "zh": "Netflix 创立·成立"
-      },
-      "note": {
-        "en": "Netflix Founded in 1997, growing into a world-famous global brand / institution.",
-        "ko": "1997년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1997年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1997 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1997 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1997년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1997年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1997年）。"
-      },
-      "source": {
-        "qid": "Q907311",
-        "wikiTitle": {
-          "en": "Netflix",
-          "ko": "넷플릭스",
-          "ja": "Netflix",
-          "zh": "Netflix"
-        },
-        "name": "Wikipedia & Wikidata (Q907311)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Netflix",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Netflix",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Netflix"
-        }
-      }
-    },
-    {
-      "id": "tl_Q7414",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%20Studios%20Alameda%20Entrance.jpg?width=640",
-      "value": 1923,
-      "unit": "year",
-      "name": {
-        "en": "The Walt Disney Company Founded",
-        "ko": "월트 디즈니 컴퍼니 창립·설립",
-        "ja": "ウォルト・ディズニー・カンパニー 創業・設立",
-        "zh": "华特迪士尼公司 创立·成立"
-      },
-      "note": {
-        "en": "The Walt Disney Company Founded in 1923, growing into a world-famous global brand / institution.",
-        "ko": "1923년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1923年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1923 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1923 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1923년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1923年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1923年）。"
-      },
-      "source": {
-        "qid": "Q7414",
-        "wikiTitle": {
-          "en": "The Walt Disney Company",
-          "ko": "월트 디즈니 컴퍼니",
-          "ja": "ウォルト・ディズニー・カンパニー",
-          "zh": "华特迪士尼公司"
-        },
-        "name": "Wikipedia & Wikidata (Q7414)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Walt%20Disney%20Company",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9B%94%ED%8A%B8%20%EB%94%94%EC%A6%88%EB%8B%88%20%EC%BB%B4%ED%8D%BC%EB%8B%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%88%E3%83%BB%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8D%8E%E7%89%B9%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%85%AC%E5%8F%B8"
-        }
-      }
-    },
-    {
-      "id": "tl_Q38076",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/New-McDonald-HU-lg%20%2843261171540%29.jpg?width=640",
-      "value": 1940,
-      "unit": "year",
-      "name": {
-        "en": "McDonald's Founded",
-        "ko": "맥도날드 창립·설립",
-        "ja": "マクドナルド 創業・設立",
-        "zh": "麦当劳 创立·成立"
-      },
-      "note": {
-        "en": "McDonald's Founded in 1940, growing into a world-famous global brand / institution.",
-        "ko": "1940년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1940年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1940 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1940 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1940년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1940年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1940年）。"
-      },
-      "source": {
-        "qid": "Q38076",
-        "wikiTitle": {
-          "en": "McDonald's",
-          "ko": "맥도날드",
-          "ja": "マクドナルド",
-          "zh": "麦当劳"
-        },
-        "name": "Wikipedia & Wikidata (Q38076)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=McDonald's",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%BA%A6%E5%BD%93%E5%8A%B3"
-        }
-      }
-    },
-    {
-      "id": "tl_Q8093",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Headquarters%20of%20Nintendo%20Co.%2C%20Ltd.jpg?width=640",
-      "value": 1889,
-      "unit": "year",
-      "name": {
-        "en": "Nintendo Founded",
-        "ko": "닌텐도 창립·설립",
-        "ja": "任天堂 創業・設立",
-        "zh": "任天堂 创立·成立"
-      },
-      "note": {
-        "en": "Nintendo Founded in 1889, growing into a world-famous global brand / institution.",
-        "ko": "1889년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1889年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1889 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1889 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1889년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1889年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1889年）。"
-      },
-      "source": {
-        "qid": "Q8093",
-        "wikiTitle": {
-          "en": "Nintendo",
-          "ko": "닌텐도",
-          "ja": "任天堂",
-          "zh": "任天堂"
-        },
-        "name": "Wikipedia & Wikidata (Q8093)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Nintendo",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8B%8C%ED%85%90%EB%8F%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82"
-        }
-      }
-    },
-    {
-      "id": "tl_Q3884",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amazon%20Tower%20I%20topped%20out%2C%20June%202015.jpg?width=640",
-      "value": 1994,
-      "unit": "year",
-      "name": {
-        "en": "Amazon Founded",
-        "ko": "아마존닷컴 창립·설립",
-        "ja": "Amazon.com 創業・設立",
-        "zh": "亞馬遜 创立·成立"
-      },
-      "note": {
-        "en": "Amazon Founded in 1994, growing into a world-famous global brand / institution.",
-        "ko": "1994년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1994年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1994 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1994 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1994년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1994年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1994年）。"
-      },
-      "source": {
-        "qid": "Q3884",
-        "wikiTitle": {
-          "en": "Amazon",
-          "ko": "아마존닷컴",
-          "ja": "Amazon.com",
-          "zh": "亞馬遜"
-        },
-        "name": "Wikipedia & Wikidata (Q3884)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Amazon",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EB%A7%88%EC%A1%B4%EB%8B%B7%EC%BB%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Amazon.com",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BA%9E%E9%A6%AC%E9%81%9C"
+          "ko": "https://ko.wikipedia.org/wiki/%EC%B1%97GPT",
+          "ja": "https://ja.wikipedia.org/wiki/ChatGPT",
+          "zh": "https://zh.wikipedia.org/wiki/ChatGPT"
         }
       }
     },
@@ -8730,96 +8361,14 @@ window.GAME_DECKS = {
           "en": "Mercedes-Benz",
           "ko": "메르세데스-벤츠",
           "ja": "メルセデス・ベンツ",
-          "zh": "梅赛德斯-奔驰"
+          "zh": "梅賽德斯-賓士"
         },
-        "name": "Wikipedia & Wikidata (Q36008)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Mercedes-Benz",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A9%94%EB%A5%B4%EC%84%B8%EB%8D%B0%EC%8A%A4-%EB%B2%A4%EC%B8%A0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A1%E3%83%AB%E3%82%BB%E3%83%87%E3%82%B9%E3%83%BB%E3%83%99%E3%83%B3%E3%83%84",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%A2%85%E8%B5%9B%E5%BE%B7%E6%96%AF-%E5%A5%94%E9%A9%B0"
-        }
-      }
-    },
-    {
-      "id": "tl_Q26678",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2014%20BMW.JPG?width=640",
-      "value": 1916,
-      "unit": "year",
-      "name": {
-        "en": "BMW Founded",
-        "ko": "BMW 창립·설립",
-        "ja": "BMW 創業・設立",
-        "zh": "BMW 创立·成立"
-      },
-      "note": {
-        "en": "BMW Founded in 1916, growing into a world-famous global brand / institution.",
-        "ko": "1916년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1916年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1916 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1916 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1916년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1916年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1916年）。"
-      },
-      "source": {
-        "qid": "Q26678",
-        "wikiTitle": {
-          "en": "BMW",
-          "ko": "BMW",
-          "ja": "BMW",
-          "zh": "BMW"
-        },
-        "name": "Wikipedia & Wikidata (Q26678)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=BMW",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=BMW",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=BMW",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=BMW"
-        }
-      }
-    },
-    {
-      "id": "tl_Q193701",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SpaceX%20Crew%20Dragon%20%28More%20cropped%29.jpg?width=640",
-      "value": 2002,
-      "unit": "year",
-      "name": {
-        "en": "SpaceX Founded",
-        "ko": "스페이스X 창립·설립",
-        "ja": "スペースX 創業・設立",
-        "zh": "太空探索技术公司 创立·成立"
-      },
-      "note": {
-        "en": "SpaceX Founded in 2002, growing into a world-famous global brand / institution.",
-        "ko": "2002년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "2002年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 2002 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 2002 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(2002년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（2002年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2002年）。"
-      },
-      "source": {
-        "qid": "Q193701",
-        "wikiTitle": {
-          "en": "SpaceX",
-          "ko": "스페이스X",
-          "ja": "スペースX",
-          "zh": "太空探索技术公司"
-        },
-        "name": "Wikipedia & Wikidata (Q193701)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=SpaceX",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4X",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A4%AA%E7%A9%BA%E6%8E%A2%E7%B4%A2%E6%8A%80%E6%9C%AF%E5%85%AC%E5%8F%B8"
+          "en": "https://en.wikipedia.org/wiki/Mercedes-Benz",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A9%94%EB%A5%B4%EC%84%B8%EB%8D%B0%EC%8A%A4-%EB%B2%A4%EC%B8%A0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AB%E3%82%BB%E3%83%87%E3%82%B9%E3%83%BB%E3%83%99%E3%83%B3%E3%83%84",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%A2%85%E8%B3%BD%E5%BE%B7%E6%96%AF-%E8%B3%93%E5%A3%AB"
         }
       }
     },
@@ -8855,12 +8404,12 @@ window.GAME_DECKS = {
           "ja": "バスキン・ロビンス",
           "zh": "31冰淇淋"
         },
-        "name": "Wikipedia & Wikidata (Q584601)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Baskin-Robbins",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%B0%EC%8A%A4%ED%82%A8%EB%9D%BC%EB%B9%88%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%90%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%BB%E3%83%AD%E3%83%93%E3%83%B3%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=31%E5%86%B0%E6%B7%87%E6%B7%8B"
+          "en": "https://en.wikipedia.org/wiki/Baskin-Robbins",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B0%B0%EC%8A%A4%ED%82%A8%EB%9D%BC%EB%B9%88%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%BB%E3%83%AD%E3%83%93%E3%83%B3%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/31%E5%86%B0%E6%B7%87%E6%B7%8B"
         }
       }
     },
@@ -8891,99 +8440,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q23317",
         "wikiTitle": {
-          "en": "Audi AG",
+          "en": "Audi",
           "ko": "아우디",
           "ja": "アウディ",
           "zh": "奥迪"
         },
-        "name": "Wikipedia & Wikidata (Q23317)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Audi%20AG",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EC%9A%B0%EB%94%94",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%82%A6%E3%83%87%E3%82%A3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A5%A5%E8%BF%AA"
-        }
-      }
-    },
-    {
-      "id": "tl_Q41187",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20headquaters%201.jpg?width=640",
-      "value": 1946,
-      "unit": "year",
-      "name": {
-        "en": "Sony Group Founded",
-        "ko": "소니그룹 창립·설립",
-        "ja": "ソニーグループ 創業・設立",
-        "zh": "索尼 创立·成立"
-      },
-      "note": {
-        "en": "Sony Group Founded in 1946, growing into a world-famous global brand / institution.",
-        "ko": "1946년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1946年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1946 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1946 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1946년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1946年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1946年）。"
-      },
-      "source": {
-        "qid": "Q41187",
-        "wikiTitle": {
-          "en": "Sony Group",
-          "ko": "소니그룹",
-          "ja": "ソニーグループ",
-          "zh": "索尼"
-        },
-        "name": "Wikipedia & Wikidata (Q41187)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Sony%20Group",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%86%8C%EB%8B%88%EA%B7%B8%EB%A3%B9",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%BD%E3%83%8B%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%B4%A2%E5%B0%BC"
-        }
-      }
-    },
-    {
-      "id": "tl_Q44294",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FordGlassHouse.jpg?width=640",
-      "value": 1903,
-      "unit": "year",
-      "name": {
-        "en": "Ford Motor Company Founded",
-        "ko": "포드 자동차 회사 창립·설립",
-        "ja": "フォード・モーター 創業・設立",
-        "zh": "福特汽車 创立·成立"
-      },
-      "note": {
-        "en": "Ford Motor Company Founded in 1903, growing into a world-famous global brand / institution.",
-        "ko": "1903년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1903年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1903 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1903 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1903년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1903年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1903年）。"
-      },
-      "source": {
-        "qid": "Q44294",
-        "wikiTitle": {
-          "en": "Ford Motor Company",
-          "ko": "포드 자동차 회사",
-          "ja": "フォード・モーター",
-          "zh": "福特汽車"
-        },
-        "name": "Wikipedia & Wikidata (Q44294)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Ford%20Motor%20Company",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8F%AC%EB%93%9C%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%ED%9A%8C%EC%82%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%A6%8F%E7%89%B9%E6%B1%BD%E8%BB%8A"
+          "en": "https://en.wikipedia.org/wiki/Audi",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9A%B0%EB%94%94",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%83%87%E3%82%A3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A5%A5%E8%BF%AA"
         }
       }
     },
@@ -9019,12 +8486,12 @@ window.GAME_DECKS = {
           "ja": "IBM",
           "zh": "IBM"
         },
-        "name": "Wikipedia & Wikidata (Q37156)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=IBM",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=IBM",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=IBM",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=IBM"
+          "en": "https://en.wikipedia.org/wiki/IBM",
+          "ko": "https://ko.wikipedia.org/wiki/IBM",
+          "ja": "https://ja.wikipedia.org/wiki/IBM",
+          "zh": "https://zh.wikipedia.org/wiki/IBM"
         }
       }
     },
@@ -9060,53 +8527,12 @@ window.GAME_DECKS = {
           "ja": "ノキア",
           "zh": "诺基亚"
         },
-        "name": "Wikipedia & Wikidata (Q1418)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Nokia",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%85%B8%ED%82%A4%EC%95%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8E%E3%82%AD%E3%82%A2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%AF%BA%E5%9F%BA%E4%BA%9A"
-        }
-      }
-    },
-    {
-      "id": "tl_Q478214",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gigafactory%20Texas%20Building%201%20June%202022.jpg?width=640",
-      "value": 2003,
-      "unit": "year",
-      "name": {
-        "en": "Tesla Founded",
-        "ko": "테슬라 창립·설립",
-        "ja": "テスラ 創業・設立",
-        "zh": "特斯拉公司 创立·成立"
-      },
-      "note": {
-        "en": "Tesla Founded in 2003, growing into a world-famous global brand / institution.",
-        "ko": "2003년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "2003年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 2003 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 2003 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(2003년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（2003年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2003年）。"
-      },
-      "source": {
-        "qid": "Q478214",
-        "wikiTitle": {
-          "en": "Tesla",
-          "ko": "테슬라",
-          "ja": "テスラ",
-          "zh": "特斯拉公司"
-        },
-        "name": "Wikipedia & Wikidata (Q478214)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Tesla",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%85%8C%EC%8A%AC%EB%9D%BC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%86%E3%82%B9%E3%83%A9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%AC%E5%8F%B8"
+          "en": "https://en.wikipedia.org/wiki/Nokia",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%85%B8%ED%82%A4%EC%95%84",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%AD%E3%82%A2",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%AF%BA%E5%9F%BA%E4%BA%9A"
         }
       }
     },
@@ -9142,53 +8568,12 @@ window.GAME_DECKS = {
           "ja": "アヤックス・アムステルダム",
           "zh": "阿贾克斯足球俱乐部"
         },
-        "name": "Wikipedia & Wikidata (Q81888)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=AFC%20Ajax",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=AFC%20%EC%95%84%EC%95%BD%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%A4%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%A0%E3%82%B9%E3%83%86%E3%83%AB%E3%83%80%E3%83%A0",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%98%BF%E8%B4%BE%E5%85%8B%E6%96%AF%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8"
-        }
-      }
-    },
-    {
-      "id": "tl_Q3895",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Herzogenaurach%20-%20Adidas%20-%202016.jpg?width=640",
-      "value": 1924,
-      "unit": "year",
-      "name": {
-        "en": "Adidas AG Founded",
-        "ko": "아디다스 창립·설립",
-        "ja": "アディダス 創業・設立",
-        "zh": "阿迪达斯 创立·成立"
-      },
-      "note": {
-        "en": "Adidas AG Founded in 1924, growing into a world-famous global brand / institution.",
-        "ko": "1924년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1924年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1924 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1924 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1924년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1924年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1924年）。"
-      },
-      "source": {
-        "qid": "Q3895",
-        "wikiTitle": {
-          "en": "Adidas AG",
-          "ko": "아디다스",
-          "ja": "アディダス",
-          "zh": "阿迪达斯"
-        },
-        "name": "Wikipedia & Wikidata (Q3895)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Adidas%20AG",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EB%94%94%EB%8B%A4%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF"
+          "en": "https://en.wikipedia.org/wiki/AFC_Ajax",
+          "ko": "https://ko.wikipedia.org/wiki/AFC_%EC%95%84%EC%95%BD%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A4%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%A0%E3%82%B9%E3%83%86%E3%83%AB%E3%83%80%E3%83%A0",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%98%BF%E8%B4%BE%E5%85%8B%E6%96%AF%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8"
         }
       }
     },
@@ -9224,12 +8609,12 @@ window.GAME_DECKS = {
           "ja": "ボーイング",
           "zh": "波音"
         },
-        "name": "Wikipedia & Wikidata (Q66)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Boeing",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B3%B4%EC%9E%89",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B3%A2%E9%9F%B3"
+          "en": "https://en.wikipedia.org/wiki/Boeing",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9E%89",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B3%A2%E9%9F%B3"
         }
       }
     },
@@ -9261,16 +8646,16 @@ window.GAME_DECKS = {
         "qid": "Q9584",
         "wikiTitle": {
           "en": "Honda",
-          "ko": "혼다 기연공업",
+          "ko": "혼다",
           "ja": "本田技研工業",
           "zh": "本田技研工业"
         },
-        "name": "Wikipedia & Wikidata (Q9584)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Honda",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%98%BC%EB%8B%A4%20%EA%B8%B0%EC%97%B0%EA%B3%B5%EC%97%85",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E6%9C%AC%E7%94%B0%E6%8A%80%E7%A0%94%E5%B7%A5%E6%A5%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%9C%AC%E7%94%B0%E6%8A%80%E7%A0%94%E5%B7%A5%E4%B8%9A"
+          "en": "https://en.wikipedia.org/wiki/Honda",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%98%BC%EB%8B%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%B0%E6%8A%80%E7%A0%94%E5%B7%A5%E6%A5%AD",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%9C%AC%E7%94%B0%E6%8A%80%E7%A0%94%E5%B7%A5%E4%B8%9A"
         }
       }
     },
@@ -9301,17 +8686,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q47099",
         "wikiTitle": {
-          "en": "Grupo Televisa",
+          "en": "Televisa",
           "ko": "텔레비사",
           "ja": "テレビサ",
           "zh": "特莱维萨"
         },
-        "name": "Wikipedia & Wikidata (Q47099)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Grupo%20Televisa",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%85%94%EB%A0%88%EB%B9%84%EC%82%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%86%E3%83%AC%E3%83%93%E3%82%B5",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%89%B9%E8%8E%B1%E7%BB%B4%E8%90%A8"
+          "en": "https://en.wikipedia.org/wiki/Televisa",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%85%94%EB%A0%88%EB%B9%84%EC%82%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%93%E3%82%B5",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%89%B9%E8%8E%B1%E7%BB%B4%E8%90%A8"
         }
       }
     },
@@ -9347,12 +8732,12 @@ window.GAME_DECKS = {
           "ja": "インテル",
           "zh": "英特尔"
         },
-        "name": "Wikipedia & Wikidata (Q248)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Intel",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B8%ED%85%94",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8B%B1%E7%89%B9%E5%B0%94"
+          "en": "https://en.wikipedia.org/wiki/Intel",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%85%94",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8B%B1%E7%89%B9%E5%B0%94"
         }
       }
     },
@@ -9388,12 +8773,12 @@ window.GAME_DECKS = {
           "ja": "ルフトハンザドイツ航空",
           "zh": "汉莎航空"
         },
-        "name": "Wikipedia & Wikidata (Q9325)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Lufthansa",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A3%A8%ED%94%84%ED%8A%B8%ED%95%9C%EC%9E%90",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AB%E3%83%95%E3%83%88%E3%83%8F%E3%83%B3%E3%82%B6%E3%83%89%E3%82%A4%E3%83%84%E8%88%AA%E7%A9%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B1%89%E8%8E%8E%E8%88%AA%E7%A9%BA"
+          "en": "https://en.wikipedia.org/wiki/Lufthansa",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A3%A8%ED%94%84%ED%8A%B8%ED%95%9C%EC%9E%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%95%E3%83%88%E3%83%8F%E3%83%B3%E3%82%B6%E3%83%89%E3%82%A4%E3%83%84%E8%88%AA%E7%A9%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B1%89%E8%8E%8E%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -9427,14 +8812,14 @@ window.GAME_DECKS = {
           "en": "OpenAI",
           "ko": "오픈AI",
           "ja": "OpenAI",
-          "zh": "開放人工智能"
+          "zh": "OpenAI"
         },
-        "name": "Wikipedia & Wikidata (Q21708200)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=OpenAI",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%98%A4%ED%94%88AI",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=OpenAI",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%96%8B%E6%94%BE%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD"
+          "en": "https://en.wikipedia.org/wiki/OpenAI",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%98%A4%ED%94%88AI",
+          "ja": "https://ja.wikipedia.org/wiki/OpenAI",
+          "zh": "https://zh.wikipedia.org/wiki/OpenAI"
         }
       }
     },
@@ -9467,56 +8852,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "KFC",
           "ko": "KFC",
-          "ja": "ケンタッキーフライドチキン",
+          "ja": "KFCコーポレーション",
           "zh": "肯德基"
         },
-        "name": "Wikipedia & Wikidata (Q524757)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=KFC",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=KFC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%83%81%E3%82%AD%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%82%AF%E5%BE%B7%E5%9F%BA"
-        }
-      }
-    },
-    {
-      "id": "tl_Q27586",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%AA%E6%9C%AC%E7%A4%BE%E5%89%8D%20%2836309429124%29.jpg?width=640",
-      "value": 1947,
-      "unit": "year",
-      "name": {
-        "en": "Ferrari Founded",
-        "ko": "페라리 창립·설립",
-        "ja": "フェラーリ 創業・設立",
-        "zh": "法拉利汽車 创立·成立"
-      },
-      "note": {
-        "en": "Ferrari Founded in 1947, growing into a world-famous global brand / institution.",
-        "ko": "1947년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1947年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1947 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1947 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1947년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1947年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1947年）。"
-      },
-      "source": {
-        "qid": "Q27586",
-        "wikiTitle": {
-          "en": "Ferrari",
-          "ko": "페라리",
-          "ja": "フェラーリ",
-          "zh": "法拉利汽車"
-        },
-        "name": "Wikipedia & Wikidata (Q27586)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Ferrari",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8E%98%EB%9D%BC%EB%A6%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%AA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B3%95%E6%8B%89%E5%88%A9%E6%B1%BD%E8%BB%8A"
+          "en": "https://en.wikipedia.org/wiki/KFC",
+          "ko": "https://ko.wikipedia.org/wiki/KFC",
+          "ja": "https://ja.wikipedia.org/wiki/KFC%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%82%AF%E5%BE%B7%E5%9F%BA"
         }
       }
     },
@@ -9550,14 +8894,14 @@ window.GAME_DECKS = {
           "en": "East India Company",
           "ko": "영국 동인도 회사",
           "ja": "イギリス東インド会社",
-          "zh": "不列颠东印度公司"
+          "zh": "英国东印度公司"
         },
-        "name": "Wikipedia & Wikidata (Q83164)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=East%20India%20Company",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%98%81%EA%B5%AD%20%EB%8F%99%EC%9D%B8%EB%8F%84%20%ED%9A%8C%EC%82%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E6%9D%B1%E3%82%A4%E3%83%B3%E3%83%89%E4%BC%9A%E7%A4%BE",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%8D%E5%88%97%E9%A2%A0%E4%B8%9C%E5%8D%B0%E5%BA%A6%E5%85%AC%E5%8F%B8"
+          "en": "https://en.wikipedia.org/wiki/East_India_Company",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B5%AD_%EB%8F%99%EC%9D%B8%EB%8F%84_%ED%9A%8C%EC%82%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E6%9D%B1%E3%82%A4%E3%83%B3%E3%83%89%E4%BC%9A%E7%A4%BE",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8B%B1%E5%9B%BD%E4%B8%9C%E5%8D%B0%E5%BA%A6%E5%85%AC%E5%8F%B8"
         }
       }
     },
@@ -9590,15 +8934,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "Huawei",
           "ko": "화웨이",
-          "ja": "華為技術",
+          "ja": "ファーウェイ",
           "zh": "华为"
         },
-        "name": "Wikipedia & Wikidata (Q160120)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Huawei",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%99%94%EC%9B%A8%EC%9D%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E8%8F%AF%E7%82%BA%E6%8A%80%E8%A1%93",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8D%8E%E4%B8%BA"
+          "en": "https://en.wikipedia.org/wiki/Huawei",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%9B%A8%EC%9D%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%B8%BA"
         }
       }
     },
@@ -9634,12 +8978,12 @@ window.GAME_DECKS = {
           "ja": "ピクサー・アニメーション・スタジオ",
           "zh": "皮克斯动画工作室"
         },
-        "name": "Wikipedia & Wikidata (Q127552)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Pixar",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%94%BD%EC%82%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%94%E3%82%AF%E3%82%B5%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%9A%AE%E5%85%8B%E6%96%AF%E5%8A%A8%E7%94%BB%E5%B7%A5%E4%BD%9C%E5%AE%A4"
+          "en": "https://en.wikipedia.org/wiki/Pixar",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%94%BD%EC%82%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AF%E3%82%B5%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%85%8B%E6%96%AF%E5%8A%A8%E7%94%BB%E5%B7%A5%E4%BD%9C%E5%AE%A4"
         }
       }
     },
@@ -9675,12 +9019,12 @@ window.GAME_DECKS = {
           "ja": "ヤマハ発動機",
           "zh": "山葉發動機"
         },
-        "name": "Wikipedia & Wikidata (Q158888)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Yamaha%20Motor%20Company",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%BC%EB%A7%88%ED%95%98%20%EB%B0%9C%EB%8F%99%EA%B8%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A4%E3%83%9E%E3%83%8F%E7%99%BA%E5%8B%95%E6%A9%9F",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%B1%B1%E8%91%89%E7%99%BC%E5%8B%95%E6%A9%9F"
+          "en": "https://en.wikipedia.org/wiki/Yamaha_Motor_Company",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%BC%EB%A7%88%ED%95%98_%EB%B0%9C%EB%8F%99%EA%B8%B0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%8F%E7%99%BA%E5%8B%95%E6%A9%9F",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%B1%B1%E8%91%89%E7%99%BC%E5%8B%95%E6%A9%9F"
         }
       }
     },
@@ -9716,12 +9060,12 @@ window.GAME_DECKS = {
           "ja": "ネスレ",
           "zh": "雀巢"
         },
-        "name": "Wikipedia & Wikidata (Q160746)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Nestl%C3%A9",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%84%A4%EC%8A%AC%EB%A0%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8D%E3%82%B9%E3%83%AC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%9B%80%E5%B7%A2"
+          "en": "https://en.wikipedia.org/wiki/Nestl%C3%A9",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%84%A4%EC%8A%AC%EB%A0%88",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B9%E3%83%AC",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%9B%80%E5%B7%A2"
         }
       }
     },
@@ -9757,12 +9101,12 @@ window.GAME_DECKS = {
           "ja": "WWE",
           "zh": "世界摔角娛樂"
         },
-        "name": "Wikipedia & Wikidata (Q35339)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=WWE",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=WWE",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=WWE",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%96%E7%95%8C%E6%91%94%E8%A7%92%E5%A8%9B%E6%A8%82"
+          "en": "https://en.wikipedia.org/wiki/WWE",
+          "ko": "https://ko.wikipedia.org/wiki/WWE",
+          "ja": "https://ja.wikipedia.org/wiki/WWE",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E6%91%94%E8%A7%92%E5%A8%9B%E6%A8%82"
         }
       }
     },
@@ -9798,12 +9142,12 @@ window.GAME_DECKS = {
           "ja": "ポルシェ",
           "zh": "保时捷"
         },
-        "name": "Wikipedia & Wikidata (Q40993)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Porsche",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8F%AC%EB%A5%B4%EC%89%90",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9D%E3%83%AB%E3%82%B7%E3%82%A7",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BF%9D%E6%97%B6%E6%8D%B7"
+          "en": "https://en.wikipedia.org/wiki/Porsche",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EB%A5%B4%EC%89%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%82%B7%E3%82%A7",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BF%9D%E6%97%B6%E6%8D%B7"
         }
       }
     },
@@ -9837,14 +9181,14 @@ window.GAME_DECKS = {
           "en": "General Motors",
           "ko": "제너럴 모터스",
           "ja": "ゼネラルモーターズ",
-          "zh": "通用汽车公司"
+          "zh": "通用汽车"
         },
-        "name": "Wikipedia & Wikidata (Q81965)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=General%20Motors",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%9C%EB%84%88%EB%9F%B4%20%EB%AA%A8%ED%84%B0%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8"
+          "en": "https://en.wikipedia.org/wiki/General_Motors",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%84%88%EB%9F%B4_%EB%AA%A8%ED%84%B0%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6"
         }
       }
     },
@@ -9880,12 +9224,12 @@ window.GAME_DECKS = {
           "ja": "ロイター",
           "zh": "路透社"
         },
-        "name": "Wikipedia & Wikidata (Q130879)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Reuters",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A1%9C%EC%9D%B4%ED%84%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B7%AF%E9%80%8F%E7%A4%BE"
+          "en": "https://en.wikipedia.org/wiki/Reuters",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%9D%B4%ED%84%B0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%B7%AF%E9%80%8F%E7%A4%BE"
         }
       }
     },
@@ -9921,12 +9265,12 @@ window.GAME_DECKS = {
           "ja": "オランダ東インド会社",
           "zh": "荷兰东印度公司"
         },
-        "name": "Wikipedia & Wikidata (Q159766)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Dutch%20East%20India%20Company",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%84%A4%EB%8D%9C%EB%9E%80%EB%93%9C%20%EB%8F%99%EC%9D%B8%EB%8F%84%20%ED%9A%8C%EC%82%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E6%9D%B1%E3%82%A4%E3%83%B3%E3%83%89%E4%BC%9A%E7%A4%BE",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8D%B7%E5%85%B0%E4%B8%9C%E5%8D%B0%E5%BA%A6%E5%85%AC%E5%8F%B8"
+          "en": "https://en.wikipedia.org/wiki/Dutch_East_India_Company",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%84%A4%EB%8D%9C%EB%9E%80%EB%93%9C_%EB%8F%99%EC%9D%B8%EB%8F%84_%ED%9A%8C%EC%82%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E6%9D%B1%E3%82%A4%E3%83%B3%E3%83%89%E4%BC%9A%E7%A4%BE",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8D%B7%E5%85%B0%E4%B8%9C%E5%8D%B0%E5%BA%A6%E5%85%AC%E5%8F%B8"
         }
       }
     },
@@ -9962,12 +9306,12 @@ window.GAME_DECKS = {
           "ja": "日産自動車",
           "zh": "日產汽車"
         },
-        "name": "Wikipedia & Wikidata (Q20165)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Nissan",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8B%9B%EC%82%B0%20%EC%9E%90%EB%8F%99%EC%B0%A8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E6%97%A5%E7%94%A3%E8%87%AA%E5%8B%95%E8%BB%8A",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%97%A5%E7%94%A2%E6%B1%BD%E8%BB%8A"
+          "en": "https://en.wikipedia.org/wiki/Nissan",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8B%9B%EC%82%B0_%EC%9E%90%EB%8F%99%EC%B0%A8",
+          "ja": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%94%A3%E8%87%AA%E5%8B%95%E8%BB%8A",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%97%A5%E7%94%A2%E6%B1%BD%E8%BB%8A"
         }
       }
     },
@@ -9998,17 +9342,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q58024",
         "wikiTitle": {
-          "en": "eBay",
+          "en": "EBay",
           "ko": "이베이",
-          "ja": "eBay",
-          "zh": "eBay"
+          "ja": "EBay",
+          "zh": "EBay"
         },
-        "name": "Wikipedia & Wikidata (Q58024)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=eBay",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B4%EB%B2%A0%EC%9D%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=eBay",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=eBay"
+          "en": "https://en.wikipedia.org/wiki/EBay",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%B2%A0%EC%9D%B4",
+          "ja": "https://ja.wikipedia.org/wiki/EBay",
+          "zh": "https://zh.wikipedia.org/wiki/EBay"
         }
       }
     },
@@ -10044,53 +9388,12 @@ window.GAME_DECKS = {
           "ja": "ターキッシュ エアラインズ",
           "zh": "土耳其航空"
         },
-        "name": "Wikipedia & Wikidata (Q4548)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Turkish%20Airlines",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%84%B0%ED%82%A4%ED%95%AD%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%BF%E3%83%BC%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%A8%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%9C%9F%E8%80%B3%E5%85%B6%E8%88%AA%E7%A9%BA"
-        }
-      }
-    },
-    {
-      "id": "tl_Q483915",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikeworldheadquarters.jpg?width=640",
-      "value": 1964,
-      "unit": "year",
-      "name": {
-        "en": "Nike Founded",
-        "ko": "나이키 창립·설립",
-        "ja": "ナイキ 創業・設立",
-        "zh": "耐克 创立·成立"
-      },
-      "note": {
-        "en": "Nike Founded in 1964, growing into a world-famous global brand / institution.",
-        "ko": "1964년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1964年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1964 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1964 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1964년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1964年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1964年）。"
-      },
-      "source": {
-        "qid": "Q483915",
-        "wikiTitle": {
-          "en": "Nike",
-          "ko": "나이키",
-          "ja": "ナイキ",
-          "zh": "耐克"
-        },
-        "name": "Wikipedia & Wikidata (Q483915)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Nike",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%82%98%EC%9D%B4%ED%82%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8A%E3%82%A4%E3%82%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%80%90%E5%85%8B"
+          "en": "https://en.wikipedia.org/wiki/Turkish_Airlines",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%84%B0%ED%82%A4%ED%95%AD%EA%B3%B5",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5_%E3%82%A8%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -10124,14 +9427,14 @@ window.GAME_DECKS = {
           "en": "Fiat",
           "ko": "피아트",
           "ja": "フィアット",
-          "zh": "菲亚特"
+          "zh": "菲亚特汽车"
         },
-        "name": "Wikipedia & Wikidata (Q27597)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Fiat",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%94%BC%EC%95%84%ED%8A%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%95%E3%82%A3%E3%82%A2%E3%83%83%E3%83%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8F%B2%E4%BA%9A%E7%89%B9"
+          "en": "https://en.wikipedia.org/wiki/Fiat",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%94%BC%EC%95%84%ED%8A%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%82%A2%E3%83%83%E3%83%88",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8F%B2%E4%BA%9A%E7%89%B9%E6%B1%BD%E8%BD%A6"
         }
       }
     },
@@ -10163,57 +9466,16 @@ window.GAME_DECKS = {
         "qid": "Q1636958",
         "wikiTitle": {
           "en": "Xiaomi",
-          "ko": "샤오미 테크",
+          "ko": "샤오미",
           "ja": "Xiaomi",
           "zh": "小米集團"
         },
-        "name": "Wikipedia & Wikidata (Q1636958)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Xiaomi",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%83%A4%EC%98%A4%EB%AF%B8%20%ED%85%8C%ED%81%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Xiaomi",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9C%98"
-        }
-      }
-    },
-    {
-      "id": "tl_Q380",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta%20HQ%202023.png?width=640",
-      "value": 2004,
-      "unit": "year",
-      "name": {
-        "en": "Meta Platforms Founded",
-        "ko": "메타 창립·설립",
-        "ja": "メタ・プラットフォームズ 創業・設立",
-        "zh": "Meta Platforms 创立·成立"
-      },
-      "note": {
-        "en": "Meta Platforms Founded in 2004, growing into a world-famous global brand / institution.",
-        "ko": "2004년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "2004年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 2004 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 2004 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(2004년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（2004年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2004年）。"
-      },
-      "source": {
-        "qid": "Q380",
-        "wikiTitle": {
-          "en": "Meta Platforms",
-          "ko": "메타",
-          "ja": "メタ・プラットフォームズ",
-          "zh": "Meta Platforms"
-        },
-        "name": "Wikipedia & Wikidata (Q380)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Meta%20Platforms",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A9%94%ED%83%80",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A1%E3%82%BF%E3%83%BB%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Meta%20Platforms"
+          "en": "https://en.wikipedia.org/wiki/Xiaomi",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%83%A4%EC%98%A4%EB%AF%B8",
+          "ja": "https://ja.wikipedia.org/wiki/Xiaomi",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9C%98"
         }
       }
     },
@@ -10244,58 +9506,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q11463",
         "wikiTitle": {
-          "en": "Adobe",
-          "ko": "어도비 시스템즈",
-          "ja": "アドビシステムズ",
+          "en": "Adobe Inc.",
+          "ko": "어도비 (기업)",
+          "ja": "アドビ",
           "zh": "Adobe"
         },
-        "name": "Wikipedia & Wikidata (Q11463)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Adobe",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%96%B4%EB%8F%84%EB%B9%84%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%89%E3%83%93%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Adobe"
-        }
-      }
-    },
-    {
-      "id": "tl_Q35886",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lamborghini%2C%20Sant%27Agata%20Bolognese%2C%20Bologna.jpg?width=640",
-      "value": 1948,
-      "unit": "year",
-      "name": {
-        "en": "Lamborghini Founded",
-        "ko": "람보르기니 창립·설립",
-        "ja": "ランボルギーニ 創業・設立",
-        "zh": "兰博基尼 创立·成立"
-      },
-      "note": {
-        "en": "Lamborghini Founded in 1948, growing into a world-famous global brand / institution.",
-        "ko": "1948년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1948年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1948 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1948 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1948년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1948年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1948年）。"
-      },
-      "source": {
-        "qid": "Q35886",
-        "wikiTitle": {
-          "en": "Lamborghini",
-          "ko": "람보르기니",
-          "ja": "ランボルギーニ",
-          "zh": "兰博基尼"
-        },
-        "name": "Wikipedia & Wikidata (Q35886)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Lamborghini",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%9E%8C%EB%B3%B4%EB%A5%B4%EA%B8%B0%EB%8B%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A9%E3%83%B3%E3%83%9C%E3%83%AB%E3%82%AE%E3%83%BC%E3%83%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%85%B0%E5%8D%9A%E5%9F%BA%E5%B0%BC"
+          "en": "https://en.wikipedia.org/wiki/Adobe_Inc.",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%96%B4%EB%8F%84%EB%B9%84_(%EA%B8%B0%EC%97%85)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%93",
+          "zh": "https://zh.wikipedia.org/wiki/Adobe"
         }
       }
     },
@@ -10331,12 +9552,12 @@ window.GAME_DECKS = {
           "ja": "ヒューレット・パッカード",
           "zh": "惠利特-普克德"
         },
-        "name": "Wikipedia & Wikidata (Q80978)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Hewlett-Packard",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%9C%B4%EB%A0%9B%20%ED%8C%A9%EC%BB%A4%EB%93%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%92%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E3%83%91%E3%83%83%E3%82%AB%E3%83%BC%E3%83%89",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%83%A0%E5%88%A9%E7%89%B9-%E6%99%AE%E5%85%8B%E5%BE%B7"
+          "en": "https://en.wikipedia.org/wiki/Hewlett-Packard",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%9C%B4%EB%A0%9B_%ED%8C%A9%EC%BB%A4%EB%93%9C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E3%83%91%E3%83%83%E3%82%AB%E3%83%BC%E3%83%89",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%83%A0%E5%88%A9%E7%89%B9-%E6%99%AE%E5%85%8B%E5%BE%B7"
         }
       }
     },
@@ -10372,12 +9593,12 @@ window.GAME_DECKS = {
           "ja": "ブリティッシュ・エアウェイズ",
           "zh": "英國航空"
         },
-        "name": "Wikipedia & Wikidata (Q8766)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=British%20Airways",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%98%81%EA%B5%AD%ED%95%AD%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A8%E3%82%A2%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8B%B1%E5%9C%8B%E8%88%AA%E7%A9%BA"
+          "en": "https://en.wikipedia.org/wiki/British_Airways",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B5%AD%ED%95%AD%EA%B3%B5",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A8%E3%82%A2%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8B%B1%E5%9C%8B%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -10413,12 +9634,12 @@ window.GAME_DECKS = {
           "ja": "レノボ",
           "zh": "联想集团"
         },
-        "name": "Wikipedia & Wikidata (Q14799)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Lenovo",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A0%88%EB%85%B8%EB%B2%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AC%E3%83%8E%E3%83%9C",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%81%94%E6%83%B3%E9%9B%86%E5%9B%A2"
+          "en": "https://en.wikipedia.org/wiki/Lenovo",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A0%88%EB%85%B8%EB%B2%84",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%8E%E3%83%9C",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%81%94%E6%83%B3%E9%9B%86%E5%9B%A2"
         }
       }
     },
@@ -10449,58 +9670,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q181642",
         "wikiTitle": {
-          "en": "Suzuki Motor Corporation",
+          "en": "Suzuki",
           "ko": "스즈키",
-          "ja": "スズキ",
-          "zh": "鈴木株式會社"
+          "ja": "スズキ (企業)",
+          "zh": "鈴木公司"
         },
-        "name": "Wikipedia & Wikidata (Q181642)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Suzuki%20Motor%20Corporation",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%EC%A6%88%ED%82%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B9%E3%82%BA%E3%82%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%88%B4%E6%9C%A8%E6%A0%AA%E5%BC%8F%E6%9C%83%E7%A4%BE"
-        }
-      }
-    },
-    {
-      "id": "tl_Q182477",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NVIDIA%20Headquarters.jpg?width=640",
-      "value": 1993,
-      "unit": "year",
-      "name": {
-        "en": "Nvidia Founded",
-        "ko": "엔비디아 창립·설립",
-        "ja": "NVIDIA 創業・設立",
-        "zh": "英伟达 创立·成立"
-      },
-      "note": {
-        "en": "Nvidia Founded in 1993, growing into a world-famous global brand / institution.",
-        "ko": "1993년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1993年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1993 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1993 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1993년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1993年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1993年）。"
-      },
-      "source": {
-        "qid": "Q182477",
-        "wikiTitle": {
-          "en": "Nvidia",
-          "ko": "엔비디아",
-          "ja": "NVIDIA",
-          "zh": "英伟达"
-        },
-        "name": "Wikipedia & Wikidata (Q182477)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Nvidia",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%97%94%EB%B9%84%EB%94%94%EC%95%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=NVIDIA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8B%B1%E4%BC%9F%E8%BE%BE"
+          "en": "https://en.wikipedia.org/wiki/Suzuki",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%A6%88%ED%82%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BA%E3%82%AD_(%E4%BC%81%E6%A5%AD)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E5%85%AC%E5%8F%B8"
         }
       }
     },
@@ -10536,12 +9716,12 @@ window.GAME_DECKS = {
           "ja": "マツダ",
           "zh": "马自达"
         },
-        "name": "Wikipedia & Wikidata (Q35996)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Mazda",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%88%EC%93%B0%EB%8B%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%83%84%E3%83%80",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%A9%AC%E8%87%AA%E8%BE%BE"
+          "en": "https://en.wikipedia.org/wiki/Mazda",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%93%B0%EB%8B%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%84%E3%83%80",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%87%AA%E8%BE%BE"
         }
       }
     },
@@ -10577,12 +9757,12 @@ window.GAME_DECKS = {
           "ja": "VfLヴォルフスブルク",
           "zh": "沃尔夫斯堡足球俱乐部"
         },
-        "name": "Wikipedia & Wikidata (Q101859)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=VfL%20Wolfsburg",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=VfL%20%EB%B3%BC%ED%94%84%EC%8A%A4%EB%B6%80%EB%A5%B4%ED%81%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=VfL%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%95%E3%82%B9%E3%83%96%E3%83%AB%E3%82%AF",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B2%83%E5%B0%94%E5%A4%AB%E6%96%AF%E5%A0%A1%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8"
+          "en": "https://en.wikipedia.org/wiki/VfL_Wolfsburg",
+          "ko": "https://ko.wikipedia.org/wiki/VfL_%EB%B3%BC%ED%94%84%EC%8A%A4%EB%B6%80%EB%A5%B4%ED%81%AC",
+          "ja": "https://ja.wikipedia.org/wiki/VfL%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%95%E3%82%B9%E3%83%96%E3%83%AB%E3%82%AF",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B2%83%E5%B0%94%E5%A4%AB%E6%96%AF%E5%A0%A1%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8"
         }
       }
     },
@@ -10615,15 +9795,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "Dell",
           "ko": "델",
-          "ja": "デル",
+          "ja": "デル・テクノロジーズ",
           "zh": "戴爾"
         },
-        "name": "Wikipedia & Wikidata (Q30873)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Dell",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8D%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%87%E3%83%AB",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%88%B4%E7%88%BE"
+          "en": "https://en.wikipedia.org/wiki/Dell",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8D%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%AB%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%88%B4%E7%88%BE"
         }
       }
     },
@@ -10656,15 +9836,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "Škoda Auto",
           "ko": "스코다",
-          "ja": "シュコダ",
+          "ja": "シュコダ・オート",
           "zh": "斯柯达汽车"
         },
-        "name": "Wikipedia & Wikidata (Q29637)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=%C5%A0koda%20Auto",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%EC%BD%94%EB%8B%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%80",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%96%AF%E6%9F%AF%E8%BE%BE%E6%B1%BD%E8%BD%A6"
+          "en": "https://en.wikipedia.org/wiki/%C5%A0koda_Auto",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%BD%94%EB%8B%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%80%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%88",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%96%AF%E6%9F%AF%E8%BE%BE%E6%B1%BD%E8%BD%A6"
         }
       }
     },
@@ -10696,16 +9876,16 @@ window.GAME_DECKS = {
         "qid": "Q35349",
         "wikiTitle": {
           "en": "Kia",
-          "ko": "기아",
+          "ko": "기아 (기업)",
           "ja": "起亜",
-          "zh": "起亚汽车"
+          "zh": "起亚"
         },
-        "name": "Wikipedia & Wikidata (Q35349)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Kia",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EA%B8%B0%EC%95%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E8%B5%B7%E4%BA%9C",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B5%B7%E4%BA%9A%E6%B1%BD%E8%BD%A6"
+          "en": "https://en.wikipedia.org/wiki/Kia",
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%95%84_(%EA%B8%B0%EC%97%85)",
+          "ja": "https://ja.wikipedia.org/wiki/%E8%B5%B7%E4%BA%9C",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%B5%B7%E4%BA%9A"
         }
       }
     },
@@ -10737,16 +9917,16 @@ window.GAME_DECKS = {
         "qid": "Q81230",
         "wikiTitle": {
           "en": "Siemens",
-          "ko": "지멘스 AG",
+          "ko": "지멘스",
           "ja": "シーメンス",
           "zh": "西门子公司"
         },
-        "name": "Wikipedia & Wikidata (Q81230)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Siemens",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A7%80%EB%A9%98%EC%8A%A4%20AG",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B7%E3%83%BC%E3%83%A1%E3%83%B3%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%A5%BF%E9%97%A8%E5%AD%90%E5%85%AC%E5%8F%B8"
+          "en": "https://en.wikipedia.org/wiki/Siemens",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%A9%98%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%83%A1%E3%83%B3%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E9%97%A8%E5%AD%90%E5%85%AC%E5%8F%B8"
         }
       }
     },
@@ -10782,12 +9962,12 @@ window.GAME_DECKS = {
           "ja": "ユナイテッド航空",
           "zh": "聯合航空"
         },
-        "name": "Wikipedia & Wikidata (Q174769)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=United%20Airlines",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8B%B0%EB%93%9C%20%ED%95%AD%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E8%88%AA%E7%A9%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%81%AF%E5%90%88%E8%88%AA%E7%A9%BA"
+          "en": "https://en.wikipedia.org/wiki/United_Airlines",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8B%B0%EB%93%9C_%ED%95%AD%EA%B3%B5",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E8%88%AA%E7%A9%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%81%AF%E5%90%88%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -10818,17 +9998,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q53247",
         "wikiTitle": {
-          "en": "Panasonic Holdings Corporation",
-          "ko": "파나소닉",
+          "en": "Panasonic",
+          "ko": "파나소닉 홀딩스",
           "ja": "パナソニックホールディングス",
-          "zh": "松下电器"
+          "zh": "松下電器"
         },
-        "name": "Wikipedia & Wikidata (Q53247)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Panasonic%20Holdings%20Corporation",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8C%8C%EB%82%98%EC%86%8C%EB%8B%89",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%9D%BE%E4%B8%8B%E7%94%B5%E5%99%A8"
+          "en": "https://en.wikipedia.org/wiki/Panasonic",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%82%98%EC%86%8C%EB%8B%89_%ED%99%80%EB%94%A9%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%9D%BE%E4%B8%8B%E9%9B%BB%E5%99%A8"
         }
       }
     },
@@ -10864,12 +10044,12 @@ window.GAME_DECKS = {
           "ja": "ガスプロム",
           "zh": "俄罗斯天然气工业股份公司"
         },
-        "name": "Wikipedia & Wikidata (Q102673)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Gazprom",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EA%B0%80%EC%8A%A4%ED%94%84%EB%A1%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AC%E3%82%B9%E3%83%97%E3%83%AD%E3%83%A0",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%A9%E7%84%B6%E6%B0%94%E5%B7%A5%E4%B8%9A%E8%82%A1%E4%BB%BD%E5%85%AC%E5%8F%B8"
+          "en": "https://en.wikipedia.org/wiki/Gazprom",
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%8A%A4%ED%94%84%EB%A1%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%B9%E3%83%97%E3%83%AD%E3%83%A0",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%A9%E7%84%B6%E6%B0%94%E5%B7%A5%E4%B8%9A%E8%82%A1%E4%BB%BD%E5%85%AC%E5%8F%B8"
         }
       }
     },
@@ -10901,16 +10081,16 @@ window.GAME_DECKS = {
         "qid": "Q128896",
         "wikiTitle": {
           "en": "AMD",
-          "ko": "어드밴스트 마이크로 디바이시스",
+          "ko": "AMD",
           "ja": "アドバンスト・マイクロ・デバイセズ",
-          "zh": "超威半导体"
+          "zh": "AMD"
         },
-        "name": "Wikipedia & Wikidata (Q128896)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=AMD",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%96%B4%EB%93%9C%EB%B0%B4%EC%8A%A4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8B%9C%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BB%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%BB%E3%83%87%E3%83%90%E3%82%A4%E3%82%BB%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B6%85%E5%A8%81%E5%8D%8A%E5%AF%BC%E4%BD%93"
+          "en": "https://en.wikipedia.org/wiki/AMD",
+          "ko": "https://ko.wikipedia.org/wiki/AMD",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BB%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%BB%E3%83%87%E3%83%90%E3%82%A4%E3%82%BB%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/AMD"
         }
       }
     },
@@ -10941,17 +10121,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q170416",
         "wikiTitle": {
-          "en": "Koninklijke Philips NV",
+          "en": "Philips",
           "ko": "필립스",
           "ja": "フィリップス",
           "zh": "飛利浦"
         },
-        "name": "Wikipedia & Wikidata (Q170416)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Koninklijke%20Philips%20NV",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%95%84%EB%A6%BD%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%A3%9B%E5%88%A9%E6%B5%A6"
+          "en": "https://en.wikipedia.org/wiki/Philips",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%95%84%EB%A6%BD%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%A3%9B%E5%88%A9%E6%B5%A6"
         }
       }
     },
@@ -10987,12 +10167,12 @@ window.GAME_DECKS = {
           "ja": "メトロ・ゴールドウィン・メイヤー",
           "zh": "米高梅"
         },
-        "name": "Wikipedia & Wikidata (Q179200)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Metro-Goldwyn-Mayer",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A9%94%ED%8A%B8%EB%A1%9C%20%EA%B3%A8%EB%93%9C%EC%9C%88%20%EB%A9%94%EC%9D%B4%EC%96%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A1%E3%83%88%E3%83%AD%E3%83%BB%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%A1%E3%82%A4%E3%83%A4%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%B1%B3%E9%AB%98%E6%A2%85"
+          "en": "https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A9%94%ED%8A%B8%EB%A1%9C_%EA%B3%A8%EB%93%9C%EC%9C%88_%EB%A9%94%EC%9D%B4%EC%96%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%88%E3%83%AD%E3%83%BB%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%A1%E3%82%A4%E3%83%A4%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%B1%B3%E9%AB%98%E6%A2%85"
         }
       }
     },
@@ -11023,17 +10203,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q154950",
         "wikiTitle": {
-          "en": "Shell",
+          "en": "Shell plc",
           "ko": "로열 더치 쉘",
-          "ja": "シェル",
-          "zh": "荷兰皇家壳牌"
+          "ja": "シェル (企業)",
+          "zh": "殼牌"
         },
-        "name": "Wikipedia & Wikidata (Q154950)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Shell",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A1%9C%EC%97%B4%20%EB%8D%94%EC%B9%98%20%EC%89%98",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B7%E3%82%A7%E3%83%AB",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8D%B7%E5%85%B0%E7%9A%87%E5%AE%B6%E5%A3%B3%E7%89%8C"
+          "en": "https://en.wikipedia.org/wiki/Shell_plc",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%97%B4_%EB%8D%94%EC%B9%98_%EC%89%98",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%AB_(%E4%BC%81%E6%A5%AD)",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%AE%BC%E7%89%8C"
         }
       }
     },
@@ -11066,15 +10246,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "Alfa Romeo",
           "ko": "알파 로메오",
-          "ja": "アルファ・ロメオ",
+          "ja": "アルファロメオ",
           "zh": "阿尔法·罗密欧"
         },
-        "name": "Wikipedia & Wikidata (Q26921)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Alfa%20Romeo",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%8C%ED%8C%8C%20%EB%A1%9C%EB%A9%94%EC%98%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%BB%E3%83%AD%E3%83%A1%E3%82%AA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%98%BF%E5%B0%94%E6%B3%95%C2%B7%E7%BD%97%E5%AF%86%E6%AC%A7"
+          "en": "https://en.wikipedia.org/wiki/Alfa_Romeo",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%8C%ED%8C%8C_%EB%A1%9C%EB%A9%94%EC%98%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%AD%E3%83%A1%E3%82%AA",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E6%B3%95%C2%B7%E7%BD%97%E5%AF%86%E6%AC%A7"
         }
       }
     },
@@ -11110,53 +10290,12 @@ window.GAME_DECKS = {
           "ja": "ファイザー",
           "zh": "輝瑞"
         },
-        "name": "Wikipedia & Wikidata (Q206921)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Pfizer",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%99%94%EC%9D%B4%EC%9E%90",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%95%E3%82%A1%E3%82%A4%E3%82%B6%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%BC%9D%E7%91%9E"
-        }
-      }
-    },
-    {
-      "id": "tl_Q55931",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HyundaiMotorsCompany%20KiaMotorsCompany.jpg?width=640",
-      "value": 1967,
-      "unit": "year",
-      "name": {
-        "en": "Hyundai Motor Company Founded",
-        "ko": "현대자동차 창립·설립",
-        "ja": "現代自動車 創業・設立",
-        "zh": "現代汽車 创立·成立"
-      },
-      "note": {
-        "en": "Hyundai Motor Company Founded in 1967, growing into a world-famous global brand / institution.",
-        "ko": "1967년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1967年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1967 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1967 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1967년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1967年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1967年）。"
-      },
-      "source": {
-        "qid": "Q55931",
-        "wikiTitle": {
-          "en": "Hyundai Motor Company",
-          "ko": "현대자동차",
-          "ja": "現代自動車",
-          "zh": "現代汽車"
-        },
-        "name": "Wikipedia & Wikidata (Q55931)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Hyundai%20Motor%20Company",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%8F%BE%E4%BB%A3%E8%87%AA%E5%8B%95%E8%BB%8A",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%8F%BE%E4%BB%A3%E6%B1%BD%E8%BB%8A"
+          "en": "https://en.wikipedia.org/wiki/Pfizer",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%99%94%EC%9D%B4%EC%9E%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%B6%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%BC%9D%E7%91%9E"
         }
       }
     },
@@ -11192,53 +10331,12 @@ window.GAME_DECKS = {
           "ja": "ライアンエアー",
           "zh": "瑞安航空"
         },
-        "name": "Wikipedia & Wikidata (Q170614)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Ryanair",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%9D%BC%EC%9D%B4%EC%96%B8%EC%97%90%EC%96%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%A8%E3%82%A2%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%91%9E%E5%AE%89%E8%88%AA%E7%A9%BA"
-        }
-      }
-    },
-    {
-      "id": "tl_Q178516",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gucci%20NYC%20Flagship%20%2848064046878%29.jpg?width=640",
-      "value": 1921,
-      "unit": "year",
-      "name": {
-        "en": "Gucci Founded",
-        "ko": "구찌 창립·설립",
-        "ja": "グッチ 創業・設立",
-        "zh": "古馳 创立·成立"
-      },
-      "note": {
-        "en": "Gucci Founded in 1921, growing into a world-famous global brand / institution.",
-        "ko": "1921년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1921年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1921 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1921 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1921년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1921年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1921年）。"
-      },
-      "source": {
-        "qid": "Q178516",
-        "wikiTitle": {
-          "en": "Gucci",
-          "ko": "구찌",
-          "ja": "グッチ",
-          "zh": "古馳"
-        },
-        "name": "Wikipedia & Wikidata (Q178516)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Gucci",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EA%B5%AC%EC%B0%8C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B0%E3%83%83%E3%83%81",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8F%A4%E9%A6%B3"
+          "en": "https://en.wikipedia.org/wiki/Ryanair",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9D%B4%EC%96%B8%EC%97%90%EC%96%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%A8%E3%82%A2%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%91%9E%E5%AE%89%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -11274,12 +10372,12 @@ window.GAME_DECKS = {
           "ja": "イングランド銀行",
           "zh": "英格兰银行"
         },
-        "name": "Wikipedia & Wikidata (Q183231)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Bank%20of%20England",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9E%89%EA%B8%80%EB%9E%9C%EB%93%9C%20%EC%9D%80%ED%96%89",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E9%8A%80%E8%A1%8C",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%93%B6%E8%A1%8C"
+          "en": "https://en.wikipedia.org/wiki/Bank_of_England",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9E%89%EA%B8%80%EB%9E%9C%EB%93%9C_%EC%9D%80%ED%96%89",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E9%8A%80%E8%A1%8C",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%93%B6%E8%A1%8C"
         }
       }
     },
@@ -11315,12 +10413,12 @@ window.GAME_DECKS = {
           "ja": "東芝",
           "zh": "东芝"
         },
-        "name": "Wikipedia & Wikidata (Q49125)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Toshiba",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8F%84%EC%8B%9C%EB%B0%94",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E6%9D%B1%E8%8A%9D",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%9C%E8%8A%9D"
+          "en": "https://en.wikipedia.org/wiki/Toshiba",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%8B%9C%EB%B0%94",
+          "ja": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%8A%9D",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%B8%9C%E8%8A%9D"
         }
       }
     },
@@ -11356,12 +10454,12 @@ window.GAME_DECKS = {
           "ja": "アエロフロート・ロシア航空",
           "zh": "俄羅斯航空"
         },
-        "name": "Wikipedia & Wikidata (Q58707)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Aeroflot",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EC%97%90%EB%A1%9C%ED%94%8C%EB%A1%9C%ED%8A%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%82%A8%E3%83%AD%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88%E3%83%BB%E3%83%AD%E3%82%B7%E3%82%A2%E8%88%AA%E7%A9%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BF%84%E7%BE%85%E6%96%AF%E8%88%AA%E7%A9%BA"
+          "en": "https://en.wikipedia.org/wiki/Aeroflot",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%97%90%EB%A1%9C%ED%94%8C%EB%A1%9C%ED%8A%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A8%E3%83%AD%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88%E3%83%BB%E3%83%AD%E3%82%B7%E3%82%A2%E8%88%AA%E7%A9%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BF%84%E7%BE%85%E6%96%AF%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -11397,12 +10495,12 @@ window.GAME_DECKS = {
           "ja": "ヤンデックス",
           "zh": "Yandex"
         },
-        "name": "Wikipedia & Wikidata (Q5281)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Yandex",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%96%80%EB%8D%B1%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Yandex"
+          "en": "https://en.wikipedia.org/wiki/Yandex",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%96%80%EB%8D%B1%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/Yandex"
         }
       }
     },
@@ -11438,12 +10536,12 @@ window.GAME_DECKS = {
           "ja": "サン・マイクロシステムズ",
           "zh": "昇陽電腦"
         },
-        "name": "Wikipedia & Wikidata (Q14647)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Sun%20Microsystems",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8D%AC%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%98%87%E9%99%BD%E9%9B%BB%E8%85%A6"
+          "en": "https://en.wikipedia.org/wiki/Sun_Microsystems",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8D%AC_%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%98%87%E9%99%BD%E9%9B%BB%E8%85%A6"
         }
       }
     },
@@ -11479,94 +10577,12 @@ window.GAME_DECKS = {
           "ja": "デルタ航空",
           "zh": "達美航空"
         },
-        "name": "Wikipedia & Wikidata (Q188920)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Delta%20Air%20Lines",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8D%B8%ED%83%80%20%ED%95%AD%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%87%E3%83%AB%E3%82%BF%E8%88%AA%E7%A9%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%81%94%E7%BE%8E%E8%88%AA%E7%A9%BA"
-        }
-      }
-    },
-    {
-      "id": "tl_Q20800404",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Google%20Campus%2C%20Mountain%20View%2C%20CA.jpg?width=640",
-      "value": 2015,
-      "unit": "year",
-      "name": {
-        "en": "Alphabet Inc. Founded",
-        "ko": "알파벳 창립·설립",
-        "ja": "Alphabet Inc. 創業・設立",
-        "zh": "Alphabet 创立·成立"
-      },
-      "note": {
-        "en": "Alphabet Inc. Founded in 2015, growing into a world-famous global brand / institution.",
-        "ko": "2015년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "2015年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 2015 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 2015 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(2015년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（2015年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2015年）。"
-      },
-      "source": {
-        "qid": "Q20800404",
-        "wikiTitle": {
-          "en": "Alphabet Inc.",
-          "ko": "알파벳",
-          "ja": "Alphabet Inc.",
-          "zh": "Alphabet"
-        },
-        "name": "Wikipedia & Wikidata (Q20800404)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Alphabet%20Inc.",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%8C%ED%8C%8C%EB%B2%B3",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Alphabet%20Inc.",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Alphabet"
-        }
-      }
-    },
-    {
-      "id": "tl_Q27530",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stuttgart-Untertuerkheim-DC-Zentrale.jpg?width=640",
-      "value": 1998,
-      "unit": "year",
-      "name": {
-        "en": "Mercedes-Benz Group Founded",
-        "ko": "메르세데스-벤츠 그룹 창립·설립",
-        "ja": "メルセデス・ベンツ・グループ 創業・設立",
-        "zh": "戴姆勒 创立·成立"
-      },
-      "note": {
-        "en": "Mercedes-Benz Group Founded in 1998, growing into a world-famous global brand / institution.",
-        "ko": "1998년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1998年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1998 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1998 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1998년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1998年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1998年）。"
-      },
-      "source": {
-        "qid": "Q27530",
-        "wikiTitle": {
-          "en": "Mercedes-Benz Group",
-          "ko": "메르세데스-벤츠 그룹",
-          "ja": "メルセデス・ベンツ・グループ",
-          "zh": "戴姆勒"
-        },
-        "name": "Wikipedia & Wikidata (Q27530)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Mercedes-Benz%20Group",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A9%94%EB%A5%B4%EC%84%B8%EB%8D%B0%EC%8A%A4-%EB%B2%A4%EC%B8%A0%20%EA%B7%B8%EB%A3%B9",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A1%E3%83%AB%E3%82%BB%E3%83%87%E3%82%B9%E3%83%BB%E3%83%99%E3%83%B3%E3%83%84%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%88%B4%E5%A7%86%E5%8B%92"
+          "en": "https://en.wikipedia.org/wiki/Delta_Air_Lines",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8D%B8%ED%83%80_%ED%95%AD%EA%B3%B5",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%AB%E3%82%BF%E8%88%AA%E7%A9%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%81%94%E7%BE%8E%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -11602,12 +10618,12 @@ window.GAME_DECKS = {
           "ja": "アジア開発銀行",
           "zh": "亞洲開發銀行"
         },
-        "name": "Wikipedia & Wikidata (Q188822)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Asian%20Development%20Bank",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EC%8B%9C%EC%95%84%20%EA%B0%9C%EB%B0%9C%20%EC%9D%80%ED%96%89",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%82%B8%E3%82%A2%E9%96%8B%E7%99%BA%E9%8A%80%E8%A1%8C",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BA%9E%E6%B4%B2%E9%96%8B%E7%99%BC%E9%8A%80%E8%A1%8C"
+          "en": "https://en.wikipedia.org/wiki/Asian_Development_Bank",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%8B%9C%EC%95%84_%EA%B0%9C%EB%B0%9C_%EC%9D%80%ED%96%89",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2%E9%96%8B%E7%99%BA%E9%8A%80%E8%A1%8C",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%B4%B2%E9%96%8B%E7%99%BC%E9%8A%80%E8%A1%8C"
         }
       }
     },
@@ -11641,14 +10657,14 @@ window.GAME_DECKS = {
           "en": "Alexa Internet",
           "ko": "알렉사 인터넷",
           "ja": "アレクサ・インターネット",
-          "zh": "亞歷山網路"
+          "zh": "Alexa Internet"
         },
-        "name": "Wikipedia & Wikidata (Q230051)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Alexa%20Internet",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%8C%EB%A0%89%EC%82%AC%20%EC%9D%B8%ED%84%B0%EB%84%B7",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BA%9E%E6%AD%B7%E5%B1%B1%E7%B6%B2%E8%B7%AF"
+          "en": "https://en.wikipedia.org/wiki/Alexa_Internet",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%8C%EB%A0%89%EC%82%AC_%EC%9D%B8%ED%84%B0%EB%84%B7",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88",
+          "zh": "https://zh.wikipedia.org/wiki/Alexa_Internet"
         }
       }
     },
@@ -11682,55 +10698,14 @@ window.GAME_DECKS = {
           "en": "Uber",
           "ko": "우버",
           "ja": "Uber",
-          "zh": "优步"
+          "zh": "優步"
         },
-        "name": "Wikipedia & Wikidata (Q780442)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Uber",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9A%B0%EB%B2%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Uber",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BC%98%E6%AD%A5"
-        }
-      }
-    },
-    {
-      "id": "tl_Q3295867",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coca-ColaHQ.jpg?width=640",
-      "value": 1886,
-      "unit": "year",
-      "name": {
-        "en": "The Coca-Cola Company Founded",
-        "ko": "코카콜라 컴퍼니 창립·설립",
-        "ja": "ザ コカ・コーラ カンパニー 創業・設立",
-        "zh": "可口可樂公司 创立·成立"
-      },
-      "note": {
-        "en": "The Coca-Cola Company Founded in 1886, growing into a world-famous global brand / institution.",
-        "ko": "1886년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1886年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1886 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1886 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1886년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1886年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1886年）。"
-      },
-      "source": {
-        "qid": "Q3295867",
-        "wikiTitle": {
-          "en": "The Coca-Cola Company",
-          "ko": "코카콜라 컴퍼니",
-          "ja": "ザ コカ・コーラ カンパニー",
-          "zh": "可口可樂公司"
-        },
-        "name": "Wikipedia & Wikidata (Q3295867)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Coca-Cola%20Company",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BD%94%EC%B9%B4%EC%BD%9C%EB%9D%BC%20%EC%BB%B4%ED%8D%BC%EB%8B%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B6%20%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9%20%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8F%AF%E5%8F%A3%E5%8F%AF%E6%A8%82%E5%85%AC%E5%8F%B8"
+          "en": "https://en.wikipedia.org/wiki/Uber",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9A%B0%EB%B2%84",
+          "ja": "https://ja.wikipedia.org/wiki/Uber",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%84%AA%E6%AD%A5"
         }
       }
     },
@@ -11761,58 +10736,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q163810",
         "wikiTitle": {
-          "en": "AB Volvo",
+          "en": "Volvo",
           "ko": "볼보",
-          "ja": "ボルボ",
-          "zh": "沃尔沃集团"
+          "ja": "ボルボ・グループ",
+          "zh": "富豪集團"
         },
-        "name": "Wikipedia & Wikidata (Q163810)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=AB%20Volvo",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B3%BC%EB%B3%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9C%E3%83%AB%E3%83%9C",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B2%83%E5%B0%94%E6%B2%83%E9%9B%86%E5%9B%A2"
-        }
-      }
-    },
-    {
-      "id": "tl_Q35476",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AT%26THQDallas.jpg?width=640",
-      "value": 2005,
-      "unit": "year",
-      "name": {
-        "en": "AT&T Founded",
-        "ko": "AT&T 창립·설립",
-        "ja": "AT&T 創業・設立",
-        "zh": "AT&T 创立·成立"
-      },
-      "note": {
-        "en": "AT&T Founded in 2005, growing into a world-famous global brand / institution.",
-        "ko": "2005년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "2005年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 2005 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 2005 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(2005년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（2005年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2005年）。"
-      },
-      "source": {
-        "qid": "Q35476",
-        "wikiTitle": {
-          "en": "AT&T",
-          "ko": "AT&T",
-          "ja": "AT&T",
-          "zh": "AT&T"
-        },
-        "name": "Wikipedia & Wikidata (Q35476)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=AT%26T",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=AT%26T",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=AT%26T",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=AT%26T"
+          "en": "https://en.wikipedia.org/wiki/Volvo",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B3%BC%EB%B3%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%83%9C%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%AF%8C%E8%B1%AA%E9%9B%86%E5%9C%98"
         }
       }
     },
@@ -11848,12 +10782,12 @@ window.GAME_DECKS = {
           "ja": "エクソンモービル",
           "zh": "埃克森美孚"
         },
-        "name": "Wikipedia & Wikidata (Q156238)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=ExxonMobil",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%97%91%EC%8A%A8%EB%AA%A8%EB%B9%8C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A8%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%93%E3%83%AB",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%9F%83%E5%85%8B%E6%A3%AE%E7%BE%8E%E5%AD%9A"
+          "en": "https://en.wikipedia.org/wiki/ExxonMobil",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%91%EC%8A%A8%EB%AA%A8%EB%B9%8C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%93%E3%83%AB",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%9F%83%E5%85%8B%E6%A3%AE%E7%BE%8E%E5%AD%9A"
         }
       }
     },
@@ -11889,12 +10823,12 @@ window.GAME_DECKS = {
           "ja": "百度",
           "zh": "百度"
         },
-        "name": "Wikipedia & Wikidata (Q14772)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Baidu",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%94%EC%9D%B4%EB%91%90",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%99%BE%E5%BA%A6",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%99%BE%E5%BA%A6"
+          "en": "https://en.wikipedia.org/wiki/Baidu",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B0%94%EC%9D%B4%EB%91%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%99%BE%E5%BA%A6",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%99%BE%E5%BA%A6"
         }
       }
     },
@@ -11930,12 +10864,12 @@ window.GAME_DECKS = {
           "ja": "メジャーリーグサッカー",
           "zh": "美國職業足球大聯盟"
         },
-        "name": "Wikipedia & Wikidata (Q18543)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Major%20League%20Soccer",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A9%94%EC%9D%B4%EC%A0%80%20%EB%A6%AC%EA%B7%B8%20%EC%82%AC%EC%BB%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%B0%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BE%8E%E5%9C%8B%E8%81%B7%E6%A5%AD%E8%B6%B3%E7%90%83%E5%A4%A7%E8%81%AF%E7%9B%9F"
+          "en": "https://en.wikipedia.org/wiki/Major_League_Soccer",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A9%94%EC%9D%B4%EC%A0%80_%EB%A6%AC%EA%B7%B8_%EC%82%AC%EC%BB%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%B0%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E8%81%B7%E6%A5%AD%E8%B6%B3%E7%90%83%E5%A4%A7%E8%81%AF%E7%9B%9F"
         }
       }
     },
@@ -11971,12 +10905,12 @@ window.GAME_DECKS = {
           "ja": "エレクトロニック・アーツ",
           "zh": "艺电"
         },
-        "name": "Wikipedia & Wikidata (Q173941)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Electronic%20Arts",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%9C%EB%8B%89%20%EC%95%84%EC%B8%A0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%84",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%89%BA%E7%94%B5"
+          "en": "https://en.wikipedia.org/wiki/Electronic_Arts",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%9C%EB%8B%89_%EC%95%84%EC%B8%A0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%84",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%89%BA%E7%94%B5"
         }
       }
     },
@@ -12012,12 +10946,12 @@ window.GAME_DECKS = {
           "ja": "アメリカン航空",
           "zh": "美國航空"
         },
-        "name": "Wikipedia & Wikidata (Q32396)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=American%20Airlines",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8%20%ED%95%AD%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E8%88%AA%E7%A9%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BE%8E%E5%9C%8B%E8%88%AA%E7%A9%BA"
+          "en": "https://en.wikipedia.org/wiki/American_Airlines",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8_%ED%95%AD%EA%B3%B5",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E8%88%AA%E7%A9%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -12053,12 +10987,12 @@ window.GAME_DECKS = {
           "ja": "キヤノン",
           "zh": "佳能"
         },
-        "name": "Wikipedia & Wikidata (Q62621)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Canon%20Inc.",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BA%90%EB%85%BC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BD%B3%E8%83%BD"
+          "en": "https://en.wikipedia.org/wiki/Canon_Inc.",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%BA%90%EB%85%BC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BD%B3%E8%83%BD"
         }
       }
     },
@@ -12094,12 +11028,12 @@ window.GAME_DECKS = {
           "ja": "ドイツ銀行",
           "zh": "德意志银行"
         },
-        "name": "Wikipedia & Wikidata (Q66048)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Deutsche%20Bank",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8F%84%EC%9D%B4%EC%B2%B4%20%EB%B0%A9%ED%81%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%89%E3%82%A4%E3%83%84%E9%8A%80%E8%A1%8C",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%BE%B7%E6%84%8F%E5%BF%97%E9%93%B6%E8%A1%8C"
+          "en": "https://en.wikipedia.org/wiki/Deutsche_Bank",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%9D%B4%EC%B2%B4_%EB%B0%A9%ED%81%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84%E9%8A%80%E8%A1%8C",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%BE%B7%E6%84%8F%E5%BF%97%E9%93%B6%E8%A1%8C"
         }
       }
     },
@@ -12135,12 +11069,12 @@ window.GAME_DECKS = {
           "ja": "ロッキード・マーティン",
           "zh": "洛克希德·马丁"
         },
-        "name": "Wikipedia & Wikidata (Q7240)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Lockheed%20Martin",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A1%9D%ED%9E%88%EB%93%9C%20%EB%A7%88%ED%8B%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AD%E3%83%83%E3%82%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B4%9B%E5%85%8B%E5%B8%8C%E5%BE%B7%C2%B7%E9%A9%AC%E4%B8%81"
+          "en": "https://en.wikipedia.org/wiki/Lockheed_Martin",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A1%9D%ED%9E%88%EB%93%9C_%EB%A7%88%ED%8B%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B4%9B%E5%85%8B%E5%B8%8C%E5%BE%B7%C2%B7%E9%A9%AC%E4%B8%81"
         }
       }
     },
@@ -12171,17 +11105,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q152864",
         "wikiTitle": {
-          "en": "ASUS",
-          "ko": "아수스",
+          "en": "Asus",
+          "ko": "에이수스",
           "ja": "ASUS",
-          "zh": "ASUS"
+          "zh": "華碩"
         },
-        "name": "Wikipedia & Wikidata (Q152864)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=ASUS",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EC%88%98%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=ASUS",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=ASUS"
+          "en": "https://en.wikipedia.org/wiki/Asus",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%90%EC%9D%B4%EC%88%98%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/ASUS",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8F%AF%E7%A2%A9"
         }
       }
     },
@@ -12212,17 +11146,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q157064",
         "wikiTitle": {
-          "en": "Puma",
+          "en": "Puma (brand)",
           "ko": "푸마",
           "ja": "プーマ",
-          "zh": "彪马"
+          "zh": "PUMA"
         },
-        "name": "Wikipedia & Wikidata (Q157064)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Puma",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%91%B8%EB%A7%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%97%E3%83%BC%E3%83%9E",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%BD%AA%E9%A9%AC"
+          "en": "https://en.wikipedia.org/wiki/Puma_(brand)",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%91%B8%EB%A7%88",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%BC%E3%83%9E",
+          "zh": "https://zh.wikipedia.org/wiki/PUMA"
         }
       }
     },
@@ -12258,12 +11192,12 @@ window.GAME_DECKS = {
           "ja": "三菱グループ",
           "zh": "三菱集团"
         },
-        "name": "Wikipedia & Wikidata (Q183275)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Mitsubishi",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%AF%B8%EC%93%B0%EB%B9%84%EC%8B%9C%20%EA%B7%B8%EB%A3%B9",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%89%E8%8F%B1%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%89%E8%8F%B1%E9%9B%86%E5%9B%A2"
+          "en": "https://en.wikipedia.org/wiki/Mitsubishi",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%93%B0%EB%B9%84%EC%8B%9C_%EA%B7%B8%EB%A3%B9",
+          "ja": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%9B%86%E5%9B%A2"
         }
       }
     },
@@ -12294,17 +11228,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q32491",
         "wikiTitle": {
-          "en": "Qantas Airways",
+          "en": "Qantas",
           "ko": "콴타스 항공",
           "ja": "カンタス航空",
           "zh": "澳洲航空"
         },
-        "name": "Wikipedia & Wikidata (Q32491)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Qantas%20Airways",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BD%B4%ED%83%80%EC%8A%A4%20%ED%95%AD%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AB%E3%83%B3%E3%82%BF%E3%82%B9%E8%88%AA%E7%A9%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%BE%B3%E6%B4%B2%E8%88%AA%E7%A9%BA"
+          "en": "https://en.wikipedia.org/wiki/Qantas",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%BD%B4%ED%83%80%EC%8A%A4_%ED%95%AD%EA%B3%B5",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%82%BF%E3%82%B9%E8%88%AA%E7%A9%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%BE%B3%E6%B4%B2%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -12336,16 +11270,16 @@ window.GAME_DECKS = {
         "qid": "Q188326",
         "wikiTitle": {
           "en": "H&M",
-          "ko": "에이치앤엠",
+          "ko": "H&M",
           "ja": "H&M",
           "zh": "H&M"
         },
-        "name": "Wikipedia & Wikidata (Q188326)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=H%26M",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%97%90%EC%9D%B4%EC%B9%98%EC%95%A4%EC%97%A0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=H%26M",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=H%26M"
+          "en": "https://en.wikipedia.org/wiki/H%26M",
+          "ko": "https://ko.wikipedia.org/wiki/H%26M",
+          "ja": "https://ja.wikipedia.org/wiki/H%26M",
+          "zh": "https://zh.wikipedia.org/wiki/H%26M"
         }
       }
     },
@@ -12353,7 +11287,7 @@ window.GAME_DECKS = {
       "id": "tl_Q188514",
       "emoji": "🏢",
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tata%20Motors%20Headquarters%20Mumbai%2C%20Maharastra%2C%20India.jpg?width=640",
-      "value": 2024,
+      "value": 1945,
       "unit": "year",
       "name": {
         "en": "Tata Motors Limited Founded",
@@ -12362,31 +11296,31 @@ window.GAME_DECKS = {
         "zh": "塔塔汽車 创立·成立"
       },
       "note": {
-        "en": "Tata Motors Limited Founded in 2024, growing into a world-famous global brand / institution.",
-        "ko": "2024년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "2024年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 2024 年创立或问世，如今已成为享誉全球的品牌与机构。"
+        "en": "Tata Motors Limited Founded in 1945, growing into a world-famous global brand / institution.",
+        "ko": "1945년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
+        "ja": "1945年に創業・誕生し、世界的なブランド・機関となりました。",
+        "zh": "于 1945 年创立或问世，如今已成为享誉全球的品牌与机构。"
       },
       "basis": {
-        "en": "Recorded as 2024 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(2024년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（2024年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2024年）。"
+        "en": "Recorded as 1945 based on official corporate founding or flagship product launch year.",
+        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1945년) 기준.",
+        "ja": "企業・機関の公式創業年または初代製品の発売年（1945年）に基づく。",
+        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1945年）。"
       },
       "source": {
         "qid": "Q188514",
         "wikiTitle": {
-          "en": "Tata Motors Limited",
+          "en": "Tata Motors",
           "ko": "타타 자동차",
-          "ja": "タタ",
+          "ja": "タタ・モーターズ",
           "zh": "塔塔汽車"
         },
-        "name": "Wikipedia & Wikidata (Q188514)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Tata%20Motors%20Limited",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%83%80%ED%83%80%20%EC%9E%90%EB%8F%99%EC%B0%A8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%BF%E3%82%BF",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A1%94%E5%A1%94%E6%B1%BD%E8%BB%8A"
+          "en": "https://en.wikipedia.org/wiki/Tata_Motors",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%83%80%ED%83%80_%EC%9E%90%EB%8F%99%EC%B0%A8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%BF%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A1%94%E5%A1%94%E6%B1%BD%E8%BB%8A"
         }
       }
     },
@@ -12422,12 +11356,12 @@ window.GAME_DECKS = {
           "ja": "アリババグループ",
           "zh": "阿里巴巴集团"
         },
-        "name": "Wikipedia & Wikidata (Q1359568)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Alibaba%20Group",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%20%EA%B7%B8%EB%A3%B9",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%AA%E3%83%90%E3%83%90%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9B%A2"
+          "en": "https://en.wikipedia.org/wiki/Alibaba_Group",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94_%EA%B7%B8%EB%A3%B9",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%83%90%E3%83%90%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9B%A2"
         }
       }
     },
@@ -12459,57 +11393,16 @@ window.GAME_DECKS = {
         "qid": "Q51779763",
         "wikiTitle": {
           "en": "Bamboo Airways",
-          "ko": "밤부에어웨이",
+          "ko": "뱀부 에어웨이스",
           "ja": "バンブー・エアウェイズ",
           "zh": "越竹航空"
         },
-        "name": "Wikipedia & Wikidata (Q51779763)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Bamboo%20Airways",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%A4%EB%B6%80%EC%97%90%EC%96%B4%EC%9B%A8%EC%9D%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%90%E3%83%B3%E3%83%96%E3%83%BC%E3%83%BB%E3%82%A8%E3%82%A2%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B6%8A%E7%AB%B9%E8%88%AA%E7%A9%BA"
-        }
-      }
-    },
-    {
-      "id": "tl_Q156578",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/VW%20Werk%20Altes%20Heizkraftwerk%20WB%20edit.jpg?width=640",
-      "value": 1937,
-      "unit": "year",
-      "name": {
-        "en": "Volkswagen Group Founded",
-        "ko": "폭스바겐 AG 창립·설립",
-        "ja": "フォルクスワーゲン・グループ 創業・設立",
-        "zh": "大众集团 创立·成立"
-      },
-      "note": {
-        "en": "Volkswagen Group Founded in 1937, growing into a world-famous global brand / institution.",
-        "ko": "1937년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1937年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1937 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1937 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1937년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1937年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1937年）。"
-      },
-      "source": {
-        "qid": "Q156578",
-        "wikiTitle": {
-          "en": "Volkswagen Group",
-          "ko": "폭스바겐 AG",
-          "ja": "フォルクスワーゲン・グループ",
-          "zh": "大众集团"
-        },
-        "name": "Wikipedia & Wikidata (Q156578)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Volkswagen%20Group",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8F%AD%EC%8A%A4%EB%B0%94%EA%B2%90%20AG",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%95%E3%82%A9%E3%83%AB%E3%82%AF%E3%82%B9%E3%83%AF%E3%83%BC%E3%82%B2%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A4%A7%E4%BC%97%E9%9B%86%E5%9B%A2"
+          "en": "https://en.wikipedia.org/wiki/Bamboo_Airways",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B1%80%EB%B6%80_%EC%97%90%EC%96%B4%EC%9B%A8%EC%9D%B4%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%96%E3%83%BC%E3%83%BB%E3%82%A8%E3%82%A2%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%B6%8A%E7%AB%B9%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -12545,12 +11438,12 @@ window.GAME_DECKS = {
           "ja": "シスコシステムズ",
           "zh": "思科系统"
         },
-        "name": "Wikipedia & Wikidata (Q173395)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Cisco",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8B%9C%EC%8A%A4%EC%BD%94%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B7%E3%82%B9%E3%82%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%80%9D%E7%A7%91%E7%B3%BB%E7%BB%9F"
+          "en": "https://en.wikipedia.org/wiki/Cisco",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EC%8A%A4%EC%BD%94_%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%82%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%80%9D%E7%A7%91%E7%B3%BB%E7%BB%9F"
         }
       }
     },
@@ -12586,12 +11479,12 @@ window.GAME_DECKS = {
           "ja": "エア・カナダ",
           "zh": "加拿大航空"
         },
-        "name": "Wikipedia & Wikidata (Q185339)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Air%20Canada",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%97%90%EC%96%B4%20%EC%BA%90%EB%82%98%EB%8B%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%AB%E3%83%8A%E3%83%80",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%88%AA%E7%A9%BA"
+          "en": "https://en.wikipedia.org/wiki/Air_Canada",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4_%EC%BA%90%EB%82%98%EB%8B%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%AB%E3%83%8A%E3%83%80",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -12624,15 +11517,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "Seoul Broadcasting System",
           "ko": "SBS",
-          "ja": "SBS",
-          "zh": "SBS"
+          "ja": "SBS (韓国)",
+          "zh": "SBS (韓國)"
         },
-        "name": "Wikipedia & Wikidata (Q928831)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Seoul%20Broadcasting%20System",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=SBS",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=SBS",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=SBS"
+          "en": "https://en.wikipedia.org/wiki/Seoul_Broadcasting_System",
+          "ko": "https://ko.wikipedia.org/wiki/SBS",
+          "ja": "https://ja.wikipedia.org/wiki/SBS_(%E9%9F%93%E5%9B%BD)",
+          "zh": "https://zh.wikipedia.org/wiki/SBS_(%E9%9F%93%E5%9C%8B)"
         }
       }
     },
@@ -12666,14 +11559,14 @@ window.GAME_DECKS = {
           "en": "Malaysia Airlines",
           "ko": "말레이시아 항공",
           "ja": "マレーシア航空",
-          "zh": "馬來西亞航空"
+          "zh": "馬來西亞國際航空"
         },
-        "name": "Wikipedia & Wikidata (Q308952)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Malaysia%20Airlines",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%90%EB%A0%88%EC%9D%B4%EC%8B%9C%EC%95%84%20%ED%95%AD%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2%E8%88%AA%E7%A9%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%88%AA%E7%A9%BA"
+          "en": "https://en.wikipedia.org/wiki/Malaysia_Airlines",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A7%90%EB%A0%88%EC%9D%B4%EC%8B%9C%EC%95%84_%ED%95%AD%EA%B3%B5",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2%E8%88%AA%E7%A9%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E5%9C%8B%E9%9A%9B%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -12705,16 +11598,16 @@ window.GAME_DECKS = {
         "qid": "Q30113",
         "wikiTitle": {
           "en": "Jeep",
-          "ko": "지프",
+          "ko": "지프 (자동차)",
           "ja": "ジープ",
-          "zh": "吉普汽車"
+          "zh": "吉普"
         },
-        "name": "Wikipedia & Wikidata (Q30113)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Jeep",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A7%80%ED%94%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B8%E3%83%BC%E3%83%97",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%90%89%E6%99%AE%E6%B1%BD%E8%BB%8A"
+          "en": "https://en.wikipedia.org/wiki/Jeep",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A7%80%ED%94%84_(%EC%9E%90%EB%8F%99%EC%B0%A8)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%97",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%90%89%E6%99%AE"
         }
       }
     },
@@ -12750,53 +11643,12 @@ window.GAME_DECKS = {
           "ja": "ランドローバー",
           "zh": "路虎"
         },
-        "name": "Wikipedia & Wikidata (Q35907)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Land%20Rover",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%9E%9C%EB%93%9C%EB%A1%9C%EB%B2%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B7%AF%E8%99%8E"
-        }
-      }
-    },
-    {
-      "id": "tl_Q193136",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prada%20milano.JPG?width=640",
-      "value": 1913,
-      "unit": "year",
-      "name": {
-        "en": "Prada Founded",
-        "ko": "프라다 창립·설립",
-        "ja": "プラダ 創業・設立",
-        "zh": "普拉達 创立·成立"
-      },
-      "note": {
-        "en": "Prada Founded in 1913, growing into a world-famous global brand / institution.",
-        "ko": "1913년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1913年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1913 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1913 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1913년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1913年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1913年）。"
-      },
-      "source": {
-        "qid": "Q193136",
-        "wikiTitle": {
-          "en": "Prada",
-          "ko": "프라다",
-          "ja": "プラダ",
-          "zh": "普拉達"
-        },
-        "name": "Wikipedia & Wikidata (Q193136)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Prada",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%94%84%EB%9D%BC%EB%8B%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%97%E3%83%A9%E3%83%80",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%99%AE%E6%8B%89%E9%81%94"
+          "en": "https://en.wikipedia.org/wiki/Land_Rover",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%9E%9C%EB%93%9C%EB%A1%9C%EB%B2%84",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%B7%AF%E8%99%8E"
         }
       }
     },
@@ -12827,17 +11679,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q234021",
         "wikiTitle": {
-          "en": "Robert Bosch",
-          "ko": "보쉬",
-          "ja": "ロバート・ボッシュ",
-          "zh": "罗伯特·博世有限公司"
+          "en": "Bosch (company)",
+          "ko": "보쉬 (기업)",
+          "ja": "ロバート・ボッシュ (企業)",
+          "zh": "罗伯特·博世公司"
         },
-        "name": "Wikipedia & Wikidata (Q234021)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Robert%20Bosch",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B3%B4%EC%89%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%83%9C%E3%83%83%E3%82%B7%E3%83%A5",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E5%8D%9A%E4%B8%96%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8"
+          "en": "https://en.wikipedia.org/wiki/Bosch_(company)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%89%AC_(%EA%B8%B0%EC%97%85)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%83%9C%E3%83%83%E3%82%B7%E3%83%A5_(%E4%BC%81%E6%A5%AD)",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E5%8D%9A%E4%B8%96%E5%85%AC%E5%8F%B8"
         }
       }
     },
@@ -12873,12 +11725,12 @@ window.GAME_DECKS = {
           "ja": "ニコン",
           "zh": "尼康"
         },
-        "name": "Wikipedia & Wikidata (Q1218180)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Nikon",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8B%88%EC%BD%98",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8B%E3%82%B3%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%B0%BC%E5%BA%B7"
+          "en": "https://en.wikipedia.org/wiki/Nikon",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8B%88%EC%BD%98",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%BA%B7"
         }
       }
     },
@@ -12912,14 +11764,14 @@ window.GAME_DECKS = {
           "en": "GMM Grammy",
           "ko": "GMM 그램미",
           "ja": "GMMグラミー",
-          "zh": "亞洲歌萊美"
+          "zh": "GMM Grammy"
         },
-        "name": "Wikipedia & Wikidata (Q4923294)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=GMM%20Grammy",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=GMM%20%EA%B7%B8%EB%9E%A8%EB%AF%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=GMM%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BA%9E%E6%B4%B2%E6%AD%8C%E8%90%8A%E7%BE%8E"
+          "en": "https://en.wikipedia.org/wiki/GMM_Grammy",
+          "ko": "https://ko.wikipedia.org/wiki/GMM_%EA%B7%B8%EB%9E%A8%EB%AF%B8",
+          "ja": "https://ja.wikipedia.org/wiki/GMM%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/GMM_Grammy"
         }
       }
     },
@@ -12955,12 +11807,12 @@ window.GAME_DECKS = {
           "ja": "コーセラ",
           "zh": "Coursera"
         },
-        "name": "Wikipedia & Wikidata (Q499962)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Coursera",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BD%94%EC%84%B8%EB%9D%BC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B3%E3%83%BC%E3%82%BB%E3%83%A9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Coursera"
+          "en": "https://en.wikipedia.org/wiki/Coursera",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%BD%94%EC%84%B8%EB%9D%BC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%82%BB%E3%83%A9",
+          "zh": "https://zh.wikipedia.org/wiki/Coursera"
         }
       }
     },
@@ -12992,16 +11844,16 @@ window.GAME_DECKS = {
         "qid": "Q152051",
         "wikiTitle": {
           "en": "Bayer",
-          "ko": "바이엘",
-          "ja": "バイエル",
+          "ko": "바이엘 (기업)",
+          "ja": "バイエル (企業)",
           "zh": "拜耳"
         },
-        "name": "Wikipedia & Wikidata (Q152051)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Bayer",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%94%EC%9D%B4%EC%97%98",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%90%E3%82%A4%E3%82%A8%E3%83%AB",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%8B%9C%E8%80%B3"
+          "en": "https://en.wikipedia.org/wiki/Bayer",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B0%94%EC%9D%B4%EC%97%98_(%EA%B8%B0%EC%97%85)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%82%A8%E3%83%AB_(%E4%BC%81%E6%A5%AD)",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%8B%9C%E8%80%B3"
         }
       }
     },
@@ -13037,53 +11889,12 @@ window.GAME_DECKS = {
           "ja": "シンガポール航空",
           "zh": "新加坡航空"
         },
-        "name": "Wikipedia & Wikidata (Q32245)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Singapore%20Airlines",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4%20%ED%95%AD%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E8%88%AA%E7%A9%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%88%AA%E7%A9%BA"
-        }
-      }
-    },
-    {
-      "id": "tl_Q62288",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rolex%20Geneva%2013.jpg?width=640",
-      "value": 1905,
-      "unit": "year",
-      "name": {
-        "en": "Rolex Founded",
-        "ko": "롤렉스 창립·설립",
-        "ja": "ロレックス 創業・設立",
-        "zh": "劳力士 创立·成立"
-      },
-      "note": {
-        "en": "Rolex Founded in 1905, growing into a world-famous global brand / institution.",
-        "ko": "1905년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1905年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1905 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1905 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1905년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1905年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1905年）。"
-      },
-      "source": {
-        "qid": "Q62288",
-        "wikiTitle": {
-          "en": "Rolex",
-          "ko": "롤렉스",
-          "ja": "ロレックス",
-          "zh": "劳力士"
-        },
-        "name": "Wikipedia & Wikidata (Q62288)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Rolex",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A1%A4%EB%A0%89%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AD%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8A%B3%E5%8A%9B%E5%A3%AB"
+          "en": "https://en.wikipedia.org/wiki/Singapore_Airlines",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4_%ED%95%AD%EA%B3%B5",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E8%88%AA%E7%A9%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -13117,14 +11928,14 @@ window.GAME_DECKS = {
           "en": "Saudi Aramco",
           "ko": "사우디 아람코",
           "ja": "サウジアラムコ",
-          "zh": "沙特阿拉伯国家石油公司"
+          "zh": "沙特阿美"
         },
-        "name": "Wikipedia & Wikidata (Q679322)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Saudi%20Aramco",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%82%AC%EC%9A%B0%EB%94%94%20%EC%95%84%EB%9E%8C%EC%BD%94",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%A0%E3%82%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E5%9B%BD%E5%AE%B6%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8"
+          "en": "https://en.wikipedia.org/wiki/Saudi_Aramco",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9A%B0%EB%94%94_%EC%95%84%EB%9E%8C%EC%BD%94",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%A0%E3%82%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B2%99%E7%89%B9%E9%98%BF%E7%BE%8E"
         }
       }
     },
@@ -13160,12 +11971,12 @@ window.GAME_DECKS = {
           "ja": "ペプシコ",
           "zh": "百事公司"
         },
-        "name": "Wikipedia & Wikidata (Q334800)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=PepsiCo",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8E%A9%EC%8B%9C%EC%BD%94",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9A%E3%83%97%E3%82%B7%E3%82%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%99%BE%E4%BA%8B%E5%85%AC%E5%8F%B8"
+          "en": "https://en.wikipedia.org/wiki/PepsiCo",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8E%A9%EC%8B%9C%EC%BD%94",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%97%E3%82%B7%E3%82%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%99%BE%E4%BA%8B%E5%85%AC%E5%8F%B8"
         }
       }
     },
@@ -13197,16 +12008,16 @@ window.GAME_DECKS = {
         "qid": "Q152057",
         "wikiTitle": {
           "en": "BP",
-          "ko": "BP",
-          "ja": "BP",
+          "ko": "BP (기업)",
+          "ja": "BP (企業)",
           "zh": "BP"
         },
-        "name": "Wikipedia & Wikidata (Q152057)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=BP",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=BP",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=BP",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=BP"
+          "en": "https://en.wikipedia.org/wiki/BP",
+          "ko": "https://ko.wikipedia.org/wiki/BP_(%EA%B8%B0%EC%97%85)",
+          "ja": "https://ja.wikipedia.org/wiki/BP_(%E4%BC%81%E6%A5%AD)",
+          "zh": "https://zh.wikipedia.org/wiki/BP"
         }
       }
     },
@@ -13242,12 +12053,12 @@ window.GAME_DECKS = {
           "ja": "ユニリーバ",
           "zh": "联合利华"
         },
-        "name": "Wikipedia & Wikidata (Q157062)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Unilever",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9C%A0%EB%8B%88%EB%A0%88%EB%B2%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A6%E3%83%8B%E3%83%AA%E3%83%BC%E3%83%90",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%81%94%E5%90%88%E5%88%A9%E5%8D%8E"
+          "en": "https://en.wikipedia.org/wiki/Unilever",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%88%EB%A0%88%EB%B2%84",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%8B%E3%83%AA%E3%83%BC%E3%83%90",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%81%94%E5%90%88%E5%88%A9%E5%8D%8E"
         }
       }
     },
@@ -13281,14 +12092,14 @@ window.GAME_DECKS = {
           "en": "Universal Music Group",
           "ko": "유니버설 뮤직 그룹",
           "ja": "ユニバーサル ミュージック グループ",
-          "zh": "環球唱片"
+          "zh": "环球音乐集团"
         },
-        "name": "Wikipedia & Wikidata (Q38903)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Universal%20Music%20Group",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9C%A0%EB%8B%88%EB%B2%84%EC%84%A4%20%EB%AE%A4%EC%A7%81%20%EA%B7%B8%EB%A3%B9",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%20%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%20%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%92%B0%E7%90%83%E5%94%B1%E7%89%87"
+          "en": "https://en.wikipedia.org/wiki/Universal_Music_Group",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%88%EB%B2%84%EC%84%A4_%EB%AE%A4%EC%A7%81_%EA%B7%B8%EB%A3%B9",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB_%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF_%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%8E%AF%E7%90%83%E9%9F%B3%E4%B9%90%E9%9B%86%E5%9B%A2"
         }
       }
     },
@@ -13320,57 +12131,16 @@ window.GAME_DECKS = {
         "qid": "Q328840",
         "wikiTitle": {
           "en": "Visa Inc.",
-          "ko": "비자",
-          "ja": "ビザ",
-          "zh": "Visa"
+          "ko": "비자 (기업)",
+          "ja": "Visa",
+          "zh": "Visa公司"
         },
-        "name": "Wikipedia & Wikidata (Q328840)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Visa%20Inc.",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B9%84%EC%9E%90",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%93%E3%82%B6",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Visa"
-        }
-      }
-    },
-    {
-      "id": "tl_Q376692",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shinagawa%20seaside%20rakuten%20tower%202009.JPG?width=640",
-      "value": 2001,
-      "unit": "year",
-      "name": {
-        "en": "Sony Mobile Communications Founded",
-        "ko": "소니 모바일 커뮤니케이션스 창립·설립",
-        "ja": "ソニーモバイルコミュニケーションズ 創業・設立",
-        "zh": "索尼移動 创立·成立"
-      },
-      "note": {
-        "en": "Sony Mobile Communications Founded in 2001, growing into a world-famous global brand / institution.",
-        "ko": "2001년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "2001年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 2001 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 2001 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(2001년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（2001年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2001年）。"
-      },
-      "source": {
-        "qid": "Q376692",
-        "wikiTitle": {
-          "en": "Sony Mobile Communications",
-          "ko": "소니 모바일 커뮤니케이션스",
-          "ja": "ソニーモバイルコミュニケーションズ",
-          "zh": "索尼移動"
-        },
-        "name": "Wikipedia & Wikidata (Q376692)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Sony%20Mobile%20Communications",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%86%8C%EB%8B%88%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%B4%A2%E5%B0%BC%E7%A7%BB%E5%8B%95"
+          "en": "https://en.wikipedia.org/wiki/Visa_Inc.",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%9E%90_(%EA%B8%B0%EC%97%85)",
+          "ja": "https://ja.wikipedia.org/wiki/Visa",
+          "zh": "https://zh.wikipedia.org/wiki/Visa%E5%85%AC%E5%8F%B8"
         }
       }
     },
@@ -13404,14 +12174,14 @@ window.GAME_DECKS = {
           "en": "Uniqlo",
           "ko": "유니클로",
           "ja": "ユニクロ",
-          "zh": "优衣库"
+          "zh": "優衣庫"
         },
-        "name": "Wikipedia & Wikidata (Q26070)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Uniqlo",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BC%98%E8%A1%A3%E5%BA%93"
+          "en": "https://en.wikipedia.org/wiki/Uniqlo",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%84%AA%E8%A1%A3%E5%BA%AB"
         }
       }
     },
@@ -13447,94 +12217,12 @@ window.GAME_DECKS = {
           "ja": "スカンジナビア航空",
           "zh": "北歐航空"
         },
-        "name": "Wikipedia & Wikidata (Q187854)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Scandinavian%20Airlines",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%EC%B9%B8%EB%94%94%EB%82%98%EB%B9%84%EC%95%84%20%ED%95%AD%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B9%E3%82%AB%E3%83%B3%E3%82%B8%E3%83%8A%E3%83%93%E3%82%A2%E8%88%AA%E7%A9%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8C%97%E6%AD%90%E8%88%AA%E7%A9%BA"
-        }
-      }
-    },
-    {
-      "id": "tl_Q218115",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B4tel%20Duch%C3%A9%20des%20Tournelles.jpg?width=640",
-      "value": 2010,
-      "unit": "year",
-      "name": {
-        "en": "Chanel Founded",
-        "ko": "샤넬 창립·설립",
-        "ja": "シャネル 創業・設立",
-        "zh": "香奈儿 创立·成立"
-      },
-      "note": {
-        "en": "Chanel Founded in 2010, growing into a world-famous global brand / institution.",
-        "ko": "2010년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "2010年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 2010 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 2010 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(2010년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（2010年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2010年）。"
-      },
-      "source": {
-        "qid": "Q218115",
-        "wikiTitle": {
-          "en": "Chanel",
-          "ko": "샤넬",
-          "ja": "シャネル",
-          "zh": "香奈儿"
-        },
-        "name": "Wikipedia & Wikidata (Q218115)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Chanel",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%83%A4%EB%84%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B7%E3%83%A3%E3%83%8D%E3%83%AB",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%A6%99%E5%A5%88%E5%84%BF"
-        }
-      }
-    },
-    {
-      "id": "tl_Q181114",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrysler%20World%20Headquarters%20and%20Technology%20Center%20%2851378087937%29.jpg?width=640",
-      "value": 2009,
-      "unit": "year",
-      "name": {
-        "en": "Stellantis North America Founded",
-        "ko": "Stellantis North America 창립·설립",
-        "ja": "Stellantis North America 創業・設立",
-        "zh": "斯泰兰蒂斯北美 创立·成立"
-      },
-      "note": {
-        "en": "Stellantis North America Founded in 2009, growing into a world-famous global brand / institution.",
-        "ko": "2009년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "2009年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 2009 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 2009 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(2009년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（2009年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2009年）。"
-      },
-      "source": {
-        "qid": "Q181114",
-        "wikiTitle": {
-          "en": "Stellantis North America",
-          "ko": "Stellantis North America",
-          "ja": "Stellantis North America",
-          "zh": "斯泰兰蒂斯北美"
-        },
-        "name": "Wikipedia & Wikidata (Q181114)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Stellantis%20North%20America",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=Stellantis%20North%20America",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Stellantis%20North%20America",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%96%AF%E6%B3%B0%E5%85%B0%E8%92%82%E6%96%AF%E5%8C%97%E7%BE%8E"
+          "en": "https://en.wikipedia.org/wiki/Scandinavian_Airlines",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%B9%B8%EB%94%94%EB%82%98%EB%B9%84%EC%95%84_%ED%95%AD%EA%B3%B5",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%83%B3%E3%82%B8%E3%83%8A%E3%83%93%E3%82%A2%E8%88%AA%E7%A9%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8C%97%E6%AD%90%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -13568,14 +12256,14 @@ window.GAME_DECKS = {
           "en": "Ultimate Fighting Championship",
           "ko": "얼티밋 파이팅 챔피언십",
           "ja": "UFC",
-          "zh": "终极格斗锦标赛"
+          "zh": "终极格斗冠军赛"
         },
-        "name": "Wikipedia & Wikidata (Q186471)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Ultimate%20Fighting%20Championship",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%96%BC%ED%8B%B0%EB%B0%8B%20%ED%8C%8C%EC%9D%B4%ED%8C%85%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=UFC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BB%88%E6%9E%81%E6%A0%BC%E6%96%97%E9%94%A6%E6%A0%87%E8%B5%9B"
+          "en": "https://en.wikipedia.org/wiki/Ultimate_Fighting_Championship",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%96%BC%ED%8B%B0%EB%B0%8B_%ED%8C%8C%EC%9D%B4%ED%8C%85_%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD",
+          "ja": "https://ja.wikipedia.org/wiki/UFC",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BB%88%E6%9E%81%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B%E8%B5%9B"
         }
       }
     },
@@ -13609,14 +12297,14 @@ window.GAME_DECKS = {
           "en": "Procter & Gamble",
           "ko": "프록터 앤드 갬블",
           "ja": "プロクター・アンド・ギャンブル",
-          "zh": "宝洁公司"
+          "zh": "宝洁"
         },
-        "name": "Wikipedia & Wikidata (Q212405)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Procter%20%26%20Gamble",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%94%84%EB%A1%9D%ED%84%B0%20%EC%95%A4%EB%93%9C%20%EA%B0%AC%EB%B8%94",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%97%E3%83%AD%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AE%E3%83%A3%E3%83%B3%E3%83%96%E3%83%AB",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%AE%9D%E6%B4%81%E5%85%AC%E5%8F%B8"
+          "en": "https://en.wikipedia.org/wiki/Procter_%26_Gamble",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9D%ED%84%B0_%EC%95%A4%EB%93%9C_%EA%B0%AC%EB%B8%94",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AE%E3%83%A3%E3%83%B3%E3%83%96%E3%83%AB",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%AE%9D%E6%B4%81"
         }
       }
     },
@@ -13652,53 +12340,12 @@ window.GAME_DECKS = {
           "ja": "ジャック・イン・ザ・ボックス",
           "zh": "盒子里的杰克"
         },
-        "name": "Wikipedia & Wikidata (Q1538507)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Jack%20in%20the%20Box",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9E%AD%20%EC%9D%B8%20%EB%8D%94%20%EB%B0%95%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%9B%92%E5%AD%90%E9%87%8C%E7%9A%84%E6%9D%B0%E5%85%8B"
-        }
-      }
-    },
-    {
-      "id": "tl_Q56760250",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Building%20by%20David%20Shankbone%20crop.jpg?width=640",
-      "value": 2009,
-      "unit": "year",
-      "name": {
-        "en": "Sony Music Founded",
-        "ko": "소니 뮤직 엔터테인먼트 창립·설립",
-        "ja": "ソニー・ミュージックエンタテインメント 創業・設立",
-        "zh": "索尼音樂娛樂 创立·成立"
-      },
-      "note": {
-        "en": "Sony Music Founded in 2009, growing into a world-famous global brand / institution.",
-        "ko": "2009년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "2009年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 2009 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 2009 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(2009년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（2009年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（2009年）。"
-      },
-      "source": {
-        "qid": "Q56760250",
-        "wikiTitle": {
-          "en": "Sony Music",
-          "ko": "소니 뮤직 엔터테인먼트",
-          "ja": "ソニー・ミュージックエンタテインメント",
-          "zh": "索尼音樂娛樂"
-        },
-        "name": "Wikipedia & Wikidata (Q56760250)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Sony%20Music",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%86%8C%EB%8B%88%20%EB%AE%A4%EC%A7%81%20%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%B4%A2%E5%B0%BC%E9%9F%B3%E6%A8%82%E5%A8%9B%E6%A8%82"
+          "en": "https://en.wikipedia.org/wiki/Jack_in_the_Box",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9E%AD_%EC%9D%B8_%EB%8D%94_%EB%B0%95%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%9B%92%E5%AD%90%E9%87%8C%E7%9A%84%E6%9D%B0%E5%85%8B"
         }
       }
     },
@@ -13731,15 +12378,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "SAP",
           "ko": "SAP SE",
-          "ja": "SAP SE",
-          "zh": "思愛普公司"
+          "ja": "SAP (企業)",
+          "zh": "思爱普"
         },
-        "name": "Wikipedia & Wikidata (Q552581)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=SAP",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=SAP%20SE",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=SAP%20SE",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%80%9D%E6%84%9B%E6%99%AE%E5%85%AC%E5%8F%B8"
+          "en": "https://en.wikipedia.org/wiki/SAP",
+          "ko": "https://ko.wikipedia.org/wiki/SAP_SE",
+          "ja": "https://ja.wikipedia.org/wiki/SAP_(%E4%BC%81%E6%A5%AD)",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%80%9D%E7%88%B1%E6%99%AE"
         }
       }
     },
@@ -13775,12 +12422,12 @@ window.GAME_DECKS = {
           "ja": "エンブラエル",
           "zh": "巴西航空工业公司"
         },
-        "name": "Wikipedia & Wikidata (Q105557)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Embraer",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%97%A0%EB%B8%8C%EB%9D%BC%EC%97%90%EB%A5%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A8%E3%83%B3%E3%83%96%E3%83%A9%E3%82%A8%E3%83%AB",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%B7%B4%E8%A5%BF%E8%88%AA%E7%A9%BA%E5%B7%A5%E4%B8%9A%E5%85%AC%E5%8F%B8"
+          "en": "https://en.wikipedia.org/wiki/Embraer",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%A0%EB%B8%8C%EB%9D%BC%EC%97%90%EB%A5%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%83%96%E3%83%A9%E3%82%A8%E3%83%AB",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%B7%B4%E8%A5%BF%E8%88%AA%E7%A9%BA%E5%B7%A5%E4%B8%9A%E5%85%AC%E5%8F%B8"
         }
       }
     },
@@ -13811,17 +12458,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q188710",
         "wikiTitle": {
-          "en": "Thai Airways",
+          "en": "Thai Airways International",
           "ko": "타이항공",
           "ja": "タイ国際航空",
           "zh": "泰國國際航空"
         },
-        "name": "Wikipedia & Wikidata (Q188710)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Thai%20Airways",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%83%80%EC%9D%B4%ED%95%AD%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%BF%E3%82%A4%E5%9B%BD%E9%9A%9B%E8%88%AA%E7%A9%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B3%B0%E5%9C%8B%E5%9C%8B%E9%9A%9B%E8%88%AA%E7%A9%BA"
+          "en": "https://en.wikipedia.org/wiki/Thai_Airways_International",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%83%80%EC%9D%B4%ED%95%AD%EA%B3%B5",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E5%9B%BD%E9%9A%9B%E8%88%AA%E7%A9%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%9C%8B%E5%9C%8B%E9%9A%9B%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -13857,12 +12504,12 @@ window.GAME_DECKS = {
           "ja": "マセラティ",
           "zh": "瑪莎拉蒂"
         },
-        "name": "Wikipedia & Wikidata (Q35962)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Maserati",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%88%EC%84%B8%EB%9D%BC%ED%8B%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%82%BB%E3%83%A9%E3%83%86%E3%82%A3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%91%AA%E8%8E%8E%E6%8B%89%E8%92%82"
+          "en": "https://en.wikipedia.org/wiki/Maserati",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%84%B8%EB%9D%BC%ED%8B%B0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%BB%E3%83%A9%E3%83%86%E3%82%A3",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%91%AA%E8%8E%8E%E6%8B%89%E8%92%82"
         }
       }
     },
@@ -13896,14 +12543,14 @@ window.GAME_DECKS = {
           "en": "HSBC",
           "ko": "HSBC",
           "ja": "HSBCホールディングス",
-          "zh": "滙豐控股"
+          "zh": "滙豐"
         },
-        "name": "Wikipedia & Wikidata (Q190464)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=HSBC",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=HSBC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=HSBC%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%BB%99%E8%B1%90%E6%8E%A7%E8%82%A1"
+          "en": "https://en.wikipedia.org/wiki/HSBC",
+          "ko": "https://ko.wikipedia.org/wiki/HSBC",
+          "ja": "https://ja.wikipedia.org/wiki/HSBC%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%BB%99%E8%B1%90"
         }
       }
     },
@@ -13914,13 +12561,13 @@ window.GAME_DECKS = {
       "value": 1759,
       "unit": "year",
       "name": {
-        "en": "Guinness Founded",
-        "ko": "기네스 창립·설립",
-        "ja": "ギネス 創業・設立",
-        "zh": "吉尼斯 创立·成立"
+        "en": "Guinness Brewery Founded in Dublin",
+        "ko": "기네스 맥주 양조장 설립",
+        "ja": "ギネスビール醸造所の創業",
+        "zh": "健力士啤酒厂创立"
       },
       "note": {
-        "en": "Guinness Founded in 1759, growing into a world-famous global brand / institution.",
+        "en": "Guinness Brewery Founded in Dublin in 1759, growing into a world-famous global brand / institution.",
         "ko": "1759년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
         "ja": "1759年に創業・誕生し、世界的なブランド・機関となりました。",
         "zh": "于 1759 年创立或问世，如今已成为享誉全球的品牌与机构。"
@@ -13937,14 +12584,14 @@ window.GAME_DECKS = {
           "en": "Guinness",
           "ko": "기네스",
           "ja": "ギネス",
-          "zh": "吉尼斯"
+          "zh": "健力士"
         },
-        "name": "Wikipedia & Wikidata (Q194297)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Guinness",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EA%B8%B0%EB%84%A4%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AE%E3%83%8D%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%90%89%E5%B0%BC%E6%96%AF"
+          "en": "https://en.wikipedia.org/wiki/Guinness",
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EB%84%A4%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8D%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%81%A5%E5%8A%9B%E5%A3%AB"
         }
       }
     },
@@ -13980,53 +12627,12 @@ window.GAME_DECKS = {
           "ja": "日本航空",
           "zh": "日本航空"
         },
-        "name": "Wikipedia & Wikidata (Q213140)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Japan%20Airlines",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%BC%EB%B3%B8%ED%95%AD%EA%B3%B5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E6%97%A5%E6%9C%AC%E8%88%AA%E7%A9%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%97%A5%E6%9C%AC%E8%88%AA%E7%A9%BA"
-        }
-      }
-    },
-    {
-      "id": "tl_Q234803",
-      "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rolls%20Royce%20Building%20-%20geograph.org.uk%20-%203472981.jpg?width=640",
-      "value": 1998,
-      "unit": "year",
-      "name": {
-        "en": "Rolls-Royce Motor Cars Founded",
-        "ko": "롤스로이스 자동차 창립·설립",
-        "ja": "ロールス・ロイス・モーター・カーズ 創業・設立",
-        "zh": "劳斯莱斯 创立·成立"
-      },
-      "note": {
-        "en": "Rolls-Royce Motor Cars Founded in 1998, growing into a world-famous global brand / institution.",
-        "ko": "1998년에 처음 설립·출시되어 전 세계인이 아는 브랜드·기관이 되었습니다.",
-        "ja": "1998年に創業・誕生し、世界的なブランド・機関となりました。",
-        "zh": "于 1998 年创立或问世，如今已成为享誉全球的品牌与机构。"
-      },
-      "basis": {
-        "en": "Recorded as 1998 based on official corporate founding or flagship product launch year.",
-        "ko": "기업·기관의 공식 창립 연도 또는 첫 제품 정식 출시 연도(1998년) 기준.",
-        "ja": "企業・機関の公式創業年または初代製品の発売年（1998年）に基づく。",
-        "zh": "依据企业/机构官方创立年份或首款产品正式上市年份（1998年）。"
-      },
-      "source": {
-        "qid": "Q234803",
-        "wikiTitle": {
-          "en": "Rolls-Royce Motor Cars",
-          "ko": "롤스로이스 자동차",
-          "ja": "ロールス・ロイス・モーター・カーズ",
-          "zh": "劳斯莱斯"
-        },
-        "name": "Wikipedia & Wikidata (Q234803)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Rolls-Royce%20Motor%20Cars",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A1%A4%EC%8A%A4%EB%A1%9C%EC%9D%B4%EC%8A%A4%20%EC%9E%90%EB%8F%99%EC%B0%A8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BB%E3%83%AD%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%BC%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF"
+          "en": "https://en.wikipedia.org/wiki/Japan_Airlines",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%B3%B8%ED%95%AD%EA%B3%B5",
+          "ja": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%88%AA%E7%A9%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -14057,99 +12663,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q191551",
         "wikiTitle": {
-          "en": "easyJet",
+          "en": "EasyJet",
           "ko": "이지젯",
           "ja": "イージージェット",
           "zh": "易捷航空"
         },
-        "name": "Wikipedia & Wikidata (Q191551)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=easyJet",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B4%EC%A7%80%EC%A0%AF",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A4%E3%83%BC%E3%82%B8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%98%93%E6%8D%B7%E8%88%AA%E7%A9%BA"
-        }
-      }
-    },
-    {
-      "id": "tl_Q49740",
-      "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Minecraft%20-%20Block%20breaking%20%28Full%20frame%29.png?width=640",
-      "value": 2011,
-      "unit": "year",
-      "name": {
-        "en": "Video Game Release: 'Minecraft'",
-        "ko": "게임 출시 〈마인크래프트〉",
-        "ja": "ゲーム発売『Minecraft』",
-        "zh": "游戏发售《我的世界》"
-      },
-      "note": {
-        "en": "Video Game Release: 'Minecraft' in 2011, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2011년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2011年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2011 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2011 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2011년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2011年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2011年）。"
-      },
-      "source": {
-        "qid": "Q49740",
-        "wikiTitle": {
-          "en": "Minecraft",
-          "ko": "마인크래프트",
-          "ja": "Minecraft",
-          "zh": "我的世界"
-        },
-        "name": "Wikipedia & Wikidata (Q49740)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Minecraft",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Minecraft",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C"
-        }
-      }
-    },
-    {
-      "id": "tl_Q11168",
-      "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vs.%20Super%20Mario%20Bros.jpg?width=640",
-      "value": 1985,
-      "unit": "year",
-      "name": {
-        "en": "Video Game Release: 'Super Mario Bros.'",
-        "ko": "게임 출시 〈슈퍼 마리오브라더스〉",
-        "ja": "ゲーム発売『スーパーマリオブラザーズ』",
-        "zh": "游戏发售《超级马力欧兄弟》"
-      },
-      "note": {
-        "en": "Video Game Release: 'Super Mario Bros.' in 1985, leaving a lasting mark on global pop culture & art history.",
-        "ko": "1985년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "1985年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 1985 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 1985 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(1985년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（1985年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1985年）。"
-      },
-      "source": {
-        "qid": "Q11168",
-        "wikiTitle": {
-          "en": "Super Mario Bros.",
-          "ko": "슈퍼 마리오브라더스",
-          "ja": "スーパーマリオブラザーズ",
-          "zh": "超级马力欧兄弟"
-        },
-        "name": "Wikipedia & Wikidata (Q11168)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Super%20Mario%20Bros.",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%88%ED%8D%BC%20%EB%A7%88%EB%A6%AC%EC%98%A4%EB%B8%8C%EB%9D%BC%EB%8D%94%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B6%85%E7%BA%A7%E9%A9%AC%E5%8A%9B%E6%AC%A7%E5%85%84%E5%BC%9F"
+          "en": "https://en.wikipedia.org/wiki/EasyJet",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%80%EC%A0%AF",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%B8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%98%93%E6%8D%B7%E8%88%AA%E7%A9%BA"
         }
       }
     },
@@ -14181,57 +12705,16 @@ window.GAME_DECKS = {
         "qid": "Q20966579",
         "wikiTitle": {
           "en": "Pokémon Go",
-          "ko": "포켓몬 고",
+          "ko": "Pokémon GO",
           "ja": "Pokémon GO",
-          "zh": "Pokémon Go"
+          "zh": "Pokémon GO"
         },
-        "name": "Wikipedia & Wikidata (Q20966579)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Pok%C3%A9mon%20Go",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8F%AC%EC%BC%93%EB%AA%AC%20%EA%B3%A0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Pok%C3%A9mon%20GO",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Pok%C3%A9mon%20Go"
-        }
-      }
-    },
-    {
-      "id": "tl_Q216293",
-      "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Signed%20Pong%20Cabinet.jpg?width=640",
-      "value": 1972,
-      "unit": "year",
-      "name": {
-        "en": "Video Game Release: 'Pong'",
-        "ko": "게임 출시 〈퐁〉",
-        "ja": "ゲーム発売『ポン』",
-        "zh": "游戏发售《乓》"
-      },
-      "note": {
-        "en": "Video Game Release: 'Pong' in 1972, leaving a lasting mark on global pop culture & art history.",
-        "ko": "1972년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "1972年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 1972 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 1972 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(1972년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（1972年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1972年）。"
-      },
-      "source": {
-        "qid": "Q216293",
-        "wikiTitle": {
-          "en": "Pong",
-          "ko": "퐁",
-          "ja": "ポン",
-          "zh": "乓"
-        },
-        "name": "Wikipedia & Wikidata (Q216293)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Pong",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%90%81",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9D%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B9%93"
+          "en": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go",
+          "ko": "https://ko.wikipedia.org/wiki/Pok%C3%A9mon_GO",
+          "ja": "https://ja.wikipedia.org/wiki/Pok%C3%A9mon_GO",
+          "zh": "https://zh.wikipedia.org/wiki/Pok%C3%A9mon_GO"
         }
       }
     },
@@ -14265,14 +12748,14 @@ window.GAME_DECKS = {
           "en": "Second Life",
           "ko": "세컨드 라이프",
           "ja": "Second Life",
-          "zh": "第二人生"
+          "zh": "第二人生 (互聯網)"
         },
-        "name": "Wikipedia & Wikidata (Q106827)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Second%20Life",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%84%B8%EC%BB%A8%EB%93%9C%20%EB%9D%BC%EC%9D%B4%ED%94%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Second%20Life",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%BA%8C%E4%BA%BA%E7%94%9F"
+          "en": "https://en.wikipedia.org/wiki/Second_Life",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%BB%A8%EB%93%9C_%EB%9D%BC%EC%9D%B4%ED%94%84",
+          "ja": "https://ja.wikipedia.org/wiki/Second_Life",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E4%BA%BA%E7%94%9F_(%E4%BA%92%E8%81%AF%E7%B6%B2)"
         }
       }
     },
@@ -14308,12 +12791,12 @@ window.GAME_DECKS = {
           "ja": "ウィッチャー3 ワイルドハント",
           "zh": "巫师3：狂猎"
         },
-        "name": "Wikipedia & Wikidata (Q4267401)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Witcher%203%3A%20Wild%20Hunt",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8D%94%20%EC%9C%84%EC%B3%90%203%3A%20%EC%99%80%EC%9D%BC%EB%93%9C%20%ED%97%8C%ED%8A%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC3%20%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%83%8F%E3%83%B3%E3%83%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%B7%AB%E5%B8%883%EF%BC%9A%E7%8B%82%E7%8C%8E"
+          "en": "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8D%94_%EC%9C%84%EC%B3%90_3:_%EC%99%80%EC%9D%BC%EB%93%9C_%ED%97%8C%ED%8A%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC3_%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%83%8F%E3%83%B3%E3%83%88",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%B7%AB%E5%B8%883%EF%BC%9A%E7%8B%82%E7%8C%8E"
         }
       }
     },
@@ -14349,12 +12832,12 @@ window.GAME_DECKS = {
           "ja": "スペースインベーダー",
           "zh": "太空侵略者"
         },
-        "name": "Wikipedia & Wikidata (Q220665)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Space%20Invaders",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%9D%B8%EB%B2%A0%EC%9D%B4%EB%8D%94",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%B3%E3%83%99%E3%83%BC%E3%83%80%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A4%AA%E7%A9%BA%E4%BE%B5%E7%95%A5%E8%80%85"
+          "en": "https://en.wikipedia.org/wiki/Space_Invaders",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4_%EC%9D%B8%EB%B2%A0%EC%9D%B4%EB%8D%94",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%B3%E3%83%99%E3%83%BC%E3%83%80%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A4%AA%E7%A9%BA%E4%BE%B5%E7%95%A5%E8%80%85"
         }
       }
     },
@@ -14385,17 +12868,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q210844",
         "wikiTitle": {
-          "en": "Spore",
+          "en": "Spore (2008 video game)",
           "ko": "스포어",
           "ja": "Spore",
-          "zh": "孢子"
+          "zh": "孢子 (游戏)"
         },
-        "name": "Wikipedia & Wikidata (Q210844)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Spore",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%ED%8F%AC%EC%96%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Spore",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%AD%A2%E5%AD%90"
+          "en": "https://en.wikipedia.org/wiki/Spore_(2008_video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8F%AC%EC%96%B4",
+          "ja": "https://ja.wikipedia.org/wiki/Spore",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%AD%A2%E5%AD%90_(%E6%B8%B8%E6%88%8F)"
         }
       }
     },
@@ -14431,12 +12914,12 @@ window.GAME_DECKS = {
           "ja": "バイオハザード4",
           "zh": "生化危機4"
         },
-        "name": "Wikipedia & Wikidata (Q275950)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Resident%20Evil%204",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%94%EC%9D%B4%EC%98%A4%ED%95%98%EC%9E%90%EB%93%9C%204",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%894",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%94%9F%E5%8C%96%E5%8D%B1%E6%A9%9F4"
+          "en": "https://en.wikipedia.org/wiki/Resident_Evil_4",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B0%94%EC%9D%B4%EC%98%A4%ED%95%98%EC%9E%90%EB%93%9C_4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%894",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%94%9F%E5%8C%96%E5%8D%B1%E6%A9%9F4"
         }
       }
     },
@@ -14470,14 +12953,14 @@ window.GAME_DECKS = {
           "en": "World of Tanks",
           "ko": "월드 오브 탱크",
           "ja": "World of Tanks",
-          "zh": "戰車世界"
+          "zh": "坦克世界"
         },
-        "name": "Wikipedia & Wikidata (Q590342)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=World%20of%20Tanks",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9B%94%EB%93%9C%20%EC%98%A4%EB%B8%8C%20%ED%83%B1%ED%81%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=World%20of%20Tanks",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%88%B0%E8%BB%8A%E4%B8%96%E7%95%8C"
+          "en": "https://en.wikipedia.org/wiki/World_of_Tanks",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9B%94%EB%93%9C_%EC%98%A4%EB%B8%8C_%ED%83%B1%ED%81%AC",
+          "ja": "https://ja.wikipedia.org/wiki/World_of_Tanks",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%9D%A6%E5%85%8B%E4%B8%96%E7%95%8C"
         }
       }
     },
@@ -14511,14 +12994,14 @@ window.GAME_DECKS = {
           "en": "Candy Crush Saga",
           "ko": "캔디크러쉬사가",
           "ja": "キャンディークラッシュ",
-          "zh": "糖果大爆險"
+          "zh": "糖果傳奇"
         },
-        "name": "Wikipedia & Wikidata (Q8768018)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Candy%20Crush%20Saga",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BA%94%EB%94%94%ED%81%AC%EB%9F%AC%EC%89%AC%EC%82%AC%EA%B0%80",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%B3%96%E6%9E%9C%E5%A4%A7%E7%88%86%E9%9A%AA"
+          "en": "https://en.wikipedia.org/wiki/Candy_Crush_Saga",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%BA%94%EB%94%94%ED%81%AC%EB%9F%AC%EC%89%AC%EC%82%AC%EA%B0%80",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%B3%96%E6%9E%9C%E5%82%B3%E5%A5%87"
         }
       }
     },
@@ -14554,12 +13037,12 @@ window.GAME_DECKS = {
           "ja": "Agar.io",
           "zh": "Agar.io"
         },
-        "name": "Wikipedia & Wikidata (Q20012932)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Agar.io",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=Agar.io",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Agar.io",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Agar.io"
+          "en": "https://en.wikipedia.org/wiki/Agar.io",
+          "ko": "https://ko.wikipedia.org/wiki/Agar.io",
+          "ja": "https://ja.wikipedia.org/wiki/Agar.io",
+          "zh": "https://zh.wikipedia.org/wiki/Agar.io"
         }
       }
     },
@@ -14595,12 +13078,12 @@ window.GAME_DECKS = {
           "ja": "たまごっち",
           "zh": "塔麻可吉"
         },
-        "name": "Wikipedia & Wikidata (Q207786)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Tamagotchi",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8B%A4%EB%A7%88%EA%B3%A0%EC%B9%98",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%81%9F%E3%81%BE%E3%81%94%E3%81%A3%E3%81%A1",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A1%94%E9%BA%BB%E5%8F%AF%E5%90%89"
+          "en": "https://en.wikipedia.org/wiki/Tamagotchi",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EB%A7%88%EA%B3%A0%EC%B9%98",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%BE%E3%81%94%E3%81%A3%E3%81%A1",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A1%94%E9%BA%BB%E5%8F%AF%E5%90%89"
         }
       }
     },
@@ -14632,16 +13115,16 @@ window.GAME_DECKS = {
         "qid": "Q71936",
         "wikiTitle": {
           "en": "Wii Sports",
-          "ko": "Wii Sports",
+          "ko": "Wii 스포츠",
           "ja": "Wii Sports",
-          "zh": "Wii Sports"
+          "zh": "Wii運動"
         },
-        "name": "Wikipedia & Wikidata (Q71936)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Wii%20Sports",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=Wii%20Sports",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Wii%20Sports",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Wii%20Sports"
+          "en": "https://en.wikipedia.org/wiki/Wii_Sports",
+          "ko": "https://ko.wikipedia.org/wiki/Wii_%EC%8A%A4%ED%8F%AC%EC%B8%A0",
+          "ja": "https://ja.wikipedia.org/wiki/Wii_Sports",
+          "zh": "https://zh.wikipedia.org/wiki/Wii%E9%81%8B%E5%8B%95"
         }
       }
     },
@@ -14675,14 +13158,14 @@ window.GAME_DECKS = {
           "en": "Assassin's Creed II",
           "ko": "어쌔신 크리드 II",
           "ja": "アサシン クリード II",
-          "zh": "刺客信條II"
+          "zh": "刺客信条II"
         },
-        "name": "Wikipedia & Wikidata (Q211735)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Assassin's%20Creed%20II",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%96%B4%EC%8C%94%EC%8B%A0%20%ED%81%AC%EB%A6%AC%EB%93%9C%20II",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%89%20II",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%A2%9DII"
+          "en": "https://en.wikipedia.org/wiki/Assassin's_Creed_II",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%96%B4%EC%8C%94%EC%8B%A0_%ED%81%AC%EB%A6%AC%EB%93%9C_II",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3_%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%89_II",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1II"
         }
       }
     },
@@ -14714,16 +13197,16 @@ window.GAME_DECKS = {
         "qid": "Q215861",
         "wikiTitle": {
           "en": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
-          "ko": "스토커: 쉐도우 오브 체르노빌",
+          "ko": "스토커: 쉐도우 오브 초르노빌",
           "ja": "S.T.A.L.K.E.R. SHADOW OF CHERNOBYL",
           "zh": "浩劫殺陣：車諾比之影"
         },
-        "name": "Wikipedia & Wikidata (Q215861)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=S.T.A.L.K.E.R.%3A%20Shadow%20of%20Chernobyl",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%ED%86%A0%EC%BB%A4%3A%20%EC%89%90%EB%8F%84%EC%9A%B0%20%EC%98%A4%EB%B8%8C%20%EC%B2%B4%EB%A5%B4%EB%85%B8%EB%B9%8C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=S.T.A.L.K.E.R.%20SHADOW%20OF%20CHERNOBYL",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B5%A9%E5%8A%AB%E6%AE%BA%E9%99%A3%EF%BC%9A%E8%BB%8A%E8%AB%BE%E6%AF%94%E4%B9%8B%E5%BD%B1"
+          "en": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Shadow_of_Chernobyl",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%86%A0%EC%BB%A4:_%EC%89%90%EB%8F%84%EC%9A%B0_%EC%98%A4%EB%B8%8C_%EC%B4%88%EB%A5%B4%EB%85%B8%EB%B9%8C",
+          "ja": "https://ja.wikipedia.org/wiki/S.T.A.L.K.E.R._SHADOW_OF_CHERNOBYL",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B5%A9%E5%8A%AB%E6%AE%BA%E9%99%A3%EF%BC%9A%E8%BB%8A%E8%AB%BE%E6%AF%94%E4%B9%8B%E5%BD%B1"
         }
       }
     },
@@ -14754,17 +13237,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q217423",
         "wikiTitle": {
-          "en": "Quake",
-          "ko": "퀘이크",
+          "en": "Quake (video game)",
+          "ko": "퀘이크 (비디오 게임)",
           "ja": "Quake",
-          "zh": "雷神之锤"
+          "zh": "雷神之锤 (游戏)"
         },
-        "name": "Wikipedia & Wikidata (Q217423)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Quake",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%80%98%EC%9D%B4%ED%81%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Quake",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%9B%B7%E7%A5%9E%E4%B9%8B%E9%94%A4"
+          "en": "https://en.wikipedia.org/wiki/Quake_(video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%80%98%EC%9D%B4%ED%81%AC_(%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)",
+          "ja": "https://ja.wikipedia.org/wiki/Quake",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%9B%B7%E7%A5%9E%E4%B9%8B%E9%94%A4_(%E6%B8%B8%E6%88%8F)"
         }
       }
     },
@@ -14797,15 +13280,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "Hearthstone",
           "ko": "하스스톤",
-          "ja": "Hearthstone: Heroes of Warcraft",
-          "zh": "炉石传说：魔兽英雄传"
+          "ja": "ハースストーン",
+          "zh": "炉石传说"
         },
-        "name": "Wikipedia & Wikidata (Q8262784)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Hearthstone",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%95%98%EC%8A%A4%EC%8A%A4%ED%86%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Hearthstone%3A%20Heroes%20of%20Warcraft",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4%EF%BC%9A%E9%AD%94%E5%85%BD%E8%8B%B1%E9%9B%84%E4%BC%A0"
+          "en": "https://en.wikipedia.org/wiki/Hearthstone",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%95%98%EC%8A%A4%EC%8A%A4%ED%86%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%82%B9%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4"
         }
       }
     },
@@ -14836,58 +13319,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q126194",
         "wikiTitle": {
-          "en": "Minesweeper",
+          "en": "Minesweeper (video game)",
           "ko": "지뢰 찾기",
-          "ja": "マインスイーパ",
+          "ja": "マインスイーパー",
           "zh": "踩地雷"
         },
-        "name": "Wikipedia & Wikidata (Q126194)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Minesweeper",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A7%80%EB%A2%B0%20%EC%B0%BE%EA%B8%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%91",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B8%A9%E5%9C%B0%E9%9B%B7"
-        }
-      }
-    },
-    {
-      "id": "tl_Q40166",
-      "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Assassin%27s%20Creed%20III%20%287788130114%29.jpg?width=640",
-      "value": 2012,
-      "unit": "year",
-      "name": {
-        "en": "Video Game Release: 'Assassin's Creed III'",
-        "ko": "게임 출시 〈어쌔신 크리드 III〉",
-        "ja": "ゲーム発売『アサシン クリード III』",
-        "zh": "游戏发售《刺客信条III》"
-      },
-      "note": {
-        "en": "Video Game Release: 'Assassin's Creed III' in 2012, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2012년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2012年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2012 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2012 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2012년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2012年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2012年）。"
-      },
-      "source": {
-        "qid": "Q40166",
-        "wikiTitle": {
-          "en": "Assassin's Creed III",
-          "ko": "어쌔신 크리드 III",
-          "ja": "アサシン クリード III",
-          "zh": "刺客信条III"
-        },
-        "name": "Wikipedia & Wikidata (Q40166)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Assassin's%20Creed%20III",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%96%B4%EC%8C%94%EC%8B%A0%20%ED%81%AC%EB%A6%AC%EB%93%9C%20III",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%89%20III",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1III"
+          "en": "https://en.wikipedia.org/wiki/Minesweeper_(video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%A2%B0_%EC%B0%BE%EA%B8%B0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%91%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%B8%A9%E5%9C%B0%E9%9B%B7"
         }
       }
     },
@@ -14923,53 +13365,12 @@ window.GAME_DECKS = {
           "ja": "鉄拳3",
           "zh": "铁拳3"
         },
-        "name": "Wikipedia & Wikidata (Q1062106)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Tekken%203",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%B2%A0%EA%B6%8C%203",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E9%89%84%E6%8B%B33",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%93%81%E6%8B%B33"
-        }
-      }
-    },
-    {
-      "id": "tl_Q15983778",
-      "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gamescom%202014%20%2814721239258%29.jpg?width=640",
-      "value": 2014,
-      "unit": "year",
-      "name": {
-        "en": "Video Game Release: 'Assassin's Creed Unity'",
-        "ko": "게임 출시 〈어쌔신 크리드: 유니티〉",
-        "ja": "ゲーム発売『アサシン クリード ユニティ』",
-        "zh": "游戏发售《刺客教條：大革命》"
-      },
-      "note": {
-        "en": "Video Game Release: 'Assassin's Creed Unity' in 2014, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2014년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2014年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2014 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2014 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2014년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2014年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2014年）。"
-      },
-      "source": {
-        "qid": "Q15983778",
-        "wikiTitle": {
-          "en": "Assassin's Creed Unity",
-          "ko": "어쌔신 크리드: 유니티",
-          "ja": "アサシン クリード ユニティ",
-          "zh": "刺客教條：大革命"
-        },
-        "name": "Wikipedia & Wikidata (Q15983778)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Assassin's%20Creed%20Unity",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%96%B4%EC%8C%94%EC%8B%A0%20%ED%81%AC%EB%A6%AC%EB%93%9C%3A%20%EC%9C%A0%EB%8B%88%ED%8B%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%89%20%E3%83%A6%E3%83%8B%E3%83%86%E3%82%A3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%88%BA%E5%AE%A2%E6%95%99%E6%A2%9D%EF%BC%9A%E5%A4%A7%E9%9D%A9%E5%91%BD"
+          "en": "https://en.wikipedia.org/wiki/Tekken_3",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%B2%A0%EA%B6%8C_3",
+          "ja": "https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B33",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%93%81%E6%8B%B33"
         }
       }
     },
@@ -15003,14 +13404,14 @@ window.GAME_DECKS = {
           "en": "Rocket League",
           "ko": "로켓 리그",
           "ja": "ロケットリーグ",
-          "zh": "Rocket League"
+          "zh": "火箭聯盟"
         },
-        "name": "Wikipedia & Wikidata (Q20031743)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Rocket%20League",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A1%9C%EC%BC%93%20%EB%A6%AC%EA%B7%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%83%AA%E3%83%BC%E3%82%B0",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Rocket%20League"
+          "en": "https://en.wikipedia.org/wiki/Rocket_League",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%BC%93_%EB%A6%AC%EA%B7%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%83%AA%E3%83%BC%E3%82%B0",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%81%AB%E7%AE%AD%E8%81%AF%E7%9B%9F"
         }
       }
     },
@@ -15046,12 +13447,12 @@ window.GAME_DECKS = {
           "ja": "ファイナルファンタジーVI",
           "zh": "最终幻想VI"
         },
-        "name": "Wikipedia & Wikidata (Q535940)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Final%20Fantasy%20VI",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8C%8C%EC%9D%B4%EB%84%90%20%ED%8C%90%ED%83%80%EC%A7%80%20VI",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B3VI"
+          "en": "https://en.wikipedia.org/wiki/Final_Fantasy_VI",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%B4%EB%84%90_%ED%8C%90%ED%83%80%EC%A7%80_VI",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B3VI"
         }
       }
     },
@@ -15087,12 +13488,12 @@ window.GAME_DECKS = {
           "ja": "大乱闘スマッシュブラザーズ SPECIAL",
           "zh": "任天堂明星大亂鬥 特別版"
         },
-        "name": "Wikipedia & Wikidata (Q54093632)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Super%20Smash%20Bros.%20Ultimate",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%88%ED%8D%BC%20%EC%8A%A4%EB%A7%A4%EC%8B%9C%EB%B8%8C%EB%9D%BC%EB%8D%94%EC%8A%A4%20%EC%96%BC%ED%8B%B0%EB%B0%8B",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%A4%A7%E4%B9%B1%E9%97%98%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA%20SPECIAL",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%98%8E%E6%98%9F%E5%A4%A7%E4%BA%82%E9%AC%A5%20%E7%89%B9%E5%88%A5%E7%89%88"
+          "en": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%88%ED%8D%BC_%EC%8A%A4%EB%A7%A4%EC%8B%9C%EB%B8%8C%EB%9D%BC%EB%8D%94%EC%8A%A4_%EC%96%BC%ED%8B%B0%EB%B0%8B",
+          "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E4%B9%B1%E9%97%98%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA_SPECIAL",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%98%8E%E6%98%9F%E5%A4%A7%E4%BA%82%E9%AC%A5_%E7%89%B9%E5%88%A5%E7%89%88"
         }
       }
     },
@@ -15123,58 +13524,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q336177",
         "wikiTitle": {
-          "en": "EVE Online",
+          "en": "Eve Online",
           "ko": "이브 온라인",
           "ja": "EVE ONLINE",
           "zh": "星战前夜"
         },
-        "name": "Wikipedia & Wikidata (Q336177)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=EVE%20Online",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B4%EB%B8%8C%20%EC%98%A8%EB%9D%BC%EC%9D%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=EVE%20ONLINE",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%98%9F%E6%88%98%E5%89%8D%E5%A4%9C"
-        }
-      }
-    },
-    {
-      "id": "tl_Q610968",
-      "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Bros.%20cabinet%20at%20PAX%20East%202014.png?width=640",
-      "value": 1984,
-      "unit": "year",
-      "name": {
-        "en": "Video Game Release: 'Mario Bros.'",
-        "ko": "게임 출시 〈마리오브라더스〉",
-        "ja": "ゲーム発売『マリオブラザーズ』",
-        "zh": "游戏发售《马里奥兄弟》"
-      },
-      "note": {
-        "en": "Video Game Release: 'Mario Bros.' in 1984, leaving a lasting mark on global pop culture & art history.",
-        "ko": "1984년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "1984年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 1984 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 1984 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(1984년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（1984年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1984年）。"
-      },
-      "source": {
-        "qid": "Q610968",
-        "wikiTitle": {
-          "en": "Mario Bros.",
-          "ko": "마리오브라더스",
-          "ja": "マリオブラザーズ",
-          "zh": "马里奥兄弟"
-        },
-        "name": "Wikipedia & Wikidata (Q610968)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Mario%20Bros.",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%88%EB%A6%AC%EC%98%A4%EB%B8%8C%EB%9D%BC%EB%8D%94%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%85%84%E5%BC%9F"
+          "en": "https://en.wikipedia.org/wiki/Eve_Online",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%B8%8C_%EC%98%A8%EB%9D%BC%EC%9D%B8",
+          "ja": "https://ja.wikipedia.org/wiki/EVE_ONLINE",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%98%9F%E6%88%98%E5%89%8D%E5%A4%9C"
         }
       }
     },
@@ -15210,12 +13570,12 @@ window.GAME_DECKS = {
           "ja": "Fallout: New Vegas",
           "zh": "辐射：新维加斯"
         },
-        "name": "Wikipedia & Wikidata (Q753749)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Fallout%3A%20New%20Vegas",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8F%B4%EC%95%84%EC%9B%83%3A%20%EB%89%B4%20%EB%B2%A0%EA%B0%80%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Fallout%3A%20New%20Vegas",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%BE%90%E5%B0%84%EF%BC%9A%E6%96%B0%E7%BB%B4%E5%8A%A0%E6%96%AF"
+          "en": "https://en.wikipedia.org/wiki/Fallout:_New_Vegas",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8F%B4%EC%95%84%EC%9B%83:_%EB%89%B4_%EB%B2%A0%EA%B0%80%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/Fallout:_New_Vegas",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%BE%90%E5%B0%84%EF%BC%9A%E6%96%B0%E7%BB%B4%E5%8A%A0%E6%96%AF"
         }
       }
     },
@@ -15248,15 +13608,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "Mortal Kombat 11",
           "ko": "모탈 컴뱃 11",
-          "ja": "モータルコンバット11",
+          "ja": null,
           "zh": "真人快打11"
         },
-        "name": "Wikipedia & Wikidata (Q59511757)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Mortal%20Kombat%2011",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%AA%A8%ED%83%88%20%EC%BB%B4%EB%B1%83%2011",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%90%E3%83%83%E3%83%8811",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%9C%9F%E4%BA%BA%E5%BF%AB%E6%89%9311"
+          "en": "https://en.wikipedia.org/wiki/Mortal_Kombat_11",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%AA%A8%ED%83%88_%EC%BB%B4%EB%B1%83_11",
+          "ja": "https://en.wikipedia.org/wiki/Mortal_Kombat_11",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%9C%9F%E4%BA%BA%E5%BF%AB%E6%89%9311"
         }
       }
     },
@@ -15292,12 +13652,12 @@ window.GAME_DECKS = {
           "ja": "ニード・フォー・スピード アンダーカバー",
           "zh": "极品飞车：无间风云"
         },
-        "name": "Wikipedia & Wikidata (Q471974)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Need%20for%20Speed%3A%20Undercover",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8B%88%EB%93%9C%20%ED%8F%AC%20%EC%8A%A4%ED%94%BC%EB%93%9C%3A%20%EC%96%B8%EB%8D%94%EC%BB%A4%EB%B2%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8B%E3%83%BC%E3%83%89%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%20%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%AB%E3%83%90%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%9E%81%E5%93%81%E9%A3%9E%E8%BD%A6%EF%BC%9A%E6%97%A0%E9%97%B4%E9%A3%8E%E4%BA%91"
+          "en": "https://en.wikipedia.org/wiki/Need_for_Speed:_Undercover",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8B%88%EB%93%9C_%ED%8F%AC_%EC%8A%A4%ED%94%BC%EB%93%9C:_%EC%96%B8%EB%8D%94%EC%BB%A4%EB%B2%84",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%BC%E3%83%89%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89_%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%AB%E3%83%90%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%9E%81%E5%93%81%E9%A3%9E%E8%BD%A6%EF%BC%9A%E6%97%A0%E9%97%B4%E9%A3%8E%E4%BA%91"
         }
       }
     },
@@ -15328,17 +13688,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q28451532",
         "wikiTitle": {
-          "en": "Celeste",
-          "ko": "설레스트",
+          "en": "Celeste (video game)",
+          "ko": "설레스트 (비디오 게임)",
           "ja": "Celeste",
-          "zh": "蔚蓝"
+          "zh": "蔚藍 (遊戲)"
         },
-        "name": "Wikipedia & Wikidata (Q28451532)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Celeste",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%84%A4%EB%A0%88%EC%8A%A4%ED%8A%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Celeste",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%94%9A%E8%93%9D"
+          "en": "https://en.wikipedia.org/wiki/Celeste_(video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%84%A4%EB%A0%88%EC%8A%A4%ED%8A%B8_(%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)",
+          "ja": "https://ja.wikipedia.org/wiki/Celeste",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%94%9A%E8%97%8D_(%E9%81%8A%E6%88%B2)"
         }
       }
     },
@@ -15374,12 +13734,12 @@ window.GAME_DECKS = {
           "ja": "倉庫番",
           "zh": "倉庫番"
         },
-        "name": "Wikipedia & Wikidata (Q605445)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Sokoban",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%B0%BD%EA%B3%A0%EC%A7%80%EA%B8%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%80%89%E5%BA%AB%E7%95%AA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%80%89%E5%BA%AB%E7%95%AA"
+          "en": "https://en.wikipedia.org/wiki/Sokoban",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%B0%BD%EA%B3%A0%EC%A7%80%EA%B8%B0",
+          "ja": "https://ja.wikipedia.org/wiki/%E5%80%89%E5%BA%AB%E7%95%AA",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%80%89%E5%BA%AB%E7%95%AA"
         }
       }
     },
@@ -15410,58 +13770,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q161234",
         "wikiTitle": {
-          "en": "0 A.D.",
+          "en": "0 A.D. (video game)",
           "ko": "0 A.D.",
-          "ja": "0 A.D.",
+          "ja": null,
           "zh": "0 A.D."
         },
-        "name": "Wikipedia & Wikidata (Q161234)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=0%20A.D.",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=0%20A.D.",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=0%20A.D.",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=0%20A.D."
-        }
-      }
-    },
-    {
-      "id": "tl_Q840121",
-      "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wiifit.jpg?width=640",
-      "value": 2007,
-      "unit": "year",
-      "name": {
-        "en": "Video Game Release: 'Wii Fit'",
-        "ko": "게임 출시 〈Wii Fit〉",
-        "ja": "ゲーム発売『Wii Fit』",
-        "zh": "游戏发售《Wii Fit》"
-      },
-      "note": {
-        "en": "Video Game Release: 'Wii Fit' in 2007, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2007년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2007年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2007 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2007 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2007년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2007年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2007年）。"
-      },
-      "source": {
-        "qid": "Q840121",
-        "wikiTitle": {
-          "en": "Wii Fit",
-          "ko": "Wii Fit",
-          "ja": "Wii Fit",
-          "zh": "Wii Fit"
-        },
-        "name": "Wikipedia & Wikidata (Q840121)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Wii%20Fit",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=Wii%20Fit",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Wii%20Fit",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Wii%20Fit"
+          "en": "https://en.wikipedia.org/wiki/0_A.D._(video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/0_A.D.",
+          "ja": "https://en.wikipedia.org/wiki/0_A.D._(video_game)",
+          "zh": "https://zh.wikipedia.org/wiki/0_A.D."
         }
       }
     },
@@ -15492,58 +13811,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q748890",
         "wikiTitle": {
-          "en": "Asteroids",
-          "ko": "아스테로이드",
-          "ja": "アステロイド",
+          "en": "Asteroids (video game)",
+          "ko": "아스테로이즈 (비디오 게임)",
+          "ja": "アステロイド (ゲーム)",
           "zh": "爆破彗星"
         },
-        "name": "Wikipedia & Wikidata (Q748890)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Asteroids",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EC%8A%A4%ED%85%8C%EB%A1%9C%EC%9D%B4%EB%93%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%82%B9%E3%83%86%E3%83%AD%E3%82%A4%E3%83%89",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%88%86%E7%A0%B4%E5%BD%97%E6%98%9F"
-        }
-      }
-    },
-    {
-      "id": "tl_Q1052131",
-      "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Super%20Smash%20Bros.%20Melee%20in%20a%20Gamecube.jpg?width=640",
-      "value": 2001,
-      "unit": "year",
-      "name": {
-        "en": "Video Game Release: 'Super Smash Bros. Melee'",
-        "ko": "게임 출시 〈대난투 스매시브라더스 DX〉",
-        "ja": "ゲーム発売『大乱闘スマッシュブラザーズDX』",
-        "zh": "游戏发售《任天堂明星大亂鬥DX》"
-      },
-      "note": {
-        "en": "Video Game Release: 'Super Smash Bros. Melee' in 2001, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2001년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2001年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2001 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2001 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2001년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2001年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2001年）。"
-      },
-      "source": {
-        "qid": "Q1052131",
-        "wikiTitle": {
-          "en": "Super Smash Bros. Melee",
-          "ko": "대난투 스매시브라더스 DX",
-          "ja": "大乱闘スマッシュブラザーズDX",
-          "zh": "任天堂明星大亂鬥DX"
-        },
-        "name": "Wikipedia & Wikidata (Q1052131)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Super%20Smash%20Bros.%20Melee",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8C%80%EB%82%9C%ED%88%AC%20%EC%8A%A4%EB%A7%A4%EC%8B%9C%EB%B8%8C%EB%9D%BC%EB%8D%94%EC%8A%A4%20DX",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%A4%A7%E4%B9%B1%E9%97%98%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BADX",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%98%8E%E6%98%9F%E5%A4%A7%E4%BA%82%E9%AC%A5DX"
+          "en": "https://en.wikipedia.org/wiki/Asteroids_(video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%8A%A4%ED%85%8C%EB%A1%9C%EC%9D%B4%EC%A6%88_(%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%86%E3%83%AD%E3%82%A4%E3%83%89_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%88%86%E7%A0%B4%E5%BD%97%E6%98%9F"
         }
       }
     },
@@ -15574,17 +13852,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q17490239",
         "wikiTitle": {
-          "en": "Splatoon",
-          "ko": "스플래툰",
+          "en": "Splatoon (video game)",
+          "ko": "스플래툰 (비디오 게임)",
           "ja": "スプラトゥーン",
-          "zh": "斯普拉遁"
+          "zh": "斯普拉遁 (游戏)"
         },
-        "name": "Wikipedia & Wikidata (Q17490239)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Splatoon",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%ED%94%8C%EB%9E%98%ED%88%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%96%AF%E6%99%AE%E6%8B%89%E9%81%81"
+          "en": "https://en.wikipedia.org/wiki/Splatoon_(video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%94%8C%EB%9E%98%ED%88%B0_(%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%96%AF%E6%99%AE%E6%8B%89%E9%81%81_(%E6%B8%B8%E6%88%8F)"
         }
       }
     },
@@ -15615,17 +13893,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q64083878",
         "wikiTitle": {
-          "en": "Call of Duty: Modern Warfare",
-          "ko": "콜 오브 듀티: 모던 워페어",
-          "ja": "コール オブ デューティ モダン・ウォーフェア",
-          "zh": "使命召喚16：現代戰爭"
+          "en": "Call of Duty: Modern Warfare (2019 video game)",
+          "ko": "콜 오브 듀티: 모던 워페어 (2019년 비디오 게임)",
+          "ja": "コール オブ デューティ モダン・ウォーフェア (2019年のゲーム)",
+          "zh": "使命召唤：现代战争 (2019年游戏)"
         },
-        "name": "Wikipedia & Wikidata (Q64083878)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Call%20of%20Duty%3A%20Modern%20Warfare",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BD%9C%20%EC%98%A4%EB%B8%8C%20%EB%93%80%ED%8B%B0%3A%20%EB%AA%A8%EB%8D%98%20%EC%9B%8C%ED%8E%98%EC%96%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B3%E3%83%BC%E3%83%AB%20%E3%82%AA%E3%83%96%20%E3%83%87%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%20%E3%83%A2%E3%83%80%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%95%E3%82%A7%E3%82%A2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%96%9A16%EF%BC%9A%E7%8F%BE%E4%BB%A3%E6%88%B0%E7%88%AD"
+          "en": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_(2019_video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%BD%9C_%EC%98%A4%EB%B8%8C_%EB%93%80%ED%8B%B0:_%EB%AA%A8%EB%8D%98_%EC%9B%8C%ED%8E%98%EC%96%B4_(2019%EB%85%84_%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%AB_%E3%82%AA%E3%83%96_%E3%83%87%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3_%E3%83%A2%E3%83%80%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%95%E3%82%A7%E3%82%A2_(2019%E5%B9%B4%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0)",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%EF%BC%9A%E7%8E%B0%E4%BB%A3%E6%88%98%E4%BA%89_(2019%E5%B9%B4%E6%B8%B8%E6%88%8F)"
         }
       }
     },
@@ -15656,17 +13934,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q150294",
         "wikiTitle": {
-          "en": "Mortal Kombat",
-          "ko": "모탈 컴뱃",
-          "ja": "モータルコンバット",
-          "zh": "真人快打"
+          "en": "Mortal Kombat (1992 video game)",
+          "ko": "모탈 컴뱃 (1992년 비디오 게임)",
+          "ja": null,
+          "zh": "真人快打 (1992年游戏)"
         },
-        "name": "Wikipedia & Wikidata (Q150294)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Mortal%20Kombat",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%AA%A8%ED%83%88%20%EC%BB%B4%EB%B1%83",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%90%E3%83%83%E3%83%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%9C%9F%E4%BA%BA%E5%BF%AB%E6%89%93"
+          "en": "https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%AA%A8%ED%83%88_%EC%BB%B4%EB%B1%83_(1992%EB%85%84_%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)",
+          "ja": "https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game)",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%9C%9F%E4%BA%BA%E5%BF%AB%E6%89%93_(1992%E5%B9%B4%E6%B8%B8%E6%88%8F)"
         }
       }
     },
@@ -15702,12 +13980,12 @@ window.GAME_DECKS = {
           "ja": "Unreal Tournament",
           "zh": "魔域幻境之浴血戰場"
         },
-        "name": "Wikipedia & Wikidata (Q627877)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Unreal%20Tournament",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%96%B8%EB%A6%AC%EC%96%BC%20%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Unreal%20Tournament",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%AD%94%E5%9F%9F%E5%B9%BB%E5%A2%83%E4%B9%8B%E6%B5%B4%E8%A1%80%E6%88%B0%E5%A0%B4"
+          "en": "https://en.wikipedia.org/wiki/Unreal_Tournament",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%96%B8%EB%A6%AC%EC%96%BC_%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8",
+          "ja": "https://ja.wikipedia.org/wiki/Unreal_Tournament",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%AD%94%E5%9F%9F%E5%B9%BB%E5%A2%83%E4%B9%8B%E6%B5%B4%E8%A1%80%E6%88%B0%E5%A0%B4"
         }
       }
     },
@@ -15738,17 +14016,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q870981",
         "wikiTitle": {
-          "en": "Super Smash Bros.",
+          "en": "Super Smash Bros. (video game)",
           "ko": "닌텐도 올스타! 대난투 스매시브라더스",
-          "ja": "ニンテンドウオールスター！大乱闘スマッシュブラザーズ",
-          "zh": "任天堂明星大亂鬥"
+          "ja": "ニンテンドウオールスター!大乱闘スマッシュブラザーズ",
+          "zh": "任天堂明星大亂鬥 (遊戲)"
         },
-        "name": "Wikipedia & Wikidata (Q870981)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Super%20Smash%20Bros.",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8B%8C%ED%85%90%EB%8F%84%20%EC%98%AC%EC%8A%A4%ED%83%80!%20%EB%8C%80%EB%82%9C%ED%88%AC%20%EC%8A%A4%EB%A7%A4%EC%8B%9C%EB%B8%8C%EB%9D%BC%EB%8D%94%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%82%A6%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%EF%BC%81%E5%A4%A7%E4%B9%B1%E9%97%98%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%98%8E%E6%98%9F%E5%A4%A7%E4%BA%82%E9%AC%A5"
+          "en": "https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8B%8C%ED%85%90%EB%8F%84_%EC%98%AC%EC%8A%A4%ED%83%80!_%EB%8C%80%EB%82%9C%ED%88%AC_%EC%8A%A4%EB%A7%A4%EC%8B%9C%EB%B8%8C%EB%9D%BC%EB%8D%94%EC%8A%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%82%A6%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC!%E5%A4%A7%E4%B9%B1%E9%97%98%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%98%8E%E6%98%9F%E5%A4%A7%E4%BA%82%E9%AC%A5_(%E9%81%8A%E6%88%B2)"
         }
       }
     },
@@ -15782,14 +14060,14 @@ window.GAME_DECKS = {
           "en": "Galaga",
           "ko": "갤러가",
           "ja": "ギャラガ",
-          "zh": "大蜜蜂"
+          "zh": "大蜜蜂 (游戏)"
         },
-        "name": "Wikipedia & Wikidata (Q1043534)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Galaga",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EA%B0%A4%EB%9F%AC%EA%B0%80",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A4%A7%E8%9C%9C%E8%9C%82"
+          "en": "https://en.wikipedia.org/wiki/Galaga",
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B0%A4%EB%9F%AC%EA%B0%80",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AC",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%9C%9C%E8%9C%82_(%E6%B8%B8%E6%88%8F)"
         }
       }
     },
@@ -15822,15 +14100,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "Tux Racer",
           "ko": "턱스 레이서",
-          "ja": "Tux Racer",
+          "ja": null,
           "zh": "企鹅在滑雪"
         },
-        "name": "Wikipedia & Wikidata (Q142908)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Tux%20Racer",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%84%B1%EC%8A%A4%20%EB%A0%88%EC%9D%B4%EC%84%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Tux%20Racer",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BC%81%E9%B9%85%E5%9C%A8%E6%BB%91%E9%9B%AA"
+          "en": "https://en.wikipedia.org/wiki/Tux_Racer",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%84%B1%EC%8A%A4_%EB%A0%88%EC%9D%B4%EC%84%9C",
+          "ja": "https://en.wikipedia.org/wiki/Tux_Racer",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BC%81%E9%B9%85%E5%9C%A8%E6%BB%91%E9%9B%AA"
         }
       }
     },
@@ -15861,17 +14139,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q149998",
         "wikiTitle": {
-          "en": "Paper Mario",
-          "ko": "페이퍼 마리오",
+          "en": "Paper Mario (video game)",
+          "ko": "페이퍼 마리오 (비디오 게임)",
           "ja": "マリオストーリー",
           "zh": "纸片马力欧"
         },
-        "name": "Wikipedia & Wikidata (Q149998)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Paper%20Mario",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8E%98%EC%9D%B4%ED%8D%BC%20%EB%A7%88%EB%A6%AC%EC%98%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%83%AA%E3%82%AA%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BA%B8%E7%89%87%E9%A9%AC%E5%8A%9B%E6%AC%A7"
+          "en": "https://en.wikipedia.org/wiki/Paper_Mario_(video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8E%98%EC%9D%B4%ED%8D%BC_%EB%A7%88%EB%A6%AC%EC%98%A4_(%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BA%B8%E7%89%87%E9%A9%AC%E5%8A%9B%E6%AC%A7"
         }
       }
     },
@@ -15904,15 +14182,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "Frogger",
           "ko": "프로거",
-          "ja": "フロッガー",
+          "ja": "フロッガー (ゲーム)",
           "zh": "青蛙过河"
         },
-        "name": "Wikipedia & Wikidata (Q524267)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Frogger",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%94%84%EB%A1%9C%EA%B1%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%95%E3%83%AD%E3%83%83%E3%82%AC%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%9D%92%E8%9B%99%E8%BF%87%E6%B2%B3"
+          "en": "https://en.wikipedia.org/wiki/Frogger",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%EA%B1%B0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AD%E3%83%83%E3%82%AC%E3%83%BC_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%9D%92%E8%9B%99%E8%BF%87%E6%B2%B3"
         }
       }
     },
@@ -15948,53 +14226,12 @@ window.GAME_DECKS = {
           "ja": "メイプルストーリー",
           "zh": "新楓之谷"
         },
-        "name": "Wikipedia & Wikidata (Q569624)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=MapleStory",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A1%E3%82%A4%E3%83%97%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%96%B0%E6%A5%93%E4%B9%8B%E8%B0%B7"
-        }
-      }
-    },
-    {
-      "id": "tl_Q756558",
-      "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stalker%20Clear%20Sky%20screenshot%20god%20rays%2001.jpg?width=640",
-      "value": 2008,
-      "unit": "year",
-      "name": {
-        "en": "Video Game Release: 'S.T.A.L.K.E.R.: Clear Sky'",
-        "ko": "게임 출시 〈스토커: 클리어 스카이〉",
-        "ja": "ゲーム発売『S.T.A.L.K.E.R. Clear Sky』",
-        "zh": "游戏发售《浩劫殺陣：晴空染血》"
-      },
-      "note": {
-        "en": "Video Game Release: 'S.T.A.L.K.E.R.: Clear Sky' in 2008, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2008년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2008年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2008 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2008 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2008년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2008年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2008年）。"
-      },
-      "source": {
-        "qid": "Q756558",
-        "wikiTitle": {
-          "en": "S.T.A.L.K.E.R.: Clear Sky",
-          "ko": "스토커: 클리어 스카이",
-          "ja": "S.T.A.L.K.E.R. Clear Sky",
-          "zh": "浩劫殺陣：晴空染血"
-        },
-        "name": "Wikipedia & Wikidata (Q756558)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=S.T.A.L.K.E.R.%3A%20Clear%20Sky",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%ED%86%A0%EC%BB%A4%3A%20%ED%81%B4%EB%A6%AC%EC%96%B4%20%EC%8A%A4%EC%B9%B4%EC%9D%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=S.T.A.L.K.E.R.%20Clear%20Sky",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B5%A9%E5%8A%AB%E6%AE%BA%E9%99%A3%EF%BC%9A%E6%99%B4%E7%A9%BA%E6%9F%93%E8%A1%80"
+          "en": "https://en.wikipedia.org/wiki/MapleStory",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%97%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%96%B0%E6%A5%93%E4%B9%8B%E8%B0%B7"
         }
       }
     },
@@ -16026,57 +14263,16 @@ window.GAME_DECKS = {
         "qid": "Q1133204",
         "wikiTitle": {
           "en": "Street Fighter II",
-          "ko": "스트리트 파이터 2",
+          "ko": "스트리트 파이터 II: 더 월드 워리어",
           "ja": "ストリートファイターII",
-          "zh": "街頭霸王II"
+          "zh": "街頭霸王II -世界勇士-"
         },
-        "name": "Wikipedia & Wikidata (Q1133204)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Street%20Fighter%20II",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8%20%ED%8C%8C%EC%9D%B4%ED%84%B0%202",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BCII",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%A1%97%E9%A0%AD%E9%9C%B8%E7%8E%8BII"
-        }
-      }
-    },
-    {
-      "id": "tl_Q1195150",
-      "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/EB%20Games%20Expo%202015%20-%20Super%20Smash%20Bros.%20Nintendo%20Stage.JPG?width=640",
-      "value": 2014,
-      "unit": "year",
-      "name": {
-        "en": "Video Game Release: 'Super Smash Bros. for Nintendo 3DS and Wii U'",
-        "ko": "게임 출시 〈슈퍼 스매시브라더스 for 닌텐도 3DS/Wii U〉",
-        "ja": "ゲーム発売『大乱闘スマッシュブラザーズ for Nintendo 3DS / Wii U』",
-        "zh": "游戏发售《任天堂明星大亂鬥3DS/Wii U》"
-      },
-      "note": {
-        "en": "Video Game Release: 'Super Smash Bros. for Nintendo 3DS and Wii U' in 2014, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2014년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2014年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2014 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2014 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2014년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2014年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2014年）。"
-      },
-      "source": {
-        "qid": "Q1195150",
-        "wikiTitle": {
-          "en": "Super Smash Bros. for Nintendo 3DS and Wii U",
-          "ko": "슈퍼 스매시브라더스 for 닌텐도 3DS/Wii U",
-          "ja": "大乱闘スマッシュブラザーズ for Nintendo 3DS / Wii U",
-          "zh": "任天堂明星大亂鬥3DS/Wii U"
-        },
-        "name": "Wikipedia & Wikidata (Q1195150)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Super%20Smash%20Bros.%20for%20Nintendo%203DS%20and%20Wii%20U",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%88%ED%8D%BC%20%EC%8A%A4%EB%A7%A4%EC%8B%9C%EB%B8%8C%EB%9D%BC%EB%8D%94%EC%8A%A4%20for%20%EB%8B%8C%ED%85%90%EB%8F%84%203DS%2FWii%20U",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%A4%A7%E4%B9%B1%E9%97%98%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA%20for%20Nintendo%203DS%20%2F%20Wii%20U",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%98%8E%E6%98%9F%E5%A4%A7%E4%BA%82%E9%AC%A53DS%2FWii%20U"
+          "en": "https://en.wikipedia.org/wiki/Street_Fighter_II",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8_%ED%8C%8C%EC%9D%B4%ED%84%B0_II:_%EB%8D%94_%EC%9B%94%EB%93%9C_%EC%9B%8C%EB%A6%AC%EC%96%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BCII",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%A1%97%E9%A0%AD%E9%9C%B8%E7%8E%8BII_-%E4%B8%96%E7%95%8C%E5%8B%87%E5%A3%AB-"
         }
       }
     },
@@ -16110,14 +14306,14 @@ window.GAME_DECKS = {
           "en": "SimCity 2000",
           "ko": "심시티 2000",
           "ja": "シムシティ2000",
-          "zh": "模拟城市2000"
+          "zh": "模擬城市2000"
         },
-        "name": "Wikipedia & Wikidata (Q1767176)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=SimCity%202000",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8B%AC%EC%8B%9C%ED%8B%B0%202000",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B7%E3%83%A0%E3%82%B7%E3%83%86%E3%82%A32000",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%A8%A1%E6%8B%9F%E5%9F%8E%E5%B8%822000"
+          "en": "https://en.wikipedia.org/wiki/SimCity_2000",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8B%AC%EC%8B%9C%ED%8B%B0_2000",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A0%E3%82%B7%E3%83%86%E3%82%A32000",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%A8%A1%E6%93%AC%E5%9F%8E%E5%B8%822000"
         }
       }
     },
@@ -16153,12 +14349,12 @@ window.GAME_DECKS = {
           "ja": "エイリアン アイソレーション",
           "zh": "異形：孤立"
         },
-        "name": "Wikipedia & Wikidata (Q15613717)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Alien%3A%20Isolation",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%97%90%EC%9D%BC%EB%A6%AC%EC%96%B8%3A%20%EC%95%84%EC%9D%B4%EC%86%94%EB%A0%88%EC%9D%B4%EC%85%98",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%20%E3%82%A2%E3%82%A4%E3%82%BD%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%95%B0%E5%BD%A2%EF%BC%9A%E5%AD%A4%E7%AB%8B"
+          "en": "https://en.wikipedia.org/wiki/Alien:_Isolation",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%90%EC%9D%BC%EB%A6%AC%EC%96%B8:_%EC%95%84%EC%9D%B4%EC%86%94%EB%A0%88%EC%9D%B4%EC%85%98",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3_%E3%82%A2%E3%82%A4%E3%82%BD%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%95%B0%E5%BD%A2%EF%BC%9A%E5%AD%A4%E7%AB%8B"
         }
       }
     },
@@ -16190,16 +14386,16 @@ window.GAME_DECKS = {
         "qid": "Q66439292",
         "wikiTitle": {
           "en": "Need for Speed Heat",
-          "ko": "니드 포 스피드 히트",
+          "ko": "니드 포 스피드: 히트",
           "ja": "ニード・フォー・スピード ヒート",
-          "zh": "极品飞车：热焰"
+          "zh": "極速快感：熱焰"
         },
-        "name": "Wikipedia & Wikidata (Q66439292)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Need%20for%20Speed%20Heat",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8B%88%EB%93%9C%20%ED%8F%AC%20%EC%8A%A4%ED%94%BC%EB%93%9C%20%ED%9E%88%ED%8A%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8B%E3%83%BC%E3%83%89%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%20%E3%83%92%E3%83%BC%E3%83%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%9E%81%E5%93%81%E9%A3%9E%E8%BD%A6%EF%BC%9A%E7%83%AD%E7%84%B0"
+          "en": "https://en.wikipedia.org/wiki/Need_for_Speed_Heat",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8B%88%EB%93%9C_%ED%8F%AC_%EC%8A%A4%ED%94%BC%EB%93%9C:_%ED%9E%88%ED%8A%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%BC%E3%83%89%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89_%E3%83%92%E3%83%BC%E3%83%88",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%A5%B5%E9%80%9F%E5%BF%AB%E6%84%9F%EF%BC%9A%E7%86%B1%E7%84%B0"
         }
       }
     },
@@ -16230,17 +14426,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q88759",
         "wikiTitle": {
-          "en": "Bubble Bobble",
-          "ko": "버블보블",
+          "en": "Bubble Bobble (video game)",
+          "ko": "버블보블 (비디오 게임)",
           "ja": "バブルボブル",
-          "zh": "泡泡龙"
+          "zh": "泡泡龙 (1986年游戏)"
         },
-        "name": "Wikipedia & Wikidata (Q88759)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Bubble%20Bobble",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B2%84%EB%B8%94%EB%B3%B4%EB%B8%94",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%90%E3%83%96%E3%83%AB%E3%83%9C%E3%83%96%E3%83%AB",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B3%A1%E6%B3%A1%E9%BE%99"
+          "en": "https://en.wikipedia.org/wiki/Bubble_Bobble_(video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B2%84%EB%B8%94%EB%B3%B4%EB%B8%94_(%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%96%E3%83%AB%E3%83%9C%E3%83%96%E3%83%AB",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B3%A1%E6%B3%A1%E9%BE%99_(1986%E5%B9%B4%E6%B8%B8%E6%88%8F)"
         }
       }
     },
@@ -16271,58 +14467,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q580202",
         "wikiTitle": {
-          "en": "Syberia",
-          "ko": "사이베리아",
-          "ja": "シベリア",
+          "en": "Syberia (video game)",
+          "ko": "사이베리아 (2002년 비디오 게임)",
+          "ja": "シベリア (ゲーム)",
           "zh": "赛伯利亚"
         },
-        "name": "Wikipedia & Wikidata (Q580202)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Syberia",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%82%AC%EC%9D%B4%EB%B2%A0%EB%A6%AC%EC%95%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B7%E3%83%99%E3%83%AA%E3%82%A2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B5%9B%E4%BC%AF%E5%88%A9%E4%BA%9A"
-        }
-      }
-    },
-    {
-      "id": "tl_Q788762",
-      "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/S.T.A.L.K.E.R.-%20Call%20of%20Pripyat%2C%20DirectX%2011%20screenshot.jpg?width=640",
-      "value": 2009,
-      "unit": "year",
-      "name": {
-        "en": "Video Game Release: 'S.T.A.L.K.E.R.: Call of Pripyat'",
-        "ko": "게임 출시 〈스토커: 콜 오브 프리피야티〉",
-        "ja": "ゲーム発売『S.T.A.L.K.E.R. Call of Pripyat』",
-        "zh": "游戏发售《浩劫殺陣：混沌召喚》"
-      },
-      "note": {
-        "en": "Video Game Release: 'S.T.A.L.K.E.R.: Call of Pripyat' in 2009, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2009년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2009年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2009 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2009 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2009년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2009年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2009年）。"
-      },
-      "source": {
-        "qid": "Q788762",
-        "wikiTitle": {
-          "en": "S.T.A.L.K.E.R.: Call of Pripyat",
-          "ko": "스토커: 콜 오브 프리피야티",
-          "ja": "S.T.A.L.K.E.R. Call of Pripyat",
-          "zh": "浩劫殺陣：混沌召喚"
-        },
-        "name": "Wikipedia & Wikidata (Q788762)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=S.T.A.L.K.E.R.%3A%20Call%20of%20Pripyat",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%ED%86%A0%EC%BB%A4%3A%20%EC%BD%9C%20%EC%98%A4%EB%B8%8C%20%ED%94%84%EB%A6%AC%ED%94%BC%EC%95%BC%ED%8B%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=S.T.A.L.K.E.R.%20Call%20of%20Pripyat",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B5%A9%E5%8A%AB%E6%AE%BA%E9%99%A3%EF%BC%9A%E6%B7%B7%E6%B2%8C%E5%8F%AC%E5%96%9A"
+          "en": "https://en.wikipedia.org/wiki/Syberia_(video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9D%B4%EB%B2%A0%EB%A6%AC%EC%95%84_(2002%EB%85%84_%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%99%E3%83%AA%E3%82%A2_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%B5%9B%E4%BC%AF%E5%88%A9%E4%BA%9A"
         }
       }
     },
@@ -16353,17 +14508,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q977919",
         "wikiTitle": {
-          "en": "E.T. the Extra-Terrestrial",
-          "ko": "E.T.",
-          "ja": "E.T.",
-          "zh": "E.T.外星人"
+          "en": "E.T. the Extra-Terrestrial (video game)",
+          "ko": "E.T. 디 엑스트라 터레스트리얼 (비디오 게임)",
+          "ja": "E.T. (アタリ2600)",
+          "zh": "E.T.外星人 (游戏)"
         },
-        "name": "Wikipedia & Wikidata (Q977919)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=E.T.%20the%20Extra-Terrestrial",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=E.T.",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=E.T.",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=E.T.%E5%A4%96%E6%98%9F%E4%BA%BA"
+          "en": "https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial_(video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/E.T._%EB%94%94_%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC_%ED%84%B0%EB%A0%88%EC%8A%A4%ED%8A%B8%EB%A6%AC%EC%96%BC_(%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)",
+          "ja": "https://ja.wikipedia.org/wiki/E.T._(%E3%82%A2%E3%82%BF%E3%83%AA2600)",
+          "zh": "https://zh.wikipedia.org/wiki/E.T.%E5%A4%96%E6%98%9F%E4%BA%BA_(%E6%B8%B8%E6%88%8F)"
         }
       }
     },
@@ -16394,17 +14549,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q1145336",
         "wikiTitle": {
-          "en": "Dead Rising",
-          "ko": "데드 라이징",
+          "en": "Dead Rising (video game)",
+          "ko": "데드 라이징 (비디오 게임)",
           "ja": "デッドライジング",
           "zh": "死亡復甦"
         },
-        "name": "Wikipedia & Wikidata (Q1145336)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Dead%20Rising",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8D%B0%EB%93%9C%20%EB%9D%BC%EC%9D%B4%EC%A7%95",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%87%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%AD%BB%E4%BA%A1%E5%BE%A9%E7%94%A6"
+          "en": "https://en.wikipedia.org/wiki/Dead_Rising_(video_game)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%93%9C_%EB%9D%BC%EC%9D%B4%EC%A7%95_(%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%AD%BB%E4%BA%A1%E5%BE%A9%E7%94%A6"
         }
       }
     },
@@ -16436,16 +14591,16 @@ window.GAME_DECKS = {
         "qid": "Q1322480",
         "wikiTitle": {
           "en": "Phoenix Wright: Ace Attorney",
-          "ko": "역전재판",
-          "ja": "逆転裁判",
-          "zh": "逆轉裁判"
+          "ko": "역전재판 (비디오 게임)",
+          "ja": "逆転裁判 (ゲーム)",
+          "zh": "逆转裁判 (游戏)"
         },
-        "name": "Wikipedia & Wikidata (Q1322480)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Phoenix%20Wright%3A%20Ace%20Attorney",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%97%AD%EC%A0%84%EC%9E%AC%ED%8C%90",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E9%80%86%E8%BB%A2%E8%A3%81%E5%88%A4",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4"
+          "en": "https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%AD%EC%A0%84%EC%9E%AC%ED%8C%90_(%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)",
+          "ja": "https://ja.wikipedia.org/wiki/%E9%80%86%E8%BB%A2%E8%A3%81%E5%88%A4_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%80%86%E8%BD%AC%E8%A3%81%E5%88%A4_(%E6%B8%B8%E6%88%8F)"
         }
       }
     },
@@ -16476,17 +14631,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q23895358",
         "wikiTitle": {
-          "en": "slither.io",
+          "en": "Slither.io",
           "ko": "Slither.io",
           "ja": "Slither.io",
           "zh": "Slither.io"
         },
-        "name": "Wikipedia & Wikidata (Q23895358)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=slither.io",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=Slither.io",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=Slither.io",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=Slither.io"
+          "en": "https://en.wikipedia.org/wiki/Slither.io",
+          "ko": "https://ko.wikipedia.org/wiki/Slither.io",
+          "ja": "https://ja.wikipedia.org/wiki/Slither.io",
+          "zh": "https://zh.wikipedia.org/wiki/Slither.io"
         }
       }
     },
@@ -16518,16 +14673,16 @@ window.GAME_DECKS = {
         "qid": "Q47703",
         "wikiTitle": {
           "en": "The Godfather",
-          "ko": "대부",
-          "ja": "ゴッドファーザー",
-          "zh": "教父"
+          "ko": "대부 (영화)",
+          "ja": "ゴッドファーザー (映画)",
+          "zh": "教父 (電影)"
         },
-        "name": "Wikipedia & Wikidata (Q47703)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Godfather",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8C%80%EB%B6%80",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B4%E3%83%83%E3%83%89%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B6%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%95%99%E7%88%B6"
+          "en": "https://en.wikipedia.org/wiki/The_Godfather",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8C%80%EB%B6%80_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B6%E3%83%BC_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%95%99%E7%88%B6_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -16558,17 +14713,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q24871",
         "wikiTitle": {
-          "en": "Avatar",
-          "ko": "아바타",
-          "ja": "アバター",
-          "zh": "阿凡達"
+          "en": "Avatar (2009 film)",
+          "ko": "아바타 (2009년 영화)",
+          "ja": "アバター (2009年の映画)",
+          "zh": "阿凡达"
         },
-        "name": "Wikipedia & Wikidata (Q24871)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Avatar",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EB%B0%94%ED%83%80",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%98%BF%E5%87%A1%E9%81%94"
+          "en": "https://en.wikipedia.org/wiki/Avatar_(2009_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%B0%94%ED%83%80_(2009%EB%85%84_%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC_(2009%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%87%A1%E8%BE%BE"
         }
       }
     },
@@ -16600,16 +14755,16 @@ window.GAME_DECKS = {
         "qid": "Q83495",
         "wikiTitle": {
           "en": "The Matrix",
-          "ko": "매트릭스",
-          "ja": "マトリックス",
+          "ko": "매트릭스 (영화)",
+          "ja": "マトリックス (映画)",
           "zh": "黑客帝国"
         },
-        "name": "Wikipedia & Wikidata (Q83495)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Matrix",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD"
+          "en": "https://en.wikipedia.org/wiki/The_Matrix",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD"
         }
       }
     },
@@ -16645,12 +14800,12 @@ window.GAME_DECKS = {
           "ja": "パルプ・フィクション",
           "zh": "低俗小说"
         },
-        "name": "Wikipedia & Wikidata (Q104123)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Pulp%20Fiction",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8E%84%ED%94%84%20%ED%94%BD%EC%85%98",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%91%E3%83%AB%E3%83%97%E3%83%BB%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BD%8E%E4%BF%97%E5%B0%8F%E8%AF%B4"
+          "en": "https://en.wikipedia.org/wiki/Pulp_Fiction",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8E%84%ED%94%84_%ED%94%BD%EC%85%98",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%83%97%E3%83%BB%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BD%8E%E4%BF%97%E5%B0%8F%E8%AF%B4"
         }
       }
     },
@@ -16681,17 +14836,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q132689",
         "wikiTitle": {
-          "en": "Casablanca",
-          "ko": "카사블랑카",
-          "ja": "カサブランカ",
+          "en": "Casablanca (film)",
+          "ko": "카사블랑카 (영화)",
+          "ja": "カサブランカ (映画)",
           "zh": "北非谍影"
         },
-        "name": "Wikipedia & Wikidata (Q132689)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Casablanca",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%B9%B4%EC%82%AC%EB%B8%94%EB%9E%91%EC%B9%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AB%E3%82%B5%E3%83%96%E3%83%A9%E3%83%B3%E3%82%AB",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8C%97%E9%9D%9E%E8%B0%8D%E5%BD%B1"
+          "en": "https://en.wikipedia.org/wiki/Casablanca_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EC%82%AC%EB%B8%94%EB%9E%91%EC%B9%B4_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B5%E3%83%96%E3%83%A9%E3%83%B3%E3%82%AB_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8C%97%E9%9D%9E%E8%B0%8D%E5%BD%B1"
         }
       }
     },
@@ -16722,17 +14877,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q5890",
         "wikiTitle": {
-          "en": "V for Vendetta",
-          "ko": "브이 포 벤데타",
-          "ja": "Vフォー・ヴェンデッタ",
+          "en": "V for Vendetta (film)",
+          "ko": "브이 포 벤데타 (영화)",
+          "ja": "Vフォー・ヴェンデッタ (映画)",
           "zh": "V怪客"
         },
-        "name": "Wikipedia & Wikidata (Q5890)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=V%20for%20Vendetta",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B8%8C%EC%9D%B4%20%ED%8F%AC%20%EB%B2%A4%EB%8D%B0%ED%83%80",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=V%E3%83%95%E3%82%A9%E3%83%BC%E3%83%BB%E3%83%B4%E3%82%A7%E3%83%B3%E3%83%87%E3%83%83%E3%82%BF",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=V%E6%80%AA%E5%AE%A2"
+          "en": "https://en.wikipedia.org/wiki/V_for_Vendetta_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B8%8C%EC%9D%B4_%ED%8F%AC_%EB%B2%A4%EB%8D%B0%ED%83%80_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/V%E3%83%95%E3%82%A9%E3%83%BC%E3%83%BB%E3%83%B4%E3%82%A7%E3%83%B3%E3%83%87%E3%83%83%E3%82%BF_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/V%E6%80%AA%E5%AE%A2"
         }
       }
     },
@@ -16763,17 +14918,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q2875",
         "wikiTitle": {
-          "en": "Gone with the Wind",
-          "ko": "바람과 함께 사라지다",
-          "ja": "風と共に去りぬ",
+          "en": "Gone with the Wind (film)",
+          "ko": "바람과 함께 사라지다 (영화)",
+          "ja": "風と共に去りぬ (映画)",
           "zh": "乱世佳人"
         },
-        "name": "Wikipedia & Wikidata (Q2875)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Gone%20with%20the%20Wind",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%94%EB%9E%8C%EA%B3%BC%20%ED%95%A8%EA%BB%98%20%EC%82%AC%EB%9D%BC%EC%A7%80%EB%8B%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E9%A2%A8%E3%81%A8%E5%85%B1%E3%81%AB%E5%8E%BB%E3%82%8A%E3%81%AC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B9%B1%E4%B8%96%E4%BD%B3%E4%BA%BA"
+          "en": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B0%94%EB%9E%8C%EA%B3%BC_%ED%95%A8%EA%BB%98_%EC%82%AC%EB%9D%BC%EC%A7%80%EB%8B%A4_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E9%A2%A8%E3%81%A8%E5%85%B1%E3%81%AB%E5%8E%BB%E3%82%8A%E3%81%AC_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%B9%B1%E4%B8%96%E4%BD%B3%E4%BA%BA"
         }
       }
     },
@@ -16807,14 +14962,14 @@ window.GAME_DECKS = {
           "en": "Inception",
           "ko": "인셉션",
           "ja": "インセプション",
-          "zh": "盗梦空间"
+          "zh": "全面啟動"
         },
-        "name": "Wikipedia & Wikidata (Q25188)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Inception",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B8%EC%85%89%EC%85%98",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%9B%97%E6%A2%A6%E7%A9%BA%E9%97%B4"
+          "en": "https://en.wikipedia.org/wiki/Inception",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%85%89%EC%85%98",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%85%A8%E9%9D%A2%E5%95%9F%E5%8B%95"
         }
       }
     },
@@ -16845,17 +15000,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q102244",
         "wikiTitle": {
-          "en": "Harry Potter and the Chamber of Secrets",
-          "ko": "해리 포터와 비밀의 방",
-          "ja": "ハリー・ポッターと秘密の部屋",
-          "zh": "哈利波特：消失的密室"
+          "en": "Harry Potter and the Chamber of Secrets (film)",
+          "ko": "해리 포터와 비밀의 방 (영화)",
+          "ja": "ハリー・ポッターと秘密の部屋 (映画)",
+          "zh": "哈利波特：消失的密室 (電影)"
         },
-        "name": "Wikipedia & Wikidata (Q102244)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Harry%20Potter%20and%20the%20Chamber%20of%20Secrets",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%95%B4%EB%A6%AC%20%ED%8F%AC%ED%84%B0%EC%99%80%20%EB%B9%84%EB%B0%80%EC%9D%98%20%EB%B0%A9",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E7%A7%98%E5%AF%86%E3%81%AE%E9%83%A8%E5%B1%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%EF%BC%9A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%AF%86%E5%AE%A4"
+          "en": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%95%B4%EB%A6%AC_%ED%8F%AC%ED%84%B0%EC%99%80_%EB%B9%84%EB%B0%80%EC%9D%98_%EB%B0%A9_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E7%A7%98%E5%AF%86%E3%81%AE%E9%83%A8%E5%B1%8B_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%EF%BC%9A%E6%B6%88%E5%A4%B1%E7%9A%84%E5%AF%86%E5%AE%A4_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -16891,94 +15046,12 @@ window.GAME_DECKS = {
           "ja": "ブレイブハート",
           "zh": "勇敢的心"
         },
-        "name": "Wikipedia & Wikidata (Q162729)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Braveheart",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B8%8C%EB%A0%88%EC%9D%B4%EB%B8%8C%ED%95%98%ED%8A%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%96%E3%83%AC%E3%82%A4%E3%83%96%E3%83%8F%E3%83%BC%E3%83%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8B%87%E6%95%A2%E7%9A%84%E5%BF%83"
-        }
-      }
-    },
-    {
-      "id": "tl_Q102225",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dragon%20Challenge%2019.jpg?width=640",
-      "value": 2005,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'Harry Potter and the Goblet of Fire'",
-        "ko": "영화 개봉 〈해리 포터와 불의 잔〉",
-        "ja": "映画公開『ハリー・ポッターと炎のゴブレット』",
-        "zh": "电影上映《哈利波特：火盃的考驗》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'Harry Potter and the Goblet of Fire' in 2005, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2005년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2005年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2005 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2005 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2005년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2005年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2005年）。"
-      },
-      "source": {
-        "qid": "Q102225",
-        "wikiTitle": {
-          "en": "Harry Potter and the Goblet of Fire",
-          "ko": "해리 포터와 불의 잔",
-          "ja": "ハリー・ポッターと炎のゴブレット",
-          "zh": "哈利波特：火盃的考驗"
-        },
-        "name": "Wikipedia & Wikidata (Q102225)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Harry%20Potter%20and%20the%20Goblet%20of%20Fire",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%95%B4%EB%A6%AC%20%ED%8F%AC%ED%84%B0%EC%99%80%20%EB%B6%88%EC%9D%98%20%EC%9E%94",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E7%82%8E%E3%81%AE%E3%82%B4%E3%83%96%E3%83%AC%E3%83%83%E3%83%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%EF%BC%9A%E7%81%AB%E7%9B%83%E7%9A%84%E8%80%83%E9%A9%97"
-        }
-      }
-    },
-    {
-      "id": "tl_Q102448",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dementor%20%288514403186%29.jpg?width=640",
-      "value": 2004,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'Harry Potter and the Prisoner of Azkaban'",
-        "ko": "영화 개봉 〈해리 포터와 아즈카반의 죄수〉",
-        "ja": "映画公開『ハリー・ポッターとアズカバンの囚人』",
-        "zh": "电影上映《哈利波特：阿茲卡班的逃犯》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'Harry Potter and the Prisoner of Azkaban' in 2004, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2004년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2004年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2004 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2004 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2004년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2004年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2004年）。"
-      },
-      "source": {
-        "qid": "Q102448",
-        "wikiTitle": {
-          "en": "Harry Potter and the Prisoner of Azkaban",
-          "ko": "해리 포터와 아즈카반의 죄수",
-          "ja": "ハリー・ポッターとアズカバンの囚人",
-          "zh": "哈利波特：阿茲卡班的逃犯"
-        },
-        "name": "Wikipedia & Wikidata (Q102448)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%95%B4%EB%A6%AC%20%ED%8F%AC%ED%84%B0%EC%99%80%20%EC%95%84%EC%A6%88%EC%B9%B4%EB%B0%98%EC%9D%98%20%EC%A3%84%EC%88%98",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E3%82%A2%E3%82%BA%E3%82%AB%E3%83%90%E3%83%B3%E3%81%AE%E5%9B%9A%E4%BA%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%EF%BC%9A%E9%98%BF%E8%8C%B2%E5%8D%A1%E7%8F%AD%E7%9A%84%E9%80%83%E7%8A%AF"
+          "en": "https://en.wikipedia.org/wiki/Braveheart",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A0%88%EC%9D%B4%EB%B8%8C%ED%95%98%ED%8A%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%83%96%E3%83%8F%E3%83%BC%E3%83%88",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8B%87%E6%95%A2%E7%9A%84%E5%BF%83"
         }
       }
     },
@@ -17012,137 +15085,14 @@ window.GAME_DECKS = {
           "en": "2001: A Space Odyssey",
           "ko": "2001: 스페이스 오디세이",
           "ja": "2001年宇宙の旅",
-          "zh": "2001太空漫遊"
+          "zh": "2001太空漫遊 (電影)"
         },
-        "name": "Wikipedia & Wikidata (Q103474)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=2001%3A%20A%20Space%20Odyssey",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=2001%3A%20%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=2001%E5%B9%B4%E5%AE%87%E5%AE%99%E3%81%AE%E6%97%85",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=2001%E5%A4%AA%E7%A9%BA%E6%BC%AB%E9%81%8A"
-        }
-      }
-    },
-    {
-      "id": "tl_Q161687",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Making%20of%20Harry%20Potter%2029-05-2012%20%287375512280%29.jpg?width=640",
-      "value": 2009,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'Harry Potter and the Half-Blood Prince'",
-        "ko": "영화 개봉 〈해리 포터와 혼혈 왕자〉",
-        "ja": "映画公開『ハリー・ポッターと謎のプリンス』",
-        "zh": "电影上映《哈利波特：混血王子的背叛》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'Harry Potter and the Half-Blood Prince' in 2009, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2009년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2009年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2009 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2009 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2009년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2009年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2009年）。"
-      },
-      "source": {
-        "qid": "Q161687",
-        "wikiTitle": {
-          "en": "Harry Potter and the Half-Blood Prince",
-          "ko": "해리 포터와 혼혈 왕자",
-          "ja": "ハリー・ポッターと謎のプリンス",
-          "zh": "哈利波特：混血王子的背叛"
-        },
-        "name": "Wikipedia & Wikidata (Q161687)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Harry%20Potter%20and%20the%20Half-Blood%20Prince",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%95%B4%EB%A6%AC%20%ED%8F%AC%ED%84%B0%EC%99%80%20%ED%98%BC%ED%98%88%20%EC%99%95%EC%9E%90",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E8%AC%8E%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%EF%BC%9A%E6%B7%B7%E8%A1%80%E7%8E%8B%E5%AD%90%E7%9A%84%E8%83%8C%E5%8F%9B"
-        }
-      }
-    },
-    {
-      "id": "tl_Q102235",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Potter%20wordmark.svg?width=640",
-      "value": 2007,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'Harry Potter and the Order of the Phoenix'",
-        "ko": "영화 개봉 〈해리 포터와 불사조 기사단〉",
-        "ja": "映画公開『ハリー・ポッターと不死鳥の騎士団』",
-        "zh": "电影上映《哈利波特：鳳凰會的密令》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'Harry Potter and the Order of the Phoenix' in 2007, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2007년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2007年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2007 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2007 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2007년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2007年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2007年）。"
-      },
-      "source": {
-        "qid": "Q102235",
-        "wikiTitle": {
-          "en": "Harry Potter and the Order of the Phoenix",
-          "ko": "해리 포터와 불사조 기사단",
-          "ja": "ハリー・ポッターと不死鳥の騎士団",
-          "zh": "哈利波特：鳳凰會的密令"
-        },
-        "name": "Wikipedia & Wikidata (Q102235)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%95%B4%EB%A6%AC%20%ED%8F%AC%ED%84%B0%EC%99%80%20%EB%B6%88%EC%82%AC%EC%A1%B0%20%EA%B8%B0%EC%82%AC%EB%8B%A8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E4%B8%8D%E6%AD%BB%E9%B3%A5%E3%81%AE%E9%A8%8E%E5%A3%AB%E5%9B%A3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%EF%BC%9A%E9%B3%B3%E5%87%B0%E6%9C%83%E7%9A%84%E5%AF%86%E4%BB%A4"
-        }
-      }
-    },
-    {
-      "id": "tl_Q166262",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Batman%20Begins%20logo.png?width=640",
-      "value": 2005,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'Batman Begins'",
-        "ko": "영화 개봉 〈배트맨 비긴즈〉",
-        "ja": "映画公開『バットマン ビギンズ』",
-        "zh": "电影上映《蝙蝠俠：開戰時刻》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'Batman Begins' in 2005, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2005년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2005年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2005 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2005 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2005년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2005年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2005年）。"
-      },
-      "source": {
-        "qid": "Q166262",
-        "wikiTitle": {
-          "en": "Batman Begins",
-          "ko": "배트맨 비긴즈",
-          "ja": "バットマン ビギンズ",
-          "zh": "蝙蝠俠：開戰時刻"
-        },
-        "name": "Wikipedia & Wikidata (Q166262)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Batman%20Begins",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%B0%ED%8A%B8%EB%A7%A8%20%EB%B9%84%EA%B8%B4%EC%A6%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%90%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3%20%E3%83%93%E3%82%AE%E3%83%B3%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%9D%99%E8%9D%A0%E4%BF%A0%EF%BC%9A%E9%96%8B%E6%88%B0%E6%99%82%E5%88%BB"
+          "en": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey",
+          "ko": "https://ko.wikipedia.org/wiki/2001:_%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4_%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4",
+          "ja": "https://ja.wikipedia.org/wiki/2001%E5%B9%B4%E5%AE%87%E5%AE%99%E3%81%AE%E6%97%85",
+          "zh": "https://zh.wikipedia.org/wiki/2001%E5%A4%AA%E7%A9%BA%E6%BC%AB%E9%81%8A_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -17176,14 +15126,14 @@ window.GAME_DECKS = {
           "en": "Citizen Kane",
           "ko": "시민 케인",
           "ja": "市民ケーン",
-          "zh": "大國民"
+          "zh": "公民凯恩"
         },
-        "name": "Wikipedia & Wikidata (Q24815)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Citizen%20Kane",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8B%9C%EB%AF%BC%20%EC%BC%80%EC%9D%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%B8%82%E6%B0%91%E3%82%B1%E3%83%BC%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A4%A7%E5%9C%8B%E6%B0%91"
+          "en": "https://en.wikipedia.org/wiki/Citizen_Kane",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%AF%BC_%EC%BC%80%EC%9D%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E5%B8%82%E6%B0%91%E3%82%B1%E3%83%BC%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%85%AC%E6%B0%91%E5%87%AF%E6%81%A9"
         }
       }
     },
@@ -17219,53 +15169,12 @@ window.GAME_DECKS = {
           "ja": "地獄の黙示録",
           "zh": "现代启示录"
         },
-        "name": "Wikipedia & Wikidata (Q182692)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Apocalypse%20Now",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A7%80%EC%98%A5%EC%9D%98%20%EB%AC%B5%EC%8B%9C%EB%A1%9D",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%9C%B0%E7%8D%84%E3%81%AE%E9%BB%99%E7%A4%BA%E9%8C%B2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%8E%B0%E4%BB%A3%E5%90%AF%E7%A4%BA%E5%BD%95"
-        }
-      }
-    },
-    {
-      "id": "tl_Q161678",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HIMG%202703%20%288066420985%29.jpg?width=640",
-      "value": 2010,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'Harry Potter and the Deathly Hallows – Part 1'",
-        "ko": "영화 개봉 〈해리 포터와 죽음의 성물 1〉",
-        "ja": "映画公開『ハリー・ポッターと死の秘宝 PART1』",
-        "zh": "电影上映《哈利·波特与死亡圣器》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'Harry Potter and the Deathly Hallows – Part 1' in 2010, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2010년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2010年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2010 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2010 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2010년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2010年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2010年）。"
-      },
-      "source": {
-        "qid": "Q161678",
-        "wikiTitle": {
-          "en": "Harry Potter and the Deathly Hallows – Part 1",
-          "ko": "해리 포터와 죽음의 성물 1",
-          "ja": "ハリー・ポッターと死の秘宝 PART1",
-          "zh": "哈利·波特与死亡圣器"
-        },
-        "name": "Wikipedia & Wikidata (Q161678)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Harry%20Potter%20and%20the%20Deathly%20Hallows%20%E2%80%93%20Part%201",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%95%B4%EB%A6%AC%20%ED%8F%AC%ED%84%B0%EC%99%80%20%EC%A3%BD%EC%9D%8C%EC%9D%98%20%EC%84%B1%EB%AC%BC%201",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E6%AD%BB%E3%81%AE%E7%A7%98%E5%AE%9D%20PART1",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%93%88%E5%88%A9%C2%B7%E6%B3%A2%E7%89%B9%E4%B8%8E%E6%AD%BB%E4%BA%A1%E5%9C%A3%E5%99%A8"
+          "en": "https://en.wikipedia.org/wiki/Apocalypse_Now",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A7%80%EC%98%A5%EC%9D%98_%EB%AC%B5%EC%8B%9C%EB%A1%9D",
+          "ja": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%8D%84%E3%81%AE%E9%BB%99%E7%A4%BA%E9%8C%B2",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%8E%B0%E4%BB%A3%E5%90%AF%E7%A4%BA%E5%BD%95"
         }
       }
     },
@@ -17297,16 +15206,16 @@ window.GAME_DECKS = {
         "qid": "Q105031",
         "wikiTitle": {
           "en": "Home Alone",
-          "ko": "나 홀로 집에",
+          "ko": "나 홀로 집에 (영화)",
           "ja": "ホーム・アローン",
           "zh": "小鬼當家"
         },
-        "name": "Wikipedia & Wikidata (Q105031)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Home%20Alone",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%82%98%20%ED%99%80%EB%A1%9C%20%EC%A7%91%EC%97%90",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%BB%E3%82%A2%E3%83%AD%E3%83%BC%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%B0%8F%E9%AC%BC%E7%95%B6%E5%AE%B6"
+          "en": "https://en.wikipedia.org/wiki/Home_Alone",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%82%98_%ED%99%80%EB%A1%9C_%EC%A7%91%EC%97%90_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%BB%E3%82%A2%E3%83%AD%E3%83%BC%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E9%AC%BC%E7%95%B6%E5%AE%B6"
         }
       }
     },
@@ -17339,56 +15248,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "The Great Dictator",
           "ko": "위대한 독재자",
-          "ja": "独裁者",
+          "ja": "独裁者 (映画)",
           "zh": "大独裁者"
         },
-        "name": "Wikipedia & Wikidata (Q109116)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Great%20Dictator",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9C%84%EB%8C%80%ED%95%9C%20%EB%8F%85%EC%9E%AC%EC%9E%90",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%8B%AC%E8%A3%81%E8%80%85",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A4%A7%E7%8B%AC%E8%A3%81%E8%80%85"
-        }
-      }
-    },
-    {
-      "id": "tl_Q232009",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gringotts%20Dragon%20%2842428027095%29.jpg?width=640",
-      "value": 2011,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'Harry Potter and the Deathly Hallows – Part 2'",
-        "ko": "영화 개봉 〈해리 포터와 죽음의 성물 2〉",
-        "ja": "映画公開『ハリー・ポッターと死の秘宝 PART2』",
-        "zh": "电影上映《哈利·波特与死亡圣器（下）》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'Harry Potter and the Deathly Hallows – Part 2' in 2011, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2011년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2011年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2011 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2011 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2011년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2011年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2011年）。"
-      },
-      "source": {
-        "qid": "Q232009",
-        "wikiTitle": {
-          "en": "Harry Potter and the Deathly Hallows – Part 2",
-          "ko": "해리 포터와 죽음의 성물 2",
-          "ja": "ハリー・ポッターと死の秘宝 PART2",
-          "zh": "哈利·波特与死亡圣器（下）"
-        },
-        "name": "Wikipedia & Wikidata (Q232009)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Harry%20Potter%20and%20the%20Deathly%20Hallows%20%E2%80%93%20Part%202",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%95%B4%EB%A6%AC%20%ED%8F%AC%ED%84%B0%EC%99%80%20%EC%A3%BD%EC%9D%8C%EC%9D%98%20%EC%84%B1%EB%AC%BC%202",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E6%AD%BB%E3%81%AE%E7%A7%98%E5%AE%9D%20PART2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%93%88%E5%88%A9%C2%B7%E6%B3%A2%E7%89%B9%E4%B8%8E%E6%AD%BB%E4%BA%A1%E5%9C%A3%E5%99%A8%EF%BC%88%E4%B8%8B%EF%BC%89"
+          "en": "https://en.wikipedia.org/wiki/The_Great_Dictator",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9C%84%EB%8C%80%ED%95%9C_%EB%8F%85%EC%9E%AC%EC%9E%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%8B%AC%E8%A3%81%E8%80%85_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%8B%AC%E8%A3%81%E8%80%85"
         }
       }
     },
@@ -17422,14 +15290,14 @@ window.GAME_DECKS = {
           "en": "The Departed",
           "ko": "디파티드",
           "ja": "ディパーテッド",
-          "zh": "神鬼無間"
+          "zh": "無間道風雲"
         },
-        "name": "Wikipedia & Wikidata (Q172975)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Departed",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%94%94%ED%8C%8C%ED%8B%B0%EB%93%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%87%E3%82%A3%E3%83%91%E3%83%BC%E3%83%86%E3%83%83%E3%83%89",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%A5%9E%E9%AC%BC%E7%84%A1%E9%96%93"
+          "en": "https://en.wikipedia.org/wiki/The_Departed",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%94%94%ED%8C%8C%ED%8B%B0%EB%93%9C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%91%E3%83%BC%E3%83%86%E3%83%83%E3%83%89",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%84%A1%E9%96%93%E9%81%93%E9%A2%A8%E9%9B%B2"
         }
       }
     },
@@ -17461,16 +15329,16 @@ window.GAME_DECKS = {
         "qid": "Q174284",
         "wikiTitle": {
           "en": "Raiders of the Lost Ark",
-          "ko": "레이더스",
+          "ko": "레이더스 (영화)",
           "ja": "レイダース/失われたアーク《聖櫃》",
           "zh": "法櫃奇兵"
         },
-        "name": "Wikipedia & Wikidata (Q174284)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Raiders%20of%20the%20Lost%20Ark",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A0%88%EC%9D%B4%EB%8D%94%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC%E3%82%B9%2F%E5%A4%B1%E3%82%8F%E3%82%8C%E3%81%9F%E3%82%A2%E3%83%BC%E3%82%AF%E3%80%8A%E8%81%96%E6%AB%83%E3%80%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B3%95%E6%AB%83%E5%A5%87%E5%85%B5"
+          "en": "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A0%88%EC%9D%B4%EB%8D%94%EC%8A%A4_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC%E3%82%B9/%E5%A4%B1%E3%82%8F%E3%82%8C%E3%81%9F%E3%82%A2%E3%83%BC%E3%82%AF%E3%80%8A%E8%81%96%E6%AB%83%E3%80%8B",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B3%95%E6%AB%83%E5%A5%87%E5%85%B5"
         }
       }
     },
@@ -17501,17 +15369,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q228186",
         "wikiTitle": {
-          "en": "Lawrence of Arabia",
-          "ko": "아라비아의 로렌스",
+          "en": "Lawrence of Arabia (film)",
+          "ko": "아라비아의 로렌스 (영화)",
           "ja": "アラビアのロレンス",
-          "zh": "阿拉伯的劳伦斯"
+          "zh": "阿拉伯的劳伦斯 (电影)"
         },
-        "name": "Wikipedia & Wikidata (Q228186)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Lawrence%20of%20Arabia",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EB%9D%BC%EB%B9%84%EC%95%84%EC%9D%98%20%EB%A1%9C%EB%A0%8C%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E3%81%AE%E3%83%AD%E3%83%AC%E3%83%B3%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%98%BF%E6%8B%89%E4%BC%AF%E7%9A%84%E5%8A%B3%E4%BC%A6%E6%96%AF"
+          "en": "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%9D%BC%EB%B9%84%EC%95%84%EC%9D%98_%EB%A1%9C%EB%A0%8C%EC%8A%A4_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E3%81%AE%E3%83%AD%E3%83%AC%E3%83%B3%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E4%BC%AF%E7%9A%84%E5%8A%B3%E4%BC%A6%E6%96%AF_(%E7%94%B5%E5%BD%B1)"
         }
       }
     },
@@ -17547,12 +15415,12 @@ window.GAME_DECKS = {
           "ja": "英国王のスピーチ",
           "zh": "国王的演讲"
         },
-        "name": "Wikipedia & Wikidata (Q160060)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20King's%20Speech",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%82%B9%EC%8A%A4%20%EC%8A%A4%ED%94%BC%EC%B9%98",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E8%8B%B1%E5%9B%BD%E7%8E%8B%E3%81%AE%E3%82%B9%E3%83%94%E3%83%BC%E3%83%81",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%9B%BD%E7%8E%8B%E7%9A%84%E6%BC%94%E8%AE%B2"
+          "en": "https://en.wikipedia.org/wiki/The_King's_Speech",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%82%B9%EC%8A%A4_%EC%8A%A4%ED%94%BC%EC%B9%98",
+          "ja": "https://ja.wikipedia.org/wiki/%E8%8B%B1%E5%9B%BD%E7%8E%8B%E3%81%AE%E3%82%B9%E3%83%94%E3%83%BC%E3%83%81",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%9B%BD%E7%8E%8B%E7%9A%84%E6%BC%94%E8%AE%B2"
         }
       }
     },
@@ -17583,17 +15451,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q163038",
         "wikiTitle": {
-          "en": "Psycho",
-          "ko": "싸이코",
-          "ja": "サイコ",
+          "en": "Psycho (1960 film)",
+          "ko": "싸이코 (1960년 영화)",
+          "ja": "サイコ (1960年の映画)",
           "zh": "驚魂記"
         },
-        "name": "Wikipedia & Wikidata (Q163038)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Psycho",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8B%B8%EC%9D%B4%EC%BD%94",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B5%E3%82%A4%E3%82%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%A9%9A%E9%AD%82%E8%A8%98"
+          "en": "https://en.wikipedia.org/wiki/Psycho_(1960_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8B%B8%EC%9D%B4%EC%BD%94_(1960%EB%85%84_%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%82%B3_(1960%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%A9%9A%E9%AD%82%E8%A8%98"
         }
       }
     },
@@ -17624,17 +15492,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q171669",
         "wikiTitle": {
-          "en": "One Flew Over the Cuckoo's Nest",
-          "ko": "뻐꾸기 둥지 위로 날아간 새",
+          "en": "One Flew Over the Cuckoo's Nest (film)",
+          "ko": "뻐꾸기 둥지 위로 날아간 새 (영화)",
           "ja": "カッコーの巣の上で",
           "zh": "飛越瘋人院"
         },
-        "name": "Wikipedia & Wikidata (Q171669)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=One%20Flew%20Over%20the%20Cuckoo's%20Nest",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%BB%90%EA%BE%B8%EA%B8%B0%20%EB%91%A5%EC%A7%80%20%EC%9C%84%EB%A1%9C%20%EB%82%A0%EC%95%84%EA%B0%84%20%EC%83%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%AB%E3%83%83%E3%82%B3%E3%83%BC%E3%81%AE%E5%B7%A3%E3%81%AE%E4%B8%8A%E3%81%A7",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%A3%9B%E8%B6%8A%E7%98%8B%E4%BA%BA%E9%99%A2"
+          "en": "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo's_Nest_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%BB%90%EA%BE%B8%EA%B8%B0_%EB%91%A5%EC%A7%80_%EC%9C%84%EB%A1%9C_%EB%82%A0%EC%95%84%EA%B0%84_%EC%83%88_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%83%E3%82%B3%E3%83%BC%E3%81%AE%E5%B7%A3%E3%81%AE%E4%B8%8A%E3%81%A7",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%A3%9B%E8%B6%8A%E7%98%8B%E4%BA%BA%E9%99%A2"
         }
       }
     },
@@ -17665,17 +15533,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q180098",
         "wikiTitle": {
-          "en": "Ben-Hur",
-          "ko": "벤허",
-          "ja": "ベン・ハー",
+          "en": "Ben-Hur (1959 film)",
+          "ko": "벤허 (1959년 영화)",
+          "ja": "ベン・ハー (1959年の映画)",
           "zh": "賓漢"
         },
-        "name": "Wikipedia & Wikidata (Q180098)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Ben-Hur",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B2%A4%ED%97%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%99%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%B3%93%E6%BC%A2"
+          "en": "https://en.wikipedia.org/wiki/Ben-Hur_(1959_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B2%A4%ED%97%88_(1959%EB%85%84_%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%BC_(1959%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%B3%93%E6%BC%A2"
         }
       }
     },
@@ -17706,17 +15574,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q2579784",
         "wikiTitle": {
-          "en": "Gravity",
-          "ko": "그래비티",
-          "ja": "ゼロ・グラビティ",
-          "zh": "地心引力"
+          "en": "Gravity (2013 film)",
+          "ko": "그래비티 (영화)",
+          "ja": "ゼロ・グラビティ (映画)",
+          "zh": "地心引力 (电影)"
         },
-        "name": "Wikipedia & Wikidata (Q2579784)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Gravity",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EA%B7%B8%EB%9E%98%EB%B9%84%ED%8B%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%BC%E3%83%AD%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%93%E3%83%86%E3%82%A3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%9C%B0%E5%BF%83%E5%BC%95%E5%8A%9B"
+          "en": "https://en.wikipedia.org/wiki/Gravity_(2013_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%9E%98%EB%B9%84%ED%8B%B0_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%AD%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%93%E3%83%86%E3%82%A3_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%9C%B0%E5%BF%83%E5%BC%95%E5%8A%9B_(%E7%94%B5%E5%BD%B1)"
         }
       }
     },
@@ -17748,16 +15616,16 @@ window.GAME_DECKS = {
         "qid": "Q2345",
         "wikiTitle": {
           "en": "12 Angry Men",
-          "ko": "12인의 성난 사람들",
-          "ja": "十二人の怒れる男",
-          "zh": "十二怒漢"
+          "ko": "12인의 성난 사람들 (1957년 영화)",
+          "ja": "十二人の怒れる男 (映画)",
+          "zh": "十二怒漢 (電影)"
         },
-        "name": "Wikipedia & Wikidata (Q2345)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=12%20Angry%20Men",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=12%EC%9D%B8%EC%9D%98%20%EC%84%B1%EB%82%9C%20%EC%82%AC%EB%9E%8C%EB%93%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%8D%81%E4%BA%8C%E4%BA%BA%E3%81%AE%E6%80%92%E3%82%8C%E3%82%8B%E7%94%B7",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8D%81%E4%BA%8C%E6%80%92%E6%BC%A2"
+          "en": "https://en.wikipedia.org/wiki/12_Angry_Men",
+          "ko": "https://ko.wikipedia.org/wiki/12%EC%9D%B8%EC%9D%98_%EC%84%B1%EB%82%9C_%EC%82%AC%EB%9E%8C%EB%93%A4_(1957%EB%85%84_%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E4%BA%BA%E3%81%AE%E6%80%92%E3%82%8C%E3%82%8B%E7%94%B7_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E6%80%92%E6%BC%A2_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -17788,17 +15656,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q102754",
         "wikiTitle": {
-          "en": "Dr. No",
+          "en": "Dr. No (film)",
           "ko": "007 살인번호",
-          "ja": "007 ドクター・ノオ",
+          "ja": "007は殺しの番号",
           "zh": "鐵金剛勇破神秘島"
         },
-        "name": "Wikipedia & Wikidata (Q102754)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Dr.%20No",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=007%20%EC%82%B4%EC%9D%B8%EB%B2%88%ED%98%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=007%20%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%8E%E3%82%AA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%90%B5%E9%87%91%E5%89%9B%E5%8B%87%E7%A0%B4%E7%A5%9E%E7%A7%98%E5%B3%B6"
+          "en": "https://en.wikipedia.org/wiki/Dr._No_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/007_%EC%82%B4%EC%9D%B8%EB%B2%88%ED%98%B8",
+          "ja": "https://ja.wikipedia.org/wiki/007%E3%81%AF%E6%AE%BA%E3%81%97%E3%81%AE%E7%95%AA%E5%8F%B7",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%90%B5%E9%87%91%E5%89%9B%E5%8B%87%E7%A0%B4%E7%A5%9E%E7%A7%98%E5%B3%B6"
         }
       }
     },
@@ -17829,17 +15697,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q270470",
         "wikiTitle": {
-          "en": "Peter Pan",
-          "ko": "피터 팬",
-          "ja": "ピーター・パン",
-          "zh": "小飛俠"
+          "en": "Peter Pan (1953 film)",
+          "ko": "피터 팬 (1953년 영화)",
+          "ja": "ピーター・パン (1953年の映画)",
+          "zh": "小飛俠 (電影)"
         },
-        "name": "Wikipedia & Wikidata (Q270470)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Peter%20Pan",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%94%BC%ED%84%B0%20%ED%8C%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%91%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%B0%8F%E9%A3%9B%E4%BF%A0"
+          "en": "https://en.wikipedia.org/wiki/Peter_Pan_(1953_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%94%BC%ED%84%B0_%ED%8C%AC_(1953%EB%85%84_%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%91%E3%83%B3_(1953%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E9%A3%9B%E4%BF%A0_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -17870,17 +15738,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q1392744",
         "wikiTitle": {
-          "en": "The Wolf of Wall Street",
+          "en": "The Wolf of Wall Street (2013 film)",
           "ko": "더 울프 오브 월 스트리트",
-          "ja": "ザ・ウルフ・オブ・ウォール・ストリート",
-          "zh": "華爾街狼人"
+          "ja": "ウルフ・オブ・ウォールストリート",
+          "zh": "华尔街之狼"
         },
-        "name": "Wikipedia & Wikidata (Q1392744)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Wolf%20of%20Wall%20Street",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8D%94%20%EC%9A%B8%ED%94%84%20%EC%98%A4%EB%B8%8C%20%EC%9B%94%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B6%E3%83%BB%E3%82%A6%E3%83%AB%E3%83%95%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8F%AF%E7%88%BE%E8%A1%97%E7%8B%BC%E4%BA%BA"
+          "en": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8D%94_%EC%9A%B8%ED%94%84_%EC%98%A4%EB%B8%8C_%EC%9B%94_%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%83%95%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%B0%94%E8%A1%97%E4%B9%8B%E7%8B%BC"
         }
       }
     },
@@ -17911,17 +15779,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q186341",
         "wikiTitle": {
-          "en": "The Shining",
-          "ko": "샤이닝",
-          "ja": "シャイニング",
-          "zh": "闪灵"
+          "en": "The Shining (film)",
+          "ko": "샤이닝 (영화)",
+          "ja": "シャイニング (映画)",
+          "zh": "闪灵 (电影)"
         },
-        "name": "Wikipedia & Wikidata (Q186341)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Shining",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%83%A4%EC%9D%B4%EB%8B%9D",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%97%AA%E7%81%B5"
+          "en": "https://en.wikipedia.org/wiki/The_Shining_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%83%A4%EC%9D%B4%EB%8B%9D_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%97%AA%E7%81%B5_(%E7%94%B5%E5%BD%B1)"
         }
       }
     },
@@ -17952,17 +15820,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q186587",
         "wikiTitle": {
-          "en": "Troy",
-          "ko": "트로이",
-          "ja": "トロイ",
+          "en": "Troy (film)",
+          "ko": "트로이 (영화)",
+          "ja": "トロイ (映画)",
           "zh": "特洛伊：木馬屠城"
         },
-        "name": "Wikipedia & Wikidata (Q186587)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Troy",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8A%B8%EB%A1%9C%EC%9D%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%88%E3%83%AD%E3%82%A4",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%89%B9%E6%B4%9B%E4%BC%8A%EF%BC%9A%E6%9C%A8%E9%A6%AC%E5%B1%A0%E5%9F%8E"
+          "en": "https://en.wikipedia.org/wiki/Troy_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A1%9C%EC%9D%B4_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AD%E3%82%A4_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%89%B9%E6%B4%9B%E4%BC%8A%EF%BC%9A%E6%9C%A8%E9%A6%AC%E5%B1%A0%E5%9F%8E"
         }
       }
     },
@@ -17998,12 +15866,12 @@ window.GAME_DECKS = {
           "ja": "ラテン・アメリカの旅",
           "zh": "致候吾友"
         },
-        "name": "Wikipedia & Wikidata (Q842306)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Saludos%20Amigos",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%9D%BC%ED%8B%B4%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EC%9D%98%20%EB%B0%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A9%E3%83%86%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E6%97%85",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%87%B4%E5%80%99%E5%90%BE%E5%8F%8B"
+          "en": "https://en.wikipedia.org/wiki/Saludos_Amigos",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%9D%BC%ED%8B%B4_%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EC%9D%98_%EB%B0%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%86%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E6%97%85",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%87%B4%E5%80%99%E5%90%BE%E5%8F%8B"
         }
       }
     },
@@ -18034,17 +15902,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q13255497",
         "wikiTitle": {
-          "en": "Birdman",
-          "ko": "버드맨",
+          "en": "Birdman (film)",
+          "ko": "버드맨 (영화)",
           "ja": "バードマン あるいは（無知がもたらす予期せぬ奇跡）",
-          "zh": "鳥人"
+          "zh": "鳥人 (2014年電影)"
         },
-        "name": "Wikipedia & Wikidata (Q13255497)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Birdman",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B2%84%EB%93%9C%EB%A7%A8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%90%E3%83%BC%E3%83%89%E3%83%9E%E3%83%B3%20%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%EF%BC%88%E7%84%A1%E7%9F%A5%E3%81%8C%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E4%BA%88%E6%9C%9F%E3%81%9B%E3%81%AC%E5%A5%87%E8%B7%A1%EF%BC%89",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%B3%A5%E4%BA%BA"
+          "en": "https://en.wikipedia.org/wiki/Birdman_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B2%84%EB%93%9C%EB%A7%A8_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%89%E3%83%9E%E3%83%B3_%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%EF%BC%88%E7%84%A1%E7%9F%A5%E3%81%8C%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E4%BA%88%E6%9C%9F%E3%81%9B%E3%81%AC%E5%A5%87%E8%B7%A1%EF%BC%89",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%B3%A5%E4%BA%BA_(2014%E5%B9%B4%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -18077,15 +15945,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "Léon: The Professional",
           "ko": "레옹",
-          "ja": "レオン",
+          "ja": "レオン (1994年の映画)",
           "zh": "這個殺手不太冷"
         },
-        "name": "Wikipedia & Wikidata (Q484675)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=L%C3%A9on%3A%20The%20Professional",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A0%88%EC%98%B9",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AC%E3%82%AA%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%80%99%E5%80%8B%E6%AE%BA%E6%89%8B%E4%B8%8D%E5%A4%AA%E5%86%B7"
+          "en": "https://en.wikipedia.org/wiki/L%C3%A9on:_The_Professional",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A0%88%EC%98%B9",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AA%E3%83%B3_(1994%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%80%99%E5%80%8B%E6%AE%BA%E6%89%8B%E4%B8%8D%E5%A4%AA%E5%86%B7"
         }
       }
     },
@@ -18121,12 +15989,12 @@ window.GAME_DECKS = {
           "ja": "七人の侍",
           "zh": "七武士"
         },
-        "name": "Wikipedia & Wikidata (Q189540)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Seven%20Samurai",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=7%EC%9D%B8%EC%9D%98%20%EC%82%AC%EB%AC%B4%EB%9D%BC%EC%9D%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E4%B8%83%E4%BA%BA%E3%81%AE%E4%BE%8D",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%B8%83%E6%AD%A6%E5%A3%AB"
+          "en": "https://en.wikipedia.org/wiki/Seven_Samurai",
+          "ko": "https://ko.wikipedia.org/wiki/7%EC%9D%B8%EC%9D%98_%EC%82%AC%EB%AC%B4%EB%9D%BC%EC%9D%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E4%B8%83%E4%BA%BA%E3%81%AE%E4%BE%8D",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%B8%83%E6%AD%A6%E5%A3%AB"
         }
       }
     },
@@ -18157,17 +16025,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q212965",
         "wikiTitle": {
-          "en": "The Hunger Games",
+          "en": "The Hunger Games (film)",
           "ko": "헝거 게임: 판엠의 불꽃",
-          "ja": "ハンガー・ゲーム",
-          "zh": "飢餓遊戲"
+          "ja": "ハンガー・ゲーム (映画)",
+          "zh": "飢餓遊戲 (電影)"
         },
-        "name": "Wikipedia & Wikidata (Q212965)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Hunger%20Games",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%97%9D%EA%B1%B0%20%EA%B2%8C%EC%9E%84%3A%20%ED%8C%90%EC%97%A0%EC%9D%98%20%EB%B6%88%EA%BD%83",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%A3%A2%E9%A4%93%E9%81%8A%E6%88%B2"
+          "en": "https://en.wikipedia.org/wiki/The_Hunger_Games_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%97%9D%EA%B1%B0_%EA%B2%8C%EC%9E%84:_%ED%8C%90%EC%97%A0%EC%9D%98_%EB%B6%88%EA%BD%83",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%A3%A2%E9%A4%93%E9%81%8A%E6%88%B2_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -18203,12 +16071,12 @@ window.GAME_DECKS = {
           "ja": "博士の異常な愛情 または私は如何にして心配するのを止めて水爆を愛するようになったか",
           "zh": "奇爱博士"
         },
-        "name": "Wikipedia & Wikidata (Q105702)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Dr.%20Strangelove",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8B%A5%ED%84%B0%20%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B8%EC%A7%80%EB%9F%AC%EB%B8%8C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%8D%9A%E5%A3%AB%E3%81%AE%E7%95%B0%E5%B8%B8%E3%81%AA%E6%84%9B%E6%83%85%20%E3%81%BE%E3%81%9F%E3%81%AF%E7%A7%81%E3%81%AF%E5%A6%82%E4%BD%95%E3%81%AB%E3%81%97%E3%81%A6%E5%BF%83%E9%85%8D%E3%81%99%E3%82%8B%E3%81%AE%E3%82%92%E6%AD%A2%E3%82%81%E3%81%A6%E6%B0%B4%E7%88%86%E3%82%92%E6%84%9B%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A5%87%E7%88%B1%E5%8D%9A%E5%A3%AB"
+          "en": "https://en.wikipedia.org/wiki/Dr._Strangelove",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8B%A5%ED%84%B0_%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B8%EC%A7%80%EB%9F%AC%EB%B8%8C",
+          "ja": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A3%AB%E3%81%AE%E7%95%B0%E5%B8%B8%E3%81%AA%E6%84%9B%E6%83%85_%E3%81%BE%E3%81%9F%E3%81%AF%E7%A7%81%E3%81%AF%E5%A6%82%E4%BD%95%E3%81%AB%E3%81%97%E3%81%A6%E5%BF%83%E9%85%8D%E3%81%99%E3%82%8B%E3%81%AE%E3%82%92%E6%AD%A2%E3%82%81%E3%81%A6%E6%B0%B4%E7%88%86%E3%82%92%E6%84%9B%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%8B",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A5%87%E7%88%B1%E5%8D%9A%E5%A3%AB"
         }
       }
     },
@@ -18242,14 +16110,14 @@ window.GAME_DECKS = {
           "en": "Back to the Future Part II",
           "ko": "백 투 더 퓨처 2",
           "ja": "バック・トゥ・ザ・フューチャー PART2",
-          "zh": "回到未來II"
+          "zh": "回到未來2"
         },
-        "name": "Wikipedia & Wikidata (Q109331)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Back%20to%20the%20Future%20Part%20II",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%B1%20%ED%88%AC%20%EB%8D%94%20%ED%93%A8%EC%B2%98%202",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%90%E3%83%83%E3%82%AF%E3%83%BB%E3%83%88%E3%82%A5%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%20PART2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%9B%9E%E5%88%B0%E6%9C%AA%E4%BE%86II"
+          "en": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_II",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B0%B1_%ED%88%AC_%EB%8D%94_%ED%93%A8%EC%B2%98_2",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%82%AF%E3%83%BB%E3%83%88%E3%82%A5%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC_PART2",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%9B%9E%E5%88%B0%E6%9C%AA%E4%BE%862"
         }
       }
     },
@@ -18280,17 +16148,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q181086",
         "wikiTitle": {
-          "en": "A Clockwork Orange",
-          "ko": "시계태엽 오렌지",
+          "en": "A Clockwork Orange (film)",
+          "ko": "시계태엽 오렌지 (영화)",
           "ja": "時計じかけのオレンジ",
-          "zh": "發條橘子"
+          "zh": "發條橘子 (電影)"
         },
-        "name": "Wikipedia & Wikidata (Q181086)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=A%20Clockwork%20Orange",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8B%9C%EA%B3%84%ED%83%9C%EC%97%BD%20%EC%98%A4%EB%A0%8C%EC%A7%80",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%99%BC%E6%A2%9D%E6%A9%98%E5%AD%90"
+          "en": "https://en.wikipedia.org/wiki/A_Clockwork_Orange_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B3%84%ED%83%9C%EC%97%BD_%EC%98%A4%EB%A0%8C%EC%A7%80_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%99%BC%E6%A2%9D%E6%A9%98%E5%AD%90_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -18321,17 +16189,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q189505",
         "wikiTitle": {
-          "en": "Jaws",
-          "ko": "죠스",
+          "en": "Jaws (film)",
+          "ko": "죠스 (영화)",
           "ja": "ジョーズ",
-          "zh": "大白鯊"
+          "zh": "大白鯊 (電影)"
         },
-        "name": "Wikipedia & Wikidata (Q189505)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Jaws",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A3%A0%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A4%A7%E7%99%BD%E9%AF%8A"
+          "en": "https://en.wikipedia.org/wiki/Jaws_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A3%A0%EC%8A%A4_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%99%BD%E9%AF%8A_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -18362,17 +16230,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q19347291",
         "wikiTitle": {
-          "en": "Deadpool",
-          "ko": "데드풀",
-          "ja": "デッドプール",
-          "zh": "死侍"
+          "en": "Deadpool (film)",
+          "ko": "데드풀 (영화)",
+          "ja": "デッドプール (映画)",
+          "zh": "惡棍英雄：死侍"
         },
-        "name": "Wikipedia & Wikidata (Q19347291)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Deadpool",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8D%B0%EB%93%9C%ED%92%80",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%87%E3%83%83%E3%83%89%E3%83%97%E3%83%BC%E3%83%AB",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%AD%BB%E4%BE%8D"
+          "en": "https://en.wikipedia.org/wiki/Deadpool_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%93%9C%ED%92%80_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%83%E3%83%89%E3%83%97%E3%83%BC%E3%83%AB_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%83%A1%E6%A3%8D%E8%8B%B1%E9%9B%84%EF%BC%9A%E6%AD%BB%E4%BE%8D"
         }
       }
     },
@@ -18403,17 +16271,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q190525",
         "wikiTitle": {
-          "en": "Memento",
-          "ko": "메멘토",
-          "ja": "メメント",
+          "en": "Memento (film)",
+          "ko": "메멘토 (영화)",
+          "ja": "メメント (映画)",
           "zh": "凶心人"
         },
-        "name": "Wikipedia & Wikidata (Q190525)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Memento",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A9%94%EB%A9%98%ED%86%A0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A1%E3%83%A1%E3%83%B3%E3%83%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%87%B6%E5%BF%83%E4%BA%BA"
+          "en": "https://en.wikipedia.org/wiki/Memento_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A9%94%EB%A9%98%ED%86%A0_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%A1%E3%83%B3%E3%83%88_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%87%B6%E5%BF%83%E4%BA%BA"
         }
       }
     },
@@ -18444,17 +16312,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q190956",
         "wikiTitle": {
-          "en": "Amadeus",
-          "ko": "아마데우스",
-          "ja": "アマデウス",
+          "en": "Amadeus (film)",
+          "ko": "아마데우스 (영화)",
+          "ja": "アマデウス (映画)",
           "zh": "阿瑪迪斯"
         },
-        "name": "Wikipedia & Wikidata (Q190956)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Amadeus",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EB%A7%88%EB%8D%B0%EC%9A%B0%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%9E%E3%83%87%E3%82%A6%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%98%BF%E7%91%AA%E8%BF%AA%E6%96%AF"
+          "en": "https://en.wikipedia.org/wiki/Amadeus_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A7%88%EB%8D%B0%EC%9A%B0%EC%8A%A4_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%87%E3%82%A6%E3%82%B9_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%98%BF%E7%91%AA%E8%BF%AA%E6%96%AF"
         }
       }
     },
@@ -18485,17 +16353,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q60072",
         "wikiTitle": {
-          "en": "The Sound of Music",
-          "ko": "사운드 오브 뮤직",
-          "ja": "サウンド・オブ・ミュージック",
-          "zh": "音樂之聲"
+          "en": "The Sound of Music (film)",
+          "ko": "사운드 오브 뮤직 (영화)",
+          "ja": "サウンド・オブ・ミュージック (映画)",
+          "zh": "音乐之声 (电影)"
         },
-        "name": "Wikipedia & Wikidata (Q60072)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Sound%20of%20Music",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%82%AC%EC%9A%B4%EB%93%9C%20%EC%98%A4%EB%B8%8C%20%EB%AE%A4%EC%A7%81",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%9F%B3%E6%A8%82%E4%B9%8B%E8%81%B2"
+          "en": "https://en.wikipedia.org/wiki/The_Sound_of_Music_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9A%B4%EB%93%9C_%EC%98%A4%EB%B8%8C_%EB%AE%A4%EC%A7%81_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A3%B0_(%E7%94%B5%E5%BD%B1)"
         }
       }
     },
@@ -18531,12 +16399,12 @@ window.GAME_DECKS = {
           "ja": "戦艦ポチョムキン",
           "zh": "战舰波将金号"
         },
-        "name": "Wikipedia & Wikidata (Q152350)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Battleship%20Potemkin",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%84%ED%95%A8%20%ED%8F%AC%ED%85%9C%ED%82%A8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E6%88%A6%E8%89%A6%E3%83%9D%E3%83%81%E3%83%A7%E3%83%A0%E3%82%AD%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%88%98%E8%88%B0%E6%B3%A2%E5%B0%86%E9%87%91%E5%8F%B7"
+          "en": "https://en.wikipedia.org/wiki/Battleship_Potemkin",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A0%84%ED%95%A8_%ED%8F%AC%ED%85%9C%ED%82%A8",
+          "ja": "https://ja.wikipedia.org/wiki/%E6%88%A6%E8%89%A6%E3%83%9D%E3%83%81%E3%83%A7%E3%83%A0%E3%82%AD%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%88%98%E8%88%B0%E6%B3%A2%E5%B0%86%E9%87%91%E5%8F%B7"
         }
       }
     },
@@ -18572,12 +16440,12 @@ window.GAME_DECKS = {
           "ja": "ミリオンダラー・ベイビー",
           "zh": "登峰造擊"
         },
-        "name": "Wikipedia & Wikidata (Q184255)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Million%20Dollar%20Baby",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%80%EB%A6%AC%EC%96%B8%20%EB%8B%AC%EB%9F%AC%20%EB%B2%A0%EC%9D%B4%EB%B9%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%80%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%99%BB%E5%B3%B0%E9%80%A0%E6%93%8A"
+          "en": "https://en.wikipedia.org/wiki/Million_Dollar_Baby",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B0%80%EB%A6%AC%EC%96%B8_%EB%8B%AC%EB%9F%AC_%EB%B2%A0%EC%9D%B4%EB%B9%84",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%80%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%99%BB%E5%B3%B0%E9%80%A0%E6%93%8A"
         }
       }
     },
@@ -18609,16 +16477,16 @@ window.GAME_DECKS = {
         "qid": "Q188718",
         "wikiTitle": {
           "en": "The Bridge on the River Kwai",
-          "ko": "콰이강의 다리",
+          "ko": "콰이강의 다리 (영화)",
           "ja": "戦場にかける橋",
           "zh": "桂河大桥"
         },
-        "name": "Wikipedia & Wikidata (Q188718)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Bridge%20on%20the%20River%20Kwai",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BD%B0%EC%9D%B4%EA%B0%95%EC%9D%98%20%EB%8B%A4%EB%A6%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E6%88%A6%E5%A0%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%82%8B%E6%A9%8B",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%A1%82%E6%B2%B3%E5%A4%A7%E6%A1%A5"
+          "en": "https://en.wikipedia.org/wiki/The_Bridge_on_the_River_Kwai",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%BD%B0%EC%9D%B4%EA%B0%95%EC%9D%98_%EB%8B%A4%EB%A6%AC_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E6%88%A6%E5%A0%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%82%8B%E6%A9%8B",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%A1%82%E6%B2%B3%E5%A4%A7%E6%A1%A5"
         }
       }
     },
@@ -18652,55 +16520,14 @@ window.GAME_DECKS = {
           "en": "Captain America: Civil War",
           "ko": "캡틴 아메리카: 시빌 워",
           "ja": "シビル・ウォー/キャプテン・アメリカ",
-          "zh": "美國隊長3：英雄內戰"
+          "zh": "美国队长3"
         },
-        "name": "Wikipedia & Wikidata (Q18407657)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Captain%20America%3A%20Civil%20War",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BA%A1%ED%8B%B4%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%3A%20%EC%8B%9C%EB%B9%8C%20%EC%9B%8C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B7%E3%83%93%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%2F%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BE%8E%E5%9C%8B%E9%9A%8A%E9%95%B73%EF%BC%9A%E8%8B%B1%E9%9B%84%E5%85%A7%E6%88%B0"
-        }
-      }
-    },
-    {
-      "id": "tl_Q189330",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Batman%203.JPG?width=640",
-      "value": 2012,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'The Dark Knight Rises'",
-        "ko": "영화 개봉 〈다크 나이트 라이즈〉",
-        "ja": "映画公開『ダークナイト ライジング』",
-        "zh": "电影上映《黑暗騎士：黎明昇起》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'The Dark Knight Rises' in 2012, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2012년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2012年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2012 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2012 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2012년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2012年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2012年）。"
-      },
-      "source": {
-        "qid": "Q189330",
-        "wikiTitle": {
-          "en": "The Dark Knight Rises",
-          "ko": "다크 나이트 라이즈",
-          "ja": "ダークナイト ライジング",
-          "zh": "黑暗騎士：黎明昇起"
-        },
-        "name": "Wikipedia & Wikidata (Q189330)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Dark%20Knight%20Rises",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8B%A4%ED%81%AC%20%EB%82%98%EC%9D%B4%ED%8A%B8%20%EB%9D%BC%EC%9D%B4%EC%A6%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%80%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%88%20%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%BB%91%E6%9A%97%E9%A8%8E%E5%A3%AB%EF%BC%9A%E9%BB%8E%E6%98%8E%E6%98%87%E8%B5%B7"
+          "en": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%BA%A1%ED%8B%B4_%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4:_%EC%8B%9C%EB%B9%8C_%EC%9B%8C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%93%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%95%BF3"
         }
       }
     },
@@ -18731,17 +16558,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q20502242",
         "wikiTitle": {
-          "en": "Wonder Woman",
-          "ko": "원더우먼",
-          "ja": "ワンダーウーマン",
-          "zh": "神奇女侠"
+          "en": "Wonder Woman (2017 film)",
+          "ko": "원더우먼 (2017년 영화)",
+          "ja": "ワンダーウーマン (映画)",
+          "zh": "神力女超人 (2017年電影)"
         },
-        "name": "Wikipedia & Wikidata (Q20502242)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Wonder%20Woman",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9B%90%EB%8D%94%EC%9A%B0%EB%A8%BC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%A6%E3%83%BC%E3%83%9E%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%A5%9E%E5%A5%87%E5%A5%B3%E4%BE%A0"
+          "en": "https://en.wikipedia.org/wiki/Wonder_Woman_(2017_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9B%90%EB%8D%94%EC%9A%B0%EB%A8%BC_(2017%EB%85%84_%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%A6%E3%83%BC%E3%83%9E%E3%83%B3_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%A5%9E%E5%8A%9B%E5%A5%B3%E8%B6%85%E4%BA%BA_(2017%E5%B9%B4%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -18772,58 +16599,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q55436290",
         "wikiTitle": {
-          "en": "Barbie",
-          "ko": "바비",
-          "ja": "バービー",
-          "zh": "芭比"
+          "en": "Barbie (film)",
+          "ko": "바비 (2023년 영화)",
+          "ja": "バービー (映画)",
+          "zh": "Barbie芭比"
         },
-        "name": "Wikipedia & Wikidata (Q55436290)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Barbie",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%94%EB%B9%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%90%E3%83%BC%E3%83%93%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8A%AD%E6%AF%94"
-        }
-      }
-    },
-    {
-      "id": "tl_Q209538",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iron%20Man%203%20-%202013%20movie%20logo.svg?width=640",
-      "value": 2013,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'Iron Man 3'",
-        "ko": "영화 개봉 〈아이언맨 3〉",
-        "ja": "映画公開『アイアンマン3』",
-        "zh": "电影上映《鋼鐵人3》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'Iron Man 3' in 2013, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2013년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2013年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2013 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2013 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2013년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2013年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2013年）。"
-      },
-      "source": {
-        "qid": "Q209538",
-        "wikiTitle": {
-          "en": "Iron Man 3",
-          "ko": "아이언맨 3",
-          "ja": "アイアンマン3",
-          "zh": "鋼鐵人3"
-        },
-        "name": "Wikipedia & Wikidata (Q209538)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Iron%20Man%203",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EC%9D%B4%EC%96%B8%EB%A7%A8%203",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%9E%E3%83%B33",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%8B%BC%E9%90%B5%E4%BA%BA3"
+          "en": "https://en.wikipedia.org/wiki/Barbie_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B0%94%EB%B9%84_(2023%EB%85%84_%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%93%E3%83%BC_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/Barbie%E8%8A%AD%E6%AF%94"
         }
       }
     },
@@ -18859,53 +16645,12 @@ window.GAME_DECKS = {
           "ja": "となりのトトロ",
           "zh": "龙猫"
         },
-        "name": "Wikipedia & Wikidata (Q39571)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=My%20Neighbor%20Totoro",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B4%EC%9B%83%EC%A7%91%20%ED%86%A0%ED%86%A0%EB%A1%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%AE%E3%83%88%E3%83%88%E3%83%AD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%BE%99%E7%8C%AB"
-        }
-      }
-    },
-    {
-      "id": "tl_Q179215",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Indiana%20Jones%20logo.svg?width=640",
-      "value": 1984,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'Indiana Jones and the Temple of Doom'",
-        "ko": "영화 개봉 〈인디아나 존스〉",
-        "ja": "映画公開『インディ・ジョーンズ/魔宮の伝説』",
-        "zh": "电影上映《魔宮傳奇》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'Indiana Jones and the Temple of Doom' in 1984, leaving a lasting mark on global pop culture & art history.",
-        "ko": "1984년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "1984年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 1984 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 1984 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(1984년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（1984年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1984年）。"
-      },
-      "source": {
-        "qid": "Q179215",
-        "wikiTitle": {
-          "en": "Indiana Jones and the Temple of Doom",
-          "ko": "인디아나 존스",
-          "ja": "インディ・ジョーンズ/魔宮の伝説",
-          "zh": "魔宮傳奇"
-        },
-        "name": "Wikipedia & Wikidata (Q179215)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Indiana%20Jones%20and%20the%20Temple%20of%20Doom",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B8%EB%94%94%EC%95%84%EB%82%98%20%EC%A1%B4%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA%2F%E9%AD%94%E5%AE%AE%E3%81%AE%E4%BC%9D%E8%AA%AC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%AD%94%E5%AE%AE%E5%82%B3%E5%A5%87"
+          "en": "https://en.wikipedia.org/wiki/My_Neighbor_Totoro",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9B%83%EC%A7%91_%ED%86%A0%ED%86%A0%EB%A1%9C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%AE%E3%83%88%E3%83%88%E3%83%AD",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%BE%99%E7%8C%AB"
         }
       }
     },
@@ -18938,15 +16683,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "Avatar: The Way of Water",
           "ko": "아바타: 물의 길",
-          "ja": "アバター2",
+          "ja": "アバター:ウェイ・オブ・ウォーター",
           "zh": "阿凡達：水之道"
         },
-        "name": "Wikipedia & Wikidata (Q3604746)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Avatar%3A%20The%20Way%20of%20Water",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EB%B0%94%ED%83%80%3A%20%EB%AC%BC%EC%9D%98%20%EA%B8%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC2",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%98%BF%E5%87%A1%E9%81%94%EF%BC%9A%E6%B0%B4%E4%B9%8B%E9%81%93"
+          "en": "https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%B0%94%ED%83%80:_%EB%AC%BC%EC%9D%98_%EA%B8%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC:%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%87%A1%E9%81%94%EF%BC%9A%E6%B0%B4%E4%B9%8B%E9%81%93"
         }
       }
     },
@@ -18982,12 +16727,12 @@ window.GAME_DECKS = {
           "ja": "ローマの休日",
           "zh": "羅馬假期"
         },
-        "name": "Wikipedia & Wikidata (Q201293)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Roman%20Holiday",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A1%9C%EB%A7%88%EC%9D%98%20%ED%9C%B4%EC%9D%BC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AD%E3%83%BC%E3%83%9E%E3%81%AE%E4%BC%91%E6%97%A5",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BE%85%E9%A6%AC%E5%81%87%E6%9C%9F"
+          "en": "https://en.wikipedia.org/wiki/Roman_Holiday",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88%EC%9D%98_%ED%9C%B4%EC%9D%BC",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E3%81%AE%E4%BC%91%E6%97%A5",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BE%85%E9%A6%AC%E5%81%87%E6%9C%9F"
         }
       }
     },
@@ -19021,14 +16766,14 @@ window.GAME_DECKS = {
           "en": "It's a Wonderful Life",
           "ko": "멋진 인생",
           "ja": "素晴らしき哉、人生!",
-          "zh": "風雲人物"
+          "zh": "風雲人物 (電影)"
         },
-        "name": "Wikipedia & Wikidata (Q204191)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=It's%20a%20Wonderful%20Life",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A9%8B%EC%A7%84%20%EC%9D%B8%EC%83%9D",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%8D%E5%93%89%E3%80%81%E4%BA%BA%E7%94%9F!",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%A2%A8%E9%9B%B2%E4%BA%BA%E7%89%A9"
+          "en": "https://en.wikipedia.org/wiki/It's_a_Wonderful_Life",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A9%8B%EC%A7%84_%EC%9D%B8%EC%83%9D",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%8D%E5%93%89%E3%80%81%E4%BA%BA%E7%94%9F!",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%A2%A8%E9%9B%B2%E4%BA%BA%E7%89%A9_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -19059,17 +16804,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q20456",
         "wikiTitle": {
-          "en": "Dances with Wolves",
+          "en": "Dances With Wolves",
           "ko": "늑대와 춤을",
           "ja": "ダンス・ウィズ・ウルブズ",
           "zh": "與狼共舞"
         },
-        "name": "Wikipedia & Wikidata (Q20456)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Dances%20with%20Wolves",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8A%91%EB%8C%80%EC%99%80%20%EC%B6%A4%EC%9D%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%80%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A3%E3%82%BA%E3%83%BB%E3%82%A6%E3%83%AB%E3%83%96%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%88%87%E7%8B%BC%E5%85%B1%E8%88%9E"
+          "en": "https://en.wikipedia.org/wiki/Dances_With_Wolves",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8A%91%EB%8C%80%EC%99%80_%EC%B6%A4%EC%9D%84",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A3%E3%82%BA%E3%83%BB%E3%82%A6%E3%83%AB%E3%83%96%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%88%87%E7%8B%BC%E5%85%B1%E8%88%9E"
         }
       }
     },
@@ -19105,12 +16850,12 @@ window.GAME_DECKS = {
           "ja": "ハート・ロッカー",
           "zh": "危機倒數"
         },
-        "name": "Wikipedia & Wikidata (Q183066)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Hurt%20Locker",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%97%88%ED%8A%B8%20%EB%A1%9C%EC%BB%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%8F%E3%83%BC%E3%83%88%E3%83%BB%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8D%B1%E6%A9%9F%E5%80%92%E6%95%B8"
+          "en": "https://en.wikipedia.org/wiki/The_Hurt_Locker",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%97%88%ED%8A%B8_%EB%A1%9C%EC%BB%A4",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%88%E3%83%BB%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8D%B1%E6%A9%9F%E5%80%92%E6%95%B8"
         }
       }
     },
@@ -19141,17 +16886,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q151599",
         "wikiTitle": {
-          "en": "Metropolis",
-          "ko": "메트로폴리스",
-          "ja": "メトロポリス",
-          "zh": "大都會"
+          "en": "Metropolis (1927 film)",
+          "ko": "메트로폴리스 (1927년 영화)",
+          "ja": "メトロポリス (1927年の映画)",
+          "zh": "大都會 (1927年電影)"
         },
-        "name": "Wikipedia & Wikidata (Q151599)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Metropolis",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A9%94%ED%8A%B8%EB%A1%9C%ED%8F%B4%EB%A6%AC%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A4%A7%E9%83%BD%E6%9C%83"
+          "en": "https://en.wikipedia.org/wiki/Metropolis_(1927_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A9%94%ED%8A%B8%EB%A1%9C%ED%8F%B4%EB%A6%AC%EC%8A%A4_(1927%EB%85%84_%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9_(1927%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%83%BD%E6%9C%83_(1927%E5%B9%B4%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -19182,17 +16927,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q171453",
         "wikiTitle": {
-          "en": "Transformers",
-          "ko": "트랜스포머",
-          "ja": "トランスフォーマー",
-          "zh": "變形金剛"
+          "en": "Transformers (film)",
+          "ko": "트랜스포머 (영화)",
+          "ja": "トランスフォーマー (2007年の映画)",
+          "zh": "變形金剛 (2007年電影)"
         },
-        "name": "Wikipedia & Wikidata (Q171453)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Transformers",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%AE%8A%E5%BD%A2%E9%87%91%E5%89%9B"
+          "en": "https://en.wikipedia.org/wiki/Transformers_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BC_(2007%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%AE%8A%E5%BD%A2%E9%87%91%E5%89%9B_(2007%E5%B9%B4%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -19224,57 +16969,16 @@ window.GAME_DECKS = {
         "qid": "Q183063",
         "wikiTitle": {
           "en": "The Sixth Sense",
-          "ko": "식스 센스",
+          "ko": "식스 센스 (영화)",
           "ja": "シックス・センス",
-          "zh": "第六感"
+          "zh": "第六感 (電影)"
         },
-        "name": "Wikipedia & Wikidata (Q183063)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Sixth%20Sense",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8B%9D%EC%8A%A4%20%EC%84%BC%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%BB%E3%83%B3%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E5%85%AD%E6%84%9F"
-        }
-      }
-    },
-    {
-      "id": "tl_Q185658",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ExpoSYFY%20-%20Indiana%20Jones%20and%20the%20Last%20Crusade%20%2810746697934%29.jpg?width=640",
-      "value": 1989,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'Indiana Jones and the Last Crusade'",
-        "ko": "영화 개봉 〈인디아나 존스: 최후의 성전〉",
-        "ja": "映画公開『インディ・ジョーンズ/最後の聖戦』",
-        "zh": "电影上映《聖戰奇兵》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'Indiana Jones and the Last Crusade' in 1989, leaving a lasting mark on global pop culture & art history.",
-        "ko": "1989년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "1989年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 1989 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 1989 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(1989년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（1989年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1989年）。"
-      },
-      "source": {
-        "qid": "Q185658",
-        "wikiTitle": {
-          "en": "Indiana Jones and the Last Crusade",
-          "ko": "인디아나 존스: 최후의 성전",
-          "ja": "インディ・ジョーンズ/最後の聖戦",
-          "zh": "聖戰奇兵"
-        },
-        "name": "Wikipedia & Wikidata (Q185658)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Indiana%20Jones%20and%20the%20Last%20Crusade",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B8%EB%94%94%EC%95%84%EB%82%98%20%EC%A1%B4%EC%8A%A4%3A%20%EC%B5%9C%ED%9B%84%EC%9D%98%20%EC%84%B1%EC%A0%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA%2F%E6%9C%80%E5%BE%8C%E3%81%AE%E8%81%96%E6%88%A6",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%81%96%E6%88%B0%E5%A5%87%E5%85%B5"
+          "en": "https://en.wikipedia.org/wiki/The_Sixth_Sense",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8B%9D%EC%8A%A4_%EC%84%BC%EC%8A%A4_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%BB%E3%83%B3%E3%82%B9",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%AC%AC%E5%85%AD%E6%84%9F_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -19306,16 +17010,16 @@ window.GAME_DECKS = {
         "qid": "Q200299",
         "wikiTitle": {
           "en": "All About Eve",
-          "ko": "이브의 모든 것",
+          "ko": "이브의 모든 것 (영화)",
           "ja": "イヴの総て",
-          "zh": "四面夏娃"
+          "zh": "彗星美人"
         },
-        "name": "Wikipedia & Wikidata (Q200299)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=All%20About%20Eve",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B4%EB%B8%8C%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EA%B2%83",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A4%E3%83%B4%E3%81%AE%E7%B7%8F%E3%81%A6",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%9B%9B%E9%9D%A2%E5%A4%8F%E5%A8%83"
+          "en": "https://en.wikipedia.org/wiki/All_About_Eve",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%B8%8C%EC%9D%98_%EB%AA%A8%EB%93%A0_%EA%B2%83_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B4%E3%81%AE%E7%B7%8F%E3%81%A6",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%BD%97%E6%98%9F%E7%BE%8E%E4%BA%BA"
         }
       }
     },
@@ -19346,17 +17050,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q108297",
         "wikiTitle": {
-          "en": "Spartacus",
-          "ko": "스파르타쿠스",
-          "ja": "スパルタカス",
+          "en": "Spartacus (film)",
+          "ko": "스파르타쿠스 (영화)",
+          "ja": "スパルタカス (映画)",
           "zh": "風雲羣英會"
         },
-        "name": "Wikipedia & Wikidata (Q108297)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Spartacus",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BF%A0%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B9%E3%83%91%E3%83%AB%E3%82%BF%E3%82%AB%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%A2%A8%E9%9B%B2%E7%BE%A3%E8%8B%B1%E6%9C%83"
+          "en": "https://en.wikipedia.org/wiki/Spartacus_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EC%BF%A0%EC%8A%A4_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%83%AB%E3%82%BF%E3%82%AB%E3%82%B9_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%A2%A8%E9%9B%B2%E7%BE%A3%E8%8B%B1%E6%9C%83"
         }
       }
     },
@@ -19387,17 +17091,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q229808",
         "wikiTitle": {
-          "en": "The Amazing Spider-Man",
-          "ko": "어메이징 스파이더맨",
-          "ja": "アメイジング・スパイダーマン",
+          "en": "The Amazing Spider-Man (film)",
+          "ko": "어메이징 스파이더맨 (영화)",
+          "ja": "アメイジング・スパイダーマン (映画)",
           "zh": "蜘蛛人：驚奇再起"
         },
-        "name": "Wikipedia & Wikidata (Q229808)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Amazing%20Spider-Man",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%96%B4%EB%A9%94%EC%9D%B4%EC%A7%95%20%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94%EB%A7%A8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%9C%98%E8%9B%9B%E4%BA%BA%EF%BC%9A%E9%A9%9A%E5%A5%87%E5%86%8D%E8%B5%B7"
+          "en": "https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%96%B4%EB%A9%94%EC%9D%B4%EC%A7%95_%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94%EB%A7%A8_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%9C%98%E8%9B%9B%E4%BA%BA%EF%BC%9A%E9%A9%9A%E5%A5%87%E5%86%8D%E8%B5%B7"
         }
       }
     },
@@ -19433,53 +17137,12 @@ window.GAME_DECKS = {
           "ja": "ボラット 栄光ナル国家カザフスタンのためのアメリカ文化学習",
           "zh": "波拉特"
         },
-        "name": "Wikipedia & Wikidata (Q186323)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Borat",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B3%B4%EB%9E%8F%3A%20%EC%B9%B4%EC%9E%90%ED%9D%90%EC%8A%A4%ED%83%84%20%ED%82%B9%EC%B9%B4%EC%9D%98%20%EB%AF%B8%EA%B5%AD%20%EB%AC%B8%ED%99%94%20%EB%B9%A8%EC%95%84%EB%93%A4%EC%9D%B4%EA%B8%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9C%E3%83%A9%E3%83%83%E3%83%88%20%E6%A0%84%E5%85%89%E3%83%8A%E3%83%AB%E5%9B%BD%E5%AE%B6%E3%82%AB%E3%82%B6%E3%83%95%E3%82%B9%E3%82%BF%E3%83%B3%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E6%96%87%E5%8C%96%E5%AD%A6%E7%BF%92",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B3%A2%E6%8B%89%E7%89%B9"
-        }
-      }
-    },
-    {
-      "id": "tl_Q106440",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ETH-BIB%20Goldfinger%201964%20%E2%80%93%20Com%20C13-035-006.jpg?width=640",
-      "value": 1964,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'Goldfinger'",
-        "ko": "영화 개봉 〈007 골드핑거〉",
-        "ja": "映画公開『007 ゴールドフィンガー』",
-        "zh": "电影上映《鐵金剛大戰金手指》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'Goldfinger' in 1964, leaving a lasting mark on global pop culture & art history.",
-        "ko": "1964년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "1964年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 1964 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 1964 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(1964년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（1964年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1964年）。"
-      },
-      "source": {
-        "qid": "Q106440",
-        "wikiTitle": {
-          "en": "Goldfinger",
-          "ko": "007 골드핑거",
-          "ja": "007 ゴールドフィンガー",
-          "zh": "鐵金剛大戰金手指"
-        },
-        "name": "Wikipedia & Wikidata (Q106440)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Goldfinger",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=007%20%EA%B3%A8%EB%93%9C%ED%95%91%EA%B1%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=007%20%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%95%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%90%B5%E9%87%91%E5%89%9B%E5%A4%A7%E6%88%B0%E9%87%91%E6%89%8B%E6%8C%87"
+          "en": "https://en.wikipedia.org/wiki/Borat",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EB%9E%8F:_%EC%B9%B4%EC%9E%90%ED%9D%90%EC%8A%A4%ED%83%84_%ED%82%B9%EC%B9%B4%EC%9D%98_%EB%AF%B8%EA%B5%AD_%EB%AC%B8%ED%99%94_%EB%B9%A8%EC%95%84%EB%93%A4%EC%9D%B4%EA%B8%B0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%A9%E3%83%83%E3%83%88_%E6%A0%84%E5%85%89%E3%83%8A%E3%83%AB%E5%9B%BD%E5%AE%B6%E3%82%AB%E3%82%B6%E3%83%95%E3%82%B9%E3%82%BF%E3%83%B3%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E6%96%87%E5%8C%96%E5%AD%A6%E7%BF%92",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%8B%89%E7%89%B9"
         }
       }
     },
@@ -19510,58 +17173,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q218235",
         "wikiTitle": {
-          "en": "Charlie and the Chocolate Factory",
-          "ko": "찰리와 초콜릿 공장",
+          "en": "Charlie and the Chocolate Factory (film)",
+          "ko": "찰리와 초콜릿 공장 (영화)",
           "ja": "チャーリーとチョコレート工場",
-          "zh": "查理和巧克力工廠"
+          "zh": "查理和巧克力工厂"
         },
-        "name": "Wikipedia & Wikidata (Q218235)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Charlie%20and%20the%20Chocolate%20Factory",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%B0%B0%EB%A6%AC%EC%99%80%20%EC%B4%88%EC%BD%9C%EB%A6%BF%20%EA%B3%B5%EC%9E%A5",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%A8%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E5%B7%A5%E5%A0%B4",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%9F%A5%E7%90%86%E5%92%8C%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B7%A5%E5%BB%A0"
-        }
-      }
-    },
-    {
-      "id": "tl_Q230552",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zur%C3%BCck%20in%20die%20zukunft%203%20logo.svg?width=640",
-      "value": 1990,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'Back to the Future Part III'",
-        "ko": "영화 개봉 〈백 투 더 퓨처 3〉",
-        "ja": "映画公開『バック・トゥ・ザ・フューチャー PART3』",
-        "zh": "电影上映《回到未來III》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'Back to the Future Part III' in 1990, leaving a lasting mark on global pop culture & art history.",
-        "ko": "1990년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "1990年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 1990 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 1990 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(1990년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（1990年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（1990年）。"
-      },
-      "source": {
-        "qid": "Q230552",
-        "wikiTitle": {
-          "en": "Back to the Future Part III",
-          "ko": "백 투 더 퓨처 3",
-          "ja": "バック・トゥ・ザ・フューチャー PART3",
-          "zh": "回到未來III"
-        },
-        "name": "Wikipedia & Wikidata (Q230552)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Back%20to%20the%20Future%20Part%20III",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%B1%20%ED%88%AC%20%EB%8D%94%20%ED%93%A8%EC%B2%98%203",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%90%E3%83%83%E3%82%AF%E3%83%BB%E3%83%88%E3%82%A5%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%20PART3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%9B%9E%E5%88%B0%E6%9C%AA%E4%BE%86III"
+          "en": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%B0%B0%EB%A6%AC%EC%99%80_%EC%B4%88%EC%BD%9C%EB%A6%BF_%EA%B3%B5%EC%9E%A5_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%A8%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E5%B7%A5%E5%A0%B4",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%E5%92%8C%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%B7%A5%E5%8E%82"
         }
       }
     },
@@ -19593,57 +17215,16 @@ window.GAME_DECKS = {
         "qid": "Q172837",
         "wikiTitle": {
           "en": "Bicycle Thieves",
-          "ko": "자전거 도둑",
-          "ja": "自転車泥棒",
+          "ko": "자전거 도둑 (영화)",
+          "ja": "自転車泥棒 (映画)",
           "zh": "單車失竊記"
         },
-        "name": "Wikipedia & Wikidata (Q172837)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Bicycle%20Thieves",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9E%90%EC%A0%84%EA%B1%B0%20%EB%8F%84%EB%91%91",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E8%87%AA%E8%BB%A2%E8%BB%8A%E6%B3%A5%E6%A3%92",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%96%AE%E8%BB%8A%E5%A4%B1%E7%AB%8A%E8%A8%98"
-        }
-      }
-    },
-    {
-      "id": "tl_Q4254026",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Amazing%20Spider-Man%202%202014-04-05%2018-17.png?width=640",
-      "value": 2014,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'The Amazing Spider-Man 2'",
-        "ko": "영화 개봉 〈어메이징 스파이더맨 2〉",
-        "ja": "映画公開『アメイジング・スパイダーマン2』",
-        "zh": "电影上映《蜘蛛人驚奇再起2：電光之戰》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'The Amazing Spider-Man 2' in 2014, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2014년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2014年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2014 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2014 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2014년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2014年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2014年）。"
-      },
-      "source": {
-        "qid": "Q4254026",
-        "wikiTitle": {
-          "en": "The Amazing Spider-Man 2",
-          "ko": "어메이징 스파이더맨 2",
-          "ja": "アメイジング・スパイダーマン2",
-          "zh": "蜘蛛人驚奇再起2：電光之戰"
-        },
-        "name": "Wikipedia & Wikidata (Q4254026)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Amazing%20Spider-Man%202",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%96%B4%EB%A9%94%EC%9D%B4%EC%A7%95%20%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94%EB%A7%A8%202",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B32",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%9C%98%E8%9B%9B%E4%BA%BA%E9%A9%9A%E5%A5%87%E5%86%8D%E8%B5%B72%EF%BC%9A%E9%9B%BB%E5%85%89%E4%B9%8B%E6%88%B0"
+          "en": "https://en.wikipedia.org/wiki/Bicycle_Thieves",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%A0%84%EA%B1%B0_%EB%8F%84%EB%91%91_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E8%87%AA%E8%BB%A2%E8%BB%8A%E6%B3%A5%E6%A3%92_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%96%AE%E8%BB%8A%E5%A4%B1%E7%AB%8A%E8%A8%98"
         }
       }
     },
@@ -19674,17 +17255,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q18199330",
         "wikiTitle": {
-          "en": "Fantastic Beasts and Where to Find Them",
-          "ko": "신비한 동물사전",
+          "en": "Fantastic Beasts and Where to Find Them (film)",
+          "ko": "신비한 동물사전 (영화)",
           "ja": "ファンタスティック・ビーストと魔法使いの旅",
-          "zh": "怪獸與牠們的產地"
+          "zh": "怪獸與牠們的產地 (電影)"
         },
-        "name": "Wikipedia & Wikidata (Q18199330)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Fantastic%20Beasts%20and%20Where%20to%20Find%20Them",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%8B%A0%EB%B9%84%ED%95%9C%20%EB%8F%99%EB%AC%BC%EC%82%AC%EC%A0%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%93%E3%83%BC%E3%82%B9%E3%83%88%E3%81%A8%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E6%97%85",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%80%AA%E7%8D%B8%E8%88%87%E7%89%A0%E5%80%91%E7%9A%84%E7%94%A2%E5%9C%B0"
+          "en": "https://en.wikipedia.org/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%B9%84%ED%95%9C_%EB%8F%99%EB%AC%BC%EC%82%AC%EC%A0%84_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%93%E3%83%BC%E3%82%B9%E3%83%88%E3%81%A8%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E6%97%85",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%80%AA%E7%8D%B8%E8%88%87%E7%89%A0%E5%80%91%E7%9A%84%E7%94%A2%E5%9C%B0_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -19715,58 +17296,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q18604504",
         "wikiTitle": {
-          "en": "Suicide Squad",
-          "ko": "수어사이드 스쿼드",
-          "ja": "スーサイド・スクワッド",
-          "zh": "自殺突擊隊"
+          "en": "Suicide Squad (2016 film)",
+          "ko": "수어사이드 스쿼드 (영화)",
+          "ja": "スーサイド・スクワッド (映画)",
+          "zh": "自殺突擊隊 (電影)"
         },
-        "name": "Wikipedia & Wikidata (Q18604504)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Suicide%20Squad",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%88%98%EC%96%B4%EC%82%AC%EC%9D%B4%EB%93%9C%20%EC%8A%A4%EC%BF%BC%EB%93%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%BB%E3%82%B9%E3%82%AF%E3%83%AF%E3%83%83%E3%83%89",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%87%AA%E6%AE%BA%E7%AA%81%E6%93%8A%E9%9A%8A"
-        }
-      }
-    },
-    {
-      "id": "tl_Q189600",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The.Matrix.glmatrix.2.png?width=640",
-      "value": 2003,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'The Matrix Reloaded'",
-        "ko": "영화 개봉 〈매트릭스 리로디드〉",
-        "ja": "映画公開『マトリックス リローデッド』",
-        "zh": "电影上映《黑客帝国2：重装上阵》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'The Matrix Reloaded' in 2003, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2003년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2003年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2003 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2003 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2003년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2003年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2003年）。"
-      },
-      "source": {
-        "qid": "Q189600",
-        "wikiTitle": {
-          "en": "The Matrix Reloaded",
-          "ko": "매트릭스 리로디드",
-          "ja": "マトリックス リローデッド",
-          "zh": "黑客帝国2：重装上阵"
-        },
-        "name": "Wikipedia & Wikidata (Q189600)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Matrix%20Reloaded",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4%20%EB%A6%AC%EB%A1%9C%EB%94%94%EB%93%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%20%E3%83%AA%E3%83%AD%E3%83%BC%E3%83%87%E3%83%83%E3%83%89",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD2%EF%BC%9A%E9%87%8D%E8%A3%85%E4%B8%8A%E9%98%B5"
+          "en": "https://en.wikipedia.org/wiki/Suicide_Squad_(2016_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%96%B4%EC%82%AC%EC%9D%B4%EB%93%9C_%EC%8A%A4%EC%BF%BC%EB%93%9C_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%BB%E3%82%B9%E3%82%AF%E3%83%AF%E3%83%83%E3%83%89_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%87%AA%E6%AE%BA%E7%AA%81%E6%93%8A%E9%9A%8A_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -19797,17 +17337,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q20382729",
         "wikiTitle": {
-          "en": "Arrival",
-          "ko": "컨택트",
-          "ja": "メッセージ",
-          "zh": "降临"
+          "en": "Arrival (film)",
+          "ko": "컨택트 (영화)",
+          "ja": "メッセージ (映画)",
+          "zh": "降临 (电影)"
         },
-        "name": "Wikipedia & Wikidata (Q20382729)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Arrival",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BB%A8%ED%83%9D%ED%8A%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%99%8D%E4%B8%B4"
+          "en": "https://en.wikipedia.org/wiki/Arrival_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%BB%A8%ED%83%9D%ED%8A%B8_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%99%8D%E4%B8%B4_(%E7%94%B5%E5%BD%B1)"
         }
       }
     },
@@ -19838,17 +17378,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q202548",
         "wikiTitle": {
-          "en": "Vertigo",
-          "ko": "현기증",
-          "ja": "めまい",
+          "en": "Vertigo (film)",
+          "ko": "현기증 (1958년 영화)",
+          "ja": "めまい (映画)",
           "zh": "迷魂記"
         },
-        "name": "Wikipedia & Wikidata (Q202548)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Vertigo",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%98%84%EA%B8%B0%EC%A6%9D",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%81%E3%81%BE%E3%81%84",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%BF%B7%E9%AD%82%E8%A8%98"
+          "en": "https://en.wikipedia.org/wiki/Vertigo_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%98%84%EA%B8%B0%EC%A6%9D_(1958%EB%85%84_%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%81%E3%81%BE%E3%81%84_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%BF%B7%E9%AD%82%E8%A8%98"
         }
       }
     },
@@ -19882,14 +17422,14 @@ window.GAME_DECKS = {
           "en": "A Fistful of Dollars",
           "ko": "황야의 무법자",
           "ja": "荒野の用心棒",
-          "zh": "荒野大鏢客"
+          "zh": "荒野大鏢客 (電影)"
         },
-        "name": "Wikipedia & Wikidata (Q76479)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=A%20Fistful%20of%20Dollars",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%99%A9%EC%95%BC%EC%9D%98%20%EB%AC%B4%EB%B2%95%EC%9E%90",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E8%8D%92%E9%87%8E%E3%81%AE%E7%94%A8%E5%BF%83%E6%A3%92",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%8D%92%E9%87%8E%E5%A4%A7%E9%8F%A2%E5%AE%A2"
+          "en": "https://en.wikipedia.org/wiki/A_Fistful_of_Dollars",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%99%A9%EC%95%BC%EC%9D%98_%EB%AC%B4%EB%B2%95%EC%9E%90",
+          "ja": "https://ja.wikipedia.org/wiki/%E8%8D%92%E9%87%8E%E3%81%AE%E7%94%A8%E5%BF%83%E6%A3%92",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%8D%92%E9%87%8E%E5%A4%A7%E9%8F%A2%E5%AE%A2_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -19920,17 +17460,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q116852",
         "wikiTitle": {
-          "en": "Batman",
-          "ko": "배트맨",
-          "ja": "バットマン",
-          "zh": "蝙蝠俠"
+          "en": "Batman (1989 film)",
+          "ko": "배트맨 (1989년 영화)",
+          "ja": "バットマン (1989年の映画)",
+          "zh": "蝙蝠俠 (1989年電影)"
         },
-        "name": "Wikipedia & Wikidata (Q116852)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Batman",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%B0%B0%ED%8A%B8%EB%A7%A8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%90%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%9D%99%E8%9D%A0%E4%BF%A0"
+          "en": "https://en.wikipedia.org/wiki/Batman_(1989_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%B0%B0%ED%8A%B8%EB%A7%A8_(1989%EB%85%84_%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3_(1989%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%9D%99%E8%9D%A0%E4%BF%A0_(1989%E5%B9%B4%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -19964,14 +17504,14 @@ window.GAME_DECKS = {
           "en": "12 Monkeys",
           "ko": "12 몽키즈",
           "ja": "12モンキーズ",
-          "zh": "十二隻猴子"
+          "zh": "十二猴子"
         },
-        "name": "Wikipedia & Wikidata (Q175038)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=12%20Monkeys",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=12%20%EB%AA%BD%ED%82%A4%EC%A6%88",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=12%E3%83%A2%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8D%81%E4%BA%8C%E9%9A%BB%E7%8C%B4%E5%AD%90"
+          "en": "https://en.wikipedia.org/wiki/12_Monkeys",
+          "ko": "https://ko.wikipedia.org/wiki/12_%EB%AA%BD%ED%82%A4%EC%A6%88",
+          "ja": "https://ja.wikipedia.org/wiki/12%E3%83%A2%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%BA",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E7%8C%B4%E5%AD%90"
         }
       }
     },
@@ -20005,14 +17545,14 @@ window.GAME_DECKS = {
           "en": "Indiana Jones and the Kingdom of the Crystal Skull",
           "ko": "인디아나 존스: 크리스탈 해골의 왕국",
           "ja": "インディ・ジョーンズ/クリスタル・スカルの王国",
-          "zh": "印地安納瓊斯：水晶骷髏王國"
+          "zh": "印第安納瓊斯：水晶骷髏王國"
         },
-        "name": "Wikipedia & Wikidata (Q182373)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Indiana%20Jones%20and%20the%20Kingdom%20of%20the%20Crystal%20Skull",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B8%EB%94%94%EC%95%84%EB%82%98%20%EC%A1%B4%EC%8A%A4%3A%20%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88%20%ED%95%B4%EA%B3%A8%EC%9D%98%20%EC%99%95%EA%B5%AD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA%2F%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%AB%E3%83%AB%E3%81%AE%E7%8E%8B%E5%9B%BD",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%8D%B0%E5%9C%B0%E5%AE%89%E7%B4%8D%E7%93%8A%E6%96%AF%EF%BC%9A%E6%B0%B4%E6%99%B6%E9%AA%B7%E9%AB%8F%E7%8E%8B%E5%9C%8B"
+          "en": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EB%94%94%EC%95%84%EB%82%98_%EC%A1%B4%EC%8A%A4:_%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88_%ED%95%B4%EA%B3%A8%EC%9D%98_%EC%99%95%EA%B5%AD",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA/%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%AB%E3%83%AB%E3%81%AE%E7%8E%8B%E5%9B%BD",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%B4%8D%E7%93%8A%E6%96%AF%EF%BC%9A%E6%B0%B4%E6%99%B6%E9%AA%B7%E9%AB%8F%E7%8E%8B%E5%9C%8B"
         }
       }
     },
@@ -20043,58 +17583,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q192686",
         "wikiTitle": {
-          "en": "Prometheus",
-          "ko": "프로메테우스",
-          "ja": "プロメテウス",
-          "zh": "普羅米修斯"
+          "en": "Prometheus (2012 film)",
+          "ko": "프로메테우스 (영화)",
+          "ja": "プロメテウス (映画)",
+          "zh": "普罗米修斯 (电影)"
         },
-        "name": "Wikipedia & Wikidata (Q192686)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Prometheus",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%97%E3%83%AD%E3%83%A1%E3%83%86%E3%82%A6%E3%82%B9",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%99%AE%E7%BE%85%E7%B1%B3%E4%BF%AE%E6%96%AF"
-        }
-      }
-    },
-    {
-      "id": "tl_Q207536",
-      "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The.Matrix.glmatrix.2.png?width=640",
-      "value": 2003,
-      "unit": "year",
-      "name": {
-        "en": "Movie Premiere: 'The Matrix Revolutions'",
-        "ko": "영화 개봉 〈매트릭스 혁명〉",
-        "ja": "映画公開『マトリックス レボリューションズ』",
-        "zh": "电影上映《黑客帝国3：矩阵革命》"
-      },
-      "note": {
-        "en": "Movie Premiere: 'The Matrix Revolutions' in 2003, leaving a lasting mark on global pop culture & art history.",
-        "ko": "2003년에 세상에 처음 공개된 전 세계적 명작·문화 콘텐츠입니다.",
-        "ja": "2003年に世に送り出された世界的な名作・カルチャー作品です。",
-        "zh": "于 2003 年首次问世的全球经典名作与流行文化里程碑。"
-      },
-      "basis": {
-        "en": "Recorded as 2003 based on first publication, premiere screening, or commercial launch date.",
-        "ko": "작품이 대중에 최초 출간·초연·개봉·출시된 공식 연도(2003년) 기준.",
-        "ja": "作品の初版発行・初公開・初発売の公式年（2003年）に基づく。",
-        "zh": "依据作品首次出版、首映、首演或正式发售的官方年份（2003年）。"
-      },
-      "source": {
-        "qid": "Q207536",
-        "wikiTitle": {
-          "en": "The Matrix Revolutions",
-          "ko": "매트릭스 혁명",
-          "ja": "マトリックス レボリューションズ",
-          "zh": "黑客帝国3：矩阵革命"
-        },
-        "name": "Wikipedia & Wikidata (Q207536)",
-        "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Matrix%20Revolutions",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4%20%ED%98%81%EB%AA%85",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%20%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD3%EF%BC%9A%E7%9F%A9%E9%98%B5%E9%9D%A9%E5%91%BD"
+          "en": "https://en.wikipedia.org/wiki/Prometheus_(2012_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%83%A1%E3%83%86%E3%82%A6%E3%82%B9_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%99%AE%E7%BD%97%E7%B1%B3%E4%BF%AE%E6%96%AF_(%E7%94%B5%E5%BD%B1)"
         }
       }
     },
@@ -20128,14 +17627,14 @@ window.GAME_DECKS = {
           "en": "The Last Emperor",
           "ko": "마지막 황제",
           "ja": "ラストエンペラー",
-          "zh": "末代皇帝"
+          "zh": "末代皇帝 (电影)"
         },
-        "name": "Wikipedia & Wikidata (Q212775)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Last%20Emperor",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A7%88%EC%A7%80%EB%A7%89%20%ED%99%A9%EC%A0%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%A9%E3%82%B9%E3%83%88%E3%82%A8%E3%83%B3%E3%83%9A%E3%83%A9%E3%83%BC",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D"
+          "en": "https://en.wikipedia.org/wiki/The_Last_Emperor",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%A7%80%EB%A7%89_%ED%99%A9%EC%A0%9C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B9%E3%83%88%E3%82%A8%E3%83%B3%E3%83%9A%E3%83%A9%E3%83%BC",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D_(%E7%94%B5%E5%BD%B1)"
         }
       }
     },
@@ -20168,15 +17667,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "The Seventh Seal",
           "ko": "제7의 봉인",
-          "ja": "第七の封印",
+          "ja": "第七の封印 (映画)",
           "zh": "第七封印"
         },
-        "name": "Wikipedia & Wikidata (Q217189)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Seventh%20Seal",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%9C7%EC%9D%98%20%EB%B4%89%EC%9D%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%B8%83%E3%81%AE%E5%B0%81%E5%8D%B0",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%B8%83%E5%B0%81%E5%8D%B0"
+          "en": "https://en.wikipedia.org/wiki/The_Seventh_Seal",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A0%9C7%EC%9D%98_%EB%B4%89%EC%9D%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%B8%83%E3%81%AE%E5%B0%81%E5%8D%B0_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%B8%83%E5%B0%81%E5%8D%B0"
         }
       }
     },
@@ -20212,12 +17711,12 @@ window.GAME_DECKS = {
           "ja": "ドニー・ダーコ",
           "zh": "怵目驚魂28天"
         },
-        "name": "Wikipedia & Wikidata (Q426828)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Donnie%20Darko",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8F%84%EB%8B%88%20%EB%8B%A4%EC%BD%94",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%89%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%80%E3%83%BC%E3%82%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%80%B5%E7%9B%AE%E9%A9%9A%E9%AD%8228%E5%A4%A9"
+          "en": "https://en.wikipedia.org/wiki/Donnie_Darko",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%8B%88_%EB%8B%A4%EC%BD%94",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%80%E3%83%BC%E3%82%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%80%B5%E7%9B%AE%E9%A9%9A%E9%AD%8228%E5%A4%A9"
         }
       }
     },
@@ -20248,17 +17747,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q21935651",
         "wikiTitle": {
-          "en": "Dunkirk",
-          "ko": "던커크",
-          "ja": "ダンケルク",
-          "zh": "敦刻尔克"
+          "en": "Dunkirk (2017 film)",
+          "ko": "덩케르크 (영화)",
+          "ja": "ダンケルク (2017年の映画)",
+          "zh": "敦克爾克大行動"
         },
-        "name": "Wikipedia & Wikidata (Q21935651)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Dunkirk",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8D%98%EC%BB%A4%ED%81%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%80%E3%83%B3%E3%82%B1%E3%83%AB%E3%82%AF",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%95%A6%E5%88%BB%E5%B0%94%E5%85%8B"
+          "en": "https://en.wikipedia.org/wiki/Dunkirk_(2017_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8D%A9%EC%BC%80%EB%A5%B4%ED%81%AC_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%82%B1%E3%83%AB%E3%82%AF_(2017%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%95%A6%E5%85%8B%E7%88%BE%E5%85%8B%E5%A4%A7%E8%A1%8C%E5%8B%95"
         }
       }
     },
@@ -20289,17 +17788,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q22998395",
         "wikiTitle": {
-          "en": "Aquaman",
-          "ko": "아쿠아맨",
-          "ja": "アクアマン",
-          "zh": "水行俠"
+          "en": "Aquaman (film)",
+          "ko": "아쿠아맨 (영화)",
+          "ja": "アクアマン (映画)",
+          "zh": "水行俠 (電影)"
         },
-        "name": "Wikipedia & Wikidata (Q22998395)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Aquaman",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%95%84%EC%BF%A0%EC%95%84%EB%A7%A8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%9E%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E6%B0%B4%E8%A1%8C%E4%BF%A0"
+          "en": "https://en.wikipedia.org/wiki/Aquaman_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%BF%A0%EC%95%84%EB%A7%A8_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%9E%E3%83%B3_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E6%B0%B4%E8%A1%8C%E4%BF%A0_(%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -20330,17 +17829,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q61117344",
         "wikiTitle": {
-          "en": "The Batman",
-          "ko": "더 배트맨",
-          "ja": "ザ・バットマン",
-          "zh": "蝙蝠侠"
+          "en": "The Batman (film)",
+          "ko": "더 배트맨 (영화)",
+          "ja": "THE BATMAN-ザ・バットマン-",
+          "zh": "蝙蝠俠 (2022年電影)"
         },
-        "name": "Wikipedia & Wikidata (Q61117344)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Batman",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8D%94%20%EB%B0%B0%ED%8A%B8%EB%A7%A8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B6%E3%83%BB%E3%83%90%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%9D%99%E8%9D%A0%E4%BE%A0"
+          "en": "https://en.wikipedia.org/wiki/The_Batman_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8D%94_%EB%B0%B0%ED%8A%B8%EB%A7%A8_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/THE_BATMAN-%E3%82%B6%E3%83%BB%E3%83%90%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3-",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%9D%99%E8%9D%A0%E4%BF%A0_(2022%E5%B9%B4%E9%9B%BB%E5%BD%B1)"
         }
       }
     },
@@ -20372,16 +17871,16 @@ window.GAME_DECKS = {
         "qid": "Q34414",
         "wikiTitle": {
           "en": "Rear Window",
-          "ko": "이창",
+          "ko": "이창 (영화)",
           "ja": "裏窓",
           "zh": "後窗"
         },
-        "name": "Wikipedia & Wikidata (Q34414)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Rear%20Window",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9D%B4%EC%B0%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E8%A3%8F%E7%AA%93",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%BE%8C%E7%AA%97"
+          "en": "https://en.wikipedia.org/wiki/Rear_Window",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%B0%BD_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E8%A3%8F%E7%AA%93",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%BE%8C%E7%AA%97"
         }
       }
     },
@@ -20413,16 +17912,16 @@ window.GAME_DECKS = {
         "qid": "Q135465",
         "wikiTitle": {
           "en": "Rashomon",
-          "ko": "라쇼몽",
-          "ja": "羅生門",
-          "zh": "羅生門"
+          "ko": "라쇼몽 (1950년 영화)",
+          "ja": "羅生門 (1950年の映画)",
+          "zh": "罗生门 (1950年电影)"
         },
-        "name": "Wikipedia & Wikidata (Q135465)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Rashomon",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%9D%BC%EC%87%BC%EB%AA%BD",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%BE%85%E7%94%9F%E9%96%80",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BE%85%E7%94%9F%E9%96%80"
+          "en": "https://en.wikipedia.org/wiki/Rashomon",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%87%BC%EB%AA%BD_(1950%EB%85%84_%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%BE%85%E7%94%9F%E9%96%80_(1950%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BD%97%E7%94%9F%E9%97%A8_(1950%E5%B9%B4%E7%94%B5%E5%BD%B1)"
         }
       }
     },
@@ -20458,12 +17957,12 @@ window.GAME_DECKS = {
           "ja": "第三の男",
           "zh": "黑獄亡魂"
         },
-        "name": "Wikipedia & Wikidata (Q271830)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Third%20Man",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%A0%9C3%EC%9D%98%20%EC%82%AC%EB%82%98%EC%9D%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E7%AC%AC%E4%B8%89%E3%81%AE%E7%94%B7",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E9%BB%91%E7%8D%84%E4%BA%A1%E9%AD%82"
+          "en": "https://en.wikipedia.org/wiki/The_Third_Man",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%A0%9C3%EC%9D%98_%EC%82%AC%EB%82%98%EC%9D%B4",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%B8%89%E3%81%AE%E7%94%B7",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%BB%91%E7%8D%84%E4%BA%A1%E9%AD%82"
         }
       }
     },
@@ -20494,17 +17993,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q152857",
         "wikiTitle": {
-          "en": "Downfall",
-          "ko": "다운폴",
+          "en": "Downfall (2004 film)",
+          "ko": "다운폴 (영화)",
           "ja": "ヒトラー 〜最期の12日間〜",
-          "zh": "希特拉的最後十二夜"
+          "zh": "希特拉的最後12夜"
         },
-        "name": "Wikipedia & Wikidata (Q152857)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Downfall",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%8B%A4%EC%9A%B4%ED%8F%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%92%E3%83%88%E3%83%A9%E3%83%BC%20%E3%80%9C%E6%9C%80%E6%9C%9F%E3%81%AE12%E6%97%A5%E9%96%93%E3%80%9C",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%B8%8C%E7%89%B9%E6%8B%89%E7%9A%84%E6%9C%80%E5%BE%8C%E5%8D%81%E4%BA%8C%E5%A4%9C"
+          "en": "https://en.wikipedia.org/wiki/Downfall_(2004_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%9A%B4%ED%8F%B4_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%88%E3%83%A9%E3%83%BC_%E3%80%9C%E6%9C%80%E6%9C%9F%E3%81%AE12%E6%97%A5%E9%96%93%E3%80%9C",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%B8%8C%E7%89%B9%E6%8B%89%E7%9A%84%E6%9C%80%E5%BE%8C12%E5%A4%9C"
         }
       }
     },
@@ -20536,16 +18035,16 @@ window.GAME_DECKS = {
         "qid": "Q274167",
         "wikiTitle": {
           "en": "The Exorcist",
-          "ko": "엑소시스트",
-          "ja": "エクソシスト",
+          "ko": "엑소시스트 (영화)",
+          "ja": "エクソシスト (映画)",
           "zh": "大法師"
         },
-        "name": "Wikipedia & Wikidata (Q274167)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Exorcist",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%97%91%EC%86%8C%EC%8B%9C%EC%8A%A4%ED%8A%B8",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A8%E3%82%AF%E3%82%BD%E3%82%B7%E3%82%B9%E3%83%88",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E5%A4%A7%E6%B3%95%E5%B8%AB"
+          "en": "https://en.wikipedia.org/wiki/The_Exorcist",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%97%91%EC%86%8C%EC%8B%9C%EC%8A%A4%ED%8A%B8_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%BD%E3%82%B7%E3%82%B9%E3%83%88_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%B3%95%E5%B8%AB"
         }
       }
     },
@@ -20578,15 +18077,15 @@ window.GAME_DECKS = {
         "wikiTitle": {
           "en": "Once Upon a Time in the West",
           "ko": "옛날 옛적 서부에서",
-          "ja": "ウエスタン",
+          "ja": "ウエスタン (映画)",
           "zh": "狂沙十萬里"
         },
-        "name": "Wikipedia & Wikidata (Q168154)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Once%20Upon%20a%20Time%20in%20the%20West",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%98%9B%EB%82%A0%20%EC%98%9B%EC%A0%81%20%EC%84%9C%EB%B6%80%EC%97%90%EC%84%9C",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%A6%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%8B%82%E6%B2%99%E5%8D%81%E8%90%AC%E9%87%8C"
+          "en": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_the_West",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%98%9B%EB%82%A0_%EC%98%9B%EC%A0%81_%EC%84%9C%EB%B6%80%EC%97%90%EC%84%9C",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%B3_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%8B%82%E6%B2%99%E5%8D%81%E8%90%AC%E9%87%8C"
         }
       }
     },
@@ -20617,17 +18116,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q15648198",
         "wikiTitle": {
-          "en": "Whiplash",
-          "ko": "위플래쉬",
-          "ja": "セッション",
+          "en": "Whiplash (2014 film)",
+          "ko": "위플래쉬 (2014년 영화)",
+          "ja": "セッション (映画)",
           "zh": "爆裂鼓手"
         },
-        "name": "Wikipedia & Wikidata (Q15648198)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Whiplash",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%9C%84%ED%94%8C%EB%9E%98%EC%89%AC",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%88%86%E8%A3%82%E9%BC%93%E6%89%8B"
+          "en": "https://en.wikipedia.org/wiki/Whiplash_(2014_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%9C%84%ED%94%8C%EB%9E%98%EC%89%AC_(2014%EB%85%84_%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3_(%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%88%86%E8%A3%82%E9%BC%93%E6%89%8B"
         }
       }
     },
@@ -20658,17 +18157,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q192115",
         "wikiTitle": {
-          "en": "Sin City",
-          "ko": "씬 시티",
+          "en": "Sin City (film)",
+          "ko": "씬 시티 (영화)",
           "ja": "シン・シティ",
-          "zh": "罪恶之城"
+          "zh": "罪恶之城 (电影)"
         },
-        "name": "Wikipedia & Wikidata (Q192115)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Sin%20City",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%94%AC%20%EC%8B%9C%ED%8B%B0",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%82%B7%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%86%E3%82%A3",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E7%BD%AA%E6%81%B6%E4%B9%8B%E5%9F%8E"
+          "en": "https://en.wikipedia.org/wiki/Sin_City_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%94%AC_%EC%8B%9C%ED%8B%B0_(%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%86%E3%82%A3",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%BD%AA%E6%81%B6%E4%B9%8B%E5%9F%8E_(%E7%94%B5%E5%BD%B1)"
         }
       }
     },
@@ -20699,17 +18198,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q25136757",
         "wikiTitle": {
-          "en": "Call Me by Your Name",
+          "en": "Call Me by Your Name (film)",
           "ko": "콜 미 바이 유어 네임",
           "ja": "君の名前で僕を呼んで",
-          "zh": "以你的名字呼喚我"
+          "zh": "请以你的名字呼唤我 (电影)"
         },
-        "name": "Wikipedia & Wikidata (Q25136757)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Call%20Me%20by%20Your%20Name",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EC%BD%9C%20%EB%AF%B8%20%EB%B0%94%EC%9D%B4%20%EC%9C%A0%EC%96%B4%20%EB%84%A4%EC%9E%84",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E5%90%9B%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%A7%E5%83%95%E3%82%92%E5%91%BC%E3%82%93%E3%81%A7",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E4%BB%A5%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%E5%91%BC%E5%96%9A%E6%88%91"
+          "en": "https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EC%BD%9C_%EB%AF%B8_%EB%B0%94%EC%9D%B4_%EC%9C%A0%EC%96%B4_%EB%84%A4%EC%9E%84",
+          "ja": "https://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%A7%E5%83%95%E3%82%92%E5%91%BC%E3%82%93%E3%81%A7",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%AF%B7%E4%BB%A5%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%E5%91%BC%E5%94%A4%E6%88%91_(%E7%94%B5%E5%BD%B1)"
         }
       }
     },
@@ -20740,17 +18239,17 @@ window.GAME_DECKS = {
       "source": {
         "qid": "Q204212",
         "wikiTitle": {
-          "en": "Rebecca",
-          "ko": "레베카",
-          "ja": "レベッカ",
-          "zh": "蝴蝶梦"
+          "en": "Rebecca (1940 film)",
+          "ko": "레베카 (1940년 영화)",
+          "ja": "レベッカ (1940年の映画)",
+          "zh": "蝴蝶梦 (电影)"
         },
-        "name": "Wikipedia & Wikidata (Q204212)",
+        "name": "Wikipedia & Wikidata",
         "url": {
-          "en": "https://en.wikipedia.org/wiki/Special:Search?search=Rebecca",
-          "ko": "https://ko.wikipedia.org/wiki/Special:Search?search=%EB%A0%88%EB%B2%A0%EC%B9%B4",
-          "ja": "https://ja.wikipedia.org/wiki/Special:Search?search=%E3%83%AC%E3%83%99%E3%83%83%E3%82%AB",
-          "zh": "https://zh.wikipedia.org/wiki/Special:Search?search=%E8%9D%B4%E8%9D%B6%E6%A2%A6"
+          "en": "https://en.wikipedia.org/wiki/Rebecca_(1940_film)",
+          "ko": "https://ko.wikipedia.org/wiki/%EB%A0%88%EB%B2%A0%EC%B9%B4_(1940%EB%85%84_%EC%98%81%ED%99%94)",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%99%E3%83%83%E3%82%AB_(1940%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%9D%B4%E8%9D%B6%E6%A2%A6_(%E7%94%B5%E5%BD%B1)"
         }
       }
     }
