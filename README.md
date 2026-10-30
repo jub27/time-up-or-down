@@ -1,7 +1,7 @@
 # ⏳ 타임 업 앤 다운 (TIME UP OR DOWN)
 
 > **전 세계 만물 탄생·역사 연도 439선 연승 퀴즈 게임**  
-> 👉 **지금 바로 플레이하기**: **[https://jub27.github.io/time-up-or-down/](https://jub27.github.io/time-up-or-down/)**
+> 👉 **지금 바로 플레이하기**: **[https://time-up-or-down.pages.dev/](https://time-up-or-down.pages.dev/)**
 
 ![TIME UP OR DOWN Preview](og-image.png)
 
@@ -13,4 +13,8 @@
 - **친구 도전장 공유**: `?target=연승기록` 링크 공유를 통해 친구와 연승 기록 대결 가능
 
 ## 🖼️ 이미지 출처
-게임에 쓰인 이미지는 모두 [Wikimedia Commons](https://commons.wikimedia.org/)와 위키백과의 자유 이용 이미지입니다. 각 이미지의 저작자와 라이선스는 게임 화면 이미지의 `i` 표시와 [이미지 출처 페이지](https://jub27.github.io/time-up-or-down/credits.html)에서 볼 수 있습니다.
+게임에 쓰인 이미지는 모두 [Wikimedia Commons](https://commons.wikimedia.org/)와 위키백과의 자유 이용 이미지입니다. 각 이미지의 저작자와 라이선스는 게임 화면 이미지의 `i` 표시와 [이미지 출처 페이지](https://time-up-or-down.pages.dev/credits.html)에서 볼 수 있습니다.
+
+## 🚀 배포
+- 사이트는 [Cloudflare Pages](https://time-up-or-down.pages.dev/)(프로젝트 `time-up-or-down`)에서 서비스합니다. `main`에 커밋한 뒤 `scripts/deploy-cloudflare.sh`를 실행하면 운영 사이트가 갱신되고, 다른 브랜치에서 실행하면 미리보기 주소가 만들어집니다.
+- 예전 주소(`jub27.github.io/time-up-or-down`)는 GitHub Pages에 그대로 두고, `?target=` 같은 링크 정보를 유지한 채 새 주소로 넘어가게 했습니다. `main`에 push하면 GitHub Pages도 함께 갱신됩니다.

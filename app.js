@@ -792,7 +792,7 @@
   }
 
   function buildShareUrl(scoreToBeat) {
-    const base = "https://jub27.github.io/time-up-or-down/";
+    const base = "https://time-up-or-down.pages.dev/";
     const params = new URLSearchParams();
     if (scoreToBeat && scoreToBeat > 0) params.set("target", String(scoreToBeat));
     if (state.lang && state.lang !== "ko") params.set("lang", state.lang);
