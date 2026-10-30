@@ -493,6 +493,8 @@ html, body {
 }
 
 .next-round-btn {
+  position: relative;
+  overflow: hidden;
   padding: 7px 16px;
   border-radius: 999px;
   border: 1px solid rgba(255, 255, 255, 0.3);
@@ -509,6 +511,32 @@ html, body {
 .next-round-btn:hover {
   transform: translateY(-2px) scale(1.03);
   filter: brightness(1.08);
+}
+
+/* Countdown fill: the next round starts when it is full (duration set from AUTO_ADVANCE_MS in app.js) */
+.next-progress {
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.28);
+  transform: scaleX(0);
+  transform-origin: left center;
+  pointer-events: none;
+}
+
+.next-round-btn.counting .next-progress {
+  animation-name: nextCountdown;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+.next-label {
+  position: relative;
+}
+
+@keyframes nextCountdown {
+  to {
+    transform: scaleX(1);
+  }
 }
 
 /* ==========================================================================

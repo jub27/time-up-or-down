@@ -7,6 +7,8 @@
 
   const DECK_KEY = "timeline";
   const GLOW_COLOR = "#f59e0b";
+  // After a correct answer the next round starts on its own after this long (sooner via "Next" / Enter)
+  const AUTO_ADVANCE_MS = 4000;
 
   function trackEvent(eventName, params) {
     if (typeof window.gtag === "function") {
@@ -46,6 +48,7 @@
     targetStreak: detectChallengeTarget(),
     isRevealing: false,
     waitingForNext: false,
+    advanceTimer: null,
     usedIds: new Set(),
     leftItem: null,
     rightItem: null,
@@ -151,6 +154,9 @@
     rightValueBox: document.getElementById("rightValueBox"),
     rightValue: document.getElementById("rightValue"),
     verdictPill: document.getElementById("verdictPill"),
+    nextBtn: document.getElementById("nextBtn"),
+    nextProgress: document.getElementById("nextProgress"),
+    lblNext: document.getElementById("lblNext"),
 
     rightFactCard: document.getElementById("rightFactCard"),
     rightLblOrigin: document.getElementById("rightLblOrigin"),
@@ -394,6 +400,7 @@
     state.streak = 0;
     state.isRevealing = false;
     state.waitingForNext = false;
+    stopAutoAdvance();
     state.usedIds.clear();
     upcomingQueue.length = 0;
     state.historyEmojis = [];
@@ -438,6 +445,7 @@
     els.lblDefeatedBy.textContent = dict.defeatedBy;
     els.lblPlayAgain.textContent = dict.playAgain;
     els.lblShareResult.textContent = dict.shareResult;
+    els.lblNext.textContent = dict.nextRound || "Next ▶";
 
     if (state.leftItem && state.rightItem) {
       refreshCardTexts();
@@ -548,6 +556,7 @@
     els.rightValueBox.classList.add("hidden");
     els.rightFactCard.classList.add("hidden");
     els.rightCard.classList.remove("revealed");
+    els.nextBtn.classList.add("hidden");
 
     refreshCardTexts();
 
@@ -631,9 +640,7 @@
         els.verdictPill.classList.add("win");
         els.verdictPill.textContent = isTie ? dict.tie : dict.correct;
 
-        setTimeout(() => {
-          advanceChain();
-        }, 1500);
+        offerNextRound();
       } else {
         state.historyEmojis.push("💥");
         trackEvent("guess_answer", {
@@ -657,11 +664,39 @@
   }
 
   function advanceChain() {
+    if (!state.waitingForNext) return;
+    state.waitingForNext = false;
+    stopAutoAdvance();
+
     state.leftItem = state.rightItem;
     state.rightItem = drawNextItem(state.leftItem);
 
     state.isRevealing = false;
     renderArena(true);
+  }
+
+  // --------------------------------------------------------------------------
+  // NEXT ROUND (auto-advance, leaving time to read; touching the facts pauses it)
+  // --------------------------------------------------------------------------
+  function offerNextRound() {
+    state.waitingForNext = true;
+    els.nextBtn.classList.remove("hidden", "counting");
+    void els.nextBtn.offsetWidth; // restart the countdown fill
+    els.nextBtn.classList.add("counting");
+    stopAutoAdvance();
+    state.advanceTimer = setTimeout(advanceChain, AUTO_ADVANCE_MS);
+  }
+
+  function stopAutoAdvance() {
+    clearTimeout(state.advanceTimer);
+    state.advanceTimer = null;
+  }
+
+  // The player is reading (tap, scroll, focus on the facts): wait for "Next" instead of moving on
+  function pauseAutoAdvance() {
+    if (!state.waitingForNext || !state.advanceTimer) return;
+    stopAutoAdvance();
+    els.nextBtn.classList.remove("counting");
   }
 
   // --------------------------------------------------------------------------
@@ -912,6 +947,14 @@
   els.btnHigher.addEventListener("click", () => handleGuess("higher"));
   els.btnLower.addEventListener("click", () => handleGuess("lower"));
 
+  els.nextProgress.style.animationDuration = `${AUTO_ADVANCE_MS}ms`;
+  els.nextBtn.addEventListener("click", advanceChain);
+  ["pointerdown", "touchstart", "wheel", "focusin"].forEach((type) => {
+    els.rightFactCard.addEventListener(type, pauseAutoAdvance, { passive: true });
+  });
+  // scroll doesn't bubble: listen in the capture phase to catch the fact text scrolling
+  els.rightFactCard.addEventListener("scroll", pauseAutoAdvance, { capture: true, passive: true });
+
   els.langBtns.forEach((btn) => {
     btn.addEventListener("click", () => {
       const newLang = btn.dataset.lang;
@@ -937,12 +980,20 @@
   }
 
   window.addEventListener("keydown", (e) => {
+    // Let a focused button/link (e.g. Share, a source link) handle its own Enter/Space
+    const onControl = e.target instanceof Element && e.target.closest("button, a");
+    const isConfirmKey = (e.key === "Enter" || e.key === " ") && !onControl;
     if (!els.gameOverModal.classList.contains("hidden")) {
-      // Let a focused button/link (e.g. Share) handle its own Enter/Space
-      const onControl = e.target instanceof Element && e.target.closest("button, a");
-      if ((e.key === "Enter" || e.key === " ") && !onControl) {
+      if (isConfirmKey) {
         e.preventDefault();
         startNewGame();
+      }
+      return;
+    }
+    if (state.waitingForNext) {
+      if (isConfirmKey || e.key === "ArrowRight") {
+        e.preventDefault();
+        advanceChain();
       }
       return;
     }
