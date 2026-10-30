@@ -17,6 +17,27 @@
   }
 
   // --------------------------------------------------------------------------
+  // SAFE STORAGE (localStorage throws when blocked, e.g. in some in-app browsers)
+  // --------------------------------------------------------------------------
+  const memoryStorage = {};
+
+  function readStorage(key) {
+    if (Object.prototype.hasOwnProperty.call(memoryStorage, key)) return memoryStorage[key];
+    try {
+      return window.localStorage.getItem(key);
+    } catch (_) {
+      return null;
+    }
+  }
+
+  function writeStorage(key, value) {
+    memoryStorage[key] = value;
+    try {
+      window.localStorage.setItem(key, value);
+    } catch (_) {}
+  }
+
+  // --------------------------------------------------------------------------
   // GAME STATE
   // --------------------------------------------------------------------------
   const state = {
@@ -40,7 +61,7 @@
       const qLang = params.get("lang");
       if (qLang && window.GAME_I18N && window.GAME_I18N[qLang]) return qLang;
     } catch (_) {}
-    const saved = localStorage.getItem("updown_lang");
+    const saved = readStorage("updown_lang");
     if (saved && window.GAME_I18N[saved]) return saved;
     const nav = (navigator.language || "ko").toLowerCase();
     if (nav.startsWith("ko")) return "ko";
@@ -71,13 +92,13 @@
   }
 
   function getBestStreak() {
-    return parseInt(localStorage.getItem("updown_best_timeline") || "0", 10);
+    return parseInt(readStorage("updown_best_timeline") || "0", 10) || 0;
   }
 
   function setBestStreak(score) {
     const prev = getBestStreak();
     if (score > prev) {
-      localStorage.setItem("updown_best_timeline", String(score));
+      writeStorage("updown_best_timeline", String(score));
     }
   }
 
@@ -378,8 +399,7 @@
     els.bestStreakVal.textContent = getBestStreak();
 
     if (els.lblQuickShare) {
-      const shareLabels = { ko: "친구 초대", en: "Share", ja: "シェア", zh: "分享" };
-      els.lblQuickShare.textContent = shareLabels[state.lang] || "Share";
+      els.lblQuickShare.textContent = QUICK_SHARE_LABELS[state.lang] || QUICK_SHARE_LABELS.en;
     }
     updateChallengeBanner();
 
@@ -399,11 +419,11 @@
 
   function updateChallengeBanner() {
     if (!els.challengeBanner || !els.challengeBannerText) return;
-    if (!state.targetStreak || state.targetStreak <= 0) {
-      els.challengeBanner.classList.add("hidden");
-      return;
-    }
-    els.challengeBanner.classList.remove("hidden");
+    const active = state.targetStreak > 0;
+    els.challengeBanner.classList.toggle("hidden", !active);
+    // On phones the banner sits on its own row under the HUD, so the layout needs to know
+    document.body.classList.toggle("has-challenge", active);
+    if (!active) return;
     const beaten = state.streak > state.targetStreak;
     els.challengeBanner.classList.toggle("beaten", beaten);
     const msgs = {
@@ -498,6 +518,7 @@
     els.guessActions.classList.remove("hidden");
     els.rightValueBox.classList.add("hidden");
     els.rightFactCard.classList.add("hidden");
+    els.rightCard.classList.remove("revealed");
 
     refreshCardTexts();
 
@@ -550,6 +571,7 @@
     els.guessActions.classList.add("hidden");
     els.rightValueBox.classList.remove("hidden");
     els.verdictPill.classList.add("hidden");
+    els.rightCard.classList.add("revealed");
 
     const countStartYear = Math.max(1000, leftVal - 40);
     animateValueCountUp(countStartYear, rightVal, 680, () => {
@@ -625,8 +647,50 @@
     return chosen;
   }
 
+  // Built with textContent (not innerHTML): origin text can come from live Wikipedia extracts
+  function buildDefeatedRow(item, yearClass) {
+    const thumb = document.createElement("img");
+    thumb.className = "defeated-thumb";
+    thumb.alt = "";
+    thumb.referrerPolicy = "no-referrer";
+    if (item.image) thumb.src = item.image;
+
+    const name = document.createElement("strong");
+    name.textContent = item.name[state.lang] || item.name.en;
+
+    const year = document.createElement("span");
+    year.className = `defeated-year ${yearClass}`;
+    year.textContent = formatValue(item.value);
+
+    const link = document.createElement("a");
+    link.className = "source-link defeated-source";
+    link.href = getItemSourceUrl(item, state.lang);
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.textContent = t().viewSource || "원문 출처 ↗";
+
+    const head = document.createElement("div");
+    head.append(`${item.emoji} `, name, ": ", year, link);
+
+    const origin = document.createElement("div");
+    origin.className = "defeated-origin";
+    origin.textContent = getItemOriginText(item, state.lang);
+
+    const basis = document.createElement("div");
+    basis.className = "defeated-basis";
+    basis.textContent = `📏 ${getItemBasisText(item, state.lang)}`;
+
+    const body = document.createElement("div");
+    body.className = "defeated-body";
+    body.append(head, origin, basis);
+
+    const row = document.createElement("div");
+    row.className = "defeated-row";
+    row.append(thumb, body);
+    return row;
+  }
+
   function showGameOverModal() {
-    const dict = t();
     const rank = getRankForStreak(state.streak);
     els.rankTitle.textContent = rank.title;
     els.rankDesc.textContent = rank.desc;
@@ -635,42 +699,13 @@
     els.bestStreakNumModal.textContent = getBestStreak();
     els.emojiHistoryBar.textContent = state.historyEmojis.join("");
 
-    const leftName = state.leftItem.name[state.lang] || state.leftItem.name.en;
-    const rightName = state.rightItem.name[state.lang] || state.rightItem.name.en;
-    const leftValStr = formatValue(state.leftItem.value);
-    const rightValStr = formatValue(state.rightItem.value);
-
-    const leftOrigin = getItemOriginText(state.leftItem, state.lang);
-    const rightOrigin = getItemOriginText(state.rightItem, state.lang);
-    const leftBasis = getItemBasisText(state.leftItem, state.lang);
-    const rightBasis = getItemBasisText(state.rightItem, state.lang);
-    const leftUrl = getItemSourceUrl(state.leftItem, state.lang);
-    const rightUrl = getItemSourceUrl(state.rightItem, state.lang);
-    const srcBtnLabel = dict.viewSource || "원문 출처 ↗";
-
-    els.defeatedComparison.innerHTML = `
-      <div class="defeated-row" style="align-items:flex-start;">
-        <img class="defeated-thumb" src="${state.leftItem.image || ""}" alt="" referrerpolicy="no-referrer" />
-        <div style="flex:1;">
-          <div>${state.leftItem.emoji} <strong>${leftName}</strong>: <span style="color:#fbbf24;font-weight:800;">${leftValStr}</span>
-            <a href="${leftUrl}" target="_blank" rel="noopener noreferrer" class="source-link" style="margin-left:6px;font-size:0.75rem;">${srcBtnLabel}</a>
-          </div>
-          <div style="font-size:0.78rem;color:#cbd5e1;margin-top:2px;">${leftOrigin}</div>
-          <div style="font-size:0.72rem;color:#94a3b8;margin-top:2px;">📏 ${leftBasis}</div>
-        </div>
-      </div>
-      <div style="height:1px;background:rgba(255,255,255,0.08);margin:4px 0;"></div>
-      <div class="defeated-row" style="align-items:flex-start;">
-        <img class="defeated-thumb" src="${state.rightItem.image || ""}" alt="" referrerpolicy="no-referrer" />
-        <div style="flex:1;">
-          <div>${state.rightItem.emoji} <strong>${rightName}</strong>: <span style="color:#fb7185;font-weight:800;">${rightValStr}</span>
-            <a href="${rightUrl}" target="_blank" rel="noopener noreferrer" class="source-link" style="margin-left:6px;font-size:0.75rem;">${srcBtnLabel}</a>
-          </div>
-          <div style="font-size:0.78rem;color:#cbd5e1;margin-top:2px;">${rightOrigin}</div>
-          <div style="font-size:0.72rem;color:#94a3b8;margin-top:2px;">📏 ${rightBasis}</div>
-        </div>
-      </div>
-    `;
+    const divider = document.createElement("div");
+    divider.className = "defeated-divider";
+    els.defeatedComparison.replaceChildren(
+      buildDefeatedRow(state.leftItem, "is-left"),
+      divider,
+      buildDefeatedRow(state.rightItem, "is-right")
+    );
 
     els.gameOverModal.classList.remove("hidden");
     trackEvent("game_over", {
@@ -690,21 +725,100 @@
     return qs ? `${base}?${qs}` : base;
   }
 
-  function copyShareText() {
+  // --------------------------------------------------------------------------
+  // SHARE HELPERS (native share sheet on touch devices, clipboard elsewhere)
+  // --------------------------------------------------------------------------
+  const QUICK_SHARE_LABELS = { ko: "친구 초대", en: "Share", ja: "シェア", zh: "分享" };
+  const QUICK_SHARE_COPIED = { ko: "링크 복사됨!", en: "Copied!", ja: "コピー完了！", zh: "已复制！" };
+  const MANUAL_COPY_PROMPT = {
+    ko: "아래 내용을 복사해서 공유해 주세요",
+    en: "Copy this text to share it:",
+    ja: "以下をコピーしてシェアしてください",
+    zh: "请复制以下内容进行分享"
+  };
+
+  // execCommand fallback for in-app browsers / WebViews without the async Clipboard API
+  function legacyCopy(text) {
+    const area = document.createElement("textarea");
+    area.value = text;
+    area.setAttribute("readonly", "");
+    area.style.position = "fixed";
+    area.style.top = "0";
+    area.style.opacity = "0";
+    document.body.appendChild(area);
+    area.select();
+    let copied = false;
+    try {
+      copied = document.execCommand("copy");
+    } catch (_) {}
+    area.remove();
+    return copied;
+  }
+
+  function copyText(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      return navigator.clipboard.writeText(text).catch(() => {
+        if (!legacyCopy(text)) throw new Error("copy failed");
+      });
+    }
+    return legacyCopy(text) ? Promise.resolve() : Promise.reject(new Error("copy failed"));
+  }
+
+  // `text` must not contain the URL: share targets that append `url` would show it twice.
+  // Resolves to "shared", "copied", "manual" (copy prompt shown) or "cancelled".
+  function shareOrCopy(title, text, url) {
+    const fullText = `${text} ${url}`;
+    const copyOrPrompt = () =>
+      copyText(fullText).then(
+        () => "copied",
+        () => {
+          window.prompt(MANUAL_COPY_PROMPT[state.lang] || MANUAL_COPY_PROMPT.en, fullText);
+          return "manual";
+        }
+      );
+
+    const useShareSheet =
+      typeof navigator.share === "function" && window.matchMedia("(pointer: coarse)").matches;
+    if (!useShareSheet) return copyOrPrompt();
+
+    return navigator.share({ title, text, url }).then(
+      () => "shared",
+      (err) => (err && err.name === "AbortError" ? "cancelled" : copyOrPrompt())
+    );
+  }
+
+  function flashLabel(labelEl, message, getRestoreText, durationMs) {
+    labelEl.textContent = message;
+    clearTimeout(labelEl._flashTimer);
+    labelEl._flashTimer = setTimeout(() => {
+      labelEl.textContent = getRestoreText();
+    }, durationMs);
+  }
+
+  function handleShareResult() {
     const dict = t();
     const rank = getRankForStreak(state.streak);
     const modeName = dict.themes.timeline.name;
     const emojis = state.historyEmojis.join("");
     const leftName = state.leftItem.name[state.lang] || state.leftItem.name.en;
     const rightName = state.rightItem.name[state.lang] || state.rightItem.name.en;
-    const shareUrl = buildShareUrl(state.streak || getBestStreak());
+    // After a 0-streak run the link carries the best record, so the text must name that score too
+    const challengeScore = state.streak || getBestStreak();
+    const shareUrl = buildShareUrl(challengeScore);
 
-    const ctaByLang = {
-      ko: `👉 내 기록(${state.streak}연승) 깨러 오기: ${shareUrl}`,
-      en: `👉 Can you beat my ${state.streak}-streak? Play free: ${shareUrl}`,
-      ja: `👉 私の記録（${state.streak}連勝）に挑戦: ${shareUrl}`,
-      zh: `👉 来挑战我的 ${state.streak} 连胜纪录: ${shareUrl}`
-    };
+    const ctaByLang = challengeScore > 0
+      ? {
+          ko: `👉 내 기록(${challengeScore}연승) 깨러 오기:`,
+          en: `👉 Can you beat my ${challengeScore}-streak? Play free:`,
+          ja: `👉 私の記録（${challengeScore}連勝）に挑戦:`,
+          zh: `👉 来挑战我的 ${challengeScore} 连胜纪录:`
+        }
+      : {
+          ko: "👉 지금 바로 도전하기:",
+          en: "👉 Play now:",
+          ja: "👉 今すぐ挑戦:",
+          zh: "👉 立即挑战:"
+        };
 
     const text = [
       `⏳ ${dict.appTitle} [${modeName}]`,
@@ -714,22 +828,13 @@
       ctaByLang[state.lang] || ctaByLang.en
     ].join("\n");
 
-    navigator.clipboard.writeText(text).then(() => {
-      trackEvent("share_result", { final_streak: state.streak, best_streak: getBestStreak() });
-      const orig = els.lblShareResult.textContent;
-      els.lblShareResult.textContent = dict.copied;
-      setTimeout(() => {
-        els.lblShareResult.textContent = orig;
-      }, 2000);
-    }).catch(() => {});
-
-    if (navigator.share) {
-      navigator.share({
-        title: dict.appTitle,
-        text: text,
-        url: shareUrl
-      }).catch(() => {});
-    }
+    shareOrCopy(dict.appTitle, text, shareUrl).then((method) => {
+      if (method === "cancelled") return;
+      trackEvent("share_result", { final_streak: state.streak, best_streak: getBestStreak(), method: method });
+      if (method === "copied") {
+        flashLabel(els.lblShareResult, dict.copied, () => t().shareResult, 2000);
+      }
+    });
   }
 
   function handleQuickShare() {
@@ -740,31 +845,25 @@
     const rightName = state.rightItem ? (state.rightItem.name[state.lang] || state.rightItem.name.en) : "";
 
     const msgByLang = {
-      ko: `⏳ ${dict.appTitle}\n"${leftName} vs ${rightName}" 어느 쪽이 더 최근에 나왔을까?\n👉 지금 바로 도전하기: ${shareUrl}`,
-      en: `⏳ ${dict.appTitle}\n"${leftName} vs ${rightName}" — which came later?\n👉 Play now: ${shareUrl}`,
-      ja: `⏳ ${dict.appTitle}\n「${leftName} vs ${rightName}」より新しいのはどっち？\n👉 今すぐ挑戦: ${shareUrl}`,
-      zh: `⏳ ${dict.appTitle}\n“${leftName} vs ${rightName}”哪一个出现得更晚？\n👉 立即挑战: ${shareUrl}`
+      ko: `⏳ ${dict.appTitle}\n"${leftName} vs ${rightName}" 어느 쪽이 더 최근에 나왔을까?\n👉 지금 바로 도전하기:`,
+      en: `⏳ ${dict.appTitle}\n"${leftName} vs ${rightName}" — which came later?\n👉 Play now:`,
+      ja: `⏳ ${dict.appTitle}\n「${leftName} vs ${rightName}」より新しいのはどっち？\n👉 今すぐ挑戦:`,
+      zh: `⏳ ${dict.appTitle}\n“${leftName} vs ${rightName}”哪一个出现得更晚？\n👉 立即挑战:`
     };
     const text = msgByLang[state.lang] || msgByLang.en;
 
-    navigator.clipboard.writeText(text).then(() => {
-      trackEvent("quick_share", { best_streak: best });
-      if (els.lblQuickShare) {
-        const prev = els.lblQuickShare.textContent;
-        els.lblQuickShare.textContent = state.lang === "ko" ? "링크 복사됨!" : "Copied!";
-        setTimeout(() => {
-          els.lblQuickShare.textContent = prev;
-        }, 1800);
+    shareOrCopy(dict.appTitle, text, shareUrl).then((method) => {
+      if (method === "cancelled") return;
+      trackEvent("quick_share", { best_streak: best, method: method });
+      if (method === "copied" && els.lblQuickShare) {
+        flashLabel(
+          els.lblQuickShare,
+          QUICK_SHARE_COPIED[state.lang] || QUICK_SHARE_COPIED.en,
+          () => QUICK_SHARE_LABELS[state.lang] || QUICK_SHARE_LABELS.en,
+          1800
+        );
       }
-    }).catch(() => {});
-
-    if (navigator.share) {
-      navigator.share({
-        title: dict.appTitle,
-        text: text,
-        url: shareUrl
-      }).catch(() => {});
-    }
+    });
   }
 
   // --------------------------------------------------------------------------
@@ -778,7 +877,7 @@
       const newLang = btn.dataset.lang;
       if (window.GAME_I18N[newLang]) {
         state.lang = newLang;
-        localStorage.setItem("updown_lang", newLang);
+        writeStorage("updown_lang", newLang);
         trackEvent("language_change", { selected_lang: newLang });
         if (state.leftItem) preloadWikiExtract(state.leftItem, newLang);
         if (state.rightItem) preloadWikiExtract(state.rightItem, newLang);
@@ -791,14 +890,16 @@
     startNewGame();
   });
 
-  els.shareResultBtn.addEventListener("click", copyShareText);
+  els.shareResultBtn.addEventListener("click", handleShareResult);
   if (els.quickShareBtn) {
     els.quickShareBtn.addEventListener("click", handleQuickShare);
   }
 
   window.addEventListener("keydown", (e) => {
     if (!els.gameOverModal.classList.contains("hidden")) {
-      if (e.key === "Enter" || e.key === " ") {
+      // Let a focused button/link (e.g. Share) handle its own Enter/Space
+      const onControl = e.target instanceof Element && e.target.closest("button, a");
+      if ((e.key === "Enter" || e.key === " ") && !onControl) {
         e.preventDefault();
         startNewGame();
       }

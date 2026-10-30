@@ -98,7 +98,10 @@
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;700;800;900&family=Pretendard:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;700;800;900&display=swap" rel="stylesheet" />
+  <!-- Pretendard is not on Google Fonts; load the variable dynamic-subset build from jsDelivr -->
+  <link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -124,7 +127,7 @@
     <div class="hud-right">
       <button class="hud-pill share-top-btn" id="quickShareBtn" title="친구에게 도전장 공유하기">
         <span>🔗</span>
-        <span id="lblQuickShare">공유</span>
+        <span class="share-label" id="lblQuickShare">친구 초대</span>
       </button>
       <div class="lang-switcher" role="group" aria-label="Language Selector">
         <button class="lang-btn" data-lang="en">EN</button>
@@ -253,18 +256,19 @@
 
       <div class="emoji-history" id="emojiHistoryBar"></div>
 
-      <div class="defeated-card" id="defeatedBox">
-        <div class="defeated-label" id="lblDefeatedBy">나를 무너뜨린 문제</div>
-        <div class="defeated-comparison" id="defeatedComparison"></div>
-      </div>
-
+      <!-- Actions sit above the (long) details so they stay visible without scrolling on phones -->
       <div class="gameover-actions">
         <button class="action-btn primary-btn" id="playAgainBtn">
           <span>🔄</span> <span id="lblPlayAgain">다시 도전하기</span>
         </button>
         <button class="action-btn share-btn" id="shareResultBtn">
-          <span>📋</span> <span id="lblShareResult">결과 복사해서 공유하기</span>
+          <span>📋</span> <span id="lblShareResult">결과 공유하기</span>
         </button>
+      </div>
+
+      <div class="defeated-card" id="defeatedBox">
+        <div class="defeated-label" id="lblDefeatedBy">나를 무너뜨린 문제</div>
+        <div class="defeated-comparison" id="defeatedComparison"></div>
       </div>
     </div>
   </div>

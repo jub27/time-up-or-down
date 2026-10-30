@@ -15,8 +15,8 @@
   --accent-down: #f43f5e;
   --accent-down-hover: #e11d48;
   --accent-primary: #6366f1;
-  --font-display: 'Outfit', 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
-  --font-body: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-display: 'Outfit', 'Pretendard Variable', 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-body: 'Pretendard Variable', 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 }
 
 * {
@@ -74,6 +74,7 @@ html, body {
   font-family: var(--font-body);
   font-weight: 700;
   font-size: 0.9rem;
+  white-space: nowrap;
   cursor: pointer;
   transition: transform 0.15s ease, border-color 0.2s ease, background 0.2s ease;
 }
@@ -113,6 +114,7 @@ html, body {
   letter-spacing: 0.08em;
   color: var(--text-muted);
   text-transform: uppercase;
+  white-space: nowrap;
 }
 
 .score-val {
@@ -299,9 +301,12 @@ html, body {
   transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), border-color 0.25s ease;
 }
 
-.card:hover .item-visual {
-  transform: translateY(-4px) scale(1.02);
-  border-color: rgba(255, 255, 255, 0.42);
+/* Hover lift only for real pointers: on touch screens :hover sticks after a tap */
+@media (hover: hover) {
+  .card:hover .item-visual {
+    transform: translateY(-4px) scale(1.02);
+    border-color: rgba(255, 255, 255, 0.42);
+  }
 }
 
 .item-photo {
@@ -862,7 +867,7 @@ html, body {
 
 .defeated-row {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 10px;
 }
 
@@ -873,6 +878,46 @@ html, body {
   object-fit: cover;
   border: 1px solid rgba(255, 255, 255, 0.2);
   flex-shrink: 0;
+}
+
+.defeated-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.defeated-year {
+  font-weight: 800;
+}
+
+.defeated-year.is-left {
+  color: #fbbf24;
+}
+
+.defeated-year.is-right {
+  color: #fb7185;
+}
+
+.defeated-source {
+  margin-left: 6px;
+  font-size: 0.75rem;
+}
+
+.defeated-origin {
+  margin-top: 2px;
+  font-size: 0.78rem;
+  color: #cbd5e1;
+}
+
+.defeated-basis {
+  margin-top: 2px;
+  font-size: 0.72rem;
+  color: #94a3b8;
+}
+
+.defeated-divider {
+  height: 1px;
+  background: rgba(255, 255, 255, 0.08);
+  margin: 4px 0;
 }
 
 .gameover-actions {
@@ -962,6 +1007,16 @@ html, body {
     padding: 0 12px;
   }
 
+  /* Friend-challenge banner gets its own row under the HUD instead of squeezing the scores */
+  .hud-left {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    justify-content: center;
+    pointer-events: none;
+  }
+
   .hud-pill {
     padding: 6px 10px;
     font-size: 0.8rem;
@@ -980,8 +1035,9 @@ html, body {
     flex-direction: column;
   }
 
+  /* 28px bottom keeps the left card's last line clear of the VS circle */
   .card {
-    padding: 56px 20px 20px;
+    padding: 56px 20px 28px;
   }
 
   .card-left {
@@ -989,8 +1045,34 @@ html, body {
     border-bottom: 1px solid var(--border-subtle);
   }
 
+  .has-challenge .card-left {
+    padding-top: 92px;
+  }
+
   .card-right {
     padding: 28px 20px 36px;
+  }
+
+  /* Half-screen cards: scroll instead of clipping when content is taller than the card */
+  .card-content {
+    gap: 10px;
+    max-height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+
+  .card-content > * {
+    flex-shrink: 0;
+  }
+
+  /* The left item's facts were already shown when it was revealed; no room to repeat them */
+  .card-left .fact-card {
+    display: none;
+  }
+
+  /* Once revealed, the photo makes room for the year, verdict and facts */
+  .card-right.revealed .item-visual {
+    display: none;
   }
 
   .item-visual {
@@ -1017,6 +1099,13 @@ html, body {
 
   .item-value {
     font-size: 2rem;
+  }
+
+  .value-box {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
   }
 
   .fact-card {
@@ -1059,6 +1148,14 @@ html, body {
   .bottom-hint {
     display: none;
   }
+
+  .modal-panel {
+    padding: 20px 18px;
+  }
+
+  .gameover-panel {
+    gap: 12px;
+  }
 }
 
 /* SEO Screen-Reader / Crawler Only */
@@ -1086,6 +1183,7 @@ html, body {
   color: #fde68a;
   font-size: 0.78rem;
   font-weight: 800;
+  white-space: nowrap;
   box-shadow: 0 4px 16px rgba(245, 158, 11, 0.2);
   animation: fadeIn 0.3s ease;
 }
@@ -1110,4 +1208,48 @@ html, body {
 .share-top-btn:hover {
   background: rgba(99, 102, 241, 0.38);
   transform: translateY(-1px);
+}
+
+/* ==========================================================================
+   SMALL PHONES (kept last so they override the share button rules above)
+   ========================================================================== */
+@media (max-width: 480px) {
+  .share-top-btn {
+    padding: 6px 10px;
+  }
+
+  /* Icon-only share button; the label stays readable for screen readers */
+  .share-top-btn .share-label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+  }
+
+  .hud-center,
+  .hud-right {
+    gap: 6px;
+  }
+
+  .lang-btn {
+    padding: 5px 7px;
+  }
+}
+
+/* Short screens (small phones, in-app browsers with toolbars) */
+@media (max-width: 820px) and (max-height: 700px) {
+  .item-visual {
+    width: 160px;
+    height: 90px;
+  }
+
+  .item-title {
+    font-size: 1.05rem;
+  }
+
+  .item-value {
+    font-size: 1.7rem;
+  }
 }
