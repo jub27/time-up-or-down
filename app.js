@@ -124,6 +124,8 @@
     rightGlow: document.getElementById("rightGlow"),
     leftPhoto: document.getElementById("leftPhoto"),
     rightPhoto: document.getElementById("rightPhoto"),
+    leftPhotoCredit: document.getElementById("leftPhotoCredit"),
+    rightPhotoCredit: document.getElementById("rightPhotoCredit"),
     leftEmoji: document.getElementById("leftEmoji"),
     rightEmoji: document.getElementById("rightEmoji"),
     leftTitle: document.getElementById("leftTitle"),
@@ -161,6 +163,8 @@
     vsCircle: document.getElementById("vsCircle"),
     vsText: document.getElementById("vsText"),
     keyboardHint: document.getElementById("keyboardHint"),
+    creditsLink: document.getElementById("creditsLink"),
+    creditsLinkModal: document.getElementById("creditsLinkModal"),
 
     gameOverModal: document.getElementById("gameOverModal"),
     gameOverTitle: document.getElementById("gameOverTitle"),
@@ -343,6 +347,8 @@
   function applyCardImage(imgEl, bgEl, item) {
     const title = item.name[state.lang] || item.name.en;
     imgEl.alt = title;
+    // Logos and screenshots are shown whole instead of cropped to fill the frame
+    imgEl.classList.toggle("fit-contain", item.imageFit === "contain");
     if (item.image) {
       if (imgEl.dataset.src !== item.image) {
         imgEl.style.opacity = "0.2";
@@ -362,6 +368,23 @@
       imgEl.removeAttribute("src");
       bgEl.style.backgroundImage = "none";
     }
+  }
+
+  // Image attribution (CC BY / BY-SA need author + license); the link opens the file page with full details
+  function creditText(item) {
+    const credit = item.imageCredit;
+    if (!credit) return "";
+    return `${t().lblPhoto || "Photo"}: ${credit.author ? `${credit.author} · ` : ""}${credit.license}`;
+  }
+
+  function applyPhotoCredit(linkEl, item) {
+    const credit = item.imageCredit;
+    linkEl.classList.toggle("hidden", !credit || !item.image);
+    if (!credit) return;
+    const text = creditText(item);
+    linkEl.href = credit.source;
+    linkEl.title = text;
+    linkEl.setAttribute("aria-label", text);
   }
 
   // --------------------------------------------------------------------------
@@ -404,6 +427,10 @@
     updateChallengeBanner();
 
     els.keyboardHint.textContent = dict.keyboardHint;
+    [els.creditsLink, els.creditsLinkModal].forEach((link) => {
+      link.textContent = dict.imageCredits;
+      link.href = `credits.html?lang=${state.lang}`;
+    });
 
     els.gameOverTitle.textContent = dict.gameOverTitle;
     els.lblYourScore.textContent = dict.yourScore;
@@ -481,6 +508,7 @@
 
     // Left Card
     applyCardImage(els.leftPhoto, els.leftBgPhoto, state.leftItem);
+    applyPhotoCredit(els.leftPhotoCredit, state.leftItem);
     els.leftEmoji.textContent = state.leftItem.emoji;
     els.leftTitle.textContent = state.leftItem.name[state.lang] || state.leftItem.name.en;
     els.leftValue.textContent = formatValue(state.leftItem.value);
@@ -492,6 +520,7 @@
 
     // Right Card
     applyCardImage(els.rightPhoto, els.rightBgPhoto, state.rightItem);
+    applyPhotoCredit(els.rightPhotoCredit, state.rightItem);
     els.rightEmoji.textContent = state.rightItem.emoji;
     els.rightTitle.textContent = state.rightItem.name[state.lang] || state.rightItem.name.en;
     els.rightNote.textContent = getItemOriginText(state.rightItem, state.lang);
@@ -654,6 +683,7 @@
     thumb.alt = "";
     thumb.referrerPolicy = "no-referrer";
     if (item.image) thumb.src = item.image;
+    if (item.imageFit === "contain") thumb.classList.add("fit-contain");
 
     const name = document.createElement("strong");
     name.textContent = item.name[state.lang] || item.name.en;
@@ -683,6 +713,16 @@
     const body = document.createElement("div");
     body.className = "defeated-body";
     body.append(head, origin, basis);
+
+    if (item.imageCredit) {
+      const credit = document.createElement("a");
+      credit.className = "defeated-credit";
+      credit.href = item.imageCredit.source;
+      credit.target = "_blank";
+      credit.rel = "noopener noreferrer";
+      credit.textContent = `📷 ${creditText(item)}`;
+      body.append(credit);
+    }
 
     const row = document.createElement("div");
     row.className = "defeated-row";

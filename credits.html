@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>이미지 출처 — 타임 업 앤 다운 (TIME UP OR DOWN)</title>
+  <meta name="robots" content="noindex, follow" />
+  <meta name="theme-color" content="#0b0f1d" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+  <link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" rel="stylesheet" />
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0b0f19;
+      --text: #e2e8f0;
+      --muted: #94a3b8;
+      --accent: #fbbf24;
+      --line: rgba(255, 255, 255, 0.08);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Pretendard Variable', 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    }
+
+    main {
+      max-width: 880px;
+      margin: 0 auto;
+      padding: 24px 16px 56px;
+    }
+
+    a {
+      color: var(--accent);
+    }
+
+    .back {
+      display: inline-block;
+      margin-bottom: 18px;
+      font-size: 0.9rem;
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: 1.5rem;
+    }
+
+    .intro {
+      margin: 0 0 20px;
+      color: var(--muted);
+      font-size: 0.9rem;
+      line-height: 1.6;
+    }
+
+    ol {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    li {
+      display: grid;
+      grid-template-columns: 3.4em 1fr;
+      gap: 3px 12px;
+      padding: 11px 0;
+      border-bottom: 1px solid var(--line);
+      font-size: 0.86rem;
+      line-height: 1.45;
+    }
+
+    .year {
+      grid-row: span 2;
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .name {
+      font-weight: 700;
+    }
+
+    .meta {
+      color: #cbd5e1;
+      word-break: break-word;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <a class="back" id="back" href="./">← 게임으로 돌아가기</a>
+    <h1 id="title">이미지 출처</h1>
+    <p class="intro" id="intro"></p>
+    <ol id="list"></ol>
+  </main>
+
+  <script src="data.js"></script>
+  <script>
+    (function () {
+      "use strict";
+
+      const TEXT = {
+        ko: {
+          title: "이미지 출처",
+          doc: "이미지 출처 — 타임 업 앤 다운 (TIME UP OR DOWN)",
+          back: "← 게임으로 돌아가기",
+          intro: "게임에 쓰인 사진과 로고는 모두 위키미디어 공용(Wikimedia Commons)과 위키백과의 자유 이용 이미지입니다. 각 이미지의 저작자와 라이선스는 아래와 같고, '원본 파일'에서 자세한 정보를 볼 수 있습니다.",
+          file: "원본 파일 ↗",
+          unknown: "저작자는 원본 파일 참고"
+        },
+        en: {
+          title: "Image credits",
+          doc: "Image credits — TIME UP OR DOWN",
+          back: "← Back to the game",
+          intro: "All photos and logos in the game are freely licensed images from Wikimedia Commons and Wikipedia. Each image's author and license are listed below; open the source file for full details.",
+          file: "Source file ↗",
+          unknown: "Author: see the source file"
+        },
+        ja: {
+          title: "画像クレジット",
+          doc: "画像クレジット — TIME UP OR DOWN",
+          back: "← ゲームに戻る",
+          intro: "ゲーム内の写真とロゴは、すべてウィキメディア・コモンズとウィキペディアで公開されている自由利用可能な画像です。各画像の作者とライセンスは以下のとおりで、詳しくは元ファイルで確認できます。",
+          file: "元ファイル ↗",
+          unknown: "作者は元ファイルを参照"
+        },
+        zh: {
+          title: "图片来源",
+          doc: "图片来源 — TIME UP OR DOWN",
+          back: "← 返回游戏",
+          intro: "游戏中的照片和标志均为维基共享资源（Wikimedia Commons）与维基百科上的自由授权图片。各图片的作者与授权协议如下，详情可查看原始文件。",
+          file: "原始文件 ↗",
+          unknown: "作者信息见原始文件"
+        }
+      };
+
+      function detectLang() {
+        const q = new URLSearchParams(window.location.search).get("lang");
+        if (q && TEXT[q]) return q;
+        try {
+          const saved = window.localStorage.getItem("updown_lang");
+          if (saved && TEXT[saved]) return saved;
+        } catch (_) {}
+        const nav = (navigator.language || "ko").toLowerCase();
+        return ["ko", "ja", "zh"].find((l) => nav.startsWith(l)) || "en";
+      }
+
+      function el(tag, className, text) {
+        const node = document.createElement(tag);
+        if (className) node.className = className;
+        if (text !== undefined) node.textContent = text;
+        return node;
+      }
+
+      function link(href, text) {
+        const a = el("a", "", text);
+        a.href = href;
+        a.target = "_blank";
+        a.rel = "noopener noreferrer";
+        return a;
+      }
+
+      const lang = detectLang();
+      const text = TEXT[lang];
+      document.documentElement.lang = lang;
+      document.title = text.doc;
+      document.getElementById("title").textContent = text.title;
+      document.getElementById("intro").textContent = text.intro;
+      const back = document.getElementById("back");
+      back.textContent = text.back;
+      back.href = `./?lang=${lang}`;
+
+      const deck = (window.GAME_DECKS && window.GAME_DECKS.timeline) || [];
+      const items = deck
+        .filter((item) => item.imageCredit)
+        .sort((a, b) => a.value - b.value || (a.name[lang] || "").localeCompare(b.name[lang] || ""));
+
+      const list = document.getElementById("list");
+      items.forEach((item) => {
+        const credit = item.imageCredit;
+        const meta = el("div", "meta", `📷 ${credit.author || text.unknown} · `);
+        meta.append(credit.licenseUrl ? link(credit.licenseUrl, credit.license) : credit.license, " · ", link(credit.source, text.file));
+
+        const row = el("li");
+        row.append(el("span", "year", String(item.value)), el("div", "name", item.name[lang] || item.name.en), meta);
+        list.append(row);
+      });
+    })();
+  </script>
+</body>
+</html>

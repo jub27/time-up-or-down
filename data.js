@@ -25,6 +25,8 @@ window.GAME_I18N = {
     "lblBasis": "Historical Basis",
     "lblSource": "Verified Source",
     "viewSource": "Open Source ↗",
+    "lblPhoto": "Photo",
+    "imageCredits": "Image credits",
     "ranks": [
       {
         "min": 0,
@@ -87,6 +89,8 @@ window.GAME_I18N = {
     "lblBasis": "연도 기록 근거",
     "lblSource": "데이터 출처",
     "viewSource": "원문 출처 보기 ↗",
+    "lblPhoto": "사진",
+    "imageCredits": "이미지 출처",
     "ranks": [
       {
         "min": 0,
@@ -149,6 +153,8 @@ window.GAME_I18N = {
     "lblBasis": "年号の根拠",
     "lblSource": "データ出典",
     "viewSource": "出典を開く ↗",
+    "lblPhoto": "写真",
+    "imageCredits": "画像クレジット",
     "ranks": [
       {
         "min": 0,
@@ -211,6 +217,8 @@ window.GAME_I18N = {
     "lblBasis": "年份记载依据",
     "lblSource": "数据来源",
     "viewSource": "查看来源 ↗",
+    "lblPhoto": "图片",
+    "imageCredits": "图片来源",
     "ranks": [
       {
         "min": 0,
@@ -257,7 +265,12 @@ window.GAME_DECKS = {
     {
       "id": "oxford_uni",
       "emoji": "🎓",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Arms_of_University_of_Oxford.svg/960px-Arms_of_University_of_Oxford.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Arms_of_University_of_Oxford.svg/500px-Arms_of_University_of_Oxford.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Arms_of_University_of_Oxford.svg"
+      },
       "value": 1096,
       "unit": "year",
       "name": {
@@ -298,7 +311,13 @@ window.GAME_DECKS = {
     {
       "id": "cambridge_uni",
       "emoji": "🎓",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Coat_of_Arms_of_the_University_of_Cambridge.svg/960px-Coat_of_Arms_of_the_University_of_Cambridge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Coat_of_Arms_of_the_University_of_Cambridge.svg/500px-Coat_of_Arms_of_the_University_of_Cambridge.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_University_of_Cambridge.svg"
+      },
       "value": 1209,
       "unit": "year",
       "name": {
@@ -339,7 +358,12 @@ window.GAME_DECKS = {
     {
       "id": "magna_carta",
       "emoji": "📜",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/960px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/500px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Original authors were the barons and King John of England. Uploaded by Earthsou…",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg"
+      },
       "value": 1215,
       "unit": "year",
       "name": {
@@ -380,7 +404,14 @@ window.GAME_DECKS = {
     {
       "id": "aztec_empire",
       "emoji": "🏛️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Aztec_Empire_ME_%28orthographic_projection%29.svg/960px-Aztec_Empire_ME_%28orthographic_projection%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Aztec_Empire_ME_%28orthographic_projection%29.svg/500px-Aztec_Empire_ME_%28orthographic_projection%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "File:Aztec Empire (orthographic projection).svg : Keepscases Derivative work :…",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Aztec_Empire_ME_(orthographic_projection).svg"
+      },
       "value": 1428,
       "unit": "year",
       "name": {
@@ -421,7 +452,13 @@ window.GAME_DECKS = {
     {
       "id": "machu_picchu",
       "emoji": "⛰️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/960px-Machu_Picchu%2C_2023_%28012%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/500px-Machu_Picchu%2C_2023_%28012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Draceane",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg"
+      },
       "value": 1450,
       "unit": "year",
       "name": {
@@ -462,7 +499,13 @@ window.GAME_DECKS = {
     {
       "id": "gutenberg_bible",
       "emoji": "📖",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/960px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/500px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "NYC Wanderer (Kevin Eng)",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg"
+      },
       "value": 1455,
       "unit": "year",
       "name": {
@@ -503,7 +546,14 @@ window.GAME_DECKS = {
     {
       "id": "columbus_1492",
       "emoji": "⛵",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Viajes_de_colon_en2.svg/960px-Viajes_de_colon_en2.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Viajes_de_colon_en2.svg/500px-Viajes_de_colon_en2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Rezza Editores",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Viajes_de_colon_en2.svg"
+      },
       "value": 1492,
       "unit": "year",
       "name": {
@@ -544,7 +594,12 @@ window.GAME_DECKS = {
     {
       "id": "mona_lisa_1503",
       "emoji": "🖼️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mona_Lisa.jpg/960px-Mona_Lisa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mona_Lisa.jpg/500px-Mona_Lisa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Leonardo da Vinci",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Mona_Lisa.jpg"
+      },
       "value": 1503,
       "unit": "year",
       "name": {
@@ -585,7 +640,13 @@ window.GAME_DECKS = {
     {
       "id": "david_1504",
       "emoji": "🗿",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg/960px-%27David%27_by_Michelangelo_Fir_JBU004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg/500px-%27David%27_by_Michelangelo_Fir_JBU004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Jörg Bittner Unna",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:%27David%27_by_Michelangelo_Fir_JBU004.jpg"
+      },
       "value": 1504,
       "unit": "year",
       "name": {
@@ -626,7 +687,12 @@ window.GAME_DECKS = {
     {
       "id": "romeo_juliet",
       "emoji": "🎭",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Romeo_and_juliet_brown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Romeo_and_juliet_brown.jpg/500px-Romeo_and_juliet_brown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Ford Madox Brown",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Romeo_and_juliet_brown.jpg"
+      },
       "value": 1597,
       "unit": "year",
       "name": {
@@ -667,7 +733,12 @@ window.GAME_DECKS = {
     {
       "id": "telescope_1609",
       "emoji": "🔭",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-960px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-500px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Justus Sustermans",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Galileo_Galilei_(1564-1642)_RMG_BHC2700.tiff"
+      },
       "value": 1609,
       "unit": "year",
       "name": {
@@ -708,7 +779,13 @@ window.GAME_DECKS = {
     {
       "id": "harvard_1636",
       "emoji": "🎓",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/960px-Harvard_University_coat_of_arms.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/500px-Harvard_University_coat_of_arms.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Harvard University",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Harvard_University_coat_of_arms.svg"
+      },
       "value": 1636,
       "unit": "year",
       "name": {
@@ -749,7 +826,13 @@ window.GAME_DECKS = {
     {
       "id": "taj_mahal_1643",
       "emoji": "🕌",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/960px-Taj_Mahal_%28Edited%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/500px-Taj_Mahal_%28Edited%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Yann; edited by Jim Carter",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg"
+      },
       "value": 1643,
       "unit": "year",
       "name": {
@@ -790,7 +873,12 @@ window.GAME_DECKS = {
     {
       "id": "newton_1687",
       "emoji": "🍎",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Newton%27s_Principia_title_page.png/960px-Newton%27s_Principia_title_page.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Newton%27s_Principia_title_page.png/500px-Newton%27s_Principia_title_page.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "The original uploader was Zhaladshar at English Wikisource.",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Newton%27s_Principia_title_page.png"
+      },
       "value": 1687,
       "unit": "year",
       "name": {
@@ -831,7 +919,13 @@ window.GAME_DECKS = {
     {
       "id": "piano_1700",
       "emoji": "🎹",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Steinway_Vienna_002.JPG/960px-Steinway_Vienna_002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Steinway_Vienna_002.JPG/500px-Steinway_Vienna_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Gryffindor",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Steinway_Vienna_002.JPG"
+      },
       "value": 1700,
       "unit": "year",
       "name": {
@@ -872,7 +966,13 @@ window.GAME_DECKS = {
     {
       "id": "steam_engine",
       "emoji": "🚂",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Maquina_vapor_Watt_ETSIIM.jpg/960px-Maquina_vapor_Watt_ETSIIM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Maquina_vapor_Watt_ETSIIM.jpg/500px-Maquina_vapor_Watt_ETSIIM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Nicolás Pérez",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Maquina_vapor_Watt_ETSIIM.jpg"
+      },
       "value": 1776,
       "unit": "year",
       "name": {
@@ -913,7 +1013,12 @@ window.GAME_DECKS = {
     {
       "id": "us_independence",
       "emoji": "🗽",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/United_States_Declaration_of_Independence.jpg/960px-United_States_Declaration_of_Independence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/United_States_Declaration_of_Independence.jpg/500px-United_States_Declaration_of_Independence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "original: w:Second Continental Congress; reproduction: William Stone",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:United_States_Declaration_of_Independence.jpg"
+      },
       "value": 1776,
       "unit": "year",
       "name": {
@@ -954,7 +1059,12 @@ window.GAME_DECKS = {
     {
       "id": "french_rev",
       "emoji": "🇫🇷",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/960px-Anonymous_-_Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/500px-Anonymous_-_Prise_de_la_Bastille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Unidentified painter",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Anonymous_-_Prise_de_la_Bastille.jpg"
+      },
       "value": 1789,
       "unit": "year",
       "name": {
@@ -995,7 +1105,12 @@ window.GAME_DECKS = {
     {
       "id": "vaccine_1796",
       "emoji": "💉",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Smallpox_vaccine.jpg/960px-Smallpox_vaccine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Smallpox_vaccine.jpg/500px-Smallpox_vaccine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Photo Credit: James Gathany Content Providers(s): CDC",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Smallpox_vaccine.jpg"
+      },
       "value": 1796,
       "unit": "year",
       "name": {
@@ -1036,7 +1151,14 @@ window.GAME_DECKS = {
     {
       "id": "battery_1800",
       "emoji": "🔋",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Voltaic_pile.svg/960px-Voltaic_pile.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Voltaic_pile.svg/500px-Voltaic_pile.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Borbrav, svg version by Luigi Chiesa",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Voltaic_pile.svg"
+      },
       "value": 1800,
       "unit": "year",
       "name": {
@@ -1077,7 +1199,13 @@ window.GAME_DECKS = {
     {
       "id": "beethoven_5",
       "emoji": "🎼",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Beethoven-Deckblatt.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Beethoven-Deckblatt.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "User Boris Fernbacher on de.wikipedia",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Beethoven-Deckblatt.png"
+      },
       "value": 1808,
       "unit": "year",
       "name": {
@@ -1118,7 +1246,13 @@ window.GAME_DECKS = {
     {
       "id": "bicycle_1817",
       "emoji": "🚲",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Draisine_or_Laufmaschine%2C_around_1820._Archetype_of_the_Bicycle._Pic_01.jpg/960px-Draisine_or_Laufmaschine%2C_around_1820._Archetype_of_the_Bicycle._Pic_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Draisine_or_Laufmaschine%2C_around_1820._Archetype_of_the_Bicycle._Pic_01.jpg/500px-Draisine_or_Laufmaschine%2C_around_1820._Archetype_of_the_Bicycle._Pic_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Gun Powder Ma",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Draisine_or_Laufmaschine,_around_1820._Archetype_of_the_Bicycle._Pic_01.jpg"
+      },
       "value": 1817,
       "unit": "year",
       "name": {
@@ -1159,7 +1293,12 @@ window.GAME_DECKS = {
     {
       "id": "first_photo",
       "emoji": "📷",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Untitled_%28point_de_vue%29%2C_Ni%C3%A9pce_1827_%E2%80%94_HRC_2020_%28cropped%29.jpg/960px-Untitled_%28point_de_vue%29%2C_Ni%C3%A9pce_1827_%E2%80%94_HRC_2020_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Untitled_%28point_de_vue%29%2C_Ni%C3%A9pce_1827_%E2%80%94_HRC_2020_%28cropped%29.jpg/500px-Untitled_%28point_de_vue%29%2C_Ni%C3%A9pce_1827_%E2%80%94_HRC_2020_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Nicéphore Niépce",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Untitled_(point_de_vue),_Ni%C3%A9pce_1827_%E2%80%94_HRC_2020_(cropped).jpg"
+      },
       "value": 1826,
       "unit": "year",
       "name": {
@@ -1200,7 +1339,13 @@ window.GAME_DECKS = {
     {
       "id": "tiffany_1837",
       "emoji": "💍",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Tiffany_%26_Co._flagship_store_%2853872772975%29.jpg/960px-Tiffany_%26_Co._flagship_store_%2853872772975%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Tiffany_%26_Co._flagship_store_%2853872772975%29.jpg/500px-Tiffany_%26_Co._flagship_store_%2853872772975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "ajay_suresh",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tiffany_%26_Co._flagship_store_(53872772975).jpg"
+      },
       "value": 1837,
       "unit": "year",
       "name": {
@@ -1241,7 +1386,12 @@ window.GAME_DECKS = {
     {
       "id": "hermes_1837",
       "emoji": "🐎",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Rue_du_Faubourg-Saint-Honor%C3%A9%2C_Paris_May_2006.jpg/960px-Rue_du_Faubourg-Saint-Honor%C3%A9%2C_Paris_May_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Rue_du_Faubourg-Saint-Honor%C3%A9%2C_Paris_May_2006.jpg/500px-Rue_du_Faubourg-Saint-Honor%C3%A9%2C_Paris_May_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Gryffindor",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Rue_du_Faubourg-Saint-Honor%C3%A9,_Paris_May_2006.jpg"
+      },
       "value": 1837,
       "unit": "year",
       "name": {
@@ -1282,7 +1432,12 @@ window.GAME_DECKS = {
     {
       "id": "postage_stamp",
       "emoji": "✉️",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Penny_black.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Penny_black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "General Post Office of the United Kingdom of Great Britain and Ireland",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Penny_black.jpg"
+      },
       "value": 1840,
       "unit": "year",
       "name": {
@@ -1323,7 +1478,13 @@ window.GAME_DECKS = {
     {
       "id": "fax_1843",
       "emoji": "📠",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Cooke_and_Wheatstone_electric_telegraph.jpg/960px-Cooke_and_Wheatstone_electric_telegraph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Panasonic_KX-F90_%28cropped%29.jpg/500px-Panasonic_KX-F90_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "File:Panasonic KX-F90.jpg: Pittigrilli derivative work: Georgfotoart",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Panasonic_KX-F90_(cropped).jpg"
+      },
       "value": 1843,
       "unit": "year",
       "name": {
@@ -1364,7 +1525,13 @@ window.GAME_DECKS = {
     {
       "id": "cartier_1847",
       "emoji": "📿",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Cartier_Building_-_NYC_%2851395758693%29.jpg/960px-Cartier_Building_-_NYC_%2851395758693%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Cartier_Building_-_NYC_%2851395758693%29.jpg/500px-Cartier_Building_-_NYC_%2851395758693%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "ajay_suresh",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cartier_Building_-_NYC_(51395758693).jpg"
+      },
       "value": 1847,
       "unit": "year",
       "name": {
@@ -1405,7 +1572,13 @@ window.GAME_DECKS = {
     {
       "id": "levis_1853",
       "emoji": "👖",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Levi%27s_Times_Square_NYC_-_May_2026.jpg/960px-Levi%27s_Times_Square_NYC_-_May_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Levi%27s_Times_Square_NYC_-_May_2026.jpg/500px-Levi%27s_Times_Square_NYC_-_May_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Nielsoncaetanosalmeron",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Levi%27s_Times_Square_NYC_-_May_2026.jpg"
+      },
       "value": 1853,
       "unit": "year",
       "name": {
@@ -1446,7 +1619,13 @@ window.GAME_DECKS = {
     {
       "id": "louis_vuitton_1854",
       "emoji": "👜",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Gecina_-101_champs_elysees.jpg/960px-Gecina_-101_champs_elysees.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Gecina_-101_champs_elysees.jpg/500px-Gecina_-101_champs_elysees.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Gecina",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gecina_-101_champs_elysees.jpg"
+      },
       "value": 1854,
       "unit": "year",
       "name": {
@@ -1487,7 +1666,13 @@ window.GAME_DECKS = {
     {
       "id": "big_ben_1859",
       "emoji": "🕰️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg/960px-Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg/500px-Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Christian David",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster,_London.jpg"
+      },
       "value": 1859,
       "unit": "year",
       "name": {
@@ -1528,7 +1713,12 @@ window.GAME_DECKS = {
     {
       "id": "origin_species",
       "emoji": "🐒",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Origin_of_Species_title_page.jpg/960px-Origin_of_Species_title_page.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Origin_of_Species_title_page.jpg/500px-Origin_of_Species_title_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "John Murray, Publisher",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Origin_of_Species_title_page.jpg"
+      },
       "value": 1859,
       "unit": "year",
       "name": {
@@ -1569,7 +1759,12 @@ window.GAME_DECKS = {
     {
       "id": "dynamite_1867",
       "emoji": "🧨",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Inserting_dynamite_into_hole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Inserting_dynamite_into_hole.jpg/500px-Inserting_dynamite_into_hole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Alfred T. Palmer",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Inserting_dynamite_into_hole.jpg"
+      },
       "value": 1867,
       "unit": "year",
       "name": {
@@ -1610,7 +1805,14 @@ window.GAME_DECKS = {
     {
       "id": "periodic_table",
       "emoji": "🧪",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Colour_18-col_PT_with_labels.svg/960px-Colour_18-col_PT_with_labels.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Colour_18-col_PT_with_labels.svg/500px-Colour_18-col_PT_with_labels.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Lekritz",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Colour_18-col_PT_with_labels.svg"
+      },
       "value": 1869,
       "unit": "year",
       "name": {
@@ -1651,7 +1853,12 @@ window.GAME_DECKS = {
     {
       "id": "suez_canal",
       "emoji": "🚢",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Iss016e019375.jpg/960px-Iss016e019375.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Iss016e019375.jpg/500px-Iss016e019375.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "NASA",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Iss016e019375.jpg"
+      },
       "value": 1869,
       "unit": "year",
       "name": {
@@ -1692,7 +1899,13 @@ window.GAME_DECKS = {
     {
       "id": "telephone_1876",
       "emoji": "☎️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Alexander_Graham_Bell_1895_NPG_77_363.jpg/960px-Alexander_Graham_Bell_1895_NPG_77_363.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Alexander_Graham_Bell_1895_NPG_77_363.jpg/500px-Alexander_Graham_Bell_1895_NPG_77_363.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Unknown authorUnknown author",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Alexander_Graham_Bell_1895_NPG_77_363.jpg"
+      },
       "value": 1876,
       "unit": "year",
       "name": {
@@ -1733,7 +1946,14 @@ window.GAME_DECKS = {
     {
       "id": "lightbulb_1879",
       "emoji": "💡",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gluehlampe_01_KMJ.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Gluehlampe_01_KMJ.png/500px-Gluehlampe_01_KMJ.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "KMJ, alpha masking by Edokter",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Gluehlampe_01_KMJ.png"
+      },
       "value": 1879,
       "unit": "year",
       "name": {
@@ -1774,7 +1994,12 @@ window.GAME_DECKS = {
     {
       "id": "benz_car_1886",
       "emoji": "🚗",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Benz_Patent-Motorwagen_Nr_2.jpg/960px-Benz_Patent-Motorwagen_Nr_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Benz_Patent-Motorwagen_Nr_2.jpg/500px-Benz_Patent-Motorwagen_Nr_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "supplied by Carl Benz to William Worby Beaumont",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Benz_Patent-Motorwagen_Nr_2.jpg"
+      },
       "value": 1886,
       "unit": "year",
       "name": {
@@ -1815,7 +2040,13 @@ window.GAME_DECKS = {
     {
       "id": "statue_liberty_1886",
       "emoji": "🗽",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/960px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/500px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "AskALotl",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_(cropped).jpg"
+      },
       "value": 1886,
       "unit": "year",
       "name": {
@@ -1856,7 +2087,13 @@ window.GAME_DECKS = {
     {
       "id": "cocacola_1886",
       "emoji": "🥤",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Coca_Cola_Flasche_-_Original_Taste.jpg/960px-Coca_Cola_Flasche_-_Original_Taste.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Coca_Cola_Flasche_-_Original_Taste.jpg/500px-Coca_Cola_Flasche_-_Original_Taste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "DYVER",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Coca_Cola_Flasche_-_Original_Taste.jpg"
+      },
       "value": 1886,
       "unit": "year",
       "name": {
@@ -1897,7 +2134,12 @@ window.GAME_DECKS = {
     {
       "id": "sherlock_1887",
       "emoji": "🕵️",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Sherlock_Holmes_Portrait_Paget.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/ArthurConanDoyle_AStudyInScarlet_annual.jpg/500px-ArthurConanDoyle_AStudyInScarlet_annual.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "David Henry Friston",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:ArthurConanDoyle_AStudyInScarlet_annual.jpg"
+      },
       "value": 1887,
       "unit": "year",
       "name": {
@@ -1938,7 +2180,12 @@ window.GAME_DECKS = {
     {
       "id": "natgeo_1888",
       "emoji": "🟨",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/National_Geographic_magazine_%E2%80%93_Space_special_issue_%282023-10%29.jpg/960px-National_Geographic_magazine_%E2%80%93_Space_special_issue_%282023-10%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/National_Geographic_magazine_%E2%80%93_Space_special_issue_%282023-10%29.jpg/500px-National_Geographic_magazine_%E2%80%93_Space_special_issue_%282023-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "National Geographic",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:National_Geographic_magazine_%E2%80%93_Space_special_issue_(2023-10).jpg"
+      },
       "value": 1888,
       "unit": "year",
       "name": {
@@ -1979,7 +2226,13 @@ window.GAME_DECKS = {
     {
       "id": "nintendo_1889",
       "emoji": "🎴",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Headquarters_of_Nintendo_Co.%2C_Ltd.jpg/960px-Headquarters_of_Nintendo_Co.%2C_Ltd.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Headquarters_of_Nintendo_Co.%2C_Ltd.jpg/500px-Headquarters_of_Nintendo_Co.%2C_Ltd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Tokumeigakarinoaoshima",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Headquarters_of_Nintendo_Co.,_Ltd.jpg"
+      },
       "value": 1889,
       "unit": "year",
       "name": {
@@ -2020,7 +2273,12 @@ window.GAME_DECKS = {
     {
       "id": "eiffel_1889",
       "emoji": "🗼",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/960px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/500px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Benh LIEU SONG",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons_(cropped).jpg"
+      },
       "value": 1889,
       "unit": "year",
       "name": {
@@ -2061,7 +2319,12 @@ window.GAME_DECKS = {
     {
       "id": "starry_night_1889",
       "emoji": "🌌",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/960px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/500px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Vincent van Gogh",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+      },
       "value": 1889,
       "unit": "year",
       "name": {
@@ -2102,7 +2365,13 @@ window.GAME_DECKS = {
     {
       "id": "basketball_1891",
       "emoji": "🏀",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/USA_vs._China_Mens_Basketball_-_Beijing_2008_Olympic_Games_%282751923597%29.jpg/960px-USA_vs._China_Mens_Basketball_-_Beijing_2008_Olympic_Games_%282751923597%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/USA_vs._China_Mens_Basketball_-_Beijing_2008_Olympic_Games_%282751923597%29.jpg/500px-USA_vs._China_Mens_Basketball_-_Beijing_2008_Olympic_Games_%282751923597%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "kris krüg from Vancouver, Canada",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:USA_vs._China_Mens_Basketball_-_Beijing_2008_Olympic_Games_(2751923597).jpg"
+      },
       "value": 1891,
       "unit": "year",
       "name": {
@@ -2143,7 +2412,12 @@ window.GAME_DECKS = {
     {
       "id": "scream_1893",
       "emoji": "😱",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/960px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/500px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Edvard Munch",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg"
+      },
       "value": 1893,
       "unit": "year",
       "name": {
@@ -2184,7 +2458,12 @@ window.GAME_DECKS = {
     {
       "id": "cinema_1895",
       "emoji": "📽️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Lumi%C3%A8re_brothers.jpg/960px-Lumi%C3%A8re_brothers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Lumi%C3%A8re_brothers.jpg/500px-Lumi%C3%A8re_brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Unknown authorUnknown author",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Lumi%C3%A8re_brothers.jpg"
+      },
       "value": 1895,
       "unit": "year",
       "name": {
@@ -2225,7 +2504,13 @@ window.GAME_DECKS = {
     {
       "id": "xray_1895",
       "emoji": "🩻",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Color_X-ray_photogram.jpg/960px-Color_X-ray_photogram.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Color_X-ray_photogram.jpg/500px-Color_X-ray_photogram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "NickSpiker",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Color_X-ray_photogram.jpg"
+      },
       "value": 1895,
       "unit": "year",
       "name": {
@@ -2266,7 +2551,12 @@ window.GAME_DECKS = {
     {
       "id": "olympics_1896",
       "emoji": "🏅",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Commemorative_album_of_1896_Olympic_Games_-_cover_by_E._Gilli%C3%A9ron.jpg/960px-Commemorative_album_of_1896_Olympic_Games_-_cover_by_E._Gilli%C3%A9ron.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Commemorative_album_of_1896_Olympic_Games_-_cover_by_E._Gilli%C3%A9ron.jpg/500px-Commemorative_album_of_1896_Olympic_Games_-_cover_by_E._Gilli%C3%A9ron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Émile Gilliéron",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Commemorative_album_of_1896_Olympic_Games_-_cover_by_E._Gilli%C3%A9ron.jpg"
+      },
       "value": 1896,
       "unit": "year",
       "name": {
@@ -2307,7 +2597,13 @@ window.GAME_DECKS = {
     {
       "id": "aspirin_1899",
       "emoji": "💊",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Acetylsalicylic_acid.jpg/960px-Acetylsalicylic_acid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Acetylsalicylic_acid.jpg/500px-Acetylsalicylic_acid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Oxetane lacx",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Acetylsalicylic_acid.jpg"
+      },
       "value": 1899,
       "unit": "year",
       "name": {
@@ -2348,7 +2644,13 @@ window.GAME_DECKS = {
     {
       "id": "fc_barcelona_1899",
       "emoji": "⚽",
-      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/960px-FC_Barcelona_%28crest%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/500px-FC_Barcelona_%28crest%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "FC Barcelona",
+        "license": "PD",
+        "source": "https://en.wikipedia.org/wiki/File:FC_Barcelona_(crest).svg"
+      },
       "value": 1899,
       "unit": "year",
       "name": {
@@ -2389,7 +2691,12 @@ window.GAME_DECKS = {
     {
       "id": "michelin_1900",
       "emoji": "📕",
-      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9b/Si%C3%A8ge_de_Michelin_%C3%A0_Clermont-Ferrand_II.jpg/960px-Si%C3%A8ge_de_Michelin_%C3%A0_Clermont-Ferrand_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Guidem_michelin_1900.jpg/500px-Guidem_michelin_1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Unknown authorUnknown author",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Guidem_michelin_1900.jpg"
+      },
       "value": 1900,
       "unit": "year",
       "name": {
@@ -2430,7 +2737,13 @@ window.GAME_DECKS = {
     {
       "id": "nobel_1901",
       "emoji": "🏅",
-      "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/Nobel_Prize.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/Nobel_Prize.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Photograph: Jonathunder Medal: Erik Lindberg (1873-1966)",
+        "license": "PD-US",
+        "source": "https://en.wikipedia.org/wiki/File:Nobel_Prize.png"
+      },
       "value": 1901,
       "unit": "year",
       "name": {
@@ -2471,7 +2784,13 @@ window.GAME_DECKS = {
     {
       "id": "real_madrid_1902",
       "emoji": "⚽",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Estadio_Santiago_Bernab%C3%A9u_%E2%80%94_Real_Madrid_Juvenil_A_-_Santiago_Wanderers_Sub-20_%28Intercontinental_Sub-20_2026%29_%E2%80%94_R%C3%A9cord_de_asistencia_en_un_partido_de_juveniles.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Estadio_Santiago_Bernab%C3%A9u_%E2%80%94_Real_Madrid_Juvenil_A_-_Santiago_Wanderers_Sub-20_%28Intercontinental_Sub-20_2026%29_%E2%80%94_R%C3%A9cord_de_asistencia_en_un_partido_de_juveniles.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Badefa",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Estadio_Santiago_Bernab%C3%A9u_%E2%80%94_Real_Madrid_Juvenil_A_-_Santiago_Wanderers_Sub-20_(Intercontinental_Sub-20_2026)_%E2%80%94_R%C3%A9cord_de_asistencia_en_un_partido_de_juveniles.jpg"
+      },
       "value": 1902,
       "unit": "year",
       "name": {
@@ -2512,7 +2831,13 @@ window.GAME_DECKS = {
     {
       "id": "ford_1903",
       "emoji": "🚙",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg/960px-Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg/500px-Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "42-BRT",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ford_World_Headquarters_from_sidewalk,_against_sun.jpg"
+      },
       "value": 1903,
       "unit": "year",
       "name": {
@@ -2553,7 +2878,13 @@ window.GAME_DECKS = {
     {
       "id": "harley_1903",
       "emoji": "🏍️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Harley_Davidson_orange_logo.svg/960px-Harley_Davidson_orange_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Harley_Davidson_orange_logo.svg/500px-Harley_Davidson_orange_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Unknown authorUnknown author",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Harley_Davidson_orange_logo.svg"
+      },
       "value": 1903,
       "unit": "year",
       "name": {
@@ -2594,7 +2925,12 @@ window.GAME_DECKS = {
     {
       "id": "wright_1903",
       "emoji": "✈️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/First_flight2.jpg/960px-First_flight2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/First_flight2.jpg/500px-First_flight2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "John T. Daniels",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:First_flight2.jpg"
+      },
       "value": 1903,
       "unit": "year",
       "name": {
@@ -2635,7 +2971,13 @@ window.GAME_DECKS = {
     {
       "id": "rolex_1905",
       "emoji": "⌚",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_da_Rolex.png/960px-Logo_da_Rolex.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_da_Rolex.png/500px-Logo_da_Rolex.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Hans Wilsdorf",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Logo_da_Rolex.png"
+      },
       "value": 1905,
       "unit": "year",
       "name": {
@@ -2676,7 +3018,12 @@ window.GAME_DECKS = {
     {
       "id": "relativity_1905",
       "emoji": "⚛️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Einstein_patentoffice.jpg/960px-Einstein_patentoffice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Einstein_patentoffice.jpg/500px-Einstein_patentoffice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Lucien Chavan [1] (1868 - 1942), a friend of Einstein's when he was living in B…",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Einstein_patentoffice.jpg"
+      },
       "value": 1905,
       "unit": "year",
       "name": {
@@ -2717,7 +3064,13 @@ window.GAME_DECKS = {
     {
       "id": "chanel_1910",
       "emoji": "👗",
-      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/92/Chanel_logo_interlocking_cs.svg/960px-Chanel_logo_interlocking_cs.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/92/Chanel_logo_interlocking_cs.svg/500px-Chanel_logo_interlocking_cs.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Chanel Inc.",
+        "license": "PD",
+        "source": "https://en.wikipedia.org/wiki/File:Chanel_logo_interlocking_cs.svg"
+      },
       "value": 1910,
       "unit": "year",
       "name": {
@@ -2758,7 +3111,12 @@ window.GAME_DECKS = {
     {
       "id": "south_pole_1911",
       "emoji": "🧭",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Amundsen_in_fur_skins.jpg/960px-Amundsen_in_fur_skins.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Amundsen_in_fur_skins.jpg/500px-Amundsen_in_fur_skins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "AnonymousUnknown author",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Amundsen_in_fur_skins.jpg"
+      },
       "value": 1911,
       "unit": "year",
       "name": {
@@ -2799,7 +3157,12 @@ window.GAME_DECKS = {
     {
       "id": "titanic_1912",
       "emoji": "🚢",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/RMS_Titanic_3_%28cropped_to_ship%29.jpg/960px-RMS_Titanic_3_%28cropped_to_ship%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/RMS_Titanic_3_%28cropped_to_ship%29.jpg/500px-RMS_Titanic_3_%28cropped_to_ship%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Francis Godolphin Osbourne Stuart",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_3_(cropped_to_ship).jpg"
+      },
       "value": 1912,
       "unit": "year",
       "name": {
@@ -2840,7 +3203,13 @@ window.GAME_DECKS = {
     {
       "id": "oreo_1912",
       "emoji": "🍪",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Oreo-Two-Cookies.png/960px-Oreo-Two-Cookies.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Oreo-Two-Cookies.png/500px-Oreo-Two-Cookies.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Evan-Amos",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Oreo-Two-Cookies.png"
+      },
       "value": 1912,
       "unit": "year",
       "name": {
@@ -2881,7 +3250,13 @@ window.GAME_DECKS = {
     {
       "id": "prada_1913",
       "emoji": "👜",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Prada_milano.JPG/960px-Prada_milano.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Prada_milano.JPG/500px-Prada_milano.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Pavel Gromov (Pagan)",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Prada_milano.JPG"
+      },
       "value": 1913,
       "unit": "year",
       "name": {
@@ -2922,7 +3297,12 @@ window.GAME_DECKS = {
     {
       "id": "ww1_1914",
       "emoji": "🪖",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/960px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/500px-Bataille_de_Verdun_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Collection DocAnciens/docpix.fr",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Bataille_de_Verdun_1916.jpg"
+      },
       "value": 1914,
       "unit": "year",
       "name": {
@@ -2963,7 +3343,14 @@ window.GAME_DECKS = {
     {
       "id": "panama_canal_1914",
       "emoji": "🚢",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Panama_Canal_Map_EN.svg/960px-Panama_Canal_Map_EN.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Panama_Canal_Map_EN.svg/500px-Panama_Canal_Map_EN.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Thoroe",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Panama_Canal_Map_EN.svg"
+      },
       "value": 1914,
       "unit": "year",
       "name": {
@@ -3004,7 +3391,13 @@ window.GAME_DECKS = {
     {
       "id": "bmw_1916",
       "emoji": "🚗",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_BMW_Group_2021.svg/960px-Logo_BMW_Group_2021.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_BMW_Group_2021.svg/500px-Logo_BMW_Group_2021.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "BMW Group",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Logo_BMW_Group_2021.svg"
+      },
       "value": 1916,
       "unit": "year",
       "name": {
@@ -3045,7 +3438,13 @@ window.GAME_DECKS = {
     {
       "id": "gucci_1921",
       "emoji": "👜",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Gucci_NYC_Flagship_%2848064046878%29.jpg/960px-Gucci_NYC_Flagship_%2848064046878%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Gucci_NYC_Flagship_%2848064046878%29.jpg/500px-Gucci_NYC_Flagship_%2848064046878%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Ajay Suresh from New York, NY, USA",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gucci_NYC_Flagship_(48064046878).jpg"
+      },
       "value": 1921,
       "unit": "year",
       "name": {
@@ -3086,7 +3485,12 @@ window.GAME_DECKS = {
     {
       "id": "chanel_no5_1921",
       "emoji": "🧴",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/CHANEL_No5_parfum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/CHANEL_No5_parfum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "arz",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:CHANEL_No5_parfum.jpg"
+      },
       "value": 1921,
       "unit": "year",
       "name": {
@@ -3127,7 +3531,13 @@ window.GAME_DECKS = {
     {
       "id": "ottoman_end_1922",
       "emoji": "☪️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Territorial_changes_of_the_Ottoman_Empire_1912_corrected.jpg/960px-Territorial_changes_of_the_Ottoman_Empire_1912_corrected.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Territorial_changes_of_the_Ottoman_Empire_1912_corrected.jpg/500px-Territorial_changes_of_the_Ottoman_Empire_1912_corrected.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "The-",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Territorial_changes_of_the_Ottoman_Empire_1912_corrected.jpg"
+      },
       "value": 1922,
       "unit": "year",
       "name": {
@@ -3168,7 +3578,12 @@ window.GAME_DECKS = {
     {
       "id": "tutankhamun_1922",
       "emoji": "⚰️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/960px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/500px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Roland Unger",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg"
+      },
       "value": 1922,
       "unit": "year",
       "name": {
@@ -3209,7 +3624,13 @@ window.GAME_DECKS = {
     {
       "id": "disney_1923",
       "emoji": "🏰",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_Walt_Disney_company_logo.svg/960px-The_Walt_Disney_company_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_Walt_Disney_company_logo.svg/500px-The_Walt_Disney_company_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Disney Enterprises, Inc.",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Walt_Disney_company_logo.svg"
+      },
       "value": 1923,
       "unit": "year",
       "name": {
@@ -3250,7 +3671,13 @@ window.GAME_DECKS = {
     {
       "id": "hollywood_sign_1923",
       "emoji": "🪧",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/960px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/500px-Hollywood_sign_%288485145044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Gnaphron",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hollywood_sign_(8485145044).jpg"
+      },
       "value": 1923,
       "unit": "year",
       "name": {
@@ -3291,7 +3718,12 @@ window.GAME_DECKS = {
     {
       "id": "mickey_1928",
       "emoji": "🐭",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Steamboat_Willie_1928_Poster.png/960px-Steamboat_Willie_1928_Poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Steamboat_Willie_1928_Poster.png/500px-Steamboat_Willie_1928_Poster.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Walt Disney / Ub Iwerks",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Steamboat_Willie_1928_Poster.png"
+      },
       "value": 1928,
       "unit": "year",
       "name": {
@@ -3332,7 +3764,13 @@ window.GAME_DECKS = {
     {
       "id": "penicillin_1928",
       "emoji": "🧫",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Penicillin_core.svg/960px-Penicillin_core.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Penicillin_core.svg/500px-Penicillin_core.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Yikrazuul",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Penicillin_core.svg"
+      },
       "value": 1928,
       "unit": "year",
       "name": {
@@ -3373,7 +3811,13 @@ window.GAME_DECKS = {
     {
       "id": "sliced_bread_1928",
       "emoji": "🍞",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Fresh_made_bread_05.jpg/960px-Fresh_made_bread_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Fresh_made_bread_05.jpg/500px-Fresh_made_bread_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "FranHogan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Fresh_made_bread_05.jpg"
+      },
       "value": 1928,
       "unit": "year",
       "name": {
@@ -3414,7 +3858,12 @@ window.GAME_DECKS = {
     {
       "id": "oscars_1929",
       "emoji": "🏆",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/1stOscars_1929.jpg/960px-1stOscars_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/1stOscars_1929.jpg/500px-1stOscars_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Academy of Motion Picture Arts and Sciences",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:1stOscars_1929.jpg"
+      },
       "value": 1929,
       "unit": "year",
       "name": {
@@ -3455,7 +3904,12 @@ window.GAME_DECKS = {
     {
       "id": "worldcup_1930",
       "emoji": "⚽",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Uruguay_1930_World_Cup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Uruguay_1930_World_Cup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "Guillermo Laborde (1886–1940)",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Uruguay_1930_World_Cup.jpg"
+      },
       "value": 1930,
       "unit": "year",
       "name": {
@@ -3496,7 +3950,12 @@ window.GAME_DECKS = {
     {
       "id": "pluto_1930",
       "emoji": "🪐",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Pluto_in_True_Color_-_High-Res.png/960px-Pluto_in_True_Color_-_High-Res.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Pluto_in_True_Color_-_High-Res.png/500px-Pluto_in_True_Color_-_High-Res.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Ins…",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Pluto_in_True_Color_-_High-Res.png"
+      },
       "value": 1930,
       "unit": "year",
       "name": {
@@ -3537,7 +3996,12 @@ window.GAME_DECKS = {
     {
       "id": "empire_state_1931",
       "emoji": "🏙️",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Empire_State_Building_%28aerial_view%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Empire_State_Building_%28aerial_view%29.jpg/500px-Empire_State_Building_%28aerial_view%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Sam Valadi",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_(aerial_view).jpg"
+      },
       "value": 1931,
       "unit": "year",
       "name": {
@@ -3578,7 +4042,13 @@ window.GAME_DECKS = {
     {
       "id": "christ_redeemer_1931",
       "emoji": "✝️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg/960px-Christ_the_Redeemer_-_Cristo_Redentor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg/500px-Christ_the_Redeemer_-_Cristo_Redentor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Arne Müseler",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+      },
       "value": 1931,
       "unit": "year",
       "name": {
@@ -3619,7 +4089,13 @@ window.GAME_DECKS = {
     {
       "id": "lego_1932",
       "emoji": "🧱",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/960px-LEGO_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/500px-LEGO_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "The Lego Group",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:LEGO_logo.svg"
+      },
       "value": 1932,
       "unit": "year",
       "name": {
@@ -3660,7 +4136,13 @@ window.GAME_DECKS = {
     {
       "id": "golden_gate_1937",
       "emoji": "🌉",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/960px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/500px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Frank Schulenburg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Battery_East.jpg"
+      },
       "value": 1937,
       "unit": "year",
       "name": {
@@ -3701,7 +4183,13 @@ window.GAME_DECKS = {
     {
       "id": "spam_1937",
       "emoji": "🥫",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Spam_wall_-_Flickr_-_freezelight.jpg/960px-Spam_wall_-_Flickr_-_freezelight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Spam_wall_-_Flickr_-_freezelight.jpg/500px-Spam_wall_-_Flickr_-_freezelight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "freezelight",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Spam_wall_-_Flickr_-_freezelight.jpg"
+      },
       "value": 1937,
       "unit": "year",
       "name": {
@@ -3742,7 +4230,13 @@ window.GAME_DECKS = {
     {
       "id": "toyota_1937",
       "emoji": "🚗",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Headquarter_of_Toyota_Motor_Corporation_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Headquarter_of_Toyota_Motor_Corporation_3.JPG/500px-Headquarter_of_Toyota_Motor_Corporation_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Tokumeigakarinoaoshima",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Headquarter_of_Toyota_Motor_Corporation_3.JPG"
+      },
       "value": 1937,
       "unit": "year",
       "name": {
@@ -3783,7 +4277,13 @@ window.GAME_DECKS = {
     {
       "id": "volkswagen_1937",
       "emoji": "🚗",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/960px-Volkswagen_logo_2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/500px-Volkswagen_logo_2019.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Volkswagen",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Volkswagen_logo_2019.svg"
+      },
       "value": 1937,
       "unit": "year",
       "name": {
@@ -3824,7 +4324,13 @@ window.GAME_DECKS = {
     {
       "id": "samsung_1938",
       "emoji": "🏢",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Samsung_headquarters.jpg/960px-Samsung_headquarters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Samsung_headquarters.jpg/500px-Samsung_headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Oskar Alexanderson",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Samsung_headquarters.jpg"
+      },
       "value": 1938,
       "unit": "year",
       "name": {
@@ -3865,7 +4371,13 @@ window.GAME_DECKS = {
     {
       "id": "superman_1938",
       "emoji": "🦸",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Jerry_Siegel_in_Uniform_ca1943_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Superman_shield.svg/500px-Superman_shield.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "DC Comics, Inc. A subsidiary of Warner Bros. Discovery (c)2015.",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Superman_shield.svg"
+      },
       "value": 1938,
       "unit": "year",
       "name": {
@@ -3906,7 +4418,12 @@ window.GAME_DECKS = {
     {
       "id": "batman_1939",
       "emoji": "🦇",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bob_Kane_1966_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bob_Kane_1966_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "Unknown authorUnknown author",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Bob_Kane_1966_photo.jpg"
+      },
       "value": 1939,
       "unit": "year",
       "name": {
@@ -3947,7 +4464,13 @@ window.GAME_DECKS = {
     {
       "id": "ww2_1939",
       "emoji": "🪖",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/500px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Richard Opitz",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-646-5188-17,_Flugzeuge_Junkers_Ju_87.jpg"
+      },
       "value": 1939,
       "unit": "year",
       "name": {
@@ -3988,7 +4511,13 @@ window.GAME_DECKS = {
     {
       "id": "mcdonalds_1940",
       "emoji": "🍔",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/960px-McDonald%27s_Golden_Arches.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/500px-McDonald%27s_Golden_Arches.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "McDonald's",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:McDonald%27s_Golden_Arches.svg"
+      },
       "value": 1940,
       "unit": "year",
       "name": {
@@ -4029,7 +4558,13 @@ window.GAME_DECKS = {
     {
       "id": "ikea_1943",
       "emoji": "🛋️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ikea_Hubhult.jpg/960px-Ikea_Hubhult.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ikea_Hubhult.jpg/500px-Ikea_Hubhult.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "News Oresund",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ikea_Hubhult.jpg"
+      },
       "value": 1943,
       "unit": "year",
       "name": {
@@ -4070,7 +4605,13 @@ window.GAME_DECKS = {
     {
       "id": "un_1945",
       "emoji": "🇺🇳",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/960px-Flag_of_the_United_Nations.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/500px-Flag_of_the_United_Nations.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "See File history below for details. Denelson83, Zscout370 ve Madden",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Nations.svg"
+      },
       "value": 1945,
       "unit": "year",
       "name": {
@@ -4111,7 +4652,13 @@ window.GAME_DECKS = {
     {
       "id": "microwave_1945",
       "emoji": "🍿",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Panasonic_NN-SD69LS_20220410.jpg/960px-Panasonic_NN-SD69LS_20220410.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Panasonic_NN-SD69LS_20220410.jpg/500px-Panasonic_NN-SD69LS_20220410.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Mrbeastmodeallday",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Panasonic_NN-SD69LS_20220410.jpg"
+      },
       "value": 1945,
       "unit": "year",
       "name": {
@@ -4152,7 +4699,13 @@ window.GAME_DECKS = {
     {
       "id": "eniac_1946",
       "emoji": "🖥️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/ENIAC_Penn1.jpg/960px-ENIAC_Penn1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/ENIAC_Penn1.jpg/500px-ENIAC_Penn1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "The original uploader was TexasDex at English Wikipedia.",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:ENIAC_Penn1.jpg"
+      },
       "value": 1946,
       "unit": "year",
       "name": {
@@ -4193,7 +4746,13 @@ window.GAME_DECKS = {
     {
       "id": "sony_1946",
       "emoji": "📻",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Sony_headquaters_2.jpg/960px-Sony_headquaters_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Sony_headquaters_2.jpg/500px-Sony_headquaters_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Akonnchiroll",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sony_headquaters_2.jpg"
+      },
       "value": 1946,
       "unit": "year",
       "name": {
@@ -4234,7 +4793,13 @@ window.GAME_DECKS = {
     {
       "id": "ferrari_1947",
       "emoji": "🏎️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%AA%E6%9C%AC%E7%A4%BE%E5%89%8D_%2836309429124%29.jpg/960px-%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%AA%E6%9C%AC%E7%A4%BE%E5%89%8D_%2836309429124%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%AA%E6%9C%AC%E7%A4%BE%E5%89%8D_%2836309429124%29.jpg/500px-%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%AA%E6%9C%AC%E7%A4%BE%E5%89%8D_%2836309429124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "nimame",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%AA%E6%9C%AC%E7%A4%BE%E5%89%8D_(36309429124).jpg"
+      },
       "value": 1947,
       "unit": "year",
       "name": {
@@ -4275,7 +4840,13 @@ window.GAME_DECKS = {
     {
       "id": "transistor_1947",
       "emoji": "🔌",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Transbauformen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Transbauformen.jpg/500px-Transbauformen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Ulfbastel",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Transbauformen.jpg"
+      },
       "value": 1947,
       "unit": "year",
       "name": {
@@ -4316,7 +4887,13 @@ window.GAME_DECKS = {
     {
       "id": "adidas_1949",
       "emoji": "👟",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Adidas_2022_logo.svg/960px-Adidas_2022_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Adidas_2022_logo.svg/500px-Adidas_2022_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Adidas",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Adidas_2022_logo.svg"
+      },
       "value": 1949,
       "unit": "year",
       "name": {
@@ -4357,7 +4934,13 @@ window.GAME_DECKS = {
     {
       "id": "credit_card_1950",
       "emoji": "💳",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Credit-cards.jpg/960px-Credit-cards.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Diners_Club_Regular_Japan_2016.jpg/500px-Diners_Club_Regular_Japan_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Hitomi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Diners_Club_Regular_Japan_2016.jpg"
+      },
       "value": 1950,
       "unit": "year",
       "name": {
@@ -4398,7 +4981,12 @@ window.GAME_DECKS = {
     {
       "id": "f1_1950",
       "emoji": "🏁",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/NinoFarina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/NinoFarina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "Unknown authorUnknown author",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:NinoFarina.jpg"
+      },
       "value": 1950,
       "unit": "year",
       "name": {
@@ -4439,7 +5027,13 @@ window.GAME_DECKS = {
     {
       "id": "dna_1953",
       "emoji": "🧬",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/DNA_orbit_animated_static_thumb.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/DNA_orbit_animated_static_thumb.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "84user adapting file originally uploaded by Richard Wheeler (Zephyris) at en.wi…",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:DNA_orbit_animated_static_thumb.png"
+      },
       "value": 1953,
       "unit": "year",
       "name": {
@@ -4480,7 +5074,13 @@ window.GAME_DECKS = {
     {
       "id": "everest_1953",
       "emoji": "🏔️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg/960px-Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Edmund_Hillary_and_Tenzing_Norgay.jpg/500px-Edmund_Hillary_and_Tenzing_Norgay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Jamling Tenzing Norgay",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Edmund_Hillary_and_Tenzing_Norgay.jpg"
+      },
       "value": 1953,
       "unit": "year",
       "name": {
@@ -4521,7 +5121,13 @@ window.GAME_DECKS = {
     {
       "id": "guinness_book_1955",
       "emoji": "📗",
-      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f4/Guinness_World_Records_logo.svg/960px-Guinness_World_Records_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f4/Guinness_World_Records_logo.svg/500px-Guinness_World_Records_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Guinness World Records",
+        "license": "PD",
+        "source": "https://en.wikipedia.org/wiki/File:Guinness_World_Records_logo.svg"
+      },
       "value": 1955,
       "unit": "year",
       "name": {
@@ -4562,7 +5168,13 @@ window.GAME_DECKS = {
     {
       "id": "disneyland_1955",
       "emoji": "🎠",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Sleeping_Beauty_Castle_-_February_2024.png/960px-Sleeping_Beauty_Castle_-_February_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Sleeping_Beauty_Castle_-_February_2024.png/500px-Sleeping_Beauty_Castle_-_February_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Parksfan1955",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Sleeping_Beauty_Castle_-_February_2024.png"
+      },
       "value": 1955,
       "unit": "year",
       "name": {
@@ -4603,7 +5215,13 @@ window.GAME_DECKS = {
     {
       "id": "sputnik_1957",
       "emoji": "🛰️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg/960px-%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg/500px-%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Andrey Butko",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg"
+      },
       "value": 1957,
       "unit": "year",
       "name": {
@@ -4644,7 +5262,13 @@ window.GAME_DECKS = {
     {
       "id": "nasa_1958",
       "emoji": "🚀",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/960px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/500px-NASA_seal.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "The original uploader was Vargklo at English Wikipedia.",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:NASA_seal.svg"
+      },
       "value": 1958,
       "unit": "year",
       "name": {
@@ -4685,7 +5309,13 @@ window.GAME_DECKS = {
     {
       "id": "instant_noodles_1958",
       "emoji": "🍜",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Mama_instant_noodle_block.jpg/960px-Mama_instant_noodle_block.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Mama_instant_noodle_block.jpg/500px-Mama_instant_noodle_block.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mama_instant_noodle_block.jpg"
+      },
       "value": 1958,
       "unit": "year",
       "name": {
@@ -4726,7 +5356,13 @@ window.GAME_DECKS = {
     {
       "id": "barbie_1959",
       "emoji": "👱‍♀️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Barbie_Logo.svg/960px-Barbie_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Barbie_Logo.svg/500px-Barbie_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Mattel, Inc.",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Barbie_Logo.svg"
+      },
       "value": 1959,
       "unit": "year",
       "name": {
@@ -4767,7 +5403,12 @@ window.GAME_DECKS = {
     {
       "id": "beatles_1960",
       "emoji": "🎸",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/960px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/500px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Dezo Hoffmann, Distributed by Capitol Records",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg"
+      },
       "value": 1960,
       "unit": "year",
       "name": {
@@ -4808,7 +5449,13 @@ window.GAME_DECKS = {
     {
       "id": "gagarin_1961",
       "emoji": "🧑‍🚀",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Yuri_Gagarin_with_awards_%28cropped%29_2.jpg/960px-Yuri_Gagarin_with_awards_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD_%28cropped%29.jpg/500px-%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "ТАСС",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD_(cropped).jpg"
+      },
       "value": 1961,
       "unit": "year",
       "name": {
@@ -4849,7 +5496,13 @@ window.GAME_DECKS = {
     {
       "id": "spiderman_1962",
       "emoji": "🕷️",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Stan_Lee_2007_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Madame_Tussauds_London_-_Spider-Man_statue.jpg/500px-Madame_Tussauds_London_-_Spider-Man_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Cristian Bortes / bortescristian",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Madame_Tussauds_London_-_Spider-Man_statue.jpg"
+      },
       "value": 1962,
       "unit": "year",
       "name": {
@@ -4890,7 +5543,13 @@ window.GAME_DECKS = {
     {
       "id": "lamborghini_1963",
       "emoji": "🏎️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Lamborghini%2C_Sant%27Agata_Bolognese%2C_Bologna.jpg/960px-Lamborghini%2C_Sant%27Agata_Bolognese%2C_Bologna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Lamborghini%2C_Sant%27Agata_Bolognese%2C_Bologna.jpg/500px-Lamborghini%2C_Sant%27Agata_Bolognese%2C_Bologna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Fabrizio Pivari (Pivari.com)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lamborghini,_Sant%27Agata_Bolognese,_Bologna.jpg"
+      },
       "value": 1963,
       "unit": "year",
       "name": {
@@ -4931,7 +5590,13 @@ window.GAME_DECKS = {
     {
       "id": "nike_1964",
       "emoji": "👟",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Nike_Campus%2C_Beaverton_-_DPLA_-_ffa63f1bbaf5cd21aeada3d3978db2b0.jpg/960px-Nike_Campus%2C_Beaverton_-_DPLA_-_ffa63f1bbaf5cd21aeada3d3978db2b0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Nike_Campus%2C_Beaverton_-_DPLA_-_ffa63f1bbaf5cd21aeada3d3978db2b0.jpg/500px-Nike_Campus%2C_Beaverton_-_DPLA_-_ffa63f1bbaf5cd21aeada3d3978db2b0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Gary Halvorson, Oregon State Archives",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Nike_Campus,_Beaverton_-_DPLA_-_ffa63f1bbaf5cd21aeada3d3978db2b0.jpg"
+      },
       "value": 1964,
       "unit": "year",
       "name": {
@@ -4972,7 +5637,13 @@ window.GAME_DECKS = {
     {
       "id": "nutella_1964",
       "emoji": "🍫",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Nutella_for_breakfast_-_Flickr_-_love.jsc.jpg/960px-Nutella_for_breakfast_-_Flickr_-_love.jsc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Nutella_for_breakfast_-_Flickr_-_love.jsc.jpg/500px-Nutella_for_breakfast_-_Flickr_-_love.jsc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Janine from South Korea, United States",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Nutella_for_breakfast_-_Flickr_-_love.jsc.jpg"
+      },
       "value": 1964,
       "unit": "year",
       "name": {
@@ -5013,7 +5684,13 @@ window.GAME_DECKS = {
     {
       "id": "shinkansen_1964",
       "emoji": "🚄",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Series-N700S-J2.jpg/960px-Series-N700S-J2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Series-N700S-J2.jpg/500px-Series-N700S-J2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "MaedaAkihiko",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Series-N700S-J2.jpg"
+      },
       "value": 1964,
       "unit": "year",
       "name": {
@@ -5054,7 +5731,13 @@ window.GAME_DECKS = {
     {
       "id": "hyundai_1967",
       "emoji": "🚗",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/HyundaiMotorsCompany_KiaMotorsCompany.jpg/960px-HyundaiMotorsCompany_KiaMotorsCompany.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/HyundaiMotorsCompany_KiaMotorsCompany.jpg/500px-HyundaiMotorsCompany_KiaMotorsCompany.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "HappyMidnight",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:HyundaiMotorsCompany_KiaMotorsCompany.jpg"
+      },
       "value": 1967,
       "unit": "year",
       "name": {
@@ -5095,7 +5778,14 @@ window.GAME_DECKS = {
     {
       "id": "big_mac_1967",
       "emoji": "🍔",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Big_Mac.png/960px-Big_Mac.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Big_Mac.png/500px-Big_Mac.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Anemonemma, 3df",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Big_Mac.png"
+      },
       "value": 1967,
       "unit": "year",
       "name": {
@@ -5136,7 +5826,13 @@ window.GAME_DECKS = {
     {
       "id": "pringles_1968",
       "emoji": "🥔",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Potato-Chips.jpg/960px-Potato-Chips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Pringles_chips.JPG/500px-Pringles_chips.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Glane23",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pringles_chips.JPG"
+      },
       "value": 1968,
       "unit": "year",
       "name": {
@@ -5177,7 +5873,13 @@ window.GAME_DECKS = {
     {
       "id": "boeing747_1969",
       "emoji": "✈️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/B-747_Iberia.jpg/960px-B-747_Iberia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/B-747_Iberia.jpg/500px-B-747_Iberia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Iberia Airlines",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:B-747_Iberia.jpg"
+      },
       "value": 1969,
       "unit": "year",
       "name": {
@@ -5218,7 +5920,12 @@ window.GAME_DECKS = {
     {
       "id": "moon_1969",
       "emoji": "🌕",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/960px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/500px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Neil A. Armstrong",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg"
+      },
       "value": 1969,
       "unit": "year",
       "name": {
@@ -5259,7 +5966,12 @@ window.GAME_DECKS = {
     {
       "id": "arpanet_1969",
       "emoji": "🌐",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Arpanet_logical_map%2C_march_1977.png/960px-Arpanet_logical_map%2C_march_1977.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Arpanet_logical_map%2C_march_1977.png/500px-Arpanet_logical_map%2C_march_1977.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "ARPANET",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Arpanet_logical_map,_march_1977.png"
+      },
       "value": 1969,
       "unit": "year",
       "name": {
@@ -5300,7 +6012,13 @@ window.GAME_DECKS = {
     {
       "id": "wheeled_suitcase_1970",
       "emoji": "🧳",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Suitcase1.jpg/960px-Suitcase1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Suitcase1.jpg/500px-Suitcase1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "JEXP",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Suitcase1.jpg"
+      },
       "value": 1970,
       "unit": "year",
       "name": {
@@ -5341,7 +6059,13 @@ window.GAME_DECKS = {
     {
       "id": "starbucks_1971",
       "emoji": "☕",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Starbuckscenter.jpg/960px-Starbuckscenter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Starbuckscenter.jpg/500px-Starbuckscenter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Coolcaesar",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Starbuckscenter.jpg"
+      },
       "value": 1971,
       "unit": "year",
       "name": {
@@ -5382,7 +6106,14 @@ window.GAME_DECKS = {
     {
       "id": "email_1971",
       "emoji": "📧",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Evolution_36_mail.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Evolution_36_mail.png/500px-Evolution_36_mail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "AlexanderVanLoon",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Evolution_36_mail.png"
+      },
       "value": 1971,
       "unit": "year",
       "name": {
@@ -5423,7 +6154,13 @@ window.GAME_DECKS = {
     {
       "id": "pong_1972",
       "emoji": "🏓",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Signed_Pong_Cabinet.jpg/960px-Signed_Pong_Cabinet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Signed_Pong_Cabinet.jpg/500px-Signed_Pong_Cabinet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Chris Rand",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Signed_Pong_Cabinet.jpg"
+      },
       "value": 1972,
       "unit": "year",
       "name": {
@@ -5464,7 +6201,13 @@ window.GAME_DECKS = {
     {
       "id": "sydney_opera_1973",
       "emoji": "🎭",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Sydney_Opera_House_2026.jpg/960px-Sydney_Opera_House_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Sydney_Opera_House_2026.jpg/500px-Sydney_Opera_House_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "BAVhah",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_2026.jpg"
+      },
       "value": 1973,
       "unit": "year",
       "name": {
@@ -5505,7 +6248,13 @@ window.GAME_DECKS = {
     {
       "id": "cellphone_1973",
       "emoji": "📱",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2007Computex_e21Forum-MartinCooper.jpg/960px-2007Computex_e21Forum-MartinCooper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2007Computex_e21Forum-MartinCooper.jpg/500px-2007Computex_e21Forum-MartinCooper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Rico Shen",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:2007Computex_e21Forum-MartinCooper.jpg"
+      },
       "value": 1973,
       "unit": "year",
       "name": {
@@ -5546,7 +6295,13 @@ window.GAME_DECKS = {
     {
       "id": "rubiks_1974",
       "emoji": "🟩",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rubiks_cube_solved.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Rubiks_cube_solved.jpg/500px-Rubiks_cube_solved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Mike Gonzalez (TheCoffee)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rubiks_cube_solved.jpg"
+      },
       "value": 1974,
       "unit": "year",
       "name": {
@@ -5587,7 +6342,12 @@ window.GAME_DECKS = {
     {
       "id": "microsoft_1975",
       "emoji": "🪟",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/960px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/500px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Jelson25",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Aerial_Microsoft_West_Campus_August_2009.jpg"
+      },
       "value": 1975,
       "unit": "year",
       "name": {
@@ -5628,7 +6388,13 @@ window.GAME_DECKS = {
     {
       "id": "apple_1976",
       "emoji": "🍎",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/960px-Apple_logo_black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/500px-Apple_logo_black.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Original: Rob Janoff",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg"
+      },
       "value": 1976,
       "unit": "year",
       "name": {
@@ -5669,7 +6435,12 @@ window.GAME_DECKS = {
     {
       "id": "starwars_1977",
       "emoji": "⚔️",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Parents_of_Earth%2C_are_your_children_fully_immunized_%284647268251%29_%28cropped%29_auto_color_%28cropped_to_R2-D2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Parents_of_Earth%2C_are_your_children_fully_immunized_%284647268251%29_%28cropped%29_auto_color_%28cropped_to_R2-D2%29.jpg/500px-Parents_of_Earth%2C_are_your_children_fully_immunized_%284647268251%29_%28cropped%29_auto_color_%28cropped_to_R2-D2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "National Library of Medicine - History of Medicine",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Parents_of_Earth,_are_your_children_fully_immunized_(4647268251)_(cropped)_auto_color_(cropped_to_R2-D2).jpg"
+      },
       "value": 1977,
       "unit": "year",
       "name": {
@@ -5710,7 +6481,13 @@ window.GAME_DECKS = {
     {
       "id": "voyager1_1977",
       "emoji": "🛸",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/960px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/500px-Voyager_spacecraft_model.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "National Aeronautics and Space Administration (NASA)",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Voyager_spacecraft_model.png"
+      },
       "value": 1977,
       "unit": "year",
       "name": {
@@ -5751,7 +6528,13 @@ window.GAME_DECKS = {
     {
       "id": "walkman_1979",
       "emoji": "🎧",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Walkman_logo_%282000%29.svg/960px-Walkman_logo_%282000%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Walkman_logo_%282000%29.svg/500px-Walkman_logo_%282000%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Sony",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Walkman_logo_(2000).svg"
+      },
       "value": 1979,
       "unit": "year",
       "name": {
@@ -5792,7 +6575,14 @@ window.GAME_DECKS = {
     {
       "id": "pacman_1980",
       "emoji": "🍒",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Daikeien_amusement_arcade_2018-05-10.jpg/960px-Daikeien_amusement_arcade_2018-05-10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Pac-Man_gameplay_%281x_pixel-perfect_recreation%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Bandai Namco Entertainment America",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pac-Man_gameplay_(1x_pixel-perfect_recreation).png"
+      },
       "value": 1980,
       "unit": "year",
       "name": {
@@ -5833,7 +6623,13 @@ window.GAME_DECKS = {
     {
       "id": "postit_1980",
       "emoji": "🟨",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Post-it-2020.svg/960px-Post-it-2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Post-it-2020.svg/500px-Post-it-2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Post-it",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Post-it-2020.svg"
+      },
       "value": 1980,
       "unit": "year",
       "name": {
@@ -5874,7 +6670,13 @@ window.GAME_DECKS = {
     {
       "id": "ibm_pc_1981",
       "emoji": "💻",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/IBM_Personal_Computer_badge_recreation.svg/960px-IBM_Personal_Computer_badge_recreation.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/IBM_Personal_Computer_badge_recreation.svg/500px-IBM_Personal_Computer_badge_recreation.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Own work (based on graphics by International Business Machines Corporation)",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:IBM_Personal_Computer_badge_recreation.svg"
+      },
       "value": 1981,
       "unit": "year",
       "name": {
@@ -5915,7 +6717,12 @@ window.GAME_DECKS = {
     {
       "id": "thriller_1982",
       "emoji": "🕺",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/960px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/500px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Matthew Rolston; Distributed by Epic Records",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg"
+      },
       "value": 1982,
       "unit": "year",
       "name": {
@@ -5956,7 +6763,13 @@ window.GAME_DECKS = {
     {
       "id": "cd_1982",
       "emoji": "💿",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Compact_Disc_wordmark.svg/960px-Compact_Disc_wordmark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Compact_Disc_wordmark.svg/500px-Compact_Disc_wordmark.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Sony and Phillips",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Compact_Disc_wordmark.svg"
+      },
       "value": 1982,
       "unit": "year",
       "name": {
@@ -5997,7 +6810,13 @@ window.GAME_DECKS = {
     {
       "id": "famicom_1983",
       "emoji": "🎮",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/NES-Console-Set.png/960px-NES-Console-Set.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/NES-Console-Set.png/500px-NES-Console-Set.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Evan-Amos",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:NES-Console-Set.png"
+      },
       "value": 1983,
       "unit": "year",
       "name": {
@@ -6038,7 +6857,13 @@ window.GAME_DECKS = {
     {
       "id": "macintosh_1984",
       "emoji": "🖥️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Computer_macintosh_128k%2C_1984_%28all_about_Apple_onlus%29.jpg/960px-Computer_macintosh_128k%2C_1984_%28all_about_Apple_onlus%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Computer_macintosh_128k%2C_1984_%28all_about_Apple_onlus%29.jpg/500px-Computer_macintosh_128k%2C_1984_%28all_about_Apple_onlus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Sailko",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Computer_macintosh_128k,_1984_(all_about_Apple_onlus).jpg"
+      },
       "value": 1984,
       "unit": "year",
       "name": {
@@ -6079,7 +6904,13 @@ window.GAME_DECKS = {
     {
       "id": "tetris_1984",
       "emoji": "🧱",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tetris_logo_2019.svg/960px-Tetris_logo_2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tetris_logo_2019.svg/500px-Tetris_logo_2019.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "The Tetris Company",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Tetris_logo_2019.svg"
+      },
       "value": 1984,
       "unit": "year",
       "name": {
@@ -6120,7 +6951,13 @@ window.GAME_DECKS = {
     {
       "id": "dragonball_1984",
       "emoji": "🐉",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Signature_of_Akira_Toriyama.svg/960px-Signature_of_Akira_Toriyama.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Mural_de_Dragon_Ball_en_La_Victoria%2C_Lima_%2812%29.jpg/500px-Mural_de_Dragon_Ball_en_La_Victoria%2C_Lima_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Mayimbú",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mural_de_Dragon_Ball_en_La_Victoria,_Lima_(12).jpg"
+      },
       "value": 1984,
       "unit": "year",
       "name": {
@@ -6161,7 +6998,13 @@ window.GAME_DECKS = {
     {
       "id": "super_mario_1985",
       "emoji": "🍄",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Shigeru_Miyamoto_20150610_%28cropped_4%29.jpg/960px-Shigeru_Miyamoto_20150610_%28cropped_4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Super_Mario_Bros._Logo.svg/500px-Super_Mario_Bros._Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Nintendo",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Super_Mario_Bros._Logo.svg"
+      },
       "value": 1985,
       "unit": "year",
       "name": {
@@ -6202,7 +7045,13 @@ window.GAME_DECKS = {
     {
       "id": "windows1_1985",
       "emoji": "🪟",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg/960px-Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Windows_1.01_Bootscreen_20201222_EN.png/500px-Windows_1.01_Bootscreen_20201222_EN.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "OS by Microsoft Corporation/Screenshot by PantheraLeo1359531 😺 (talk)",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Windows_1.01_Bootscreen_20201222_EN.png"
+      },
       "value": 1985,
       "unit": "year",
       "name": {
@@ -6243,7 +7092,13 @@ window.GAME_DECKS = {
     {
       "id": "ghibli_1985",
       "emoji": "🌱",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Studio_Ghibli_studio_3.jpg/960px-Studio_Ghibli_studio_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Studio_Ghibli_studio_3.jpg/500px-Studio_Ghibli_studio_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Akonnchiroll",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Studio_Ghibli_studio_3.jpg"
+      },
       "value": 1985,
       "unit": "year",
       "name": {
@@ -6284,7 +7139,13 @@ window.GAME_DECKS = {
     {
       "id": "chernobyl_1986",
       "emoji": "☢️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/IAEA_02790015_%285613115146%29.jpg/960px-IAEA_02790015_%285613115146%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/IAEA_02790015_%285613115146%29.jpg/500px-IAEA_02790015_%285613115146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "IAEA Imagebank",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:IAEA_02790015_(5613115146).jpg"
+      },
       "value": 1986,
       "unit": "year",
       "name": {
@@ -6325,7 +7186,13 @@ window.GAME_DECKS = {
     {
       "id": "gameboy_1989",
       "emoji": "🕹️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Game-Boy-FL.png/960px-Game-Boy-FL.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Game-Boy-FL.png/500px-Game-Boy-FL.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Transfrom JPEG version and remove white background. Original by Evan-Amos.",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Game-Boy-FL.png"
+      },
       "value": 1989,
       "unit": "year",
       "name": {
@@ -6366,7 +7233,13 @@ window.GAME_DECKS = {
     {
       "id": "berlin_wall_1989",
       "emoji": "🧱",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg/500px-West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Unknown photographer, Reproduction by Lear 21 at English Wikipedia.",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg"
+      },
       "value": 1989,
       "unit": "year",
       "name": {
@@ -6407,7 +7280,13 @@ window.GAME_DECKS = {
     {
       "id": "simpsons_1989",
       "emoji": "🍩",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/500px-The_Simpsons_yellow_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "20th Television Animation",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Simpsons_yellow_logo.svg"
+      },
       "value": 1989,
       "unit": "year",
       "name": {
@@ -6448,7 +7327,12 @@ window.GAME_DECKS = {
     {
       "id": "hubble_1990",
       "emoji": "🔭",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/960px-Hubble_2009_close-up_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/500px-Hubble_2009_close-up_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "NASA",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Hubble_2009_close-up_2.jpg"
+      },
       "value": 1990,
       "unit": "year",
       "name": {
@@ -6489,7 +7373,14 @@ window.GAME_DECKS = {
     {
       "id": "www_1991",
       "emoji": "🌐",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Chrome_on_Linux.png/960px-Chrome_on_Linux.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Chrome_on_Linux.png/500px-Chrome_on_Linux.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Liamd967",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chrome_on_Linux.png"
+      },
       "value": 1991,
       "unit": "year",
       "name": {
@@ -6530,7 +7421,13 @@ window.GAME_DECKS = {
     {
       "id": "linux_1991",
       "emoji": "🐧",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/960px-Tux.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/500px-Tux.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Larry Ewing, Simon Budig, Garrett LeSage",
+        "license": "Attribution",
+        "source": "https://commons.wikimedia.org/wiki/File:Tux.svg"
+      },
       "value": 1991,
       "unit": "year",
       "name": {
@@ -6571,7 +7468,14 @@ window.GAME_DECKS = {
     {
       "id": "soviet_1991",
       "emoji": "🔨",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Map_of_USSR_with_SSR_names.svg/960px-Map_of_USSR_with_SSR_names.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Map_of_USSR_with_SSR_names.svg/500px-Map_of_USSR_with_SSR_names.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Special:Contributions/Saul ip. Derivative work by Σ (talk)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Map_of_USSR_with_SSR_names.svg"
+      },
       "value": 1991,
       "unit": "year",
       "name": {
@@ -6612,7 +7516,13 @@ window.GAME_DECKS = {
     {
       "id": "epl_1992",
       "emoji": "⚽",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/London_Wembley.jpg/960px-London_Wembley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Vincent_Kompany_holds_up_the_Premier_League_trophy_2012.jpg/500px-Vincent_Kompany_holds_up_the_Premier_League_trophy_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Stuart Grout",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Vincent_Kompany_holds_up_the_Premier_League_trophy_2012.jpg"
+      },
       "value": 1992,
       "unit": "year",
       "name": {
@@ -6653,7 +7563,13 @@ window.GAME_DECKS = {
     {
       "id": "nvidia_1993",
       "emoji": "🟩",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2788-2888_San_Tomas_Expwy.jpg/960px-2788-2888_San_Tomas_Expwy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2788-2888_San_Tomas_Expwy.jpg/500px-2788-2888_San_Tomas_Expwy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Coolcaesar",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2788-2888_San_Tomas_Expwy.jpg"
+      },
       "value": 1993,
       "unit": "year",
       "name": {
@@ -6694,7 +7610,13 @@ window.GAME_DECKS = {
     {
       "id": "eurotunnel_1994",
       "emoji": "🚇",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg/960px-TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg/500px-TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Billy69150 (voir les conditions d'utilisation / see licensing below)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg"
+      },
       "value": 1994,
       "unit": "year",
       "name": {
@@ -6735,7 +7657,13 @@ window.GAME_DECKS = {
     {
       "id": "amazon_1994",
       "emoji": "📦",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon_Tower_I_topped_out%2C_June_2015.jpg/960px-Amazon_Tower_I_topped_out%2C_June_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon_Tower_I_topped_out%2C_June_2015.jpg/500px-Amazon_Tower_I_topped_out%2C_June_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "SounderBruce",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Amazon_Tower_I_topped_out,_June_2015.jpg"
+      },
       "value": 1994,
       "unit": "year",
       "name": {
@@ -6776,7 +7704,13 @@ window.GAME_DECKS = {
     {
       "id": "ps1_1994",
       "emoji": "🎮",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/960px-Playstation_logo_colour.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/500px-Playstation_logo_colour.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Sony - Manabu Sakamoto",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Playstation_logo_colour.svg"
+      },
       "value": 1994,
       "unit": "year",
       "name": {
@@ -6817,7 +7751,13 @@ window.GAME_DECKS = {
     {
       "id": "toystory_1995",
       "emoji": "🤠",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Pixaranimationstudios.jpg/960px-Pixaranimationstudios.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Toy_Story_logo.svg/500px-Toy_Story_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Pixar",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Toy_Story_logo.svg"
+      },
       "value": 1995,
       "unit": "year",
       "name": {
@@ -6858,7 +7798,13 @@ window.GAME_DECKS = {
     {
       "id": "dolly_1996",
       "emoji": "🐑",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Flock_of_sheep.jpg/960px-Flock_of_sheep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dolly_face_closeup.jpg/500px-Dolly_face_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Toni Barros from São Paulo, Brasil",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dolly_face_closeup.jpg"
+      },
       "value": 1996,
       "unit": "year",
       "name": {
@@ -6899,7 +7845,13 @@ window.GAME_DECKS = {
     {
       "id": "harry_potter_1997",
       "emoji": "⚡",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/960px-J._K._Rowling_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/500px-J._K._Rowling_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Daniel Ogren",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:J._K._Rowling_2010.jpg"
+      },
       "value": 1997,
       "unit": "year",
       "name": {
@@ -6940,7 +7892,13 @@ window.GAME_DECKS = {
     {
       "id": "netflix_1997",
       "emoji": "🍿",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/NASA_Spacesuit_Development.webm/960px--NASA_Spacesuit_Development.webm.jpg",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "TM/®Netflix Inc.",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Netflix_2015_logo.svg"
+      },
       "value": 1997,
       "unit": "year",
       "name": {
@@ -6981,7 +7939,13 @@ window.GAME_DECKS = {
     {
       "id": "onepiece_1997",
       "emoji": "🏴‍☠️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/%C3%85land_piratflagga_%28color_fix%29.png/960px-%C3%85land_piratflagga_%28color_fix%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/20030712_12_July_2003_One_Piece_The_Going_Merry_front_2_Odaiba_Tokyo_Japan.jpg/500px-20030712_12_July_2003_One_Piece_The_Going_Merry_front_2_Odaiba_Tokyo_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Morio",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:20030712_12_July_2003_One_Piece_The_Going_Merry_front_2_Odaiba_Tokyo_Japan.jpg"
+      },
       "value": 1997,
       "unit": "year",
       "name": {
@@ -7022,7 +7986,13 @@ window.GAME_DECKS = {
     {
       "id": "google_1998",
       "emoji": "🔍",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/960px-Googleplex_HQ_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/500px-Googleplex_HQ_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Asoundd",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Googleplex_HQ_(cropped).jpg"
+      },
       "value": 1998,
       "unit": "year",
       "name": {
@@ -7063,7 +8033,12 @@ window.GAME_DECKS = {
     {
       "id": "iss_1998",
       "emoji": "🛰️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg/960px-The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg/500px-The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "NASA",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg"
+      },
       "value": 1998,
       "unit": "year",
       "name": {
@@ -7104,7 +8079,13 @@ window.GAME_DECKS = {
     {
       "id": "euro_1999",
       "emoji": "💶",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Euro_Series_Banknotes_%282019%29_-_centered.png/960px-Euro_Series_Banknotes_%282019%29_-_centered.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Euro_Series_Banknotes_%282019%29_-_centered.png/500px-Euro_Series_Banknotes_%282019%29_-_centered.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "The RedBurn",
+        "license": "ECB decisions ECB/2003/4 and ECB/2003/5",
+        "source": "https://commons.wikimedia.org/wiki/File:Euro_Series_Banknotes_(2019)_-_centered.png"
+      },
       "value": 1999,
       "unit": "year",
       "name": {
@@ -7145,7 +8126,14 @@ window.GAME_DECKS = {
     {
       "id": "ps2_2000",
       "emoji": "🎮",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Sony_PlayStation_2.png/960px-Sony_PlayStation_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Sony_PlayStation_2.png/500px-Sony_PlayStation_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Perchybits",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Sony_PlayStation_2.png"
+      },
       "value": 2000,
       "unit": "year",
       "name": {
@@ -7186,7 +8174,14 @@ window.GAME_DECKS = {
     {
       "id": "wikipedia_2001",
       "emoji": "📚",
-      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/960px-Wikipedia-logo-v2.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/500px-Wikipedia-logo-v2.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Version 1 by Nohat (concept by Paullusmagnus); Wikimedia.",
+        "license": "CC-BY-SA-3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://en.wikipedia.org/wiki/File:Wikipedia-logo-v2.svg"
+      },
       "value": 2001,
       "unit": "year",
       "name": {
@@ -7227,7 +8222,14 @@ window.GAME_DECKS = {
     {
       "id": "ipod_2001",
       "emoji": "🎵",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/IPod_family.png/960px-IPod_family.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/IPod_family.png/500px-IPod_family.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Kyro",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:IPod_family.png"
+      },
       "value": 2001,
       "unit": "year",
       "name": {
@@ -7268,7 +8270,13 @@ window.GAME_DECKS = {
     {
       "id": "spacex_2002",
       "emoji": "🚀",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/USA_-_Texas_-_Boca_Chica_-_Starbase_%2851285307187%29.jpg/960px-USA_-_Texas_-_Boca_Chica_-_Starbase_%2851285307187%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/USA_-_Texas_-_Boca_Chica_-_Starbase_%2851285307187%29.jpg/500px-USA_-_Texas_-_Boca_Chica_-_Starbase_%2851285307187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Alexander Hatley from Spring, Texas, USA",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:USA_-_Texas_-_Boca_Chica_-_Starbase_(51285307187).jpg"
+      },
       "value": 2002,
       "unit": "year",
       "name": {
@@ -7309,7 +8317,13 @@ window.GAME_DECKS = {
     {
       "id": "crocs_2002",
       "emoji": "🩴",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Klompen_%28Dutch_Clogs%29%2C_Wooden_Shoes_Museum_in_Drenthe.jpg/960px-Klompen_%28Dutch_Clogs%29%2C_Wooden_Shoes_Museum_in_Drenthe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Single_croc.jpg/500px-Single_croc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Alex Moi from Kuala Lumpur, Malaysia",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Single_croc.jpg"
+      },
       "value": 2002,
       "unit": "year",
       "name": {
@@ -7350,7 +8364,13 @@ window.GAME_DECKS = {
     {
       "id": "tesla_2003",
       "emoji": "⚡",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/960px-Tesla_Motors.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/500px-Tesla_Motors.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Tesla",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Tesla_Motors.svg"
+      },
       "value": 2003,
       "unit": "year",
       "name": {
@@ -7391,7 +8411,12 @@ window.GAME_DECKS = {
     {
       "id": "steam_2003",
       "emoji": "🎮",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/The_International_2018_%2843263984845%29_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/%EC%8A%A4%ED%8C%80_%EA%B8%B0%ED%94%84%ED%8A%B8_%EC%B9%B4%EB%93%9C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "GBW1541",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:%EC%8A%A4%ED%8C%80_%EA%B8%B0%ED%94%84%ED%8A%B8_%EC%B9%B4%EB%93%9C.jpg"
+      },
       "value": 2003,
       "unit": "year",
       "name": {
@@ -7432,7 +8457,12 @@ window.GAME_DECKS = {
     {
       "id": "facebook_2004",
       "emoji": "👍",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/P20260929DT-1655_%2855561811540%29_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/P20260929DT-1655_%2855561811540%29_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "The White House",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:P20260929DT-1655_(55561811540)_(cropped_2).jpg"
+      },
       "value": 2004,
       "unit": "year",
       "name": {
@@ -7473,7 +8503,13 @@ window.GAME_DECKS = {
     {
       "id": "youtube_2005",
       "emoji": "▶️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png/960px-Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png/500px-Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Lyles BBQ, Smile and Learn - English, The Flat Top King (previous screenshot: y…",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Youtube_interface,_showing_search_results_of_Burger_Recipe.png"
+      },
       "value": 2005,
       "unit": "year",
       "name": {
@@ -7514,7 +8550,13 @@ window.GAME_DECKS = {
     {
       "id": "twitter_2006",
       "emoji": "🐦",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/X_%28formerly_Twitter%29_logo_late_2025.svg/960px-X_%28formerly_Twitter%29_logo_late_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/X_%28formerly_Twitter%29_logo_late_2025.svg/500px-X_%28formerly_Twitter%29_logo_late_2025.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "X Corp.",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:X_(formerly_Twitter)_logo_late_2025.svg"
+      },
       "value": 2006,
       "unit": "year",
       "name": {
@@ -7555,7 +8597,14 @@ window.GAME_DECKS = {
     {
       "id": "iphone_2007",
       "emoji": "📱",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/IPhone_1st_Gen.svg/960px-IPhone_1st_Gen.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/IPhone_1st_Gen.svg/500px-IPhone_1st_Gen.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Rafael Fernandez",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:IPhone_1st_Gen.svg"
+      },
       "value": 2007,
       "unit": "year",
       "name": {
@@ -7596,7 +8645,13 @@ window.GAME_DECKS = {
     {
       "id": "airbnb_2008",
       "emoji": "🏠",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/888_Brannan%2C_San_Francisco%2C_2016.jpg/960px-888_Brannan%2C_San_Francisco%2C_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/888_Brannan%2C_San_Francisco%2C_2016.jpg/500px-888_Brannan%2C_San_Francisco%2C_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Dllu",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:888_Brannan,_San_Francisco,_2016.jpg"
+      },
       "value": 2008,
       "unit": "year",
       "name": {
@@ -7637,7 +8692,13 @@ window.GAME_DECKS = {
     {
       "id": "mcu_ironman_2008",
       "emoji": "🦾",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg/960px-RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg/500px-RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "PhilipRomano",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:RobertDowneyJr-byPhilipRomano7_(cropped).jpg"
+      },
       "value": 2008,
       "unit": "year",
       "name": {
@@ -7678,7 +8739,13 @@ window.GAME_DECKS = {
     {
       "id": "bitcoin_2009",
       "emoji": "🪙",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/960px-Bitcoin.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/500px-Bitcoin.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Grayliptrot",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Bitcoin.svg"
+      },
       "value": 2009,
       "unit": "year",
       "name": {
@@ -7719,7 +8786,13 @@ window.GAME_DECKS = {
     {
       "id": "minecraft_2009",
       "emoji": "⛏️",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/GDC_2016_awards_16-20_42_56-01-7D2_0739_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Minecraft_-_Block_breaking_%28Full_frame%29.png/500px-Minecraft_-_Block_breaking_%28Full_frame%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Xbox México",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Minecraft_-_Block_breaking_(Full_frame).png"
+      },
       "value": 2009,
       "unit": "year",
       "name": {
@@ -7760,7 +8833,13 @@ window.GAME_DECKS = {
     {
       "id": "lol_2009",
       "emoji": "⚔️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/League_of_Legends_2019_vector.svg/960px-League_of_Legends_2019_vector.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/League_of_Legends_2019_vector.svg/500px-League_of_Legends_2019_vector.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Riot Games",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:League_of_Legends_2019_vector.svg"
+      },
       "value": 2009,
       "unit": "year",
       "name": {
@@ -7801,7 +8880,13 @@ window.GAME_DECKS = {
     {
       "id": "burj_khalifa_2010",
       "emoji": "🏙️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg/960px-Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg/500px-Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "imran shahabuddin",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Burj_Khalifa_(worlds_tallest_building)_and_the_Dubai_skyline_(25781049892).jpg"
+      },
       "value": 2010,
       "unit": "year",
       "name": {
@@ -7842,7 +8927,12 @@ window.GAME_DECKS = {
     {
       "id": "ipad_2010",
       "emoji": "📱",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/IPad-WiFi-1stGen.jpg/960px-IPad-WiFi-1stGen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/IPad-WiFi-1stGen.jpg/500px-IPad-WiFi-1stGen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Evan-Amos",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:IPad-WiFi-1stGen.jpg"
+      },
       "value": 2010,
       "unit": "year",
       "name": {
@@ -7883,7 +8973,13 @@ window.GAME_DECKS = {
     {
       "id": "instagram_2010",
       "emoji": "📸",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Instagram_screenshot_%2812_January_2026%2C_16h30m39s%2C_UTC_-3%29.png/960px-Instagram_screenshot_%2812_January_2026%2C_16h30m39s%2C_UTC_-3%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Instagram_screenshot_%2812_January_2026%2C_16h30m39s%2C_UTC_-3%29.png/500px-Instagram_screenshot_%2812_January_2026%2C_16h30m39s%2C_UTC_-3%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Instagram / Wikimedia Foundation",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Instagram_screenshot_(12_January_2026,_16h30m39s,_UTC_-3).png"
+      },
       "value": 2010,
       "unit": "year",
       "name": {
@@ -7924,7 +9020,13 @@ window.GAME_DECKS = {
     {
       "id": "frozen_2013",
       "emoji": "❄️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Walt_Disney_Animation_Studios_logo.svg/960px-Walt_Disney_Animation_Studios_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Frozen_Ever_After_Epcot_01.jpg/500px-Frozen_Ever_After_Epcot_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "HarshLight",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Frozen_Ever_After_Epcot_01.jpg"
+      },
       "value": 2013,
       "unit": "year",
       "name": {
@@ -7965,7 +9067,13 @@ window.GAME_DECKS = {
     {
       "id": "gta5_2013",
       "emoji": "🚗",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Map_of_the_Hollywood_Hills_district_of_Los_Angeles.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Game-_GTA_V_Midnight_Launch_-_07.jpg/500px-Game-_GTA_V_Midnight_Launch_-_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "OfficialFR",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Game-_GTA_V_Midnight_Launch_-_07.jpg"
+      },
       "value": 2013,
       "unit": "year",
       "name": {
@@ -8006,7 +9114,12 @@ window.GAME_DECKS = {
     {
       "id": "apple_watch_2015",
       "emoji": "⌚",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Apple_Watch_Series_10.jpg/960px-Apple_Watch_Series_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Apple_Watch_Series_10.jpg/500px-Apple_Watch_Series_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "KK IN HK",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Apple_Watch_Series_10.jpg"
+      },
       "value": 2015,
       "unit": "year",
       "name": {
@@ -8047,7 +9160,12 @@ window.GAME_DECKS = {
     {
       "id": "alphago_2016",
       "emoji": "⚫",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/FloorGoban.JPG/960px-FloorGoban.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/FloorGoban.JPG/500px-FloorGoban.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Goban1",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:FloorGoban.JPG"
+      },
       "value": 2016,
       "unit": "year",
       "name": {
@@ -8088,7 +9206,13 @@ window.GAME_DECKS = {
     {
       "id": "airpods_2016",
       "emoji": "🎧",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/AirPods_4_ANC_and_case.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/AirPods_4_ANC_and_case.jpg/500px-AirPods_4_ANC_and_case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "SimplyPops",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:AirPods_4_ANC_and_case.jpg"
+      },
       "value": 2016,
       "unit": "year",
       "name": {
@@ -8129,7 +9253,13 @@ window.GAME_DECKS = {
     {
       "id": "switch_2017",
       "emoji": "🕹️",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Nintendo_Switch_logo.svg/960px-Nintendo_Switch_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Nintendo_Switch_logo.svg/500px-Nintendo_Switch_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Nintendo",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_logo.svg"
+      },
       "value": 2017,
       "unit": "year",
       "name": {
@@ -8170,7 +9300,13 @@ window.GAME_DECKS = {
     {
       "id": "parasite_2019",
       "emoji": "🍑",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Bong_Joon_Ho_at_Busan_Film_Festival%2C_smaller.jpg/960px-Bong_Joon_Ho_at_Busan_Film_Festival%2C_smaller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Bong_Joon_Ho_at_Busan_Film_Festival%2C_smaller.jpg/500px-Bong_Joon_Ho_at_Busan_Film_Festival%2C_smaller.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Jay Dixit",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bong_Joon_Ho_at_Busan_Film_Festival,_smaller.jpg"
+      },
       "value": 2019,
       "unit": "year",
       "name": {
@@ -8211,7 +9347,13 @@ window.GAME_DECKS = {
     {
       "id": "squid_game_2021",
       "emoji": "🦑",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Squid_Game_2021_vector_logo_english.svg/960px-Squid_Game_2021_vector_logo_english.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Squid_Game_2021_vector_logo_english.svg/500px-Squid_Game_2021_vector_logo_english.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Netflix",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Squid_Game_2021_vector_logo_english.svg"
+      },
       "value": 2021,
       "unit": "year",
       "name": {
@@ -8252,7 +9394,13 @@ window.GAME_DECKS = {
     {
       "id": "jwst_2021",
       "emoji": "🔭",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/JWST_spacecraft_model_3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/JWST_spacecraft_model_3.png/500px-JWST_spacecraft_model_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "NASA",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:JWST_spacecraft_model_3.png"
+      },
       "value": 2021,
       "unit": "year",
       "name": {
@@ -8293,7 +9441,13 @@ window.GAME_DECKS = {
     {
       "id": "chatgpt_2022",
       "emoji": "🤖",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/OpenAI_logo_2025_%28symbol%29.svg/960px-OpenAI_logo_2025_%28symbol%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/OpenAI_logo_2025_%28symbol%29.svg/500px-OpenAI_logo_2025_%28symbol%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "OpenAI",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:OpenAI_logo_2025_(symbol).svg"
+      },
       "value": 2022,
       "unit": "year",
       "name": {
@@ -8334,7 +9488,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q36008",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mercedes-Benz%20W463%20G%20350%20BlueTEC%2005%20Mercedes-Benz%20Museum.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Mercedes-Benz_W463_G_350_BlueTEC_05_Mercedes-Benz_Museum.jpg/500px-Mercedes-Benz_W463_G_350_BlueTEC_05_Mercedes-Benz_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Julian Herzog (Website)",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W463_G_350_BlueTEC_05_Mercedes-Benz_Museum.jpg"
+      },
       "value": 1926,
       "unit": "year",
       "name": {
@@ -8375,7 +9535,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q584601",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BaskinRobbinsMelrose.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/BaskinRobbinsMelrose.jpg/500px-BaskinRobbinsMelrose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Minnaert",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BaskinRobbinsMelrose.jpg"
+      },
       "value": 1945,
       "unit": "year",
       "name": {
@@ -8416,7 +9582,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q23317",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Audi%20Ingolstadt.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Audi_Ingolstadt.jpg/500px-Audi_Ingolstadt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Andreas Fingas",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Audi_Ingolstadt.jpg"
+      },
       "value": 1909,
       "unit": "year",
       "name": {
@@ -8457,7 +9629,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q37156",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IBM%20Watson.PNG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/IBM_Watson.PNG/500px-IBM_Watson.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Clockready",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:IBM_Watson.PNG"
+      },
       "value": 1911,
       "unit": "year",
       "name": {
@@ -8498,7 +9676,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q1418",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Midpoint%20Nokia%20Karaportti.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Midpoint_Nokia_Karaportti.jpg/500px-Midpoint_Nokia_Karaportti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "pikkuanna",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Midpoint_Nokia_Karaportti.jpg"
+      },
       "value": 1865,
       "unit": "year",
       "name": {
@@ -8539,7 +9723,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q81888",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam%20ArenA%2015-09-2012%2002.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Amsterdam_ArenA_15-09-2012_02.jpg/500px-Amsterdam_ArenA_15-09-2012_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Onderwijsgek",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_ArenA_15-09-2012_02.jpg"
+      },
       "value": 1900,
       "unit": "year",
       "name": {
@@ -8580,7 +9770,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q66",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2004-09-14%201680x3000%20chicago%20boeing%20building.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2004-09-14_1680x3000_chicago_boeing_building.jpg/500px-2004-09-14_1680x3000_chicago_boeing_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "J. Crocker",
+        "license": "Attribution",
+        "source": "https://commons.wikimedia.org/wiki/File:2004-09-14_1680x3000_chicago_boeing_building.jpg"
+      },
       "value": 1916,
       "unit": "year",
       "name": {
@@ -8621,7 +9816,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q9584",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toranomon%20Alcea%20Tower.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Toranomon_Alcea_Tower.jpg/500px-Toranomon_Alcea_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Akonnchiroll",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toranomon_Alcea_Tower.jpg"
+      },
       "value": 1948,
       "unit": "year",
       "name": {
@@ -8662,7 +9863,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q47099",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TELEVISA%20CHAPULTEPEC.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/TELEVISA_CHAPULTEPEC.jpg/500px-TELEVISA_CHAPULTEPEC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "JEDIKNIGHT1970",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "https://commons.wikimedia.org/wiki/File:TELEVISA_CHAPULTEPEC.jpg"
+      },
       "value": 1973,
       "unit": "year",
       "name": {
@@ -8703,7 +9910,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q248",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2200%20Mission%20College%20Boulevard.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2200_Mission_College_Boulevard.jpg/500px-2200_Mission_College_Boulevard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Coolcaesar",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2200_Mission_College_Boulevard.jpg"
+      },
       "value": 1968,
       "unit": "year",
       "name": {
@@ -8744,7 +9957,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q9325",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/D-AIXK%20Lufthansa%20A350-900%20MUC%20%22Karlsruhe%22.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/D-AIXK_Lufthansa_A350-900_MUC_%22Karlsruhe%22.jpg/500px-D-AIXK_Lufthansa_A350-900_MUC_%22Karlsruhe%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "TJDarmstadt",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:D-AIXK_Lufthansa_A350-900_MUC_%22Karlsruhe%22.jpg"
+      },
       "value": 1926,
       "unit": "year",
       "name": {
@@ -8785,7 +10004,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q21708200",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pioneer%20Building%2C%20San%20Francisco%20%282019%29%20-1.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg/500px-Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "HaeB",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pioneer_Building,_San_Francisco_(2019)_-1.jpg"
+      },
       "value": 2015,
       "unit": "year",
       "name": {
@@ -8826,7 +10051,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q524757",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20modern%20KFC%20restaurant%20in%20Murphy%2C%20North%20Carolina.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/A_modern_KFC_restaurant_in_Murphy%2C_North_Carolina.jpg/500px-A_modern_KFC_restaurant_in_Murphy%2C_North_Carolina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Harrison Keely",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:A_modern_KFC_restaurant_in_Murphy,_North_Carolina.jpg"
+      },
       "value": 1930,
       "unit": "year",
       "name": {
@@ -8867,7 +10098,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q83164",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/B26055943A%20-%20A%20map%20of%20the%20East-Indies%20and%20the%20adjacent%20countries.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/B26055943A_-_A_map_of_the_East-Indies_and_the_adjacent_countries.jpg/500px-B26055943A_-_A_map_of_the_East-Indies_and_the_adjacent_countries.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Moll, Herman, -1732",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:B26055943A_-_A_map_of_the_East-Indies_and_the_adjacent_countries.jpg"
+      },
       "value": 1600,
       "unit": "year",
       "name": {
@@ -8908,7 +10145,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q160120",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HuaweiShenzhen.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/HuaweiShenzhen.jpg/500px-HuaweiShenzhen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Raysonho @ Open Grid Scheduler / Grid Engine",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:HuaweiShenzhen.jpg"
+      },
       "value": 1987,
       "unit": "year",
       "name": {
@@ -8949,7 +10192,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q127552",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pixaranimationstudios.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Pixaranimationstudios.jpg/500px-Pixaranimationstudios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Coolcaesar",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Pixaranimationstudios.jpg"
+      },
       "value": 1986,
       "unit": "year",
       "name": {
@@ -8990,7 +10239,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q158888",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yamaha%20Motor%20HQ%20new%20bldg%20250922.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Yamaha_Motor_HQ_new_bldg_250922.jpg/500px-Yamaha_Motor_HQ_new_bldg_250922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "IXTA9839",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Yamaha_Motor_HQ_new_bldg_250922.jpg"
+      },
       "value": 1955,
       "unit": "year",
       "name": {
@@ -9031,7 +10286,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q160746",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NestleHQ.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/NestleHQ.jpg/500px-NestleHQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Nestlé",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:NestleHQ.jpg"
+      },
       "value": 1866,
       "unit": "year",
       "name": {
@@ -9072,7 +10333,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q35339",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WWE%20HQ%20Entrance.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/WWE_HQ_Entrance.jpg/500px-WWE_HQ_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "AbhiSuryawanshi",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:WWE_HQ_Entrance.jpg"
+      },
       "value": 1952,
       "unit": "year",
       "name": {
@@ -9113,7 +10380,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q40993",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Porsche%20AG%20-%20panoramio.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Porsche_AG_-_panoramio.jpg/500px-Porsche_AG_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "qwesy qwesy",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Porsche_AG_-_panoramio.jpg"
+      },
       "value": 1931,
       "unit": "year",
       "name": {
@@ -9154,7 +10427,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q81965",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GM%20Renaissance%20Center%20-%20H%C3%B4tel%20le%20plus%20haut%20en%20Am%C3%A9rique%20du%20Nord%20-%20panoramio.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/GM_Renaissance_Center_-_H%C3%B4tel_le_plus_haut_en_Am%C3%A9rique_du_Nord_-_panoramio.jpg/500px-GM_Renaissance_Center_-_H%C3%B4tel_le_plus_haut_en_Am%C3%A9rique_du_Nord_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Bohao Zhao",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:GM_Renaissance_Center_-_H%C3%B4tel_le_plus_haut_en_Am%C3%A9rique_du_Nord_-_panoramio.jpg"
+      },
       "value": 1908,
       "unit": "year",
       "name": {
@@ -9195,7 +10474,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q130879",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuters-Building-30SC.JPG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Reuters-Building-30SC.JPG/500px-Reuters-Building-30SC.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "license": "CC BY-SA 2.0 uk",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Reuters-Building-30SC.JPG"
+      },
       "value": 1851,
       "unit": "year",
       "name": {
@@ -9236,7 +10520,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q159766",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vereenigde%20Oostindische%20Compagnie%20spiegelretourschip%20Amsterdam%20replica.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Vereenigde_Oostindische_Compagnie_spiegelretourschip_Amsterdam_replica.jpg/500px-Vereenigde_Oostindische_Compagnie_spiegelretourschip_Amsterdam_replica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "McKarri",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Vereenigde_Oostindische_Compagnie_spiegelretourschip_Amsterdam_replica.jpg"
+      },
       "value": 1602,
       "unit": "year",
       "name": {
@@ -9277,7 +10567,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q20165",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nissan%20Yokohama.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Nissan_Yokohama.jpg/500px-Nissan_Yokohama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Akonnchiroll",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Nissan_Yokohama.jpg"
+      },
       "value": 1933,
       "unit": "year",
       "name": {
@@ -9318,7 +10614,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q58024",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/EBay%20headquarters%202018.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/EBay_headquarters_2018.jpg/500px-EBay_headquarters_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Coolcaesar",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:EBay_headquarters_2018.jpg"
+      },
       "value": 1995,
       "unit": "year",
       "name": {
@@ -9359,7 +10661,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q4548",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Brandenburg%20Airport%20Turkish%20Airlines%20Airbus%20A350-941%20TC-LGJ%20%28DSC01105%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin_Brandenburg_Airport_Turkish_Airlines_Airbus_A350-941_TC-LGJ_%28DSC01105%29.jpg/500px-Berlin_Brandenburg_Airport_Turkish_Airlines_Airbus_A350-941_TC-LGJ_%28DSC01105%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "MarcelX42",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Berlin_Brandenburg_Airport_Turkish_Airlines_Airbus_A350-941_TC-LGJ_(DSC01105).jpg"
+      },
       "value": 1933,
       "unit": "year",
       "name": {
@@ -9400,7 +10708,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q27597",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FiatMirafiori6.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/FiatMirafiori6.jpg/500px-FiatMirafiori6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "SurfAst",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:FiatMirafiori6.jpg"
+      },
       "value": 1899,
       "unit": "year",
       "name": {
@@ -9441,7 +10755,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q1636958",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20Headquarters.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Xiaomi_Headquarters.jpg/500px-Xiaomi_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Justin Sijbolts",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Xiaomi_Headquarters.jpg"
+      },
       "value": 2010,
       "unit": "year",
       "name": {
@@ -9482,7 +10802,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q11463",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20World%20Headquarters.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Adobe_World_Headquarters.jpg/500px-Adobe_World_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Coolcaesar",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Adobe_World_Headquarters.jpg"
+      },
       "value": 1982,
       "unit": "year",
       "name": {
@@ -9523,7 +10849,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q80978",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HP%20Headquarters%20Palo%20Alto.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/HP_Headquarters_Palo_Alto.jpg/500px-HP_Headquarters_Palo_Alto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "LPS.1",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:HP_Headquarters_Palo_Alto.jpg"
+      },
       "value": 1939,
       "unit": "year",
       "name": {
@@ -9564,7 +10896,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q8766",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/British%20Airways%20A350-1000%20%28G-XWBD%29%20%40%20LHR%2C%20Jan%202020.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/British_Airways_A350-1000_%28G-XWBD%29_%40_LHR%2C_Jan_2020.jpg/500px-British_Airways_A350-1000_%28G-XWBD%29_%40_LHR%2C_Jan_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Steve Lynes from Sandshurst, United Kingdom",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:British_Airways_A350-1000_(G-XWBD)_@_LHR,_Jan_2020.jpg"
+      },
       "value": 1919,
       "unit": "year",
       "name": {
@@ -9605,7 +10943,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q14799",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lenovo%20western%20headquarters%20%2820170707113944%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Lenovo_western_headquarters_%2820170707113944%29.jpg/500px-Lenovo_western_headquarters_%2820170707113944%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "N509FZ",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lenovo_western_headquarters_(20170707113944).jpg"
+      },
       "value": 1984,
       "unit": "year",
       "name": {
@@ -9646,7 +10990,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q181642",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Suzuki%20Motor.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Suzuki_Motor.jpg/500px-Suzuki_Motor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Akonnchiroll",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Suzuki_Motor.jpg"
+      },
       "value": 1909,
       "unit": "year",
       "name": {
@@ -9687,7 +11037,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q35996",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mazda%20head%20office%2020200607.JPG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Mazda_head_office_20200607.JPG/500px-Mazda_head_office_20200607.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Taisyo",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mazda_head_office_20200607.JPG"
+      },
       "value": 1920,
       "unit": "year",
       "name": {
@@ -9728,7 +11084,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q101859",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wolfsburg%20celebration%202009%202.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Wolfsburg_celebration_2009_2.jpg/500px-Wolfsburg_celebration_2009_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "funky1opti",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Wolfsburg_celebration_2009_2.jpg"
+      },
       "value": 1945,
       "unit": "year",
       "name": {
@@ -9769,7 +11131,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q30873",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RR1-%20Dell%20Campus.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/RR1-_Dell_Campus.jpg/500px-RR1-_Dell_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Jjpwiki",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:RR1-_Dell_Campus.jpg"
+      },
       "value": 1989,
       "unit": "year",
       "name": {
@@ -9810,7 +11178,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q29637",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C5%A0koda%20nov%C3%A9%20s%C3%ADdlo.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/%C5%A0koda_nov%C3%A9_s%C3%ADdlo.jpg/500px-%C5%A0koda_nov%C3%A9_s%C3%ADdlo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Vojta 012",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:%C5%A0koda_nov%C3%A9_s%C3%ADdlo.jpg"
+      },
       "value": 1895,
       "unit": "year",
       "name": {
@@ -9851,7 +11225,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q35349",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kia%20buildings%20New%20Logo.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Kia_buildings_New_Logo.png/500px-Kia_buildings_New_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Ip juga",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kia_buildings_New_Logo.png"
+      },
       "value": 1944,
       "unit": "year",
       "name": {
@@ -9892,7 +11272,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q81230",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Wings%2C%20Siemens%20HQ%20Munich%2C%20April%202017.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Wings%2C_Siemens_HQ_Munich%2C_April_2017.jpg/500px-The_Wings%2C_Siemens_HQ_Munich%2C_April_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Martin Falbisoner",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Wings,_Siemens_HQ_Munich,_April_2017.jpg"
+      },
       "value": 1847,
       "unit": "year",
       "name": {
@@ -9933,7 +11319,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q174769",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20Airlines%2C%20N69063%2C%20Boeing%20767-424%20ER%20%2849597633137%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/United_Airlines%2C_N69063%2C_Boeing_767-424_ER_%2849597633137%29.jpg/500px-United_Airlines%2C_N69063%2C_Boeing_767-424_ER_%2849597633137%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Anna Zvereva from Tallinn, Estonia",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:United_Airlines,_N69063,_Boeing_767-424_ER_(49597633137).jpg"
+      },
       "value": 1926,
       "unit": "year",
       "name": {
@@ -9974,7 +11366,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q53247",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PanasonicHeadquarters.JPG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/PanasonicHeadquarters.JPG/500px-PanasonicHeadquarters.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Pokarin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:PanasonicHeadquarters.JPG"
+      },
       "value": 1918,
       "unit": "year",
       "name": {
@@ -10015,7 +11413,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q102673",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gazprom%20tower%20%28Lakhta%20Center%29%20St%20Petersburg.%20Russia.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Gazprom_tower_%28Lakhta_Center%29_St_Petersburg._Russia.jpg/500px-Gazprom_tower_%28Lakhta_Center%29_St_Petersburg._Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Mark Freeth",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gazprom_tower_(Lakhta_Center)_St_Petersburg._Russia.jpg"
+      },
       "value": 1989,
       "unit": "year",
       "name": {
@@ -10056,7 +11460,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q128896",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2485%20Augustine%20Drive%20headquarters%20in%20Santa%20Clara%2C%20California.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg/500px-2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Coolcaesar",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2485_Augustine_Drive_headquarters_in_Santa_Clara,_California.jpg"
+      },
       "value": 1969,
       "unit": "year",
       "name": {
@@ -10097,7 +11507,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q170416",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Siege%20Philips%20Amsterdam.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Siege_Philips_Amsterdam.jpg/500px-Siege_Philips_Amsterdam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Philips",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Siege_Philips_Amsterdam.jpg"
+      },
       "value": 1891,
       "unit": "year",
       "name": {
@@ -10138,7 +11553,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q179200",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Metro-Goldwyn-Mayer%20%E2%80%94%20Slats%20the%20Lion%20%281926%29.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Metro-Goldwyn-Mayer_%E2%80%94_Slats_the_Lion_%281926%29.png/500px-Metro-Goldwyn-Mayer_%E2%80%94_Slats_the_Lion_%281926%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Metro-Goldwyn-Mayer",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Metro-Goldwyn-Mayer_%E2%80%94_Slats_the_Lion_(1926).png"
+      },
       "value": 1924,
       "unit": "year",
       "name": {
@@ -10179,7 +11599,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q154950",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Shell%20Centre%20%288709496019%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Shell_Centre_%288709496019%29.jpg/500px-The_Shell_Centre_%288709496019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Reading Tom from Reading, UK",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Shell_Centre_(8709496019).jpg"
+      },
       "value": 1890,
       "unit": "year",
       "name": {
@@ -10220,7 +11646,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q26921",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FiatMirafiori6.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/FiatMirafiori6.jpg/500px-FiatMirafiori6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "SurfAst",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:FiatMirafiori6.jpg"
+      },
       "value": 1910,
       "unit": "year",
       "name": {
@@ -10261,7 +11693,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q206921",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pfizer%20World%20Headquarters%20Entrance.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Pfizer_World_Headquarters_Entrance.jpg/500px-Pfizer_World_Headquarters_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Coolcaesar",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pfizer_World_Headquarters_Entrance.jpg"
+      },
       "value": 1849,
       "unit": "year",
       "name": {
@@ -10302,7 +11740,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q170614",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ryanair%20Boeing%20737-800%20EI-EBX.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ryanair_Boeing_737-800_EI-EBX.jpg/500px-Ryanair_Boeing_737-800_EI-EBX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Michael Oldfield",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ryanair_Boeing_737-800_EI-EBX.jpg"
+      },
       "value": 1985,
       "unit": "year",
       "name": {
@@ -10343,7 +11787,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q183231",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bank%20of%20England%20Building%2C%20London%2C%20UK%20-%20Diliff.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Bank_of_England_Building%2C_London%2C_UK_-_Diliff.jpg/500px-Bank_of_England_Building%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bank_of_England_Building,_London,_UK_-_Diliff.jpg"
+      },
       "value": 1694,
       "unit": "year",
       "name": {
@@ -10384,7 +11834,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q49125",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hamamatsucho%20Building.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hamamatsucho_Building.jpg/500px-Hamamatsucho_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Akonnchiroll",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hamamatsucho_Building.jpg"
+      },
       "value": 1875,
       "unit": "year",
       "name": {
@@ -10425,7 +11881,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q58707",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aeroflot%2C%20VQ-BFY%2C%20Airbus%20A350-941%20%2851273117500%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Aeroflot%2C_VQ-BFY%2C_Airbus_A350-941_%2851273117500%29.jpg/500px-Aeroflot%2C_VQ-BFY%2C_Airbus_A350-941_%2851273117500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Anna Zvereva",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Aeroflot,_VQ-BFY,_Airbus_A350-941_(51273117500).jpg"
+      },
       "value": 1923,
       "unit": "year",
       "name": {
@@ -10466,7 +11928,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q5281",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yandex%20main%20office.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Yandex_main_office.jpg/500px-Yandex_main_office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "WikiFido",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Yandex_main_office.jpg"
+      },
       "value": 2000,
       "unit": "year",
       "name": {
@@ -10507,7 +11975,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q14647",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sun%20Agnews%20Campus%20Bldgs%2021%2022.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Sun_Agnews_Campus_Bldgs_21_22.jpg/500px-Sun_Agnews_Campus_Bldgs_21_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Coolcaesar at English Wikipedia",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sun_Agnews_Campus_Bldgs_21_22.jpg"
+      },
       "value": 1982,
       "unit": "year",
       "name": {
@@ -10548,7 +12022,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q188920",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/N508DN%2C%20a350%20%2839758160940%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/N508DN%2C_a350_%2839758160940%29.jpg/500px-N508DN%2C_a350_%2839758160940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Jeroen Stroes Aviation Photography from Netherlands",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:N508DN,_a350_(39758160940).jpg"
+      },
       "value": 1925,
       "unit": "year",
       "name": {
@@ -10589,7 +12069,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q188822",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Asian%20Development%20Bank%20headquarters.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Asian_Development_Bank_headquarters.jpg/500px-Asian_Development_Bank_headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Eugene Alvin Villar (seav)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Asian_Development_Bank_headquarters.jpg"
+      },
       "value": 1966,
       "unit": "year",
       "name": {
@@ -10630,7 +12116,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q230051",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Screenshots%20of%20Alexa%20internet.PNG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Screenshots_of_Alexa_internet.PNG/500px-Screenshots_of_Alexa_internet.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Alexa Internet",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Screenshots_of_Alexa_internet.PNG"
+      },
       "value": 1996,
       "unit": "year",
       "name": {
@@ -10671,7 +12163,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q780442",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Self%20driving%20Uber%20prototype%20in%20San%20Francisco.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Self_driving_Uber_prototype_in_San_Francisco.jpg/500px-Self_driving_Uber_prototype_in_San_Francisco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Dllu",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Self_driving_Uber_prototype_in_San_Francisco.jpg"
+      },
       "value": 2009,
       "unit": "year",
       "name": {
@@ -10712,7 +12210,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q163810",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Volvo%20Powertrain.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Volvo_Powertrain.jpg/500px-Volvo_Powertrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "DegaZ",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Volvo_Powertrain.jpg"
+      },
       "value": 1927,
       "unit": "year",
       "name": {
@@ -10753,7 +12256,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q156238",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Exxon%20Mobil%20Building%20-%20Flickr%20-%20pinemikey.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Exxon_Mobil_Building_-_Flickr_-_pinemikey.jpg/500px-Exxon_Mobil_Building_-_Flickr_-_pinemikey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Michael Martin from Cypress, Texas",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Exxon_Mobil_Building_-_Flickr_-_pinemikey.jpg"
+      },
       "value": 1882,
       "unit": "year",
       "name": {
@@ -10794,7 +12303,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q14772",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baidu%20Technology%20Park%20at%20ZPark%20Phase%20II%20%2820220502113650%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Baidu_Technology_Park_at_ZPark_Phase_II_%2820220502113650%29.jpg/500px-Baidu_Technology_Park_at_ZPark_Phase_II_%2820220502113650%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "N509FZ",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Baidu_Technology_Park_at_ZPark_Phase_II_(20220502113650).jpg"
+      },
       "value": 2000,
       "unit": "year",
       "name": {
@@ -10835,7 +12350,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q18543",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FCC%2002%20%2846722198394%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/FCC_02_%2846722198394%29.jpg/500px-FCC_02_%2846722198394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "GabboT",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:FCC_02_(46722198394).jpg"
+      },
       "value": 1993,
       "unit": "year",
       "name": {
@@ -10876,7 +12397,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q173941",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/EA%20Building%20RedwoodShores.JPG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/EA_Building_RedwoodShores.JPG/500px-EA_Building_RedwoodShores.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Eliot Lash",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:EA_Building_RedwoodShores.JPG"
+      },
       "value": 1982,
       "unit": "year",
       "name": {
@@ -10917,7 +12444,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q32396",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/N189AN%20KJFK%20%2837741857042%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/N189AN_KJFK_%2837741857042%29.jpg/500px-N189AN_KJFK_%2837741857042%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Venkat Mangudi",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:N189AN_KJFK_(37741857042).jpg"
+      },
       "value": 1926,
       "unit": "year",
       "name": {
@@ -10958,7 +12491,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q62621",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Canon%20HQ3.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Canon_HQ3.jpg/500px-Canon_HQ3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Akonnchiroll",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Canon_HQ3.jpg"
+      },
       "value": 1937,
       "unit": "year",
       "name": {
@@ -10999,7 +12538,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q66048",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GraphyArchy%20-%20Wikipedia%2000210.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/GraphyArchy_-_Wikipedia_00210.jpg/500px-GraphyArchy_-_Wikipedia_00210.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "GraphyArchy",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:GraphyArchy_-_Wikipedia_00210.jpg"
+      },
       "value": 1870,
       "unit": "year",
       "name": {
@@ -11040,7 +12585,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q7240",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lockheed%20Martin%20headquarters.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Lockheed_Martin_headquarters.jpg/500px-Lockheed_Martin_headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Coolcaesar at en.wikipedia",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lockheed_Martin_headquarters.jpg"
+      },
       "value": 1995,
       "unit": "year",
       "name": {
@@ -11081,7 +12632,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q152864",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ASUSTeK%20Computer%20headquarters%2020150711.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/ASUSTeK_Computer_headquarters_20150711.jpg/500px-ASUSTeK_Computer_headquarters_20150711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "翁維德 (Wei-Te Wong)",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:ASUSTeK_Computer_headquarters_20150711.jpg"
+      },
       "value": 1989,
       "unit": "year",
       "name": {
@@ -11122,7 +12679,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q157064",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zeppelinstra%C3%9Fe%202%20Herzogenaurach%2003.JPG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Zeppelinstra%C3%9Fe_2_Herzogenaurach_03.JPG/500px-Zeppelinstra%C3%9Fe_2_Herzogenaurach_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Aarp65",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Zeppelinstra%C3%9Fe_2_Herzogenaurach_03.JPG"
+      },
       "value": 1948,
       "unit": "year",
       "name": {
@@ -11163,7 +12726,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q183275",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Headquarters%20of%20MITSUBISHI%20MOTORS%20CORPORATION.JPG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Headquarters_of_MITSUBISHI_MOTORS_CORPORATION.JPG/500px-Headquarters_of_MITSUBISHI_MOTORS_CORPORATION.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Tokumeigakarinoaoshima",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Headquarters_of_MITSUBISHI_MOTORS_CORPORATION.JPG"
+      },
       "value": 1870,
       "unit": "year",
       "name": {
@@ -11204,7 +12773,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q32491",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/QANTAS%20A380%20VH-OQF%204974.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/QANTAS_A380_VH-OQF_4974.jpg/500px-QANTAS_A380_VH-OQF_4974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Vismay Bhadra",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:QANTAS_A380_VH-OQF_4974.jpg"
+      },
       "value": 1920,
       "unit": "year",
       "name": {
@@ -11245,7 +12820,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q188326",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harlem%20-%20H%26M.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Harlem_-_H%26M.jpg/500px-Harlem_-_H%26M.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "The original uploader was Petri Krohn at English Wikipedia.",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Harlem_-_H%26M.jpg"
+      },
       "value": 1947,
       "unit": "year",
       "name": {
@@ -11286,7 +12867,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q188514",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tata%20Motors%20Headquarters%20Mumbai%2C%20Maharastra%2C%20India.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Tata_Motors_Headquarters_Mumbai%2C_Maharastra%2C_India.jpg/500px-Tata_Motors_Headquarters_Mumbai%2C_Maharastra%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Githek",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tata_Motors_Headquarters_Mumbai,_Maharastra,_India.jpg"
+      },
       "value": 1945,
       "unit": "year",
       "name": {
@@ -11327,7 +12914,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q1359568",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alibaba%20Group%20provisional%20office%20at%20Xiong%27an%20%2820180503164635%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Alibaba_Group_provisional_office_at_Xiong%27an_%2820180503164635%29.jpg/500px-Alibaba_Group_provisional_office_at_Xiong%27an_%2820180503164635%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "N509FZ",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Alibaba_Group_provisional_office_at_Xiong%27an_(20180503164635).jpg"
+      },
       "value": 1999,
       "unit": "year",
       "name": {
@@ -11368,7 +12961,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q51779763",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/VN-A819%20Boeing%20787-9%20Bamboo%20Airways%20LHR%2023.3.22.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/VN-A819_Boeing_787-9_Bamboo_Airways_LHR_23.3.22.jpg/500px-VN-A819_Boeing_787-9_Bamboo_Airways_LHR_23.3.22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Colin Cooke Photo",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:VN-A819_Boeing_787-9_Bamboo_Airways_LHR_23.3.22.jpg"
+      },
       "value": 2018,
       "unit": "year",
       "name": {
@@ -11409,7 +13008,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q173395",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cisco%20Systems%20Headquarters%20%28Building%2010%29%2C%20Cisco%20San%20Jose%20Main%20Campus.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Cisco_Systems_Headquarters_%28Building_10%29%2C_Cisco_San_Jose_Main_Campus.jpg/500px-Cisco_Systems_Headquarters_%28Building_10%29%2C_Cisco_San_Jose_Main_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Travis Wise",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cisco_Systems_Headquarters_(Building_10),_Cisco_San_Jose_Main_Campus.jpg"
+      },
       "value": 1984,
       "unit": "year",
       "name": {
@@ -11450,7 +13055,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q185339",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/C-FVLX%40PEK%20%2820250503160547%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/C-FVLX%40PEK_%2820250503160547%29.jpg/500px-C-FVLX%40PEK_%2820250503160547%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "N509FZ",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:C-FVLX@PEK_(20250503160547).jpg"
+      },
       "value": 1937,
       "unit": "year",
       "name": {
@@ -11491,7 +13102,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q928831",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%AA%A9%EB%8F%99%20SBS%20%EB%B0%A9%EC%86%A1%EC%84%BC%ED%84%B0.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/%EB%AA%A9%EB%8F%99_SBS_%EB%B0%A9%EC%86%A1%EC%84%BC%ED%84%B0.png/500px-%EB%AA%A9%EB%8F%99_SBS_%EB%B0%A9%EC%86%A1%EC%84%BC%ED%84%B0.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Teddy66",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:%EB%AA%A9%EB%8F%99_SBS_%EB%B0%A9%EC%86%A1%EC%84%BC%ED%84%B0.png"
+      },
       "value": 1990,
       "unit": "year",
       "name": {
@@ -11532,7 +13149,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q308952",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Malaysia%20Airlines%2C%209M-MLR%2C%20Boeing%20737-8H6%20%2832719159297%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Malaysia_Airlines%2C_9M-MLR%2C_Boeing_737-8H6_%2832719159297%29.jpg/500px-Malaysia_Airlines%2C_9M-MLR%2C_Boeing_737-8H6_%2832719159297%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Anna Zvereva from Tallinn, Estonia",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Malaysia_Airlines,_9M-MLR,_Boeing_737-8H6_(32719159297).jpg"
+      },
       "value": 1972,
       "unit": "year",
       "name": {
@@ -11573,7 +13196,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q30113",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Car%20dealership%20in%20Rockville%20Maryland%20Jeep.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Car_dealership_in_Rockville_Maryland_Jeep.jpg/500px-Car_dealership_in_Rockville_Maryland_Jeep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would…",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Car_dealership_in_Rockville_Maryland_Jeep.jpg"
+      },
       "value": 1941,
       "unit": "year",
       "name": {
@@ -11614,7 +13242,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q35907",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaguar%20-%20Land%20Rover%20Factory%20-%20Halewood%20-%20geograph.org.uk%20-%202496590.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Jaguar_-_Land_Rover_Factory_-_Halewood_-_geograph.org.uk_-_2496590.jpg/500px-Jaguar_-_Land_Rover_Factory_-_Halewood_-_geograph.org.uk_-_2496590.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Anthony Parkes",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jaguar_-_Land_Rover_Factory_-_Halewood_-_geograph.org.uk_-_2496590.jpg"
+      },
       "value": 1978,
       "unit": "year",
       "name": {
@@ -11655,7 +13289,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q234021",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BoschRenningen-pjt.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/BoschRenningen-pjt.jpg/500px-BoschRenningen-pjt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Pjt56",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BoschRenningen-pjt.jpg"
+      },
       "value": 1886,
       "unit": "year",
       "name": {
@@ -11696,7 +13336,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q1218180",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20HQ2.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Nikon_HQ2.jpg/500px-Nikon_HQ2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Akonnchiroll",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Nikon_HQ2.jpg"
+      },
       "value": 1917,
       "unit": "year",
       "name": {
@@ -11737,7 +13383,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q4923294",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Buildinggmm.jpg?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Buildinggmm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "Lowlilo",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Buildinggmm.jpg"
+      },
       "value": 1983,
       "unit": "year",
       "name": {
@@ -11778,7 +13429,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q499962",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coursera%20%C3%A0%20la%20rencontre%20de%20son%201er%20partenaire%20fran%C3%A7ais%20%2815380450114%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Coursera_%C3%A0_la_rencontre_de_son_1er_partenaire_fran%C3%A7ais_%2815380450114%29.jpg/500px-Coursera_%C3%A0_la_rencontre_de_son_1er_partenaire_fran%C3%A7ais_%2815380450114%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Ecole polytechnique",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Coursera_%C3%A0_la_rencontre_de_son_1er_partenaire_fran%C3%A7ais_(15380450114).jpg"
+      },
       "value": 2012,
       "unit": "year",
       "name": {
@@ -11819,7 +13476,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q152051",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leverkusen%2C%20straatzicht%20Bayer%20-%20Science%20for%20a%20better%20life%20foto2%202015-04-18%2012.10.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Leverkusen%2C_straatzicht_Bayer_-_Science_for_a_better_life_foto2_2015-04-18_12.10.jpg/500px-Leverkusen%2C_straatzicht_Bayer_-_Science_for_a_better_life_foto2_2015-04-18_12.10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Michielverbeek",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Leverkusen,_straatzicht_Bayer_-_Science_for_a_better_life_foto2_2015-04-18_12.10.jpg"
+      },
       "value": 1863,
       "unit": "year",
       "name": {
@@ -11860,7 +13523,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q32245",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Singapore%20Airlines%20A380-800%289V-SKH%29%20%285441780270%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Singapore_Airlines_A380-800%289V-SKH%29_%285441780270%29.jpg/500px-Singapore_Airlines_A380-800%289V-SKH%29_%285441780270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Kentaro Iemoto from Tokyo, Japan",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Singapore_Airlines_A380-800(9V-SKH)_(5441780270).jpg"
+      },
       "value": 1964,
       "unit": "year",
       "name": {
@@ -11901,7 +13570,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q679322",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AramcoCoreArea.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/AramcoCoreArea.jpg/500px-AramcoCoreArea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Eagleamn",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:AramcoCoreArea.jpg"
+      },
       "value": 1932,
       "unit": "year",
       "name": {
@@ -11942,7 +13616,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q334800",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PepsiCoHQPurchaseNY.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/PepsiCoHQPurchaseNY.jpg/500px-PepsiCoHQPurchaseNY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Peter Bond from Philadelphia, USA",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:PepsiCoHQPurchaseNY.jpg"
+      },
       "value": 1961,
       "unit": "year",
       "name": {
@@ -11983,7 +13663,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q152057",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stuckey%27s%20in%20Saline%20County.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Stuckey%27s_in_Saline_County.jpg/500px-Stuckey%27s_in_Saline_County.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Kelly Martin",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "https://commons.wikimedia.org/wiki/File:Stuckey%27s_in_Saline_County.jpg"
+      },
       "value": 1909,
       "unit": "year",
       "name": {
@@ -12024,7 +13710,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q157062",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Unilever%20House%20Mars%202014%2001.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Unilever_House_Mars_2014_01.jpg/500px-Unilever_House_Mars_2014_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Arild Vågen",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Unilever_House_Mars_2014_01.jpg"
+      },
       "value": 1929,
       "unit": "year",
       "name": {
@@ -12065,7 +13757,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q38903",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Umgheadquarters.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Umgheadquarters.jpg/500px-Umgheadquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Coolcaesar",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Umgheadquarters.jpg"
+      },
       "value": 1934,
       "unit": "year",
       "name": {
@@ -12106,7 +13804,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q328840",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Visa%20headquarters%20-%20August%202025%20-%20Sarah%20Stierch.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Visa_headquarters_-_August_2025_-_Sarah_Stierch.jpg/500px-Visa_headquarters_-_August_2025_-_Sarah_Stierch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Missvain",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Visa_headquarters_-_August_2025_-_Sarah_Stierch.jpg"
+      },
       "value": 1958,
       "unit": "year",
       "name": {
@@ -12147,7 +13851,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q26070",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uniqlo%20Shinsaibashisuji%20Flag%20ship%20store%20Interior%20view%202014.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Uniqlo_Shinsaibashisuji_Flag_ship_store_Interior_view_2014.jpg/500px-Uniqlo_Shinsaibashisuji_Flag_ship_store_Interior_view_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Wpcpey",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Uniqlo_Shinsaibashisuji_Flag_ship_store_Interior_view_2014.jpg"
+      },
       "value": 1984,
       "unit": "year",
       "name": {
@@ -12188,7 +13898,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q187854",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SE-RSE%40PEK%20%2820220221140317%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/SE-RSE%40PEK_%2820220221140317%29.jpg/500px-SE-RSE%40PEK_%2820220221140317%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "N509FZ",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:SE-RSE@PEK_(20220221140317).jpg"
+      },
       "value": 1946,
       "unit": "year",
       "name": {
@@ -12229,7 +13945,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q186471",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Former%20HP%20Pavillion%20In%20San%20Jose%20During%20a%20UFC%20event.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/The_Former_HP_Pavillion_In_San_Jose_During_a_UFC_event.jpg/500px-The_Former_HP_Pavillion_In_San_Jose_During_a_UFC_event.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Ron Hall",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Former_HP_Pavillion_In_San_Jose_During_a_UFC_event.jpg"
+      },
       "value": 1993,
       "unit": "year",
       "name": {
@@ -12270,7 +13992,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q212405",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cincinnati-procter-and-gamble-headquarters.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Cincinnati-procter-and-gamble-headquarters.jpg/500px-Cincinnati-procter-and-gamble-headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cincinnati-procter-and-gamble-headquarters.jpg"
+      },
       "value": 1837,
       "unit": "year",
       "name": {
@@ -12311,7 +14038,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q1538507",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack%20in%20the%20Box%20Stockton%2C%20California%202.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Jack_in_the_Box_Stockton%2C_California_2.jpg/500px-Jack_in_the_Box_Stockton%2C_California_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "TaurusEmerald",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jack_in_the_Box_Stockton,_California_2.jpg"
+      },
       "value": 1951,
       "unit": "year",
       "name": {
@@ -12352,7 +14085,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q552581",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sap-wdf.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Sap-wdf.jpg/500px-Sap-wdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "MichaelBr90",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sap-wdf.jpg"
+      },
       "value": 1972,
       "unit": "year",
       "name": {
@@ -12393,7 +14132,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q105557",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sede-da-embraer.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Sede-da-embraer.jpg/500px-Sede-da-embraer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Agência Brasil",
+        "license": "CC BY 3.0 br",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Sede-da-embraer.jpg"
+      },
       "value": 1969,
       "unit": "year",
       "name": {
@@ -12434,7 +14179,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q188710",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thai%20Airways%20International%20Boeing%20747-4D7%20HS-TGP%20MUC%202015%2005.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Thai_Airways_International_Boeing_747-4D7_HS-TGP_MUC_2015_05.jpg/500px-Thai_Airways_International_Boeing_747-4D7_HS-TGP_MUC_2015_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Julian Herzog (Website)",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Thai_Airways_International_Boeing_747-4D7_HS-TGP_MUC_2015_05.jpg"
+      },
       "value": 1960,
       "unit": "year",
       "name": {
@@ -12475,7 +14226,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q35962",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maserati%20Mod%C3%A8ne%200002.JPG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Maserati_Mod%C3%A8ne_0002.JPG/500px-Maserati_Mod%C3%A8ne_0002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Arnaud 25",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Maserati_Mod%C3%A8ne_0002.JPG"
+      },
       "value": 1914,
       "unit": "year",
       "name": {
@@ -12516,7 +14273,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q190464",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/8-Canada-Square%20%28cropped%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/8-Canada-Square_%28cropped%29.jpg/500px-8-Canada-Square_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:8-Canada-Square_(cropped).jpg"
+      },
       "value": 1865,
       "unit": "year",
       "name": {
@@ -12557,7 +14319,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q194297",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Guinness%207686a.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Guinness_7686a.jpg/500px-Guinness_7686a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Harald Bischoff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Guinness_7686a.jpg"
+      },
       "value": 1759,
       "unit": "year",
       "name": {
@@ -12598,7 +14366,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q213140",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JA01WJ%20JFK%20Climb%20Out%2031L%20JL%20A350%201041%20A350%201000%20Red%20Sticker%20Beacon%20Small.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/JA01WJ_JFK_Climb_Out_31L_JL_A350_1041_A350_1000_Red_Sticker_Beacon_Small.png/500px-JA01WJ_JFK_Climb_Out_31L_JL_A350_1041_A350_1000_Red_Sticker_Beacon_Small.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Mark Bess",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:JA01WJ_JFK_Climb_Out_31L_JL_A350_1041_A350_1000_Red_Sticker_Beacon_Small.png"
+      },
       "value": 1951,
       "unit": "year",
       "name": {
@@ -12639,7 +14413,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q191551",
       "emoji": "🏢",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/EasyJet%20G-UZHE%20Airbus%20A320neo%20at%20CDG.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/EasyJet_G-UZHE_Airbus_A320neo_at_CDG.jpg/500px-EasyJet_G-UZHE_Airbus_A320neo_at_CDG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "ERIC SALARD",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:EasyJet_G-UZHE_Airbus_A320neo_at_CDG.jpg"
+      },
       "value": 1995,
       "unit": "year",
       "name": {
@@ -12680,7 +14460,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q20966579",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/App-augmented-reality-game-gps-163042.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/App-augmented-reality-game-gps-163042.jpg/500px-App-augmented-reality-game-gps-163042.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Mimzy",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:App-augmented-reality-game-gps-163042.jpg"
+      },
       "value": 2016,
       "unit": "year",
       "name": {
@@ -12721,7 +14507,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q106827",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Second%20Life%2011th%20Birthday%20Live%20Drax%20Files%20Radio%20Hour.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Second_Life_11th_Birthday_Live_Drax_Files_Radio_Hour.jpg/500px-Second_Life_11th_Birthday_Live_Drax_Files_Radio_Hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "HyacintheLuynes",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Second_Life_11th_Birthday_Live_Drax_Files_Radio_Hour.jpg"
+      },
       "value": 2003,
       "unit": "year",
       "name": {
@@ -12762,7 +14554,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q4267401",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Witcher%203%20-%20Standard%20Edition%20Unboxing%20%28Official%20Trailer%29%20cover.jpg?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/The_Witcher_3_-_Standard_Edition_Unboxing_%28Official_Trailer%29_cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "BANDAI NAMCO Entertainment Europe",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Witcher_3_-_Standard_Edition_Unboxing_(Official_Trailer)_cover.jpg"
+      },
       "value": 2015,
       "unit": "year",
       "name": {
@@ -12803,7 +14601,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q220665",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Space%20Invaders%20-%20Midway%27s.JPG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Space_Invaders_-_Midway%27s.JPG/500px-Space_Invaders_-_Midway%27s.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Jordiferrer",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Space_Invaders_-_Midway%27s.JPG"
+      },
       "value": 1978,
       "unit": "year",
       "name": {
@@ -12844,7 +14648,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q210844",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/E3%202006%20%28144314759%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/E3_2006_%28144314759%29.jpg/500px-E3_2006_%28144314759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Barry Mulling from Los Angeles, USA",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:E3_2006_(144314759).jpg"
+      },
       "value": 2008,
       "unit": "year",
       "name": {
@@ -12885,7 +14695,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q275950",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Resident%20Evil%204%20-%20Quick%20time%20event.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Resident_Evil_4_-_Quick_time_event.jpg/500px-Resident_Evil_4_-_Quick_time_event.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Capcom France",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Resident_Evil_4_-_Quick_time_event.jpg"
+      },
       "value": 2005,
       "unit": "year",
       "name": {
@@ -12926,7 +14742,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q590342",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/E3%202011%20-%20World%20of%20Tanks%20booth%20%28Wargaming.net%29%20%285822683674%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/E3_2011_-_World_of_Tanks_booth_%28Wargaming.net%29_%285822683674%29.jpg/500px-E3_2011_-_World_of_Tanks_booth_%28Wargaming.net%29_%285822683674%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "The Conmunity - Pop Culture Geek from Los Angeles, CA, USA",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:E3_2011_-_World_of_Tanks_booth_(Wargaming.net)_(5822683674).jpg"
+      },
       "value": 2010,
       "unit": "year",
       "name": {
@@ -12967,7 +14789,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q8768018",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Woman%20playing%20Candy%20Crush%20Saga%20on%20iPad.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Woman_playing_Candy_Crush_Saga_on_iPad.jpg/500px-Woman_playing_Candy_Crush_Saga_on_iPad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Siukiu903",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Woman_playing_Candy_Crush_Saga_on_iPad.jpg"
+      },
       "value": 2012,
       "unit": "year",
       "name": {
@@ -13008,7 +14836,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q20012932",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Agar.io%20gameplay.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Agar.io_gameplay.png/500px-Agar.io_gameplay.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Sajua Wanu",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Agar.io_gameplay.png"
+      },
       "value": 2015,
       "unit": "year",
       "name": {
@@ -13049,7 +14882,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q207786",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tamagotchi%200124%20ubt.jpeg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Tamagotchi_0124_ubt.jpeg/500px-Tamagotchi_0124_ubt.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Tomasz Sienicki [user: tsca, mail: tomasz.sienicki at gmail.com]",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Tamagotchi_0124_ubt.jpeg"
+      },
       "value": 1996,
       "unit": "year",
       "name": {
@@ -13090,7 +14929,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q71936",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duo%20playing%20Wii%20Sports.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Duo_playing_Wii_Sports.jpg/500px-Duo_playing_Wii_Sports.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "david murphy from Helsinki, Finland",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Duo_playing_Wii_Sports.jpg"
+      },
       "value": 2006,
       "unit": "year",
       "name": {
@@ -13131,7 +14976,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q211735",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Assassin%27s%20Creed%20II%20by%20Reindertot.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Assassin%27s_Creed_II_by_Reindertot.jpg/500px-Assassin%27s_Creed_II_by_Reindertot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Reindertot",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Assassin%27s_Creed_II_by_Reindertot.jpg"
+      },
       "value": 2009,
       "unit": "year",
       "name": {
@@ -13172,7 +15023,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q215861",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stalkershot%202.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Stalkershot_2.jpg/500px-Stalkershot_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "GSC Game World - ukrainian game developer",
+        "license": "GFDL",
+        "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+        "source": "https://commons.wikimedia.org/wiki/File:Stalkershot_2.jpg"
+      },
       "value": 2007,
       "unit": "year",
       "name": {
@@ -13213,7 +15070,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q217423",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Quake%20cover.png?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Quake_cover.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "Xbox México",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Quake_cover.png"
+      },
       "value": 1996,
       "unit": "year",
       "name": {
@@ -13254,7 +15117,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q8262784",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pyrkon%202018%20Heartstone%20Cosplay.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Pyrkon_2018_Heartstone_Cosplay.jpg/500px-Pyrkon_2018_Heartstone_Cosplay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Klapi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pyrkon_2018_Heartstone_Cosplay.jpg"
+      },
       "value": 2014,
       "unit": "year",
       "name": {
@@ -13295,7 +15164,14 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q126194",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KMines.png?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/KMines.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "User:Ysangkok",
+        "license": "GPL",
+        "licenseUrl": "http://www.gnu.org/licenses/gpl.html",
+        "source": "https://commons.wikimedia.org/wiki/File:KMines.png"
+      },
       "value": 1989,
       "unit": "year",
       "name": {
@@ -13336,7 +15212,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q1062106",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20M%C3%A9canique%20204.JPG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Mus%C3%A9e_M%C3%A9canique_204.JPG/500px-Mus%C3%A9e_M%C3%A9canique_204.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "User:Piotrus",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_M%C3%A9canique_204.JPG"
+      },
       "value": 1996,
       "unit": "year",
       "name": {
@@ -13377,7 +15259,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q20031743",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rocket%20League%20coverart.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Rocket_League_coverart.jpg/500px-Rocket_League_coverart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "jjdhd Beirnrj Psyonix Studios",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rocket_League_coverart.jpg"
+      },
       "value": 2015,
       "unit": "year",
       "name": {
@@ -13418,7 +15306,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q535940",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Final%20Fantasy%20III%20intro%20screen.png?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Final_Fantasy_III_intro_screen.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "Squaresoft",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Final_Fantasy_III_intro_screen.png"
+      },
       "value": 1994,
       "unit": "year",
       "name": {
@@ -13459,7 +15352,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q54093632",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo-Game-Show-2023-Day3-2023-09-23%20283.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Tokyo-Game-Show-2023-Day3-2023-09-23_283.jpg/500px-Tokyo-Game-Show-2023-Day3-2023-09-23_283.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "RuinDig/Yuki Uchida",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tokyo-Game-Show-2023-Day3-2023-09-23_283.jpg"
+      },
       "value": 2018,
       "unit": "year",
       "name": {
@@ -13500,7 +15399,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q336177",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/EVE%20Online%20-%20Caldari%20Freighters.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/EVE_Online_-_Caldari_Freighters.jpg/500px-EVE_Online_-_Caldari_Freighters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:EVE_Online_-_Caldari_Freighters.jpg"
+      },
       "value": 2003,
       "unit": "year",
       "name": {
@@ -13541,7 +15445,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q753749",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Free%20depiction%20of%20the%20Fallout%20New%20Vegas%20Xbox%20360%20box%20art%20%28cropped%29.png?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Free_depiction_of_the_Fallout_New_Vegas_Xbox_360_box_art_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "Xbox México",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Free_depiction_of_the_Fallout_New_Vegas_Xbox_360_box_art_(cropped).png"
+      },
       "value": 2010,
       "unit": "year",
       "name": {
@@ -13582,7 +15492,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q59511757",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mortal%20Kombat%2011%20karakter%20se%C3%A7me%20ekran%C4%B1.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Mortal_Kombat_11_karakter_se%C3%A7me_ekran%C4%B1.jpg/500px-Mortal_Kombat_11_karakter_se%C3%A7me_ekran%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "NetherRealm Studios",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mortal_Kombat_11_karakter_se%C3%A7me_ekran%C4%B1.jpg"
+      },
       "value": 2019,
       "unit": "year",
       "name": {
@@ -13623,7 +15539,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q471974",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Igromir%202008%20%283012936938%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Igromir_2008_%283012936938%29.jpg/500px-Igromir_2008_%283012936938%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Sergey Galyonkin from Raleigh, USA",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Igromir_2008_(3012936938).jpg"
+      },
       "value": 2008,
       "unit": "year",
       "name": {
@@ -13664,7 +15586,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q28451532",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Celeste%20box%20art%20full.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Celeste_box_art_full.png/500px-Celeste_box_art_full.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Maddy Makes Games",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Celeste_box_art_full.png"
+      },
       "value": 2018,
       "unit": "year",
       "name": {
@@ -13705,7 +15633,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q605445",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KSokoban-screenshot.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/KSokoban-screenshot.png/500px-KSokoban-screenshot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Anders Widell (game author) ; Mussah RAZEH (take screenshot)",
+        "license": "GPL",
+        "licenseUrl": "http://www.gnu.org/licenses/gpl.html",
+        "source": "https://commons.wikimedia.org/wiki/File:KSokoban-screenshot.png"
+      },
       "value": 1982,
       "unit": "year",
       "name": {
@@ -13746,7 +15680,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q161234",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20Seleukiden-Stadt%20Ken%20Wood%2023.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/0_A.D._Seleukiden-Stadt_Ken_Wood_23.png/500px-0_A.D._Seleukiden-Stadt_Ken_Wood_23.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "PantheraLeo1359531/Wildfire Games",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:0_A.D._Seleukiden-Stadt_Ken_Wood_23.png"
+      },
       "value": 2021,
       "unit": "year",
       "name": {
@@ -13787,7 +15727,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q748890",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Del%20Tilt%20al%20Byte%20-%208.jpeg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Del_Tilt_al_Byte_-_8.jpeg/500px-Del_Tilt_al_Byte_-_8.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Coentor",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Del_Tilt_al_Byte_-_8.jpeg"
+      },
       "value": 1979,
       "unit": "year",
       "name": {
@@ -13828,7 +15774,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q17490239",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/EB%20Games%20Expo%202015%20-%20Splatoon.JPG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/EB_Games_Expo_2015_-_Splatoon.JPG/500px-EB_Games_Expo_2015_-_Splatoon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Philip Terry Graham",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:EB_Games_Expo_2015_-_Splatoon.JPG"
+      },
       "value": 2015,
       "unit": "year",
       "name": {
@@ -13869,7 +15821,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q64083878",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Call%20of%20Duty%20Modern%20Warfare%20Gamescom%202019%20%2848605842367%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Call_of_Duty_Modern_Warfare_Gamescom_2019_%2848605842367%29.jpg/500px-Call_of_Duty_Modern_Warfare_Gamescom_2019_%2848605842367%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "dronepicr",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Call_of_Duty_Modern_Warfare_Gamescom_2019_(48605842367).jpg"
+      },
       "value": 2019,
       "unit": "year",
       "name": {
@@ -13910,7 +15868,14 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q150294",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MortalKombat1992LegacyScreenshot.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/MortalKombat1992LegacyScreenshot.png/500px-MortalKombat1992LegacyScreenshot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Midway Games",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MortalKombat1992LegacyScreenshot.png"
+      },
       "value": 1992,
       "unit": "year",
       "name": {
@@ -13951,7 +15916,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q627877",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Unreal%20Tournament%20PS2.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Unreal_Tournament_PS2.jpg/500px-Unreal_Tournament_PS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Christiano Betta",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Unreal_Tournament_PS2.jpg"
+      },
       "value": 1999,
       "unit": "year",
       "name": {
@@ -13992,7 +15963,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q870981",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nintendo%2064%20%2826017220053%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Nintendo_64_%2826017220053%29.jpg/500px-Nintendo_64_%2826017220053%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Frédéric BISSON from Rouen, France",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Nintendo_64_(26017220053).jpg"
+      },
       "value": 1999,
       "unit": "year",
       "name": {
@@ -14033,7 +16010,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q1043534",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Galaga.jpg?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Galaga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "George Hotelling from Plymouth, MI, United States",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Galaga.jpg"
+      },
       "value": 1981,
       "unit": "year",
       "name": {
@@ -14074,7 +16057,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q142908",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TuxRacerScreenshot.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/TuxRacerScreenshot.jpg/500px-TuxRacerScreenshot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "license": "GPL",
+        "licenseUrl": "http://www.gnu.org/licenses/gpl.html",
+        "source": "https://commons.wikimedia.org/wiki/File:TuxRacerScreenshot.jpg"
+      },
       "value": 2000,
       "unit": "year",
       "name": {
@@ -14115,7 +16103,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q149998",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nintendo%2064%20with%20Paper%20Mario.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Nintendo_64_with_Paper_Mario.jpg/500px-Nintendo_64_with_Paper_Mario.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Bryan Ochala",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Nintendo_64_with_Paper_Mario.jpg"
+      },
       "value": 2000,
       "unit": "year",
       "name": {
@@ -14156,7 +16150,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q524267",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vglfrogger.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Vglfrogger.jpg/500px-Vglfrogger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Ian Muttoo from Mississauga, Canada",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Vglfrogger.jpg"
+      },
       "value": 1981,
       "unit": "year",
       "name": {
@@ -14197,7 +16197,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q569624",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MapleStory.svg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/MapleStory.svg/500px-MapleStory.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Nexon",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:MapleStory.svg"
+      },
       "value": 2003,
       "unit": "year",
       "name": {
@@ -14238,7 +16244,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q1133204",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Street%20Fighter%20II%20arcade-20061027.jpg?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Street_Fighter_II_arcade-20061027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "Jonathan Sloan from Burnaby, Canada",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Street_Fighter_II_arcade-20061027.jpg"
+      },
       "value": 1991,
       "unit": "year",
       "name": {
@@ -14279,7 +16291,11 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q1767176",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Simcity2000%20advance%20cartridge%20by%20zeartul.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Simcity2000_advance_cartridge_by_zeartul.jpg/500px-Simcity2000_advance_cartridge_by_zeartul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Simcity2000_advance_cartridge_by_zeartul.jpg"
+      },
       "value": 1993,
       "unit": "year",
       "name": {
@@ -14320,7 +16336,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q15613717",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/H.R.%20Giger%E2%80%99s%20Xenomorph%20%28Ank%20Kumar%20%29%2004.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/H.R._Giger%E2%80%99s_Xenomorph_%28Ank_Kumar_%29_04.jpg/500px-H.R._Giger%E2%80%99s_Xenomorph_%28Ank_Kumar_%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Ank Kumar",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:H.R._Giger%E2%80%99s_Xenomorph_(Ank_Kumar_)_04.jpg"
+      },
       "value": 2014,
       "unit": "year",
       "name": {
@@ -14361,7 +16383,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q66439292",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Need%20for%20Speed%20Heat%20Car%20Gamescom%202019%20%2848605686406%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Need_for_Speed_Heat_Car_Gamescom_2019_%2848605686406%29.jpg/500px-Need_for_Speed_Heat_Car_Gamescom_2019_%2848605686406%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "dronepicr",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Need_for_Speed_Heat_Car_Gamescom_2019_(48605686406).jpg"
+      },
       "value": 2019,
       "unit": "year",
       "name": {
@@ -14402,7 +16430,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q88759",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bubble%20Bobble%20arcade%20machine.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Bubble_Bobble_arcade_machine.jpg/500px-Bubble_Bobble_arcade_machine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Alan Bruce",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bubble_Bobble_arcade_machine.jpg"
+      },
       "value": 1986,
       "unit": "year",
       "name": {
@@ -14443,7 +16477,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q580202",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Syberia%2002%20-%20Oscar.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Syberia_02_-_Oscar.jpg/500px-Syberia_02_-_Oscar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Anuman Interactive",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Syberia_02_-_Oscar.jpg"
+      },
       "value": 2002,
       "unit": "year",
       "name": {
@@ -14484,7 +16524,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q977919",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Atari%20E.T.%20the%20Extra-Terrestrial%20Cartridge.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Atari_E.T._the_Extra-Terrestrial_Cartridge.png/500px-Atari_E.T._the_Extra-Terrestrial_Cartridge.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Miguelon756-5303",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Atari_E.T._the_Extra-Terrestrial_Cartridge.png"
+      },
       "value": 1982,
       "unit": "year",
       "name": {
@@ -14525,7 +16571,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q1145336",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/E3%202006%20Dead%20Rising%20booth.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/E3_2006_Dead_Rising_booth.jpg/500px-E3_2006_Dead_Rising_booth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Pop Culture Geek",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:E3_2006_Dead_Rising_booth.jpg"
+      },
       "value": 2006,
       "unit": "year",
       "name": {
@@ -14566,7 +16618,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q1322480",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Phoenix%20Wright%20in%20Phoenix%20Wright%20Ace%20Attorney.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Phoenix_Wright_in_Phoenix_Wright_Ace_Attorney.png/500px-Phoenix_Wright_in_Phoenix_Wright_Ace_Attorney.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Capcom France",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Phoenix_Wright_in_Phoenix_Wright_Ace_Attorney.png"
+      },
       "value": 2001,
       "unit": "year",
       "name": {
@@ -14607,7 +16665,14 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q23895358",
       "emoji": "🎮",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20Slither.io-2024.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Logo_of_Slither.io-2024.png/500px-Logo_of_Slither.io-2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Le petit serpent de Slither.io",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Logo_of_Slither.io-2024.png"
+      },
       "value": 2016,
       "unit": "year",
       "name": {
@@ -14648,7 +16713,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q47703",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Godfather%20logo.svg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Godfather_logo.svg/500px-Godfather_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Paramount Pictures",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Godfather_logo.svg"
+      },
       "value": 1972,
       "unit": "year",
       "name": {
@@ -14689,7 +16760,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q24871",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avatar%20Flight%20of%20Passage%20%2833825582954%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Avatar_Flight_of_Passage_%2833825582954%29.jpg/500px-Avatar_Flight_of_Passage_%2833825582954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Theme Park Tourist",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Avatar_Flight_of_Passage_(33825582954).jpg"
+      },
       "value": 2009,
       "unit": "year",
       "name": {
@@ -14730,7 +16807,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q83495",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The.Matrix.glmatrix.1.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/The.Matrix.glmatrix.1.png/500px-The.Matrix.glmatrix.1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Jamie Zawinski (program); Church of emacs (screenshot)",
+        "license": "Attribution",
+        "source": "https://commons.wikimedia.org/wiki/File:The.Matrix.glmatrix.1.png"
+      },
       "value": 1999,
       "unit": "year",
       "name": {
@@ -14771,7 +16853,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q104123",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dortmund-Graffiti-IMG%206604.JPG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Dortmund-Graffiti-IMG_6604.JPG/500px-Dortmund-Graffiti-IMG_6604.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Mbdortmund",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Dortmund-Graffiti-IMG_6604.JPG"
+      },
       "value": 1994,
       "unit": "year",
       "name": {
@@ -14812,7 +16900,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q132689",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bergman%20%26%20Bogart%20Casablanca%20still.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Bergman_%26_Bogart_Casablanca_still.jpg/500px-Bergman_%26_Bogart_Casablanca_still.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Unknown authorUnknown author, distributed by: Warner Bros. Pictures",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Bergman_%26_Bogart_Casablanca_still.jpg"
+      },
       "value": 1942,
       "unit": "year",
       "name": {
@@ -14853,7 +16946,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q5890",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/V%20for%20Vendetta%20film.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/V_for_Vendetta_film.jpg/500px-V_for_Vendetta_film.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "PabloBM",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:V_for_Vendetta_film.jpg"
+      },
       "value": 2005,
       "unit": "year",
       "name": {
@@ -14894,7 +16993,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q2875",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clark%20Gable%20and%20Vivien%20Leigh%20in%20Gone%20with%20the%20Wind.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Clark_Gable_and_Vivien_Leigh_in_Gone_with_the_Wind.jpg/500px-Clark_Gable_and_Vivien_Leigh_in_Gone_with_the_Wind.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Selznick International Pictures",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Clark_Gable_and_Vivien_Leigh_in_Gone_with_the_Wind.jpg"
+      },
       "value": 1939,
       "unit": "year",
       "name": {
@@ -14935,7 +17039,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q25188",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/InceptionCast2July10.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/InceptionCast2July10.jpg/500px-InceptionCast2July10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Craig Grobler at http://www.theestablishingshot.com/",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:InceptionCast2July10.jpg"
+      },
       "value": 2010,
       "unit": "year",
       "name": {
@@ -14976,7 +17086,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q102244",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Potter%20wordmark.svg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Harry_Potter_wordmark.svg/500px-Harry_Potter_wordmark.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Self made.",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Harry_Potter_wordmark.svg"
+      },
       "value": 2002,
       "unit": "year",
       "name": {
@@ -15017,7 +17133,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q162729",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mel%20Gibson%20on%20the%20set%20of%20Braveheart%2C%201995.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Mel_Gibson_on_the_set_of_Braveheart%2C_1995.jpg/500px-Mel_Gibson_on_the_set_of_Braveheart%2C_1995.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Scott Neeson",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mel_Gibson_on_the_set_of_Braveheart,_1995.jpg"
+      },
       "value": 1995,
       "unit": "year",
       "name": {
@@ -15058,7 +17180,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q103474",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Photo%20A%20scene%20from%202001.%20A%20Space%20Odyssey%2C%20a%201968%20film%20directed%20by%20Stanley%20Kubrick%201968%20-%20Touring%20Club%20Italiano%2004%200826.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Photo_A_scene_from_2001._A_Space_Odyssey%2C_a_1968_film_directed_by_Stanley_Kubrick_1968_-_Touring_Club_Italiano_04_0826.jpg/500px-Photo_A_scene_from_2001._A_Space_Odyssey%2C_a_1968_film_directed_by_Stanley_Kubrick_1968_-_Touring_Club_Italiano_04_0826.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Unknown authorUnknown author",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Photo_A_scene_from_2001._A_Space_Odyssey,_a_1968_film_directed_by_Stanley_Kubrick_1968_-_Touring_Club_Italiano_04_0826.jpg"
+      },
       "value": 1968,
       "unit": "year",
       "name": {
@@ -15099,7 +17227,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q24815",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Citizen%20Kane%20poster%2C%201941%20%28Style%20B%2C%20unrestored%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/500px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "William Rose",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Citizen_Kane_poster,_1941_(Style_B,_unrestored).jpg"
+      },
       "value": 1941,
       "unit": "year",
       "name": {
@@ -15140,7 +17273,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q182692",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20law%20keven%20-%20Apocalypse%20Now%5E.......minus%20the%20Helicopters...jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Flickr_-_law_keven_-_Apocalypse_Now%5E.......minus_the_Helicopters...jpg/500px-Flickr_-_law_keven_-_Apocalypse_Now%5E.......minus_the_Helicopters...jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Keven Law from Los Angeles, USA",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_law_keven_-_Apocalypse_Now%5E.......minus_the_Helicopters...jpg"
+      },
       "value": 1979,
       "unit": "year",
       "name": {
@@ -15181,7 +17320,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q105031",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Home%20Alone%20House.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Home_Alone_House.jpg/500px-Home_Alone_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "anarchosyn",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Home_Alone_House.jpg"
+      },
       "value": 1990,
       "unit": "year",
       "name": {
@@ -15222,7 +17367,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q109116",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Great%20Dictator%20still%20cropped%20%28high%20quality%20version%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/The_Great_Dictator_still_cropped_%28high_quality_version%29.jpg/500px-The_Great_Dictator_still_cropped_%28high_quality_version%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "United Artists",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Great_Dictator_still_cropped_(high_quality_version).jpg"
+      },
       "value": 1940,
       "unit": "year",
       "name": {
@@ -15263,7 +17413,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q172975",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Departed%20logo.svg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/The_Departed_logo.svg/500px-The_Departed_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Original: Warner Bros. Pictures Vectorization: Logovectorizer",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Departed_logo.svg"
+      },
       "value": 2006,
       "unit": "year",
       "name": {
@@ -15304,7 +17460,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q174284",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Indy%27s%20Arc.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Indy%27s_Arc.jpg/500px-Indy%27s_Arc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Michael Neel from Knoxville, TN, USA",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Indy%27s_Arc.jpg"
+      },
       "value": 1981,
       "unit": "year",
       "name": {
@@ -15345,7 +17507,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q228186",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter%20OToole%20in%20Lawrence%20of%20Arabia.jpg?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Peter_OToole_in_Lawrence_of_Arabia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "Trailer screenshot",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Peter_OToole_in_Lawrence_of_Arabia.jpg"
+      },
       "value": 1962,
       "unit": "year",
       "name": {
@@ -15386,7 +17553,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q160060",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20king%27s%20speech.svg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/The_king%27s_speech.svg/500px-The_king%27s_speech.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Diseñadores publicitarios",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:The_king%27s_speech.svg"
+      },
       "value": 2010,
       "unit": "year",
       "name": {
@@ -15427,7 +17600,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q163038",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Psycho%20%281960%29%20theatrical%20poster%20%28retouched%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg/500px-Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Designed by Macario Gómez Quibus. \"© Shamley Productions, Inc.\"",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Psycho_(1960)_theatrical_poster_(retouched).jpg"
+      },
       "value": 1960,
       "unit": "year",
       "name": {
@@ -15468,7 +17646,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q171669",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Goldman%20bo.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Goldman_bo.jpg/500px-Goldman_bo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Maryemark",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Goldman_bo.jpg"
+      },
       "value": 1975,
       "unit": "year",
       "name": {
@@ -15509,7 +17692,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q180098",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Photo%20An%20iconic%20scene%20from%20Ben-Hur%2C%20a%201959%20film%20directed%20by%20William%20Wyler%201959%20-%20Touring%20Club%20Italiano%2004%200849.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Photo_An_iconic_scene_from_Ben-Hur%2C_a_1959_film_directed_by_William_Wyler_1959_-_Touring_Club_Italiano_04_0849.jpg/500px-Photo_An_iconic_scene_from_Ben-Hur%2C_a_1959_film_directed_by_William_Wyler_1959_-_Touring_Club_Italiano_04_0849.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Unknown authorUnknown author",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Photo_An_iconic_scene_from_Ben-Hur,_a_1959_film_directed_by_William_Wyler_1959_-_Touring_Club_Italiano_04_0849.jpg"
+      },
       "value": 1959,
       "unit": "year",
       "name": {
@@ -15550,7 +17739,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q2579784",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Warner%20Brothers%20studio%20tour%20%2813084977233%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Warner_Brothers_studio_tour_%2813084977233%29.jpg/500px-Warner_Brothers_studio_tour_%2813084977233%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Alan Light",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Warner_Brothers_studio_tour_(13084977233).jpg"
+      },
       "value": 2013,
       "unit": "year",
       "name": {
@@ -15591,7 +17786,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q2345",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/12%20Angry%20Men%20%281957%20film%20poster%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/12_Angry_Men_%281957_film_poster%29.jpg/500px-12_Angry_Men_%281957_film_poster%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Illustrator unknown; \"Copyright 1957 United Artists Corp.\"",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:12_Angry_Men_(1957_film_poster).jpg"
+      },
       "value": 1957,
       "unit": "year",
       "name": {
@@ -15632,7 +17832,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q102754",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80%20%D0%9D%D0%BE%D1%83%20%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%201962%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD%20%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8%205.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%9D%D0%BE%D1%83_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC_1962_%D1%81%D0%BA%D1%80%D0%B8%D0%BD_%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8_5.jpg/500px-%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%9D%D0%BE%D1%83_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC_1962_%D1%81%D0%BA%D1%80%D0%B8%D0%BD_%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Кинокомпания «United Artists»",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%9D%D0%BE%D1%83_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC_1962_%D1%81%D0%BA%D1%80%D0%B8%D0%BD_%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8_5.jpg"
+      },
       "value": 1962,
       "unit": "year",
       "name": {
@@ -15673,7 +17878,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q270470",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Pan%20disney.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Peter_Pan_disney.jpg/500px-Peter_Pan_disney.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Walt Disney",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Peter_Pan_disney.jpg"
+      },
       "value": 1953,
       "unit": "year",
       "name": {
@@ -15714,7 +17924,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q1392744",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20DiCaprio%202010.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Leonardo_DiCaprio_2010.jpg/500px-Leonardo_DiCaprio_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Siebbi",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Leonardo_DiCaprio_2010.jpg"
+      },
       "value": 2013,
       "unit": "year",
       "name": {
@@ -15755,7 +17971,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q186341",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanley%20Kubrick%20The%20Exhibition%20-%20TIFF%20-%20Shinning%20%2816215970687%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stanley_Kubrick_The_Exhibition_-_TIFF_-_Shinning_%2816215970687%29.jpg/500px-Stanley_Kubrick_The_Exhibition_-_TIFF_-_Shinning_%2816215970687%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Carlos Pacheco from Toronto, Canada",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Stanley_Kubrick_The_Exhibition_-_TIFF_-_Shinning_(16215970687).jpg"
+      },
       "value": 1980,
       "unit": "year",
       "name": {
@@ -15796,7 +18018,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q186587",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%87anakkale%20kolaj.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%C3%87anakkale_kolaj.jpg/500px-%C3%87anakkale_kolaj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "1- Nedim Ardoğa 2- Edal Anton Lefterov 3- Panoramio upload bot 4- Julian Nyča 5…",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:%C3%87anakkale_kolaj.jpg"
+      },
       "value": 2004,
       "unit": "year",
       "name": {
@@ -15837,7 +18065,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q842306",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saludos%20Amigos%203.jpg?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Saludos_Amigos_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "The Walt Disney Company",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Saludos_Amigos_3.jpg"
+      },
       "value": 1942,
       "unit": "year",
       "name": {
@@ -15878,7 +18111,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q13255497",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Birdman%20logo.png?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Birdman_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Unknown authorUnknown author",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Birdman_logo.png"
+      },
       "value": 2014,
       "unit": "year",
       "name": {
@@ -15919,7 +18158,14 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q484675",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leon%20the%20Professional.png?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Leon_the_Professional.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Machete kills",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Leon_the_Professional.png"
+      },
       "value": 1994,
       "unit": "year",
       "name": {
@@ -15960,7 +18206,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q189540",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Seven%20Samurai%20poster2.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Seven_Samurai_poster2.jpg/500px-Seven_Samurai_poster2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Copyright © 1954 by en:Toho Studios.",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Seven_Samurai_poster2.jpg"
+      },
       "value": 1954,
       "unit": "year",
       "name": {
@@ -16001,7 +18252,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q212965",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Hunger%20Games%20%28Liongate%20films%29%20logo.svg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Hunger_Games_%28Liongate_films%29_logo.svg/500px-The_Hunger_Games_%28Liongate_films%29_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Lionsgate Studios",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Hunger_Games_(Liongate_films)_logo.svg"
+      },
       "value": 2012,
       "unit": "year",
       "name": {
@@ -16042,7 +18299,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q105702",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Strangelove%20-%20General%20Buck%20Turgidson.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Dr._Strangelove_-_General_Buck_Turgidson.png/500px-Dr._Strangelove_-_General_Buck_Turgidson.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Directed by Stanley Kubrick, distributed by Columbia Pictures",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Dr._Strangelove_-_General_Buck_Turgidson.png"
+      },
       "value": 1964,
       "unit": "year",
       "name": {
@@ -16083,7 +18345,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q109331",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Delorean5.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Delorean5.jpg/500px-Delorean5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "ADC",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Delorean5.jpg"
+      },
       "value": 1989,
       "unit": "year",
       "name": {
@@ -16124,7 +18391,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q181086",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clockwork%20Orange%20Trailer%20poster.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Clockwork_Orange_Trailer_poster.png/500px-Clockwork_Orange_Trailer_poster.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Bill Gold, Stanley Kubrick.",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Clockwork_Orange_Trailer_poster.png"
+      },
       "value": 1971,
       "unit": "year",
       "name": {
@@ -16165,7 +18437,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q189505",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaws%20movie%20poster.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Jaws_movie_poster.png/500px-Jaws_movie_poster.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Roger Kastel",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Jaws_movie_poster.png"
+      },
       "value": 1975,
       "unit": "year",
       "name": {
@@ -16206,7 +18483,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q19347291",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deadpool%2C%20Georgia%20Viaduct%2C%20Vancouver%2C%20April%206%202015%20-%203.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Deadpool%2C_Georgia_Viaduct%2C_Vancouver%2C_April_6_2015_-_3.jpg/500px-Deadpool%2C_Georgia_Viaduct%2C_Vancouver%2C_April_6_2015_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "https://www.flickr.com/people/49347467@N05/",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Deadpool,_Georgia_Viaduct,_Vancouver,_April_6_2015_-_3.jpg"
+      },
       "value": 2016,
       "unit": "year",
       "name": {
@@ -16247,7 +18530,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q190525",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Memento.svg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Memento.svg/500px-Memento.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Diseñadores publicitarios",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Memento.svg"
+      },
       "value": 2000,
       "unit": "year",
       "name": {
@@ -16288,7 +18577,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q190956",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amadeus%20poster%20logo.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Amadeus_poster_logo.png/500px-Amadeus_poster_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Peter Sís; Orion Pictures",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Amadeus_poster_logo.png"
+      },
       "value": 1984,
       "unit": "year",
       "name": {
@@ -16329,7 +18624,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q60072",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Sound%20of%20Music%20Christopher%20Plummer%20and%20Julie%20Andrews.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/The_Sound_of_Music_Christopher_Plummer_and_Julie_Andrews.jpg/500px-The_Sound_of_Music_Christopher_Plummer_and_Julie_Andrews.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "20th Century Fox",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Sound_of_Music_Christopher_Plummer_and_Julie_Andrews.jpg"
+      },
       "value": 1965,
       "unit": "year",
       "name": {
@@ -16370,7 +18670,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q152350",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Battleship%20Potemkin-Ship%20portrait.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Battleship_Potemkin-Ship_portrait.jpg/500px-Battleship_Potemkin-Ship_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "SM Eisenstein",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Battleship_Potemkin-Ship_portrait.jpg"
+      },
       "value": 1925,
       "unit": "year",
       "name": {
@@ -16411,7 +18716,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q184255",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maggie%27%20boxing%20gloves%20%28Million%20dollar%20baby%29%20Warner%20Bros.%20Studio%20Tour%20Hollywood.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Maggie%27_boxing_gloves_%28Million_dollar_baby%29_Warner_Bros._Studio_Tour_Hollywood.jpg/500px-Maggie%27_boxing_gloves_%28Million_dollar_baby%29_Warner_Bros._Studio_Tour_Hollywood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Benoît Prieur",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Maggie%27_boxing_gloves_(Million_dollar_baby)_Warner_Bros._Studio_Tour_Hollywood.jpg"
+      },
       "value": 2004,
       "unit": "year",
       "name": {
@@ -16452,7 +18763,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q188718",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Bridge%20on%20the%20River%20Kwai%20%28trailer%20screenshot%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/The_Bridge_on_the_River_Kwai_%28trailer_screenshot%29.jpg/500px-The_Bridge_on_the_River_Kwai_%28trailer_screenshot%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Columbia Pictures",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Bridge_on_the_River_Kwai_(trailer_screenshot).jpg"
+      },
       "value": 1957,
       "unit": "year",
       "name": {
@@ -16493,7 +18809,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q18407657",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brian-lynch-premiere-captain-america-civil-war-01.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Brian-lynch-premiere-captain-america-civil-war-01.jpg/500px-Brian-lynch-premiere-captain-america-civil-war-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Oliviadelgado",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Brian-lynch-premiere-captain-america-civil-war-01.jpg"
+      },
       "value": 2016,
       "unit": "year",
       "name": {
@@ -16534,7 +18856,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q20502242",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosplayer%20in%20Wonder%20Woman%20costume%20at%20Igromir%202016%20%2829756516910%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Cosplayer_in_Wonder_Woman_costume_at_Igromir_2016_%2829756516910%29.jpg/500px-Cosplayer_in_Wonder_Woman_costume_at_Igromir_2016_%2829756516910%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Sergey Galyonkin from Raleigh, USA",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cosplayer_in_Wonder_Woman_costume_at_Igromir_2016_(29756516910).jpg"
+      },
       "value": 2017,
       "unit": "year",
       "name": {
@@ -16575,7 +18903,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q55436290",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbie%20and%20Ken%20costumes%20from%20Barbie%20movie%20at%20Warner%20Bros.%20Studio%20Tour%20Hollywood.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Barbie_and_Ken_costumes_from_Barbie_movie_at_Warner_Bros._Studio_Tour_Hollywood.jpg/500px-Barbie_and_Ken_costumes_from_Barbie_movie_at_Warner_Bros._Studio_Tour_Hollywood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Dam0812",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Barbie_and_Ken_costumes_from_Barbie_movie_at_Warner_Bros._Studio_Tour_Hollywood.jpg"
+      },
       "value": 2023,
       "unit": "year",
       "name": {
@@ -16616,7 +18950,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q39571",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tonari%20no%20Totoro%20title%20%28green%29.jpg?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tonari_no_Totoro_title_%28green%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Studio Ghibli",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Tonari_no_Totoro_title_(green).jpg"
+      },
       "value": 1988,
       "unit": "year",
       "name": {
@@ -16657,7 +18997,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q3604746",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Estrena%20en%20catal%C3%A0%20d%27Avatar%20El%20sentit%20de%20l%27aigua%203.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Estrena_en_catal%C3%A0_d%27Avatar_El_sentit_de_l%27aigua_3.jpg/500px-Estrena_en_catal%C3%A0_d%27Avatar_El_sentit_de_l%27aigua_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Generalitat de Catalunya - Departament de Cultura",
+        "license": "Attribution",
+        "source": "https://commons.wikimedia.org/wiki/File:Estrena_en_catal%C3%A0_d%27Avatar_El_sentit_de_l%27aigua_3.jpg"
+      },
       "value": 2022,
       "unit": "year",
       "name": {
@@ -16698,7 +19043,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q201293",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hepburn%20Peck%201953.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Hepburn_Peck_1953.jpg/500px-Hepburn_Peck_1953.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Paramount Pictures",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Hepburn_Peck_1953.jpg"
+      },
       "value": 1953,
       "unit": "year",
       "name": {
@@ -16739,7 +19089,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q204191",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20Stewart%20It%27s%20a%20Wonderful%20Life%20Still.jpg?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/James_Stewart_It%27s_a_Wonderful_Life_Still.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "Liberty Films",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:James_Stewart_It%27s_a_Wonderful_Life_Still.jpg"
+      },
       "value": 1946,
       "unit": "year",
       "name": {
@@ -16780,7 +19135,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q20456",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20Costner%20-Dances%20with%20Wolves.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Kevin_Costner_-Dances_with_Wolves.jpg/500px-Kevin_Costner_-Dances_with_Wolves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Atula Siriwardane",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Kevin_Costner_-Dances_with_Wolves.jpg"
+      },
       "value": 1990,
       "unit": "year",
       "name": {
@@ -16821,7 +19181,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q183066",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20hurt%20locker.svg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/The_hurt_locker.svg/500px-The_hurt_locker.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Diseñadores publicitarios",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:The_hurt_locker.svg"
+      },
       "value": 2008,
       "unit": "year",
       "name": {
@@ -16862,7 +19228,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q151599",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Horst%20von%20Harbou%20-%20Metropolis%20set%20photograph%2005.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Horst_von_Harbou_-_Metropolis_set_photograph_05.jpg/500px-Horst_von_Harbou_-_Metropolis_set_photograph_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Horst von Harbou",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Horst_von_Harbou_-_Metropolis_set_photograph_05.jpg"
+      },
       "value": 1927,
       "unit": "year",
       "name": {
@@ -16903,7 +19274,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q171453",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Transformers%20Cars.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Transformers_Cars.jpg/500px-Transformers_Cars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "My own montage for other pictures in Wikipedia. Original images from RichN, Kev…",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Transformers_Cars.jpg"
+      },
       "value": 2007,
       "unit": "year",
       "name": {
@@ -16944,7 +19321,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q183063",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Haley%20Joel%20Osment%20in%202001.jpg?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Haley_Joel_Osment_in_2001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": {
+        "author": "Thomas from Vienna, Austria",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Haley_Joel_Osment_in_2001.jpg"
+      },
       "value": 1999,
       "unit": "year",
       "name": {
@@ -16985,7 +19368,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q200299",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Davis%20and%20Gary%20Merrill%20in%20All%20About%20Eve.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Bette_Davis_and_Gary_Merrill_in_All_About_Eve.jpg/500px-Bette_Davis_and_Gary_Merrill_in_All_About_Eve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Warner Bros. Studio",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Bette_Davis_and_Gary_Merrill_in_All_About_Eve.jpg"
+      },
       "value": 1950,
       "unit": "year",
       "name": {
@@ -17026,7 +19414,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q108297",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spartacus%20-%201960%20-%20poster.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Spartacus_-_1960_-_poster.png/500px-Spartacus_-_1960_-_poster.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Reynold Brown",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Spartacus_-_1960_-_poster.png"
+      },
       "value": 1960,
       "unit": "year",
       "name": {
@@ -17067,7 +19460,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q229808",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20amazing%20Spider-Man.svg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/The_amazing_Spider-Man.svg/500px-The_amazing_Spider-Man.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Diseñadores publicitarios",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:The_amazing_Spider-Man.svg"
+      },
       "value": 2012,
       "unit": "year",
       "name": {
@@ -17108,7 +19507,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q186323",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Borat%20in%20Cologne.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Borat_in_Cologne.jpg/500px-Borat_in_Cologne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "User Skssoft on de.wikipedia; Michael Bulcik / SKS Soft GmbH Düsseldorf",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "source": "https://commons.wikimedia.org/wiki/File:Borat_in_Cologne.jpg"
+      },
       "value": 2006,
       "unit": "year",
       "name": {
@@ -17149,7 +19554,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q218235",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dragon%20Con%202016%20Charlie%20and%20the%20Chocolate%20Factory%20cosplayers.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Dragon_Con_2016_Charlie_and_the_Chocolate_Factory_cosplayers.jpg/500px-Dragon_Con_2016_Charlie_and_the_Chocolate_Factory_cosplayers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Terry Robinson",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dragon_Con_2016_Charlie_and_the_Chocolate_Factory_cosplayers.jpg"
+      },
       "value": 2005,
       "unit": "year",
       "name": {
@@ -17190,7 +19601,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q172837",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Photo%20Gino%20Saltamerenda%2C%20Lamberto%20Maggiorani%20and%20other%20actors%20in%20a%20scene%20fromLadri%20di%20biciclette%2C%20a%201948%20film%20directed%20by%20Vittorio%20De%20Sica.%201948%20-%20Touring%20Club%20Italiano%2004%201379.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Photo_Gino_Saltamerenda%2C_Lamberto_Maggiorani_and_other_actors_in_a_scene_fromLadri_di_biciclette%2C_a_1948_film_directed_by_Vittorio_De_Sica._1948_-_Touring_Club_Italiano_04_1379.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Unknown authorUnknown author",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Photo_Gino_Saltamerenda,_Lamberto_Maggiorani_and_other_actors_in_a_scene_fromLadri_di_biciclette,_a_1948_film_directed_by_Vittorio_De_Sica._1948_-_Touring_Club_Italiano_04_1379.jpg"
+      },
       "value": 1948,
       "unit": "year",
       "name": {
@@ -17231,7 +19648,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q18199330",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fantastic%20Beasts%20%26%20Where%20to%20Find%20Them%20Cast%20%28Cropped%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Fantastic_Beasts_%26_Where_to_Find_Them_Cast_%28Cropped%29.jpg/500px-Fantastic_Beasts_%26_Where_to_Find_Them_Cast_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Gage Skidmore",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Fantastic_Beasts_%26_Where_to_Find_Them_Cast_(Cropped).jpg"
+      },
       "value": 2016,
       "unit": "year",
       "name": {
@@ -17272,7 +19695,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q18604504",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sebevra%C5%BEedn%C3%BD%20odd%C3%ADl%20v%20kin%C4%9B%20Imax.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Sebevra%C5%BEedn%C3%BD_odd%C3%ADl_v_kin%C4%9B_Imax.jpg/500px-Sebevra%C5%BEedn%C3%BD_odd%C3%ADl_v_kin%C4%9B_Imax.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "SimcaCZE",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sebevra%C5%BEedn%C3%BD_odd%C3%ADl_v_kin%C4%9B_Imax.jpg"
+      },
       "value": 2016,
       "unit": "year",
       "name": {
@@ -17313,7 +19742,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q20382729",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arrival%202016%20Film.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Arrival_2016_Film.png/500px-Arrival_2016_Film.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Paramount Pictures",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Arrival_2016_Film.png"
+      },
       "value": 2016,
       "unit": "year",
       "name": {
@@ -17354,7 +19789,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q202548",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vertigo%201958%20trailer%20Stewart%20looking.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Vertigo_1958_trailer_Stewart_looking.jpg/500px-Vertigo_1958_trailer_Stewart_looking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Alfred Hitchcock",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Vertigo_1958_trailer_Stewart_looking.jpg"
+      },
       "value": 1958,
       "unit": "year",
       "name": {
@@ -17395,7 +19835,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q76479",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clint%20Eastwood%20-%201960s.JPG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Clint_Eastwood_-_1960s.JPG/500px-Clint_Eastwood_-_1960s.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "movie studio",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Clint_Eastwood_-_1960s.JPG"
+      },
       "value": 1964,
       "unit": "year",
       "name": {
@@ -17436,7 +19881,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q116852",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Batman%20cossplay.JPG?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Batman_cossplay.JPG/500px-Batman_cossplay.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Egon Eagle",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Batman_cossplay.JPG"
+      },
       "value": 1989,
       "unit": "year",
       "name": {
@@ -17477,7 +19928,14 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q175038",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/12singes.PNG?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/12singes.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Wacky25",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:12singes.PNG"
+      },
       "value": 1995,
       "unit": "year",
       "name": {
@@ -17518,7 +19976,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q182373",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Image%20of%20Mauna%20Kea%20from%20the%20Hilo%20suburbs.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Image_of_Mauna_Kea_from_the_Hilo_suburbs.jpg/500px-Image_of_Mauna_Kea_from_the_Hilo_suburbs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Maplemoths",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Image_of_Mauna_Kea_from_the_Hilo_suburbs.jpg"
+      },
       "value": 2008,
       "unit": "year",
       "name": {
@@ -17559,7 +20023,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q192686",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prometheus.svg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Prometheus.svg/500px-Prometheus.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Diseñadores publicitarios",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Prometheus.svg"
+      },
       "value": 2012,
       "unit": "year",
       "name": {
@@ -17600,7 +20070,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q212775",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tobu%20World%20Square%20Forbidden%20City%20Last%20Emperor%201.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Tobu_World_Square_Forbidden_City_Last_Emperor_1.jpg/500px-Tobu_World_Square_Forbidden_City_Last_Emperor_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Fred Hsu (Wikipedia:User:Fredhsu on en.wikipedia)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Tobu_World_Square_Forbidden_City_Last_Emperor_1.jpg"
+      },
       "value": 1987,
       "unit": "year",
       "name": {
@@ -17641,7 +20117,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q217189",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sjunde%20inseglet%201957.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Sjunde_inseglet_1957.jpg/500px-Sjunde_inseglet_1957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Louis Hutch",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Sjunde_inseglet_1957.jpg"
+      },
       "value": 1957,
       "unit": "year",
       "name": {
@@ -17682,7 +20163,14 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q426828",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Donnie%20Darko%20logo.png?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Donnie_Darko_logo.png/500px-Donnie_Darko_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "DaftClub",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Donnie_Darko_logo.png"
+      },
       "value": 2001,
       "unit": "year",
       "name": {
@@ -17723,7 +20211,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q21935651",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dunkirk-Teaser-Poster-640x949.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Dunkirk-Teaser-Poster-640x949.jpg/500px-Dunkirk-Teaser-Poster-640x949.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Zadarkmc",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dunkirk-Teaser-Poster-640x949.jpg"
+      },
       "value": 2017,
       "unit": "year",
       "name": {
@@ -17764,7 +20258,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q22998395",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris%20Hardwick%20%26%20Jason%20Momoa%20%2835368589944%29%20%28cropped%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Chris_Hardwick_%26_Jason_Momoa_%2835368589944%29_%28cropped%29.jpg/500px-Chris_Hardwick_%26_Jason_Momoa_%2835368589944%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Gage Skidmore from Peoria, AZ, United States of America",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chris_Hardwick_%26_Jason_Momoa_(35368589944)_(cropped).jpg"
+      },
       "value": 2018,
       "unit": "year",
       "name": {
@@ -17805,7 +20305,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q61117344",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Batman%202022%20film%20logo.png?width=640",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/The_Batman_2022_film_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Warner Bros. Pictures and DC Films",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Batman_2022_film_logo.png"
+      },
       "value": 2022,
       "unit": "year",
       "name": {
@@ -17846,7 +20352,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q34414",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rearwindow%20trailer%203.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Rearwindow_trailer_3.jpg/500px-Rearwindow_trailer_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Trailer screenshot",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Rearwindow_trailer_3.jpg"
+      },
       "value": 1954,
       "unit": "year",
       "name": {
@@ -17887,7 +20398,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q135465",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rashomon%20%281950%29%20Press%20Photo%20of%20Toshiro%20Mifune%20and%20Machiko%20Ky%C5%8D.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Rashomon_%281950%29_Press_Photo_of_Toshiro_Mifune_and_Machiko_Ky%C5%8D.jpg/500px-Rashomon_%281950%29_Press_Photo_of_Toshiro_Mifune_and_Machiko_Ky%C5%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Daiei Studios",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Rashomon_(1950)_Press_Photo_of_Toshiro_Mifune_and_Machiko_Ky%C5%8D.jpg"
+      },
       "value": 1950,
       "unit": "year",
       "name": {
@@ -17928,7 +20444,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q271830",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Third%20Man%20%281949%20American%20theatrical%20poster%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/The_Third_Man_%281949_American_theatrical_poster%29.jpg/500px-The_Third_Man_%281949_American_theatrical_poster%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "\"Copyright 1949 Selznick Releasing Organization, Inc. Country of Origin U.S.A.\"",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Third_Man_(1949_American_theatrical_poster).jpg"
+      },
       "value": 1949,
       "unit": "year",
       "name": {
@@ -17969,7 +20490,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q152857",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Der%20untergang.svg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Der_untergang.svg/500px-Der_untergang.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Constantin Film",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Der_untergang.svg"
+      },
       "value": 2004,
       "unit": "year",
       "name": {
@@ -18010,7 +20537,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q274167",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Exorcist%20steps.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Exorcist_steps.jpg/500px-Exorcist_steps.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "SDC at English Wikipedia",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Exorcist_steps.jpg"
+      },
       "value": 1973,
       "unit": "year",
       "name": {
@@ -18051,7 +20583,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q168154",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jason%20Robards-1968-1.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Jason_Robards-1968-1.jpg/500px-Jason_Robards-1968-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Studio",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Jason_Robards-1968-1.jpg"
+      },
       "value": 1968,
       "unit": "year",
       "name": {
@@ -18092,7 +20629,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q15648198",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Damien%20Chazelle%20%2812186671286%29.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Damien_Chazelle_%2812186671286%29.jpg/500px-Damien_Chazelle_%2812186671286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "PunkToad from oakland, us",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Damien_Chazelle_(12186671286).jpg"
+      },
       "value": 2014,
       "unit": "year",
       "name": {
@@ -18133,7 +20676,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q192115",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sincity-logo.svg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sincity-logo.svg/500px-Sincity-logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageFit": "contain",
+      "imageCredit": {
+        "author": "Sin City (Film)",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Sincity-logo.svg"
+      },
       "value": 2005,
       "unit": "year",
       "name": {
@@ -18174,7 +20723,13 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q25136757",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Call%20Me%20By%20Your%20Name%20Berlinale%208609%208610.jpg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Call_Me_By_Your_Name_Berlinale_8609_8610.jpg/500px-Call_Me_By_Your_Name_Berlinale_8609_8610.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "Franz Richter (User:FRZ)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Call_Me_By_Your_Name_Berlinale_8609_8610.jpg"
+      },
       "value": 2017,
       "unit": "year",
       "name": {
@@ -18215,7 +20770,12 @@ window.GAME_DECKS = {
     {
       "id": "tl_Q204212",
       "emoji": "🎬",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rebecca%20%281939%20poster%29.jpeg?width=640",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Rebecca_%281939_poster%29.jpeg/500px-Rebecca_%281939_poster%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": {
+        "author": "\"© 1939 by United Artists Corporation.\"",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Rebecca_(1939_poster).jpeg"
+      },
       "value": 1940,
       "unit": "year",
       "name": {

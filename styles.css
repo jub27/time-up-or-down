@@ -320,6 +320,14 @@ html, body {
   transition: opacity 0.25s ease;
 }
 
+/* Logos and screenshots (imageFit: "contain" in data.js) are shown whole instead of cropped,
+   on a light plate: most logos are drawn for white backgrounds and vanish on the dark card */
+.item-photo.fit-contain {
+  object-fit: contain;
+  padding: 12px;
+  background: #f1f5f9;
+}
+
 .item-emoji {
   position: absolute;
   bottom: -10px;
@@ -334,6 +342,34 @@ html, body {
   place-items: center;
   font-size: 1.5rem;
   line-height: 1;
+}
+
+/* Image credit badge: links to the file page (author · license in its tooltip/label) */
+.photo-credit {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: rgba(15, 23, 42, 0.72);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: #e2e8f0;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 0.75rem;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 1;
+  text-decoration: none;
+  opacity: 0.75;
+  transition: opacity 0.15s ease;
+}
+
+.photo-credit:hover,
+.photo-credit:focus-visible {
+  opacity: 1;
 }
 
 .item-title {
@@ -645,6 +681,21 @@ html, body {
   white-space: nowrap;
 }
 
+.credits-corner {
+  position: fixed;
+  right: 16px;
+  bottom: 12px;
+  z-index: 20;
+  font-size: 0.72rem;
+  color: rgba(148, 163, 184, 0.7);
+  text-decoration: none;
+}
+
+.credits-corner:hover {
+  color: var(--text-main);
+  text-decoration: underline;
+}
+
 /* ==========================================================================
    MODALS (THEME SELECTOR & GAME OVER)
    ========================================================================== */
@@ -880,6 +931,12 @@ html, body {
   flex-shrink: 0;
 }
 
+.defeated-thumb.fit-contain {
+  object-fit: contain;
+  padding: 2px;
+  background: #f1f5f9;
+}
+
 .defeated-body {
   flex: 1;
   min-width: 0;
@@ -912,6 +969,32 @@ html, body {
   margin-top: 2px;
   font-size: 0.72rem;
   color: #94a3b8;
+}
+
+.defeated-credit {
+  display: block;
+  margin-top: 2px;
+  font-size: 0.68rem;
+  color: #94a3b8;
+  text-decoration: none;
+  word-break: break-word;
+}
+
+.defeated-credit:hover {
+  color: #e2e8f0;
+  text-decoration: underline;
+}
+
+.credits-link {
+  align-self: center;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-decoration: none;
+}
+
+.credits-link:hover {
+  color: var(--text-main);
+  text-decoration: underline;
 }
 
 .defeated-divider {
@@ -1145,7 +1228,8 @@ html, body {
     font-size: 0.95rem;
   }
 
-  .bottom-hint {
+  .bottom-hint,
+  .credits-corner {
     display: none;
   }
 
