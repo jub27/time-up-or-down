@@ -50,6 +50,7 @@
     waitingForNext: false,
     advanceTimer: null,
     usedIds: new Set(),
+    drawnRounds: 0, // right-hand cards drawn this run (the queue draws ahead of play)
     leftItem: null,
     rightItem: null,
     historyEmojis: [] // ['🟩', '🟩', '💥']
@@ -238,18 +239,36 @@
     }
   }
 
-  function pickWeightedCandidate(pool) {
-    // Give hand-curated historical/invention/brand items 2.5x weight so movies/games mix evenly with history & inventions
-    const weights = pool.map((it) =>
-      it.id.startsWith("tl_Q") ? 1 : 2.5
-    );
+  // Random pick where each entry's chance is proportional to its weight
+  function pickWeighted(list, weightOf) {
+    const weights = list.map(weightOf);
     const totalWeight = weights.reduce((acc, w) => acc + w, 0);
     let roll = Math.random() * totalWeight;
-    for (let i = 0; i < pool.length; i++) {
+    for (let i = 0; i < list.length; i++) {
       roll -= weights[i];
-      if (roll <= 0) return pool[i];
+      if (roll <= 0) return list[i];
     }
-    return pool[pool.length - 1];
+    return list[list.length - 1];
+  }
+
+  function pickWeightedCandidate(pool) {
+    // Give hand-curated historical/invention/brand items 2.5x weight so movies/games mix evenly with history & inventions
+    return pickWeighted(pool, (it) => (it.id.startsWith("tl_Q") ? 1 : 2.5));
+  }
+
+  // Difficulty curve: the chance of each year-gap tier per round. Round 1 uses the "easy" mix (wide gaps),
+  // then it slides toward the "hard" mix (close rivals) and stays there from HARDEST_ROUND on
+  const HARDEST_ROUND = 20;
+  const GAP_TIERS = [
+    { min: 1, max: 5, easy: 0, hard: 0.3 }, // nearly a coin flip
+    { min: 6, max: 15, easy: 0.1, hard: 0.35 },
+    { min: 16, max: 65, easy: 0.45, hard: 0.25 },
+    { min: 66, max: Infinity, easy: 0.45, hard: 0.1 } // across centuries
+  ];
+
+  function gapTierWeight(tier, round) {
+    const progress = Math.min((round - 1) / (HARDEST_ROUND - 1), 1);
+    return tier.easy + (tier.hard - tier.easy) * progress;
   }
 
   function rawDrawFromDeck(excludeItem) {
@@ -282,42 +301,25 @@
         filteredPool = bracketPool;
       }
     } else {
-      // Smart Era-Proximity Matchmaking relative to excludeItem.value (Year)
+      // Era-proximity matchmaking relative to excludeItem.value (year), harder as the run goes on.
+      // The queue draws ahead of play, so rounds are counted as their cards are drawn
+      state.drawnRounds += 1;
       const baseYear = excludeItem.value;
-      const roll = Math.random();
+      const tiers = GAP_TIERS.map((tier) => ({
+        weight: gapTierWeight(tier, state.drawnRounds),
+        pool: candidates.filter((it) => {
+          const diff = Math.abs(it.value - baseYear);
+          return diff >= tier.min && diff <= tier.max;
+        })
+      })).filter((tier) => tier.weight > 0 && tier.pool.length > 0);
 
-      let minDiff = 0;
-      let maxDiff = Infinity;
-
-      if (roll < 0.60) {
-        // 60% chance: Close Rival Era Match (1 to 15 years difference — super fun & tricky!)
-        minDiff = 1;
-        maxDiff = 15;
-      } else if (roll < 0.85) {
-        // 25% chance: Medium Era Shift (16 to 65 years difference — shifts across generations)
-        minDiff = 16;
-        maxDiff = 65;
+      if (tiers.length > 0) {
+        // Tiers with no cards left drop out and the rest share their chance
+        filteredPool = pickWeighted(tiers, (tier) => tier.weight).pool;
       } else {
-        // 15% chance: Time-Warp Wildcard (> 65 years jump across centuries)
-        minDiff = 66;
-        maxDiff = Infinity;
-      }
-
-      const tierPool = candidates.filter((it) => {
-        const diff = Math.abs(it.value - baseYear);
-        return diff >= minDiff && diff <= maxDiff;
-      });
-
-      if (tierPool.length >= 2) {
-        filteredPool = tierPool;
-      } else {
-        // Fallback: sort by year distance and pick from the closest 12 candidates (excluding exact 0 year diff when possible)
-        const sortedByClosest = [...candidates].sort((a, b) => {
-          const da = Math.abs(a.value - baseYear) || 9999;
-          const db = Math.abs(b.value - baseYear) || 9999;
-          return da - db;
-        });
-        filteredPool = sortedByClosest.slice(0, Math.min(12, sortedByClosest.length));
+        // Only same-year (or zero-chance) cards left: take any other year if possible
+        const otherYears = candidates.filter((it) => it.value !== baseYear);
+        filteredPool = otherYears.length > 0 ? otherYears : candidates;
       }
     }
 
@@ -403,6 +405,7 @@
     stopAutoAdvance();
     state.usedIds.clear();
     upcomingQueue.length = 0;
+    state.drawnRounds = 0;
     state.historyEmojis = [];
 
     state.leftItem = drawNextItem(null);
